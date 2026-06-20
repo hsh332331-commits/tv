@@ -225,7 +225,7 @@ function proxyRequest(req, res, targetUrl, extraHeaders, depth = 0, retryCount =
       const preBuffer = [];
       let preSize = 0;
       let preTimer = null;
-      const MIN_PREBUFFER = 1024 * 1024;
+      const MIN_PREBUFFER = 256 * 1024;
       const MAX_PREWAIT = 5000;
 
       function flushPrebuffer() {
@@ -474,6 +474,14 @@ server.listen(PORT, HOST, () => {
   console.log(`  الرابط: http://localhost:${PORT}`);
   console.log(`  القنوات: ${getChannelCount()}`);
   console.log('  اكتب Ctrl+C للإيقاف\n');
+
+  // Keepalive: self-ping every 10 minutes to prevent Render free tier from sleeping
+  setInterval(() => {
+    const req = http.get(`http://${HOST === '0.0.0.0' ? 'localhost' : HOST}:${PORT}/health`, (res) => {
+      res.resume();
+    });
+    req.on('error', () => {});
+  }, 10 * 60 * 1000);
 });
 
 function getChannelCount() {

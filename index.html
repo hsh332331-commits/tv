@@ -1403,7 +1403,7 @@ function playHls(idx, token, url, headers) {
     if (!isRetrying && data.type === Hls.ErrorTypes.NETWORK_ERROR && currentPlayer) {
       isRetrying = true;
       showStatus('خطأ مؤقت، إعادة محاولة التحميل...', true);
-      setTimeout(function() { if (token === playToken && currentPlayer) currentPlayer.startLoad(); isRetrying = false; }, 2500);
+      setTimeout(function() { if (token === playToken && currentPlayer) currentPlayer.startLoad(); isRetrying = false; }, 1500);
       return;
     }
     showStreamFailure(idx, data.type === Hls.ErrorTypes.MEDIA_ERROR ? 'خطأ ترميز أو توافق في الفيديو.' : 'خطأ في البث. الرابط قد يكون منتهياً أو محجوباً.');
@@ -1419,14 +1419,14 @@ function playTs(idx, token, url, headers) {
   currentPlayer = mpegts.createPlayer({ type: 'mse', url: proxyUrl(url, headers), isLive: true }, {
     enableWorker: true,
     enableStashBuffer: true,
-    stashInitialSize: 2048,
-    liveBufferLatencyChasing: false,
+    stashInitialSize: 512,
+    liveBufferLatencyChasing: true,
     lazyLoad: true,
-    lazyMaxLatency: 60,
+    lazyMaxLatency: 30,
     lazyReconnect: 3,
-    fixAudioTimestampGap: false,
+    fixAudioTimestampGap: true,
     offline: false,
-    waitForFullBuffer: true
+    waitForFullBuffer: false
   });
   currentPlayer.attachMediaElement(els.video);
 
@@ -1451,7 +1451,7 @@ function playTs(idx, token, url, headers) {
           try { currentPlayer.unload(); currentPlayer.load(); } catch(e) {}
         }
         isRetrying = false;
-      }, 2000);
+      }, 1000);
       return;
     }
     showStreamFailure(idx, 'خطأ في البث (' + errType + ')');
@@ -1461,7 +1461,7 @@ function playTs(idx, token, url, headers) {
     if (token !== playToken) return;
     if (!warmupStarted && stats && stats.speed && stats.speed > 0) {
       warmupChunks++;
-      if (warmupChunks > 3) {
+      if (warmupChunks > 2) {
         warmupStarted = true;
         if (warmupTimer) { clearTimeout(warmupTimer); warmupTimer = null; }
         hideStatus();
@@ -1475,7 +1475,7 @@ function playTs(idx, token, url, headers) {
     if (token !== playToken) return;
     warmupStarted = true;
     hideStatus();
-  }, 4000);
+  }, 3000);
 
   var p = currentPlayer.play();
   if (p && p.catch) p.catch(function() {});
