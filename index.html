@@ -1416,6 +1416,18 @@ function playTs(idx, token, url, headers) {
   var started = false;
   var buffTimer = null;
   var failTimer = null;
+  var reconnectTimer = null;
+
+  function reconnectStream() {
+    if (token !== playToken || !currentPlayer) return;
+    showStatus('إعادة الاتصال بالبث...', true);
+    try {
+      currentPlayer.unload();
+      currentPlayer.load();
+    } catch(e) {
+      showStreamFailure(idx, 'فشل إعادة الاتصال.');
+    }
+  }
 
   function startMseFallback() {
     if (triedMse || token !== playToken) return;
@@ -1439,7 +1451,12 @@ function playTs(idx, token, url, headers) {
       fixAudioTimestampGap: true
     });
     currentPlayer.attachMediaElement(els.video);
-    currentPlayer.on(mpegts.Events.LOADING_COMPLETE, function() { if (token === playToken) hideStatus(); });
+    currentPlayer.on(mpegts.Events.LOADING_COMPLETE, function() {
+      if (token !== playToken) return;
+      hideStatus();
+      if (reconnectTimer) clearTimeout(reconnectTimer);
+      reconnectTimer = setTimeout(reconnectStream, 2000);
+    });
     currentPlayer.on(mpegts.Events.RECOVERED_EARLY_EOF, function() { if (token === playToken) hideStatus(); });
     currentPlayer.on(mpegts.Events.ERROR, function(errType, errDetail) {
       if (token !== playToken) return;
