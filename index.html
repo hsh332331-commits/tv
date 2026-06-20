@@ -850,7 +850,7 @@ function filterChannels() {
     var qual = getQuality(ch.n);
     var st = getStreamType(ch.u);
     var hasH = ch.h && typeof ch.h === 'object' && Object.keys(ch.h).length > 0;
-    var logo = ch.l || 'data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22%3E%3Crect fill=%22%231a2235%22 width=%22100%22 height=%22100%22/%3E%3Ctext y=%22.9em%22 font-size=%2240%22 text-anchor=%22middle%22 x=%2250%22 y=%2265%22 fill=%22%2364748b%22%3E%F0%9F%93%BA%3C/text%3E%3C/svg%3E';
+    var logo = (ch.l || '').replace(/^http:/, 'https:') || 'data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22%3E%3Crect fill=%22%231a2235%22 width=%22100%22 height=%22100%22/%3E%3Ctext y=%22.9em%22 font-size=%2240%22 text-anchor=%22middle%22 x=%2250%22 y=%2265%22 fill=%22%2364748b%22%3E%F0%9F%93%BA%3C/text%3E%3C/svg%3E';
     var nameEsc = ch.n.replace(/"/g, '&quot;');
     html += '<div class="channel-card" data-idx="' + i + '">' +
       '<div class="channel-thumb"><img src="' + logo + '" alt="' + nameEsc + '" loading="lazy" onerror="this.src=\'data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22%3E%3Crect fill=%22%231a2235%22 width=%22100%22 height=%22100%22/%3E%3Ctext y=%22.9em%22 font-size=%2240%22 text-anchor=%22middle%22 x=%2250%22 y=%2265%22 fill=%22%2364748b%22%3E%F0%9F%93%BA%3C/text%3E%3C/svg%3E\'">' +
@@ -862,12 +862,6 @@ function filterChannels() {
       '<div class="channel-info"><div class="channel-name">' + ch.n + '</div>' + (qual ? '<div class="channel-quality">' + qual + '</div>' : '') + '</div></div>';
   }
   g.innerHTML = html;
-  g.addEventListener('click', function(e) {
-    var card = e.target.closest('.channel-card');
-    if (!card) return;
-    var idx = parseInt(card.getAttribute('data-idx'), 10);
-    if (!isNaN(idx)) playChannel(idx);
-  });
 }
 
 function showToast(msg) {
@@ -879,13 +873,15 @@ function showToast(msg) {
 }
 
 function destroyPlayer() {
-  if (currentPlayer) {
-    if (currentPlayer.destroy) currentPlayer.destroy();
-    if (currentPlayer.unload) currentPlayer.unload();
+  var p = currentPlayer;
+  if (p) {
+    if (p.destroy) { try { p.destroy(); } catch (e) {} }
+    else if (p.unload) { try { p.unload(); } catch (e) {} }
     currentPlayer = null;
   }
   var video = document.getElementById('videoPlayer');
-  video.src = '';
+  video.pause();
+  video.removeAttribute('src');
   video.load();
 }
 
@@ -968,13 +964,12 @@ function playChannel(idx) {
         status.innerHTML = 'خطأ في البث (' + errType + ')<br><br><button class="retry-btn" onclick="playChannel(' + idx + ')">إعادة المحاولة</button>';
         if (!isRetrying) {
           isRetrying = true;
-          setTimeout(function() {
-            if (currentPlayer && typeof currentPlayer.unload === 'function') {
-              currentPlayer.unload();
-              currentPlayer.load();
-            }
-            isRetrying = false;
-          }, 3000);
+          setTimeout(function(p) {
+            return function() {
+              if (p && typeof p.unload === 'function') { try { p.unload(); p.load(); } catch (e) {} }
+              isRetrying = false;
+            };
+          }(currentPlayer), 3000);
         }
       });
       currentPlayer.load();
@@ -995,6 +990,14 @@ function closePlayer() {
   document.getElementById('playerStatus').style.display = '';
   document.getElementById('playerStatus').innerHTML = 'جاري التحميل...';
 }
+
+// Global event delegation on channel grid (added once)
+document.getElementById('channelGrid').addEventListener('click', function(e) {
+  var card = e.target.closest('.channel-card');
+  if (!card) return;
+  var idx = parseInt(card.getAttribute('data-idx'), 10);
+  if (!isNaN(idx)) playChannel(idx);
+});
 
 document.addEventListener('keydown', function(e) {
   if (e.key === 'Escape') closePlayer();
