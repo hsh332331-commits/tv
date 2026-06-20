@@ -134,7 +134,7 @@ function rewriteM3U8(playlist, baseUrl, extraHeaders) {
 }
 
 const { PassThrough } = require('stream');
-const STREAM_BUFFER_SIZE = 1024 * 1024;
+const STREAM_BUFFER_SIZE = 256 * 1024;
 
 function proxyRequest(req, res, targetUrl, extraHeaders, depth = 0, retryCount = 0) {
   if (depth > MAX_REDIRECTS) {
@@ -222,60 +222,17 @@ function proxyRequest(req, res, targetUrl, extraHeaders, depth = 0, retryCount =
     if (proxyRes.headers['content-length']) responseHeaders['Content-Length'] = proxyRes.headers['content-length'];
 
     if (isStreamContent && statusCode === 200 && !proxyRes.headers['content-length']) {
-      const preBuffer = [];
-      let preSize = 0;
-      let flushed = false;
-      const MIN_PREBUFFER = 16 * 1024;
-      const MAX_PREWAIT = 500;
-
-      function flushPrebuffer() {
-        if (flushed) return;
-        flushed = true;
-        if (!res.headersSent) res.writeHead(statusCode, responseHeaders);
-        for (let i = 0; i < preBuffer.length; i++) res.write(preBuffer[i]);
-        preBuffer.length = 0;
-        const pt = new PassThrough({ highWaterMark: STREAM_BUFFER_SIZE });
-        pt.on('data', (c) => { if (!res.destroyed) res.write(c); });
-        pt.on('end', () => { try { if (!res.writableEnded) res.end(); } catch (_) {} });
-        proxyRes.pipe(pt);
-      }
-
-      proxyRes.on('data', (chunk) => {
-        if (!flushed && preSize < MIN_PREBUFFER) {
-          preBuffer.push(chunk);
-          preSize += chunk.length;
-          if (preSize >= MIN_PREBUFFER) flushPrebuffer();
-        }
-      });
-
-      setTimeout(flushPrebuffer, MAX_PREWAIT);
-
-      proxyRes.on('end', () => {
-        if (!flushed) {
-          if (!res.headersSent) res.writeHead(statusCode, responseHeaders);
-          for (let i = 0; i < preBuffer.length; i++) res.write(preBuffer[i]);
-          try { if (!res.writableEnded) res.end(); } catch (_) {}
-        }
-      });
-
-      proxyRes.on('error', () => {
-        try { if (!res.writableEnded) res.end(); } catch (_) {}
-      });
-
-      proxyRes.on('close', () => {
-        if (!flushed) {
-          if (!res.headersSent) res.writeHead(statusCode, responseHeaders);
-          for (let i = 0; i < preBuffer.length; i++) res.write(preBuffer[i]);
-          try { if (!res.writableEnded) res.end(); } catch (_) {}
-        }
-      });
+      res.writeHead(statusCode, responseHeaders);
+      proxyRes.pipe(res);
+    } else if (isStreamContent) {
+      res.writeHead(statusCode, responseHeaders);
+      const pt = new PassThrough({ highWaterMark: STREAM_BUFFER_SIZE });
+      pt.on('data', (c) => { if (!res.destroyed) res.write(c); });
+      pt.on('end', () => { try { if (!res.writableEnded) res.end(); } catch (_) {} });
+      proxyRes.pipe(pt);
     } else {
       res.writeHead(statusCode, responseHeaders);
       proxyRes.pipe(res);
-      proxyRes.on('close', () => { if (!res.writableEnded) try { res.end(); } catch (_) {} });
-      proxyRes.on('end', () => {
-        try { if (!res.writableEnded) res.end(); } catch (_) {}
-      });
     }
 
     // Always destroy upstream when proxy response closes
