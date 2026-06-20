@@ -1411,78 +1411,26 @@ function playHls(idx, token, url, headers) {
 }
 
 function playTs(idx, token, url, headers) {
-  if (typeof mpegts === 'undefined' || !mpegts.isSupported()) { showStreamFailure(idx, 'المتصفح لا يدعم تشغيل TS عبر MSE.'); return; }
-  var features = mpegts.getFeatureList();
-  if (!features.mseH265Playback) {
-    showStatus('المتصفح لا يدعم H.265/HEVC عبر MSE، جرب التشغيل المباشر...', true);
-    els.video.src = proxyUrl(url, headers);
-    safeVideoPlay(token);
-    return;
-  }
-  var warmupTimer = null;
+  els.video.src = proxyUrl(url, headers);
+  safeVideoPlay(token);
   var started = false;
-
-  currentPlayer = mpegts.createPlayer({ type: 'mse', url: proxyUrl(url, headers), isLive: true }, {
-    enableWorker: true,
-    enableStashBuffer: true,
-    stashInitialSize: 256,
-    liveBufferLatencyChasing: true,
-    lazyLoad: true,
-    lazyMaxLatency: 10,
-    lazyReconnect: 5,
-    fixAudioTimestampGap: true
-  });
-  currentPlayer.attachMediaElement(els.video);
-
-  currentPlayer.on(mpegts.Events.LOADING_COMPLETE, function() { if (token === playToken) hideStatus(); });
-
-  currentPlayer.on(mpegts.Events.RECOVERED_EARLY_EOF, function() {
-    if (token === playToken) hideStatus();
-  });
-
-  currentPlayer.on(mpegts.Events.ERROR, function(errType, errDetail) {
-    if (token !== playToken) return;
-    if (warmupTimer) { clearTimeout(warmupTimer); warmupTimer = null; }
-    if (errType === mpegts.ErrorTypes.NETWORK_ERROR && token === playToken && !isRetrying) {
-      isRetrying = true;
-      showStatus('انقطع الاتصال، إعادة محاولة...', true);
-      setTimeout(function() {
-        if (token !== playToken) return;
-        if (currentPlayer) {
-          try { currentPlayer.unload(); currentPlayer.load(); } catch(e) {}
-        }
-        isRetrying = false;
-      }, 1000);
-      return;
-    }
-    showStreamFailure(idx, 'خطأ في البث (' + errType + ')');
-  });
-
-  currentPlayer.load();
-
   var buffCheck = setInterval(function() {
     if (token !== playToken) { clearInterval(buffCheck); return; }
     try {
       var b = els.video.buffered;
-      if (!started && b && b.length > 0 && b.end(b.length - 1) > 0.5) {
+      if (!started && b && b.length > 0) {
         started = true;
         clearInterval(buffCheck);
-        if (warmupTimer) { clearTimeout(warmupTimer); warmupTimer = null; }
         hideStatus();
-        var p = currentPlayer.play();
-        if (p && p.catch) p.catch(function() {});
       }
     } catch(e) {}
   }, 200);
-
-  warmupTimer = setTimeout(function() {
+  setTimeout(function() {
     if (token !== playToken) return;
     clearInterval(buffCheck);
     started = true;
     hideStatus();
-    var p = currentPlayer.play();
-    if (p && p.catch) p.catch(function() {});
-  }, 5000);
+  }, 8000);
 }
 
 function safeVideoPlay(token) {
