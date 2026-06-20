@@ -1411,26 +1411,123 @@ function playHls(idx, token, url, headers) {
 }
 
 function playTs(idx, token, url, headers) {
-  els.video.src = proxyUrl(url, headers);
-  safeVideoPlay(token);
+  var proxied = proxyUrl(url, headers);
+  var triedMse = false;
   var started = false;
-  var buffCheck = setInterval(function() {
-    if (token !== playToken) { clearInterval(buffCheck); return; }
+  var buffTimer = null;
+  var failTimer = null;
+
+  function startMseFallback() {
+    if (triedMse || token !== playToken) return;
+    triedMse = true;
+    if (currentPlayer) { try { currentPlayer.destroy(); } catch(e) {} currentPlayer = null; }
+    els.video.removeAttribute('src');
+    try { els.video.load(); } catch(e) {}
+    if (typeof mpegts === 'undefined' || !mpegts.isSupported()) {
+      showStreamFailure(idx, 'المتصفح لا يدعم تشغيل TS عبر MSE ولا عبر التشغيل المباشر.');
+      return;
+    }
+    showStatus('جرب التشغيل عبر MSE...', true);
+    currentPlayer = mpegts.createPlayer({ type: 'mse', url: proxied, isLive: true }, {
+      enableWorker: false,
+      enableStashBuffer: true,
+      stashInitialSize: 512,
+      liveBufferLatencyChasing: false,
+      lazyLoad: true,
+      lazyMaxLatency: 30,
+      lazyReconnect: 5,
+      fixAudioTimestampGap: true
+    });
+    currentPlayer.attachMediaElement(els.video);
+    currentPlayer.on(mpegts.Events.LOADING_COMPLETE, function() { if (token === playToken) hideStatus(); });
+    currentPlayer.on(mpegts.Events.RECOVERED_EARLY_EOF, function() { if (token === playToken) hideStatus(); });
+    currentPlayer.on(mpegts.Events.ERROR, function(errType, errDetail) {
+      if (token !== playToken) return;
+      if (failTimer) { clearTimeout(failTimer); failTimer = null; }
+      if (errType === mpegts.ErrorTypes.NETWORK_ERROR && token === playToken && !isRetrying) {
+        isRetrying = true;
+        showStatus('انقطع الاتصال، إعادة محاولة...', true);
+        setTimeout(function() {
+          if (token !== playToken) return;
+          if (currentPlayer) { try { currentPlayer.unload(); currentPlayer.load(); } catch(e) {} }
+          isRetrying = false;
+        }, 1000);
+        return;
+      }
+      showStreamFailure(idx, 'خطأ في البث (' + errType + ')');
+    });
+    currentPlayer.load();
+    var p = els.video.play();
+    if (p && p.catch) p.catch(function() {});
+    if (buffTimer) { clearInterval(buffTimer); buffTimer = null; }
+    buffTimer = setInterval(function() {
+      if (token !== playToken) { clearInterval(buffTimer); buffTimer = null; return; }
+      try {
+        var b = els.video.buffered;
+        if (b && b.length > 0 && b.end(b.length - 1) > 0.5) {
+          clearInterval(buffTimer); buffTimer = null;
+          if (failTimer) { clearTimeout(failTimer); failTimer = null; }
+          hideStatus();
+        }
+      } catch(e) {}
+    }, 200);
+    failTimer = setTimeout(function() {
+      if (token !== playToken) return;
+      if (buffTimer) { clearInterval(buffTimer); buffTimer = null; }
+      hideStatus();
+    }, 10000);
+  }
+
+  function handleNativeError() {
+    if (token !== playToken) return;
+    els.video.removeEventListener('error', handleNativeError);
+    els.video.removeEventListener('loadedmetadata', handleMeta);
+    startMseFallback();
+  }
+
+  function handleMeta() {
+    if (token !== playToken) return;
+    els.video.removeEventListener('error', handleNativeError);
+    els.video.removeEventListener('loadedmetadata', handleMeta);
+  }
+
+  els.video.addEventListener('error', handleNativeError);
+  els.video.addEventListener('loadedmetadata', handleMeta);
+  els.video.src = proxied;
+  var p = els.video.play();
+  if (p && p.catch) p.catch(function(err) {
+    if (token !== playToken) return;
+    if (err && err.name === 'NotAllowedError') {
+      showStatus('اضغط على الفيديو للتشغيل', false);
+      els.video.addEventListener('click', function onClick() {
+        if (token !== playToken) { els.video.removeEventListener('click', onClick); return; }
+        els.video.removeEventListener('click', onClick);
+        var p2 = els.video.play();
+        if (p2 && p2.catch) p2.catch(function() { startMseFallback(); });
+      }, { once: true });
+      return;
+    }
+    startMseFallback();
+  });
+
+  buffTimer = setInterval(function() {
+    if (token !== playToken) { clearInterval(buffTimer); buffTimer = null; return; }
     try {
       var b = els.video.buffered;
-      if (!started && b && b.length > 0) {
+      if (b && b.length > 0) {
         started = true;
-        clearInterval(buffCheck);
+        clearInterval(buffTimer); buffTimer = null;
+        if (failTimer) { clearTimeout(failTimer); failTimer = null; }
         hideStatus();
       }
     } catch(e) {}
   }, 200);
-  setTimeout(function() {
+
+  failTimer = setTimeout(function() {
     if (token !== playToken) return;
-    clearInterval(buffCheck);
-    started = true;
-    hideStatus();
-  }, 8000);
+    if (buffTimer) { clearInterval(buffTimer); buffTimer = null; }
+    if (!started) startMseFallback();
+  }, 6000);
 }
 
 function safeVideoPlay(token) {
@@ -1438,8 +1535,7 @@ function safeVideoPlay(token) {
   var p = els.video.play();
   if (p && p.catch) p.catch(function(err) {
     if (token !== playToken) return;
-    var msg = err && err.name === 'NotAllowedError' ? 'اضغط زر التشغيل داخل الفيديو.' : 'تعذر بدء التشغيل تلقائياً.';
-    showStatus(msg, false);
+    if (err && err.name === 'NotAllowedError') showStatus('اضغط زر التشغيل داخل الفيديو.', false);
   });
 }
 
