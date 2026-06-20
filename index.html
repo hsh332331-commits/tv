@@ -1419,14 +1419,12 @@ function playTs(idx, token, url, headers) {
   currentPlayer = mpegts.createPlayer({ type: 'mse', url: proxyUrl(url, headers), isLive: true }, {
     enableWorker: true,
     enableStashBuffer: true,
-    stashInitialSize: 512,
-    liveBufferLatencyChasing: true,
+    stashInitialSize: 4096,
+    liveBufferLatencyChasing: false,
     lazyLoad: true,
-    lazyMaxLatency: 30,
+    lazyMaxLatency: 60,
     lazyReconnect: 3,
-    fixAudioTimestampGap: true,
-    offline: false,
-    waitForFullBuffer: false
+    fixAudioTimestampGap: true
   });
   currentPlayer.attachMediaElement(els.video);
 
@@ -1471,14 +1469,29 @@ function playTs(idx, token, url, headers) {
 
   currentPlayer.load();
 
+  var buffCheck = setInterval(function() {
+    if (token !== playToken) { clearInterval(buffCheck); return; }
+    try {
+      var b = els.video.buffered;
+      if (b && b.length > 0 && b.end(b.length - 1) > 3) {
+        clearInterval(buffCheck);
+        warmupStarted = true;
+        if (warmupTimer) { clearTimeout(warmupTimer); warmupTimer = null; }
+        hideStatus();
+        var p = currentPlayer.play();
+        if (p && p.catch) p.catch(function() {});
+      }
+    } catch(e) {}
+  }, 500);
+
   warmupTimer = setTimeout(function() {
     if (token !== playToken) return;
+    clearInterval(buffCheck);
     warmupStarted = true;
     hideStatus();
-  }, 3000);
-
-  var p = currentPlayer.play();
-  if (p && p.catch) p.catch(function() {});
+    var p = currentPlayer.play();
+    if (p && p.catch) p.catch(function() {});
+  }, 10000);
 }
 
 function safeVideoPlay(token) {
