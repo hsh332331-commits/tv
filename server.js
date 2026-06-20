@@ -142,6 +142,9 @@ function rewriteM3U8(playlist, baseUrl, extraHeaders) {
     .join('\n');
 }
 
+const { PassThrough } = require('stream');
+const STREAM_BUFFER_SIZE = 512 * 1024;
+
 function proxyRequest(req, res, targetUrl, extraHeaders, depth = 0) {
   if (depth > MAX_REDIRECTS) {
     sendText(res, 502, 'Too many redirects');
@@ -155,17 +158,17 @@ function proxyRequest(req, res, targetUrl, extraHeaders, depth = 0) {
   }
 
   const transport = target.protocol === 'https:' ? https : http;
-  const agent = target.protocol === 'https:' ? KEEPALIVE_AGENT_HTTPS : KEEPALIVE_AGENT_HTTP;
+  const isStream = target.pathname.endsWith('.ts') || target.pathname.endsWith('.m3u8');
   const options = {
     hostname: target.hostname,
     port: target.port || (target.protocol === 'https:' ? 443 : 80),
     path: `${target.pathname}${target.search}`,
     method: req.method === 'HEAD' ? 'HEAD' : 'GET',
     headers: createUpstreamHeaders(req, extraHeaders, target),
-    timeout: REQUEST_TIMEOUT_MS,
-    agent,
+    timeout: isStream ? 0 : REQUEST_TIMEOUT_MS,
     family: 4,
   };
+  if (target.protocol === 'https:') options.rejectUnauthorized = false;
 
   const upstreamReq = transport.request(options, (proxyRes) => {
     const statusCode = proxyRes.statusCode || 502;
@@ -178,9 +181,10 @@ function proxyRequest(req, res, targetUrl, extraHeaders, depth = 0) {
     }
 
     const contentType = proxyRes.headers['content-type'] || 'application/octet-stream';
+    const isStreamContent = isStream || !contentType.includes('text') || contentType.includes('octet-stream');
     const responseHeaders = corsHeaders({
       'Content-Type': contentType,
-      'Cache-Control': String(contentType).toLowerCase().startsWith('image/') ? 'public, max-age=86400' : 'no-store',
+      'Cache-Control': 'no-store',
     });
 
     if (proxyRes.headers['accept-ranges']) responseHeaders['Accept-Ranges'] = proxyRes.headers['accept-ranges'];
@@ -215,8 +219,57 @@ function proxyRequest(req, res, targetUrl, extraHeaders, depth = 0) {
     }
 
     if (proxyRes.headers['content-length']) responseHeaders['Content-Length'] = proxyRes.headers['content-length'];
-    res.writeHead(statusCode, responseHeaders);
-    proxyRes.pipe(res);
+
+    if (isStreamContent && statusCode === 200 && !proxyRes.headers['content-length']) {
+      const preBuffer = [];
+      let preSize = 0;
+      let preTimer = null;
+      const MIN_PREBUFFER = 256 * 1024;
+      const MAX_PREWAIT = 3000;
+
+      function flushPrebuffer() {
+        if (preTimer) clearTimeout(preTimer);
+        preTimer = null;
+        res.writeHead(statusCode, responseHeaders);
+        for (let i = 0; i < preBuffer.length; i++) res.write(preBuffer[i]);
+        preBuffer.length = 0;
+        const pt = new PassThrough({ highWaterMark: STREAM_BUFFER_SIZE });
+        pt.on('data', (c) => { if (!res.destroyed) res.write(c); });
+        pt.on('end', () => { try { if (!res.writableEnded) res.end(); } catch (_) {} });
+        proxyRes.pipe(pt);
+      }
+
+      proxyRes.on('data', (chunk) => {
+        if (preTimer === null && preSize < MIN_PREBUFFER) {
+          preBuffer.push(chunk);
+          preSize += chunk.length;
+          if (preSize >= MIN_PREBUFFER) flushPrebuffer();
+        }
+      });
+
+      preTimer = setTimeout(flushPrebuffer, MAX_PREWAIT);
+
+      proxyRes.on('end', () => {
+        if (preTimer !== null) {
+          clearTimeout(preTimer);
+          res.writeHead(statusCode, responseHeaders);
+          for (let i = 0; i < preBuffer.length; i++) res.write(preBuffer[i]);
+          try { if (!res.writableEnded) res.end(); } catch (_) {}
+        }
+      });
+
+      proxyRes.on('error', () => {
+        try { if (!res.writableEnded) res.end(); } catch (_) {}
+      });
+
+      proxyRes.on('close', () => {
+        if (preTimer) { clearTimeout(preTimer); }
+        try { if (!res.writableEnded) res.end(); } catch (_) {}
+      });
+    } else {
+      res.writeHead(statusCode, responseHeaders);
+      proxyRes.pipe(res);
+    }
 
     proxyRes.on('close', () => upstreamReq.destroy());
     proxyRes.on('end', () => {
@@ -225,8 +278,11 @@ function proxyRequest(req, res, targetUrl, extraHeaders, depth = 0) {
   });
 
   upstreamReq.on('socket', (socket) => {
-    socket.setTimeout(SOCKET_TIMEOUT_MS);
-    socket.on('timeout', () => upstreamReq.destroy(new Error('Socket timeout')));
+    socket.setNoDelay(true);
+    if (!isStream) {
+      socket.setTimeout(SOCKET_TIMEOUT_MS);
+      socket.on('timeout', () => upstreamReq.destroy(new Error('Socket timeout')));
+    }
   });
 
   upstreamReq.on('error', (err) => {

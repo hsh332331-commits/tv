@@ -15,7 +15,7 @@
   <div class="topbar">
     <div class="brand" role="button" tabindex="0" id="homeBtn" title="العودة للكل">
       <div class="brand-mark">ب</div>
-      <div><div class="brand-title">بكر الجازي</div><span class="brand-sub">بث مباشر سريع ومتجاوب</span></div>
+      <div><div class="brand-title">بكر الجازي</div><span class="brand-sub">موقع خاص وغير قابل للنشر</span></div>
     </div>
     <label class="search-wrap" aria-label="بحث القنوات"><span class="search-icon">⌕</span><input id="searchInput" type="search" placeholder="ابحث عن قناة...  Ctrl + K" autocomplete="off"></label>
     <div class="actions">
@@ -30,7 +30,7 @@
     <div class="hero-content">
       <div>
         <h1>ابو اصيل للاستشارات الطبية</h1>
-        <p>الاستضافة مجانية في حال عدم وجود مشاهدات يدخل السيرفر في وضع الخمول ويحتاج الى دقبقه من اجل تفعيله.</p>
+        <p>الاستضافة مجانية في حال عدم وجود مشاهدات يدخل السيرفر في وضع الخمول ويحتاج الى دقيقة من اجل تفعيله.</p>
       </div>
       <div class="stats">
         <div class="stat"><span class="stat-value" id="statTotal">0</span><span class="stat-label">قناة</span></div>
@@ -59,7 +59,7 @@
       <button class="close-btn" id="closePlayerBtn" type="button" aria-label="إغلاق">×</button>
     </div>
     <div class="video-box">
-      <video id="videoPlayer" playsinline controls autoplay preload="none"></video>
+      <video id="videoPlayer" playsinline controls autoplay preload="auto"></video>
       <div class="player-status" id="playerStatus"><div class="status-card">جاري التحميل...</div></div>
     </div>
     <div class="player-bottom">
@@ -1146,7 +1146,8 @@ function bindEvents() {
 
   els.video.addEventListener('playing', hideStatus);
   els.video.addEventListener('canplay', hideStatus);
-  els.video.addEventListener('waiting', function() { if (currentChannelIndex >= 0) showStatus('جاري تحسين التحميل...', true); });
+  els.video.addEventListener('stalled', function() { if (currentChannelIndex >= 0) showStatus('جاري تحسين التحميل...', true); });
+  els.video.addEventListener('suspend', function() { if (currentChannelIndex >= 0) showStatus('جاري تحسين التحميل...', true); });
   els.video.addEventListener('error', function() { if (currentChannelIndex >= 0) showStreamFailure(currentChannelIndex, 'تعذر تشغيل الفيديو في المتصفح.'); });
 }
 
@@ -1382,13 +1383,15 @@ function playHls(idx, token, url, headers) {
     lowLatencyMode: false,
     capLevelToPlayerSize: true,
     startLevel: -1,
-    maxBufferLength: 18,
-    maxMaxBufferLength: 35,
-    backBufferLength: 12,
-    liveSyncDurationCount: 3,
-    liveMaxLatencyDurationCount: 8,
-    fragLoadingTimeOut: 20000,
-    manifestLoadingTimeOut: 20000
+    maxBufferLength: 60,
+    maxMaxBufferLength: 120,
+    backBufferLength: 30,
+    liveSyncDurationCount: 5,
+    liveMaxLatencyDurationCount: 12,
+    fragLoadingTimeOut: 30000,
+    manifestLoadingTimeOut: 30000,
+    fragLoadingMaxRetry: 5,
+    manifestLoadingMaxRetry: 5
   });
   currentPlayer.loadSource(proxied);
   currentPlayer.attachMedia(els.video);
@@ -1409,23 +1412,71 @@ function playHls(idx, token, url, headers) {
 
 function playTs(idx, token, url, headers) {
   if (typeof mpegts === 'undefined' || !mpegts.isSupported()) { showStreamFailure(idx, 'المتصفح لا يدعم تشغيل TS عبر MSE.'); return; }
+  var warmupChunks = 0;
+  var warmupTimer = null;
+  var warmupStarted = false;
+
   currentPlayer = mpegts.createPlayer({ type: 'mse', url: proxyUrl(url, headers), isLive: true }, {
     enableWorker: true,
     enableStashBuffer: true,
-    stashInitialSize: 512,
-    liveBufferLatencyChasing: true,
-    liveBufferLatencyMaxLatency: 10,
+    stashInitialSize: 2048,
+    liveBufferLatencyChasing: false,
     lazyLoad: true,
-    lazyMaxLatency: 30,
-    lazyReconnect: 5,
-    fixAudioTimestampGap: false
+    lazyMaxLatency: 60,
+    lazyReconnect: 3,
+    fixAudioTimestampGap: false,
+    offline: false,
+    waitForFullBuffer: true
   });
   currentPlayer.attachMediaElement(els.video);
+
+  currentPlayer.on(mpegts.Events.LOADING_COMPLETE, function() { if (token === playToken) hideStatus(); });
+
+  currentPlayer.on(mpegts.Events.RECOVERED_EARLY_EOF, function() {
+    if (token === playToken) hideStatus();
+  });
+
   currentPlayer.on(mpegts.Events.ERROR, function(errType, errDetail) {
     if (token !== playToken) return;
-    showStreamFailure(idx, 'خطأ في بث TS: ' + errType + (errDetail ? ' - ' + errDetail : ''));
+    if (!warmupStarted) {
+      warmupStarted = true;
+      if (warmupTimer) { clearTimeout(warmupTimer); warmupTimer = null; }
+    }
+    if (errType === mpegts.ErrorTypes.NETWORK_ERROR && token === playToken && !isRetrying) {
+      isRetrying = true;
+      showStatus('انقطع الاتصال، إعادة محاولة...', true);
+      setTimeout(function() {
+        if (token !== playToken) return;
+        if (currentPlayer) {
+          try { currentPlayer.unload(); currentPlayer.load(); } catch(e) {}
+        }
+        isRetrying = false;
+      }, 2000);
+      return;
+    }
+    showStreamFailure(idx, 'خطأ في البث (' + errType + ')');
   });
+
+  currentPlayer.on(mpegts.Events.STATISTICS_INFO, function(stats) {
+    if (token !== playToken) return;
+    if (!warmupStarted && stats && stats.speed && stats.speed > 0) {
+      warmupChunks++;
+      if (warmupChunks > 3) {
+        warmupStarted = true;
+        if (warmupTimer) { clearTimeout(warmupTimer); warmupTimer = null; }
+        hideStatus();
+      }
+    }
+  });
+
   currentPlayer.load();
+
+  warmupTimer = setTimeout(function() {
+    if (token !== playToken) return;
+    warmupStarted = true;
+    hideStatus();
+  }, 4000);
+
   var p = currentPlayer.play();
   if (p && p.catch) p.catch(function() {});
 }

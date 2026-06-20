@@ -82,12 +82,13 @@ function testChannel(ch, done) {
   }, (res) => {
     const elapsed = Date.now() - start;
     const status = res.statusCode;
-    // Read a small amount to confirm data flow
-    res.on('data', () => { res.destroy(); });
-    const statusText = status === 200 ? 'OK' : status === 302 ? 'REDIRECT' : status === 502 ? 'BAD_GATEWAY' : `STATUS_${status}`;
+    let bodySize = 0;
+    res.on('data', (c) => { bodySize += c.length; if (bodySize > 20000) res.destroy(); });
+    const statusText = status === 200 ? 'OK' : status === 206 ? 'PARTIAL' : status === 302 ? 'REDIRECT' : status === 502 ? 'BAD_GATEWAY' : `STATUS_${status}`;
     const domain = ch.domain.padEnd(25);
-    const result = `[${statusText.padEnd(12)}] ${domain} ${ch.name.slice(0, 40).padEnd(42)} ${elapsed}ms`;
-    if (status === 200) {
+    const sizeInfo = bodySize > 0 ? ` ${bodySize}B` : '';
+    const result = `[${statusText.padEnd(12)}] ${domain} ${ch.name.slice(0, 35).padEnd(37)} ${elapsed}ms${sizeInfo}`;
+    if (status === 200 || status === 206) {
       console.log(`  ✅ ${result}`);
       working++;
     } else {
@@ -99,14 +100,14 @@ function testChannel(ch, done) {
   });
   req.on('error', (err) => {
     const elapsed = Date.now() - start;
-    console.log(`  💥 [ERROR] ${ch.domain.padEnd(25)} ${ch.name.slice(0, 40).padEnd(42)} ${elapsed}ms - ${err.message.slice(0, 60)}`);
+    console.log(`  💥 [ERROR] ${ch.domain.padEnd(25)} ${ch.name.slice(0, 35).padEnd(37)} ${elapsed}ms - ${err.message.slice(0, 60)}`);
     tested++;
     failed++;
     done();
   });
   req.on('timeout', () => {
     req.destroy();
-    console.log(`  ⏰ [TIMEOUT] ${ch.domain.padEnd(25)} ${ch.name.slice(0, 40).padEnd(42)} ${TIMEOUT_MS}ms`);
+    console.log(`  ⏰ [TIMEOUT] ${ch.domain.padEnd(25)} ${ch.name.slice(0, 35).padEnd(37)} ${TIMEOUT_MS}ms`);
     tested++;
     failed++;
     done();
