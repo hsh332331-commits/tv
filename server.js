@@ -4,12 +4,29 @@ const http = require('http');
 const https = require('https');
 const fs = require('fs');
 const path = require('path');
+const zlib = require('zlib');
 
 const PORT = Number(process.env.PORT || 8080);
 const HOST = process.env.HOST || '0.0.0.0';
 const ROOT = __dirname;
 const MAX_REDIRECTS = 5;
 const REQUEST_TIMEOUT_MS = 30000;
+const FALLBACK_TO_HTTP_ON_TLS_ERROR = true;
+
+function isTlsLikeError(err) {
+  const code = String(err && err.code || '');
+  const msg = String(err && err.message || '').toLowerCase();
+  return code.includes('SSL') || code.includes('TLS') || code === 'ECONNRESET' || msg.includes('certificate') || msg.includes('tls') || msg.includes('ssl');
+}
+
+function originFromReferer(referer) {
+  try {
+    const u = new URL(referer);
+    return `${u.protocol}//${u.host}`;
+  } catch {
+    return '';
+  }
+}
 
 const MIME_TYPES = {
   '.html': 'text/html; charset=utf-8',
@@ -31,7 +48,7 @@ function corsHeaders(extra = {}) {
   return {
     'Access-Control-Allow-Origin': '*',
     'Access-Control-Allow-Methods': 'GET, HEAD, OPTIONS',
-    'Access-Control-Allow-Headers': 'Range, Content-Type, Accept, Origin, Referer, User-Agent',
+    'Access-Control-Allow-Headers': 'Range, Content-Type, Accept, Origin, Referer, User-Agent, X-Requested-With',
     'Access-Control-Expose-Headers': 'Content-Length, Content-Range, Accept-Ranges, Content-Type',
     ...extra,
   };
@@ -39,7 +56,7 @@ function corsHeaders(extra = {}) {
 
 function sendText(res, code, message, headers = {}) {
   if (res.headersSent) return;
-  res.writeHead(code, corsHeaders({ 'Content-Type': 'text/plain; charset=utf-8', ...headers }));
+  res.writeHead(code, corsHeaders({ 'Content-Type': 'text/plain; charset=utf-8', 'Cache-Control': 'no-store', ...headers }));
   res.end(message);
 }
 
@@ -76,12 +93,20 @@ function getExtraHeaders(query) {
   return headers;
 }
 
-function createUpstreamHeaders(req, extraHeaders) {
+function createUpstreamHeaders(req, extraHeaders, target) {
   const headers = {
-    Accept: req.headers.accept || '*/*',
-    'User-Agent': extraHeaders['User-Agent'] || req.headers['user-agent'] || 'Mozilla/5.0',
+    Accept: req.headers.accept || 'application/vnd.apple.mpegurl, application/x-mpegURL, video/mp2t, */*',
+    'Accept-Language': req.headers['accept-language'] || 'en-US,en;q=0.9,ar;q=0.8',
+    'Cache-Control': 'no-cache',
+    Pragma: 'no-cache',
+    Connection: 'close',
+    'User-Agent': extraHeaders['User-Agent'] || req.headers['user-agent'] || 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome Safari/537.36',
   };
   if (extraHeaders.Referer) headers.Referer = extraHeaders.Referer;
+  else if (target) headers.Referer = `${target.protocol}//${target.host}/`;
+
+  const origin = originFromReferer(headers.Referer);
+  if (origin) headers.Origin = origin;
   if (req.headers.range) headers.Range = req.headers.range;
   return headers;
 }
@@ -139,9 +164,11 @@ function proxyRequest(req, res, targetUrl, extraHeaders, depth = 0) {
     port: target.port || (target.protocol === 'https:' ? 443 : 80),
     path: `${target.pathname}${target.search}`,
     method: req.method === 'HEAD' ? 'HEAD' : 'GET',
-    headers: createUpstreamHeaders(req, extraHeaders),
+    headers: createUpstreamHeaders(req, extraHeaders, target),
     timeout: REQUEST_TIMEOUT_MS,
+    family: 4,
   };
+  if (target.protocol === 'https:') options.rejectUnauthorized = false;
 
   const upstreamReq = transport.request(options, (proxyRes) => {
     const statusCode = proxyRes.statusCode || 502;
@@ -153,8 +180,10 @@ function proxyRequest(req, res, targetUrl, extraHeaders, depth = 0) {
       return;
     }
 
+    const contentType = proxyRes.headers['content-type'] || 'application/octet-stream';
     const responseHeaders = corsHeaders({
-      'Content-Type': proxyRes.headers['content-type'] || 'application/octet-stream',
+      'Content-Type': contentType,
+      'Cache-Control': String(contentType).toLowerCase().startsWith('image/') ? 'public, max-age=86400' : 'no-store',
     });
 
     if (proxyRes.headers['accept-ranges']) responseHeaders['Accept-Ranges'] = proxyRes.headers['accept-ranges'];
@@ -179,7 +208,8 @@ function proxyRequest(req, res, targetUrl, extraHeaders, depth = 0) {
         res.writeHead(statusCode, corsHeaders({
           'Content-Type': 'application/vnd.apple.mpegurl; charset=utf-8',
           'Content-Length': data.length,
-          'Cache-Control': 'no-cache',
+          'Cache-Control': 'no-cache, no-store, must-revalidate',
+          'X-Proxy-Rewritten': 'm3u8',
         }));
         res.end(data);
       });
@@ -193,7 +223,15 @@ function proxyRequest(req, res, targetUrl, extraHeaders, depth = 0) {
   });
 
   upstreamReq.on('error', (err) => {
-    if (!res.headersSent) sendText(res, 502, `Proxy error: ${err.message}`);
+    if (FALLBACK_TO_HTTP_ON_TLS_ERROR && target.protocol === 'https:' && isTlsLikeError(err) && depth < MAX_REDIRECTS) {
+      const fallbackUrl = `http://${target.host}${target.pathname}${target.search}`;
+      proxyRequest(req, res, fallbackUrl, extraHeaders, depth + 1);
+      return;
+    }
+
+    const code = err && err.code ? ` (${err.code})` : '';
+    const message = `Proxy error${code}: ${err.message}`;
+    if (!res.headersSent) sendText(res, 502, message, { 'X-Proxy-Error': String(err && err.code || 'UPSTREAM_ERROR') });
     else res.destroy(err);
   });
 
@@ -203,6 +241,22 @@ function proxyRequest(req, res, targetUrl, extraHeaders, depth = 0) {
 
 
   upstreamReq.end();
+}
+
+function isTextLike(ext) {
+  return ext === '.html' || ext === '.js' || ext === '.css' || ext === '.json' || ext === '.svg' || ext === '.txt' || ext === '.m3u8';
+}
+
+function preferredEncoding(req) {
+  const ae = String(req.headers['accept-encoding'] || '');
+  if (/\bbr\b/.test(ae)) return 'br';
+  if (/\bgzip\b/.test(ae)) return 'gzip';
+  return '';
+}
+
+function cacheHeaderForStatic(ext) {
+  if (ext === '.html') return 'no-cache, must-revalidate';
+  return 'public, max-age=604800, immutable';
 }
 
 function serveStatic(req, res, pathname) {
@@ -228,18 +282,46 @@ function serveStatic(req, res, pathname) {
     }
 
     const ext = path.extname(filePath).toLowerCase();
-    fs.readFile(filePath, (readErr, data) => {
-      if (readErr) {
-        sendText(res, 500, 'Server error');
-        return;
-      }
-      res.writeHead(200, {
-        'Content-Type': MIME_TYPES[ext] || 'application/octet-stream',
-        'Content-Length': data.length,
-        'Cache-Control': ext === '.html' ? 'no-cache' : 'public, max-age=3600',
+    const lastModified = stat.mtime.toUTCString();
+    if (req.headers['if-modified-since'] === lastModified) {
+      res.writeHead(304, {
+        'Cache-Control': cacheHeaderForStatic(ext),
+        'Last-Modified': lastModified,
       });
-      res.end(req.method === 'HEAD' ? undefined : data);
+      res.end();
+      return;
+    }
+
+    const headers = {
+      'Content-Type': MIME_TYPES[ext] || 'application/octet-stream',
+      'Cache-Control': cacheHeaderForStatic(ext),
+      'Last-Modified': lastModified,
+      'X-Content-Type-Options': 'nosniff',
+    };
+
+    const encoding = isTextLike(ext) ? preferredEncoding(req) : '';
+    if (encoding) {
+      headers['Content-Encoding'] = encoding;
+      headers.Vary = 'Accept-Encoding';
+    } else {
+      headers['Content-Length'] = stat.size;
+    }
+
+    res.writeHead(200, headers);
+    if (req.method === 'HEAD') {
+      res.end();
+      return;
+    }
+
+    const stream = fs.createReadStream(filePath);
+    stream.on('error', () => {
+      if (!res.headersSent) sendText(res, 500, 'Server error');
+      else res.destroy();
     });
+
+    if (encoding === 'br') stream.pipe(zlib.createBrotliCompress()).pipe(res);
+    else if (encoding === 'gzip') stream.pipe(zlib.createGzip()).pipe(res);
+    else stream.pipe(res);
   });
 }
 
@@ -249,6 +331,12 @@ const server = http.createServer((req, res) => {
     reqUrl = new URL(req.url, `http://${req.headers.host || 'localhost'}`);
   } catch {
     sendText(res, 400, 'Bad request');
+    return;
+  }
+
+  if (reqUrl.pathname === '/health') {
+    res.writeHead(200, corsHeaders({ 'Content-Type': 'application/json; charset=utf-8', 'Cache-Control': 'no-store' }));
+    res.end(JSON.stringify({ ok: true, channels: getChannelCount(), time: new Date().toISOString() }));
     return;
   }
 
