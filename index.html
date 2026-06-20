@@ -1412,6 +1412,13 @@ function playHls(idx, token, url, headers) {
 
 function playTs(idx, token, url, headers) {
   if (typeof mpegts === 'undefined' || !mpegts.isSupported()) { showStreamFailure(idx, 'المتصفح لا يدعم تشغيل TS عبر MSE.'); return; }
+  var features = mpegts.getFeatureList();
+  if (!features.mseH265Playback) {
+    showStatus('المتصفح لا يدعم H.265/HEVC عبر MSE، جرب التشغيل المباشر...', true);
+    els.video.src = proxyUrl(url, headers);
+    safeVideoPlay(token);
+    return;
+  }
   var warmupTimer = null;
   var started = false;
 
