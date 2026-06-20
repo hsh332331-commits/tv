@@ -1419,14 +1419,46 @@ function playTs(idx, token, url, headers) {
   var reconnectTimer = null;
 
   function reconnectStream() {
-    if (token !== playToken || !currentPlayer) return;
+    if (token !== playToken) return;
     showStatus('إعادة الاتصال بالبث...', true);
-    try {
-      currentPlayer.unload();
-      currentPlayer.load();
-    } catch(e) {
-      showStreamFailure(idx, 'فشل إعادة الاتصال.');
-    }
+    if (currentPlayer) { try { currentPlayer.destroy(); } catch(e) {} currentPlayer = null; }
+    els.video.removeAttribute('src');
+    try { els.video.load(); } catch(e) {}
+    if (typeof mpegts === 'undefined' || !mpegts.isSupported()) return;
+    currentPlayer = mpegts.createPlayer({ type: 'mse', url: proxied, isLive: true }, {
+      enableWorker: false,
+      enableStashBuffer: true,
+      stashInitialSize: 512,
+      liveBufferLatencyChasing: false,
+      lazyLoad: true,
+      lazyMaxLatency: 30,
+      lazyReconnect: 5,
+      fixAudioTimestampGap: true
+    });
+    currentPlayer.attachMediaElement(els.video);
+    currentPlayer.on(mpegts.Events.LOADING_COMPLETE, function() {
+      if (token !== playToken) return;
+      if (reconnectTimer) clearTimeout(reconnectTimer);
+      reconnectTimer = setTimeout(reconnectStream, 2000);
+    });
+    currentPlayer.on(mpegts.Events.RECOVERED_EARLY_EOF, function() { if (token === playToken) hideStatus(); });
+    currentPlayer.on(mpegts.Events.ERROR, function(errType, errDetail) {
+      if (token !== playToken) return;
+      if (errType === mpegts.ErrorTypes.NETWORK_ERROR && token === playToken && !isRetrying) {
+        isRetrying = true;
+        showStatus('انقطع الاتصال، إعادة محاولة...', true);
+        setTimeout(function() {
+          if (token !== playToken) return;
+          if (currentPlayer) { try { currentPlayer.unload(); currentPlayer.load(); } catch(e) {} }
+          isRetrying = false;
+        }, 1000);
+        return;
+      }
+    });
+    currentPlayer.load();
+    var p = els.video.play();
+    if (p && p.catch) p.catch(function() {});
+    hideStatus();
   }
 
   function startMseFallback() {
