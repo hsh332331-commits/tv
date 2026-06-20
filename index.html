@@ -1032,7 +1032,6 @@ var playToken = 0;
 var renderToken = 0;
 var isRetrying = false;
 var loadTimer = null;
-var PROXY_BASE = '';
 var PLACEHOLDER_LOGO = 'data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 160 90%22%3E%3Crect width=%22160%22 height=%2290%22 rx=%2218%22 fill=%22%23141f33%22/%3E%3Ccircle cx=%2280%22 cy=%2245%22 r=%2225%22 fill=%22%231d2b43%22/%3E%3Ctext x=%2280%22 y=%2255%22 text-anchor=%22middle%22 font-size=%2228%22 fill=%22%2394a3b8%22%3E%F0%9F%93%BA%3C/text%3E%3C/svg%3E';
 var els = {};
 var imageObserver = null;
@@ -1496,8 +1495,8 @@ function proxyUrl(url, headers) {
     if (headers.Referer) params += '&Referer=' + encodeURIComponent(headers.Referer);
     if (headers['User-Agent']) params += '&User-Agent=' + encodeURIComponent(headers['User-Agent']);
   }
-  var base = PROXY_BASE ? PROXY_BASE.replace(/\/?$/, '/') : '/';
-  return base + 'proxy?' + params;
+  var origin = window.location.origin;
+  return origin + '/proxy?' + params;
 }
 
 function normalizeLogoUrl(value) {
