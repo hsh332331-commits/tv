@@ -1,8 +1,16 @@
 'use strict';
+const http = require('http');
 const https = require('https');
 const fs = require('fs');
 
-const RENDER_URL = 'tv-2-vbcc.onrender.com';
+const RAW_RENDER_URL = process.env.RENDER_URL || 'tv-2-vbcc.onrender.com';
+const RENDER_PARSED = (() => {
+  try { return new URL(RAW_RENDER_URL.includes('://') ? RAW_RENDER_URL : `https://${RAW_RENDER_URL}`); } catch { return new URL(`https://${RAW_RENDER_URL}`); }
+})();
+const USE_HTTPS = RENDER_PARSED.protocol === 'https:';
+const RENDER_HOST = RENDER_PARSED.hostname;
+const RENDER_PORT = RENDER_PARSED.port ? Number(RENDER_PARSED.port) : (USE_HTTPS ? 443 : 80);
+const AGENT_LIB = USE_HTTPS ? https : http;
 const TIMEOUT_MS = 20000;
 
 const m3u = fs.readFileSync('tv_movie_api.m3u', 'utf8');
@@ -70,14 +78,13 @@ function testChannel(ch, done) {
   if (ch.headers['User-Agent']) params.set('User-Agent', ch.headers['User-Agent']);
   
   const proxyPath = '/proxy?' + params.toString();
-  
+
   const start = Date.now();
-  const req = https.get({
-    hostname: RENDER_URL,
-    port: 443,
+  const req = AGENT_LIB.get({
+    hostname: RENDER_HOST,
+    port: RENDER_PORT,
     path: proxyPath,
     timeout: TIMEOUT_MS,
-    rejectUnauthorized: false,
     headers: { 'User-Agent': 'Mozilla/5.0 Test' }
   }, (res) => {
     const elapsed = Date.now() - start;

@@ -1539,7 +1539,7 @@ function startLoadTimeout(token, idx) {
   clearLoadTimeout();
   loadTimer = setTimeout(function() {
     if (token === playToken && els.status.classList.contains('show')) showStreamFailure(idx, 'استغرق التحميل وقتاً طويلاً. قد يكون الرابط بطيئاً أو محجوباً.');
-  }, 22000);
+  }, 30000);
 }
 function clearLoadTimeout() { if (loadTimer) { clearTimeout(loadTimer); loadTimer = null; } }
 

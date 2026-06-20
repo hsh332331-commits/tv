@@ -23,15 +23,6 @@ function isTlsLikeError(err) {
   return code.includes('SSL') || code.includes('TLS') || code === 'ECONNRESET' || msg.includes('certificate') || msg.includes('tls') || msg.includes('ssl');
 }
 
-function originFromReferer(referer) {
-  try {
-    const u = new URL(referer);
-    return `${u.protocol}//${u.host}`;
-  } catch {
-    return '';
-  }
-}
-
 const MIME_TYPES = {
   '.html': 'text/html; charset=utf-8',
   '.js': 'application/javascript; charset=utf-8',
@@ -143,9 +134,9 @@ function rewriteM3U8(playlist, baseUrl, extraHeaders) {
 }
 
 const { PassThrough } = require('stream');
-const STREAM_BUFFER_SIZE = 512 * 1024;
+const STREAM_BUFFER_SIZE = 2 * 1024 * 1024;
 
-function proxyRequest(req, res, targetUrl, extraHeaders, depth = 0) {
+function proxyRequest(req, res, targetUrl, extraHeaders, depth = 0, retryCount = 0) {
   if (depth > MAX_REDIRECTS) {
     sendText(res, 502, 'Too many redirects');
     return;
@@ -168,6 +159,8 @@ function proxyRequest(req, res, targetUrl, extraHeaders, depth = 0) {
     timeout: isStream ? 0 : REQUEST_TIMEOUT_MS,
     family: 4,
   };
+  // Use keep-alive agents to reduce connection overhead for frequent stream requests
+  options.agent = target.protocol === 'https:' ? KEEPALIVE_AGENT_HTTPS : KEEPALIVE_AGENT_HTTP;
   if (target.protocol === 'https:') options.rejectUnauthorized = false;
 
   const upstreamReq = transport.request(options, (proxyRes) => {
@@ -215,6 +208,14 @@ function proxyRequest(req, res, targetUrl, extraHeaders, depth = 0) {
         res.end(data);
       });
       proxyRes.on('error', (err) => sendText(res, 502, `Proxy response error: ${err.message}`));
+      proxyRes.on('close', () => {
+        if (!res.headersSent) {
+          const msg = chunks.length === 0
+            ? 'Upstream closed prematurely'
+            : 'Upstream closed before m3u8 end, partial data discarded';
+          sendText(res, 502, msg);
+        }
+      });
       return;
     }
 
@@ -224,13 +225,13 @@ function proxyRequest(req, res, targetUrl, extraHeaders, depth = 0) {
       const preBuffer = [];
       let preSize = 0;
       let preTimer = null;
-      const MIN_PREBUFFER = 256 * 1024;
-      const MAX_PREWAIT = 3000;
+      const MIN_PREBUFFER = 1024 * 1024;
+      const MAX_PREWAIT = 5000;
 
       function flushPrebuffer() {
         if (preTimer) clearTimeout(preTimer);
         preTimer = null;
-        res.writeHead(statusCode, responseHeaders);
+        if (!res.headersSent) res.writeHead(statusCode, responseHeaders);
         for (let i = 0; i < preBuffer.length; i++) res.write(preBuffer[i]);
         preBuffer.length = 0;
         const pt = new PassThrough({ highWaterMark: STREAM_BUFFER_SIZE });
@@ -252,7 +253,7 @@ function proxyRequest(req, res, targetUrl, extraHeaders, depth = 0) {
       proxyRes.on('end', () => {
         if (preTimer !== null) {
           clearTimeout(preTimer);
-          res.writeHead(statusCode, responseHeaders);
+          if (!res.headersSent) res.writeHead(statusCode, responseHeaders);
           for (let i = 0; i < preBuffer.length; i++) res.write(preBuffer[i]);
           try { if (!res.writableEnded) res.end(); } catch (_) {}
         }
@@ -263,18 +264,26 @@ function proxyRequest(req, res, targetUrl, extraHeaders, depth = 0) {
       });
 
       proxyRes.on('close', () => {
-        if (preTimer) { clearTimeout(preTimer); }
-        try { if (!res.writableEnded) res.end(); } catch (_) {}
+        // Only act if prebuffer hasn't been flushed yet — after flush, the PassThrough pipe handles end.
+        if (preTimer !== null) {
+          clearTimeout(preTimer);
+          preTimer = null;
+          if (!res.headersSent) res.writeHead(statusCode, responseHeaders);
+          for (let i = 0; i < preBuffer.length; i++) res.write(preBuffer[i]);
+          try { if (!res.writableEnded) res.end(); } catch (_) {}
+        }
       });
     } else {
       res.writeHead(statusCode, responseHeaders);
       proxyRes.pipe(res);
+      proxyRes.on('close', () => { if (!res.writableEnded) try { res.end(); } catch (_) {} });
+      proxyRes.on('end', () => {
+        try { if (!res.writableEnded) res.end(); } catch (_) {}
+      });
     }
 
+    // Always destroy upstream when proxy response closes
     proxyRes.on('close', () => upstreamReq.destroy());
-    proxyRes.on('end', () => {
-      try { if (!res.writableEnded) res.end(); } catch (_) {}
-    });
   });
 
   upstreamReq.on('socket', (socket) => {
@@ -286,9 +295,20 @@ function proxyRequest(req, res, targetUrl, extraHeaders, depth = 0) {
   });
 
   upstreamReq.on('error', (err) => {
+    // Destroy socket to prevent stale connections in keepalive pool
+    if (upstreamReq.socket && !upstreamReq.socket.destroyed) upstreamReq.socket.destroy();
+
     if (FALLBACK_TO_HTTP_ON_TLS_ERROR && target.protocol === 'https:' && isTlsLikeError(err) && depth < MAX_REDIRECTS) {
       const fallbackUrl = `http://${target.host}${target.pathname}${target.search}`;
       proxyRequest(req, res, fallbackUrl, extraHeaders, depth + 1);
+      return;
+    }
+
+    // Retry once for transient network errors to mask intermittent blips
+    const TRANSIENT_ERRORS = ['ECONNRESET', 'EPIPE', 'ETIMEDOUT', 'ECONNREFUSED', 'ENETUNREACH', 'EHOSTUNREACH'];
+    if (retryCount < 1 && TRANSIENT_ERRORS.includes(err && err.code) && !res.destroyed) {
+      console.log(`  [RETRY] ${(target ? target.href.slice(0, 80) : targetUrl).padEnd(82)} (${err.code})`);
+      setTimeout(() => proxyRequest(req, res, targetUrl, extraHeaders, depth, retryCount + 1), 500);
       return;
     }
 
@@ -301,6 +321,7 @@ function proxyRequest(req, res, targetUrl, extraHeaders, depth = 0) {
   });
 
   upstreamReq.on('timeout', () => {
+    console.log(`  [TIMEOUT] ${target.href.slice(0, 80)}...`);
     upstreamReq.destroy(new Error('Proxy timeout'));
   });
 
