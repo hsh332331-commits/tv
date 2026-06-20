@@ -1411,9 +1411,13 @@ function playTs(idx, token, url, headers) {
   if (typeof mpegts === 'undefined' || !mpegts.isSupported()) { showStreamFailure(idx, 'المتصفح لا يدعم تشغيل TS عبر MSE.'); return; }
   currentPlayer = mpegts.createPlayer({ type: 'mse', url: proxyUrl(url, headers), isLive: true }, {
     enableWorker: true,
-    enableStashBuffer: false,
+    enableStashBuffer: true,
+    stashInitialSize: 512,
     liveBufferLatencyChasing: true,
-    lazyLoad: false,
+    liveBufferLatencyMaxLatency: 10,
+    lazyLoad: true,
+    lazyMaxLatency: 30,
+    lazyReconnect: 5,
     fixAudioTimestampGap: false
   });
   currentPlayer.attachMediaElement(els.video);

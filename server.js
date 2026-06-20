@@ -10,8 +10,12 @@ const PORT = Number(process.env.PORT || 8080);
 const HOST = process.env.HOST || '0.0.0.0';
 const ROOT = __dirname;
 const MAX_REDIRECTS = 5;
-const REQUEST_TIMEOUT_MS = 30000;
+const REQUEST_TIMEOUT_MS = 60000;
+const SOCKET_TIMEOUT_MS = 180000;
 const FALLBACK_TO_HTTP_ON_TLS_ERROR = true;
+
+const KEEPALIVE_AGENT_HTTP = new http.Agent({ keepAlive: true, keepAliveMsecs: 30000, maxSockets: 64 });
+const KEEPALIVE_AGENT_HTTPS = new https.Agent({ keepAlive: true, keepAliveMsecs: 30000, maxSockets: 64, rejectUnauthorized: false });
 
 function isTlsLikeError(err) {
   const code = String(err && err.code || '');
@@ -99,7 +103,6 @@ function createUpstreamHeaders(req, extraHeaders, target) {
     'Accept-Language': req.headers['accept-language'] || 'en-US,en;q=0.9,ar;q=0.8',
     'Cache-Control': 'no-cache',
     Pragma: 'no-cache',
-    Connection: 'close',
     'User-Agent': extraHeaders['User-Agent'] || req.headers['user-agent'] || 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome Safari/537.36',
   };
   if (extraHeaders.Referer) headers.Referer = extraHeaders.Referer;
@@ -159,6 +162,7 @@ function proxyRequest(req, res, targetUrl, extraHeaders, depth = 0) {
   }
 
   const transport = target.protocol === 'https:' ? https : http;
+  const agent = target.protocol === 'https:' ? KEEPALIVE_AGENT_HTTPS : KEEPALIVE_AGENT_HTTP;
   const options = {
     hostname: target.hostname,
     port: target.port || (target.protocol === 'https:' ? 443 : 80),
@@ -166,9 +170,9 @@ function proxyRequest(req, res, targetUrl, extraHeaders, depth = 0) {
     method: req.method === 'HEAD' ? 'HEAD' : 'GET',
     headers: createUpstreamHeaders(req, extraHeaders, target),
     timeout: REQUEST_TIMEOUT_MS,
+    agent,
     family: 4,
   };
-  if (target.protocol === 'https:') options.rejectUnauthorized = false;
 
   const upstreamReq = transport.request(options, (proxyRes) => {
     const statusCode = proxyRes.statusCode || 502;
@@ -220,6 +224,11 @@ function proxyRequest(req, res, targetUrl, extraHeaders, depth = 0) {
     if (proxyRes.headers['content-length']) responseHeaders['Content-Length'] = proxyRes.headers['content-length'];
     res.writeHead(statusCode, responseHeaders);
     proxyRes.pipe(res);
+  });
+
+  upstreamReq.on('socket', (socket) => {
+    socket.setTimeout(SOCKET_TIMEOUT_MS);
+    socket.on('timeout', () => upstreamReq.destroy(new Error('Socket timeout')));
   });
 
   upstreamReq.on('error', (err) => {
