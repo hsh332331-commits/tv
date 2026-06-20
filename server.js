@@ -99,17 +99,10 @@ function getExtraHeaders(query) {
 
 function createUpstreamHeaders(req, extraHeaders, target) {
   const headers = {
-    Accept: req.headers.accept || 'application/vnd.apple.mpegurl, application/x-mpegURL, video/mp2t, */*',
-    'Accept-Language': req.headers['accept-language'] || 'en-US,en;q=0.9,ar;q=0.8',
-    'Cache-Control': 'no-cache',
-    Pragma: 'no-cache',
+    Accept: '*/*',
     'User-Agent': extraHeaders['User-Agent'] || req.headers['user-agent'] || 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome Safari/537.36',
   };
   if (extraHeaders.Referer) headers.Referer = extraHeaders.Referer;
-  else if (target) headers.Referer = `${target.protocol}//${target.host}/`;
-
-  const origin = originFromReferer(headers.Referer);
-  if (origin) headers.Origin = origin;
   if (req.headers.range) headers.Range = req.headers.range;
   return headers;
 }
@@ -241,11 +234,18 @@ function proxyRequest(req, res, targetUrl, extraHeaders, depth = 0) {
     const code = err && err.code ? ` (${err.code})` : '';
     const message = `Proxy error${code}: ${err.message}`;
     if (!res.headersSent) sendText(res, 502, message, { 'X-Proxy-Error': String(err && err.code || 'UPSTREAM_ERROR') });
-    else res.destroy(err);
+    else {
+      try { res.end(); } catch (_) { res.destroy(); }
+    }
   });
 
   upstreamReq.on('timeout', () => {
     upstreamReq.destroy(new Error('Proxy timeout'));
+  });
+
+  proxyRes.on('close', () => upstreamReq.destroy());
+  proxyRes.on('end', () => {
+    try { if (!res.writableEnded) res.end(); } catch (_) {}
   });
 
 
