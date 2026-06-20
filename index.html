@@ -958,13 +958,16 @@ function playChannel(idx) {
         fixAudioTimestampGap: false,
       });
       currentPlayer.attachMediaElement(video);
-      currentPlayer.load();
-      currentPlayer.play();
-      status.style.display = 'none';
+      currentPlayer.on(mpegts.Events.RECOVERED_EARLY_EOF, function() {
+        status.style.display = 'none';
+      });
+      currentPlayer.on(mpegts.Events.LOADING_COMPLETE, function() {
+        status.style.display = 'none';
+      });
       currentPlayer.on(mpegts.Events.ERROR, function(errType, errDetail) {
+        status.innerHTML = 'خطأ في البث (' + errType + ')<br><br><button class="retry-btn" onclick="playChannel(' + idx + ')">إعادة المحاولة</button>';
         if (!isRetrying) {
           isRetrying = true;
-          status.innerHTML = '<i class="fas fa-sync-alt fa-spin"></i> خطأ – إعادة المحاولة...<br><br><button class="retry-btn" onclick="playChannel(' + idx + ')">إعادة التشغيل</button>';
           setTimeout(function() {
             if (currentPlayer && typeof currentPlayer.unload === 'function') {
               currentPlayer.unload();
@@ -974,6 +977,10 @@ function playChannel(idx) {
           }, 3000);
         }
       });
+      currentPlayer.load();
+      currentPlayer.play();
+      // Hide loading after 5s if still showing (stream likely playing)
+      setTimeout(function() { if (status.style.display !== 'none') status.style.display = 'none'; }, 5000);
     }
   } catch (err) {
     status.innerHTML = 'حدث خطأ: ' + err.message;

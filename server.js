@@ -1,4 +1,5 @@
 const http = require('http');
+const https = require('https');
 const fs = require('fs');
 const path = require('path');
 const url = require('url');
@@ -19,7 +20,6 @@ const server = http.createServer((req, res) => {
   const parsed = url.parse(req.url, true);
   const pathname = parsed.pathname;
 
-  // CORS proxy endpoint
   if (pathname === '/proxy') {
     const target = parsed.query.url;
     if (!target) {
@@ -29,35 +29,52 @@ const server = http.createServer((req, res) => {
     }
 
     const targetUrl = decodeURIComponent(target);
-    const headers = {};
-    if (parsed.query.Referer) headers['Referer'] = parsed.query.Referer;
-    if (parsed.query['User-Agent']) headers['User-Agent'] = parsed.query['User-Agent'];
+    const extraHeaders = {};
+    if (parsed.query.Referer) extraHeaders['Referer'] = parsed.query.Referer;
+    if (parsed.query['User-Agent']) extraHeaders['User-Agent'] = parsed.query['User-Agent'];
 
-    const opts = new url.URL(targetUrl);
+    try {
+      var opts = new url.URL(targetUrl);
+    } catch (e) {
+      res.writeHead(400, { 'Content-Type': 'text/plain' });
+      res.end('Invalid URL');
+      return;
+    }
+
+    const isHttps = opts.protocol === 'https:';
+    const transport = isHttps ? https : http;
+
     const options = {
       hostname: opts.hostname,
-      port: opts.port || 80,
+      port: opts.port || (isHttps ? 443 : 80),
       path: opts.pathname + opts.search,
       method: req.method,
       headers: {
-        ...headers,
         'Accept': '*/*',
         'Accept-Language': 'en-US,en;q=0.9',
-        'Range': req.headers['range'] || '',
-      }
+        ...extraHeaders,
+      },
+      timeout: 30000,
     };
 
-    const proxyReq = http.request(options, (proxyRes) => {
-      // Forward CORS headers
-      res.writeHead(proxyRes.statusCode, {
+    if (req.headers['range']) {
+      options.headers['Range'] = req.headers['range'];
+    }
+
+    const proxyReq = transport.request(options, (proxyRes) => {
+      const responseHeaders = {
         'Access-Control-Allow-Origin': '*',
         'Access-Control-Allow-Headers': '*',
+        'Access-Control-Expose-Headers': 'Content-Range, Accept-Ranges',
         'Content-Type': proxyRes.headers['content-type'] || 'video/mp2t',
-        'Content-Length': proxyRes.headers['content-length'] || '',
-        'Accept-Ranges': proxyRes.headers['accept-ranges'] || 'bytes',
-        'Content-Range': proxyRes.headers['content-range'] || '',
-      });
+      };
 
+      // Forward important headers if present
+      if (proxyRes.headers['content-length']) responseHeaders['Content-Length'] = proxyRes.headers['content-length'];
+      if (proxyRes.headers['accept-ranges']) responseHeaders['Accept-Ranges'] = proxyRes.headers['accept-ranges'];
+      if (proxyRes.headers['content-range']) responseHeaders['Content-Range'] = proxyRes.headers['content-range'];
+
+      res.writeHead(proxyRes.statusCode, responseHeaders);
       proxyRes.pipe(res, { end: true });
     });
 
@@ -66,9 +83,11 @@ const server = http.createServer((req, res) => {
       res.end('Proxy error: ' + err.message);
     });
 
-    if (req.headers['range']) {
-      proxyReq.setHeader('Range', req.headers['range']);
-    }
+    proxyReq.on('timeout', () => {
+      proxyReq.destroy();
+      res.writeHead(504, { 'Content-Type': 'text/plain' });
+      res.end('Proxy timeout');
+    });
 
     proxyReq.end();
     return;
@@ -78,7 +97,6 @@ const server = http.createServer((req, res) => {
   let filePath = path.join(__dirname, pathname === '/' ? 'index.html' : pathname);
   const ext = path.extname(filePath);
 
-  // Security: prevent directory traversal
   if (!filePath.startsWith(__dirname)) {
     res.writeHead(403);
     res.end('Forbidden');
@@ -102,10 +120,9 @@ const server = http.createServer((req, res) => {
 });
 
 server.listen(PORT, HOST, () => {
-  console.log(`\n  🖥  خادم بكر الجازي`);
-  console.log(`  ───────────────────`);
+  console.log(`\n  🖥  بكر الجازي | خادم البث`);
+  console.log(`  ───────────────────────`);
   console.log(`  الرابط: http://localhost:${PORT}`);
-  console.log(`  الشبكة: http://${require('os').hostname()}:${PORT}`);
   console.log(`  القنوات: ${getChannelCount()}`);
   console.log(`  اكتب Ctrl+C للإيقاف\n`);
 });
