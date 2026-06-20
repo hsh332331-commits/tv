@@ -948,7 +948,7 @@ function playChannel(idx) {
         return;
       }
       var tsUrl = proxyUrl(url, headers);
-      currentPlayer = new mpegts.Player({
+      currentPlayer = mpegts.createPlayer({
         type: 'mse',
         url: tsUrl,
         isLive: true,
