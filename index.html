@@ -970,7 +970,7 @@ var CHANNELS = [
     }
   }
 ];
-var CATEGORIES = ["Movie API"];
+var CATEGORIES = Array.from(new Set(CHANNELS.map(function(ch) { return ch.c || 'غير مصنف'; })));
 
 var activeCategory = 'الكل';
 var currentChannel = null;
@@ -981,6 +981,15 @@ var loadingChannel = -1;
 // Proxy URL builder
 var PROXY_BASE = '';
 
+function escapeHtml(value) {
+  return String(value == null ? '' : value)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
 function proxyUrl(url, headers) {
   if (!url) return '';
   var params = 'url=' + encodeURIComponent(url);
@@ -988,7 +997,8 @@ function proxyUrl(url, headers) {
     if (headers['Referer']) params += '&Referer=' + encodeURIComponent(headers['Referer']);
     if (headers['User-Agent']) params += '&User-Agent=' + encodeURIComponent(headers['User-Agent']);
   }
-  return (PROXY_BASE || '') + 'proxy?' + params;
+  var base = PROXY_BASE ? PROXY_BASE.replace(/\/?$/, '/') : '/';
+  return base + 'proxy?' + params;
 }
 
 function getQuality(n) {
@@ -1010,7 +1020,7 @@ function renderCategories() {
     var cat = CATEGORIES[i];
     var cnt = 0;
     for (var j = 0; j < CHANNELS.length; j++) { if (CHANNELS[j].c === cat) cnt++; }
-    h += '<button class="cat-btn" data-cat="' + cat.replace(/"/g, '&quot;') + '">' + cat + ' <span style="font-size:11px;opacity:0.7;">(' + cnt + ')</span></button>';
+    h += '<button class="cat-btn" data-cat="' + escapeHtml(cat) + '">' + escapeHtml(cat) + ' <span style="font-size:11px;opacity:0.7;">(' + cnt + ')</span></button>';
   }
   c.innerHTML = h;
   c.addEventListener('click', function(e) {
@@ -1032,7 +1042,7 @@ function filterChannels() {
     var ch = CHANNELS[i];
     if (activeCategory !== 'الكل' && ch.c !== activeCategory) continue;
     if (q !== '' && ch.n.toLowerCase().indexOf(q) < 0) continue;
-    f.push(ch);
+    f.push({ ch: ch, idx: i });
   }
   document.getElementById('totalCount').textContent = f.length;
   if (f.length === 0) {
@@ -1041,20 +1051,21 @@ function filterChannels() {
   }
   var html = '';
   for (var i = 0; i < f.length; i++) {
-    var ch = f[i];
+    var item = f[i];
+    var ch = item.ch;
     var qual = getQuality(ch.n);
     var st = getStreamType(ch.u);
     var hasH = ch.h && typeof ch.h === 'object' && Object.keys(ch.h).length > 0;
-    var logo = (ch.l || '').replace(/^http:/, 'https:') || 'data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22%3E%3Crect fill=%22%231a2235%22 width=%22100%22 height=%22100%22/%3E%3Ctext y=%22.9em%22 font-size=%2240%22 text-anchor=%22middle%22 x=%2250%22 y=%2265%22 fill=%22%2364748b%22%3E%F0%9F%93%BA%3C/text%3E%3C/svg%3E';
-    var nameEsc = ch.n.replace(/"/g, '&quot;');
-    html += '<div class="channel-card" data-idx="' + i + '">' +
+    var logo = escapeHtml((ch.l || '').replace(/^http:/, 'https:')) || 'data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22%3E%3Crect fill=%22%231a2235%22 width=%22100%22 height=%22100%22/%3E%3Ctext y=%22.9em%22 font-size=%2240%22 text-anchor=%22middle%22 x=%2250%22 y=%2265%22 fill=%22%2364748b%22%3E%F0%9F%93%BA%3C/text%3E%3C/svg%3E';
+    var nameEsc = escapeHtml(ch.n);
+    html += '<div class="channel-card" data-idx="' + item.idx + '">' +
       '<div class="channel-thumb"><img src="' + logo + '" alt="' + nameEsc + '" loading="lazy" onerror="this.src=\'data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22%3E%3Crect fill=%22%231a2235%22 width=%22100%22 height=%22100%22/%3E%3Ctext y=%22.9em%22 font-size=%2240%22 text-anchor=%22middle%22 x=%2250%22 y=%2265%22 fill=%22%2364748b%22%3E%F0%9F%93%BA%3C/text%3E%3C/svg%3E\'">' +
       '<div class="play-overlay"><i class="fas fa-play-circle"></i></div>' +
       (st ? '<span class="stream-type">' + st + '</span>' : '') +
       (hasH ? '<span class="header-badge"><i class="fas fa-shield-alt"></i></span>' : '') +
       (qual ? '<span class="quality-badge">' + qual + '</span>' : '') +
       '</div>' +
-      '<div class="channel-info"><div class="channel-name">' + ch.n + '</div>' + (qual ? '<div class="channel-quality">' + qual + '</div>' : '') + '</div></div>';
+      '<div class="channel-info"><div class="channel-name">' + nameEsc + '</div>' + (qual ? '<div class="channel-quality">' + escapeHtml(qual) + '</div>' : '') + '</div></div>';
   }
   g.innerHTML = html;
 }
@@ -1097,6 +1108,7 @@ function playChannel(idx) {
 
   destroyPlayer();
   overlay.classList.add('show');
+  status.style.display = '';
   status.classList.add('show');
   status.innerHTML = '<i class="fas fa-spinner fa-pulse"></i> جاري التحميل...';
   isRetrying = false;
@@ -1107,10 +1119,21 @@ function playChannel(idx) {
 
   try {
     if (isHls) {
+      var nativeHls = video.canPlayType('application/vnd.apple.mpegurl');
+      if (typeof Hls === 'undefined') {
+        if (nativeHls) {
+          video.src = proxyUrl(url, headers);
+          video.addEventListener('loadedmetadata', function() { status.classList.remove('show'); video.play().catch(function() {}); }, { once: true });
+          video.addEventListener('error', function() { status.innerHTML = 'تعذر التشغيل'; }, { once: true });
+        } else {
+          status.innerHTML = 'مكتبة HLS لم يتم تحميلها. تأكد من اتصال الإنترنت أو ضع hls.js محلياً.';
+        }
+        return;
+      }
       if (!Hls.isSupported()) {
-        if (video.canPlayType('application/vnd.apple.mpegurl')) {
-          video.src = url;
-          video.addEventListener('loadedmetadata', function() { status.style.display = 'none'; video.play().catch(function() {}); }, { once: true });
+        if (nativeHls) {
+          video.src = proxyUrl(url, headers);
+          video.addEventListener('loadedmetadata', function() { status.classList.remove('show'); video.play().catch(function() {}); }, { once: true });
           video.addEventListener('error', function() { status.innerHTML = 'تعذر التشغيل'; }, { once: true });
         } else {
           status.innerHTML = 'المتصفح لا يدعم البث';
@@ -1121,7 +1144,7 @@ function playChannel(idx) {
       currentPlayer = new Hls({ enableWorker: true, lowLatencyMode: false, backbufferLength: 30, maxBufferLength: 30, maxMaxBufferLength: 60 });
       currentPlayer.loadSource(hlsUrl);
       currentPlayer.attachMedia(video);
-      currentPlayer.on(Hls.Events.MANIFEST_PARSED, function() { if (loadingChannel !== idx) return; status.style.display = 'none'; video.play().catch(function() {}); });
+      currentPlayer.on(Hls.Events.MANIFEST_PARSED, function() { if (loadingChannel !== idx) return; status.classList.remove('show'); video.play().catch(function() {}); });
       currentPlayer.on(Hls.Events.ERROR, function(e, data) {
         if (loadingChannel !== idx) return;
         if (data.fatal) {
@@ -1152,10 +1175,10 @@ function playChannel(idx) {
       });
       currentPlayer.attachMediaElement(video);
       currentPlayer.on(mpegts.Events.RECOVERED_EARLY_EOF, function() {
-        if (loadingChannel !== idx) return; status.style.display = 'none';
+        if (loadingChannel !== idx) return; status.classList.remove('show');
       });
       currentPlayer.on(mpegts.Events.LOADING_COMPLETE, function() {
-        if (loadingChannel !== idx) return; status.style.display = 'none';
+        if (loadingChannel !== idx) return; status.classList.remove('show');
       });
       currentPlayer.on(mpegts.Events.ERROR, function(errType, errDetail) {
         if (loadingChannel !== idx) return;
@@ -1173,7 +1196,7 @@ function playChannel(idx) {
       currentPlayer.load();
       currentPlayer.play();
       video.play().then(function() {}).catch(function() {});
-      setTimeout(function() { if (status.style.display !== 'none') status.style.display = 'none'; }, 5000);
+      setTimeout(function() { if (status.classList.contains('show')) status.classList.remove('show'); }, 5000);
     }
   } catch (err) {
     status.innerHTML = 'حدث خطأ: ' + err.message;
@@ -1185,6 +1208,8 @@ function closePlayer() {
   document.getElementById('playerOverlay').classList.remove('show');
   destroyPlayer();
   currentChannel = null;
+  loadingChannel = -1;
+  document.getElementById('playerStatus').classList.remove('show');
   document.getElementById('playerStatus').style.display = '';
   document.getElementById('playerStatus').innerHTML = 'جاري التحميل...';
 }

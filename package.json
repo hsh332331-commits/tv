@@ -1,0 +1,13 @@
+{
+  "name": "tv-live-player",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Simple live TV player with local proxy for authorized HLS/TS streams.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
