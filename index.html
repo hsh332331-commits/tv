@@ -782,6 +782,7 @@ var activeCategory = 'الكل';
 var currentChannel = null;
 var currentPlayer = null;
 var isRetrying = false;
+var loadingChannel = -1;
 
 // Proxy URL builder
 var PROXY_BASE = '';
@@ -886,6 +887,7 @@ function destroyPlayer() {
 }
 
 function playChannel(idx) {
+  loadingChannel = idx;
   var ch = CHANNELS[idx];
   if (!ch || !ch.u) { showToast('عذراً، رابط هذه القناة غير متاح'); return; }
 
@@ -925,8 +927,9 @@ function playChannel(idx) {
       currentPlayer = new Hls({ enableWorker: true, lowLatencyMode: false, backbufferLength: 30, maxBufferLength: 30, maxMaxBufferLength: 60 });
       currentPlayer.loadSource(hlsUrl);
       currentPlayer.attachMedia(video);
-      currentPlayer.on(Hls.Events.MANIFEST_PARSED, function() { status.style.display = 'none'; video.play().catch(function() {}); });
+      currentPlayer.on(Hls.Events.MANIFEST_PARSED, function() { if (loadingChannel !== idx) return; status.style.display = 'none'; video.play().catch(function() {}); });
       currentPlayer.on(Hls.Events.ERROR, function(e, data) {
+        if (loadingChannel !== idx) return;
         if (data.fatal) {
           if (!isRetrying) {
             isRetrying = true;
@@ -955,12 +958,13 @@ function playChannel(idx) {
       });
       currentPlayer.attachMediaElement(video);
       currentPlayer.on(mpegts.Events.RECOVERED_EARLY_EOF, function() {
-        status.style.display = 'none';
+        if (loadingChannel !== idx) return; status.style.display = 'none';
       });
       currentPlayer.on(mpegts.Events.LOADING_COMPLETE, function() {
-        status.style.display = 'none';
+        if (loadingChannel !== idx) return; status.style.display = 'none';
       });
       currentPlayer.on(mpegts.Events.ERROR, function(errType, errDetail) {
+        if (loadingChannel !== idx) return;
         status.innerHTML = 'خطأ في البث (' + errType + ')<br><br><button class="retry-btn" onclick="playChannel(' + idx + ')">إعادة المحاولة</button>';
         if (!isRetrying) {
           isRetrying = true;
@@ -974,7 +978,7 @@ function playChannel(idx) {
       });
       currentPlayer.load();
       currentPlayer.play();
-      // Hide loading after 5s if still showing (stream likely playing)
+      video.play().then(function() {}).catch(function() {});
       setTimeout(function() { if (status.style.display !== 'none') status.style.display = 'none'; }, 5000);
     }
   } catch (err) {

@@ -41,8 +41,6 @@ const server = http.createServer((req, res) => {
       return;
     }
 
-    const isHttps = opts.protocol === 'https:';
-    const transport = isHttps ? https : http;
     let done = false;
 
     const options = {
@@ -56,20 +54,44 @@ const server = http.createServer((req, res) => {
 
     if (req.headers['range']) options.headers['Range'] = req.headers['range'];
 
-    const proxyReq = transport.request(options, (proxyRes) => {
-      if (done) return; done = true;
-      var h = {
-        'Access-Control-Allow-Origin': '*',
-        'Access-Control-Allow-Headers': '*',
-        'Access-Control-Expose-Headers': 'Content-Range, Accept-Ranges',
-        'Content-Type': proxyRes.headers['content-type'] || 'video/mp2t',
+    const followRedirect = (targetUrl, extraHeaders, depth) => {
+      if (depth > 5) { safeEnd(res, 502, 'Too many redirects'); return null; }
+      var opts;
+      try { opts = new URL(targetUrl); } catch (e) { safeEnd(res, 400, 'Invalid redirect URL'); return null; }
+      const isHttps = opts.protocol === 'https:';
+      const transport = isHttps ? https : http;
+      const opt = {
+        hostname: opts.hostname, port: opts.port || (isHttps ? 443 : 80),
+        path: opts.pathname + opts.search, method: 'GET',
+        headers: { 'Accept': '*/*', ...extraHeaders }, timeout: 30000,
       };
-      if (proxyRes.headers['content-length']) h['Content-Length'] = proxyRes.headers['content-length'];
-      if (proxyRes.headers['accept-ranges']) h['Accept-Ranges'] = proxyRes.headers['accept-ranges'];
-      if (proxyRes.headers['content-range']) h['Content-Range'] = proxyRes.headers['content-range'];
-      res.writeHead(proxyRes.statusCode, h);
-      proxyRes.pipe(res, { end: true });
-    });
+      if (req.headers['Range']) opt.headers['Range'] = req.headers['Range'];
+      const req2 = transport.request(opt, (proxyRes) => {
+        if (proxyRes.statusCode >= 300 && proxyRes.statusCode < 400 && proxyRes.headers.location) {
+          var loc = proxyRes.headers.location;
+          if (!loc.startsWith('http')) loc = new URL(loc, targetUrl).href;
+          followRedirect(loc, extraHeaders, depth + 1);
+        } else {
+          if (done) return; done = true;
+          var h = {
+            'Access-Control-Allow-Origin': '*',
+            'Access-Control-Allow-Headers': '*',
+            'Access-Control-Expose-Headers': 'Content-Range, Accept-Ranges',
+            'Content-Type': proxyRes.headers['content-type'] || 'video/mp2t',
+          };
+          if (proxyRes.headers['content-length']) h['Content-Length'] = proxyRes.headers['content-length'];
+          if (proxyRes.headers['accept-ranges']) h['Accept-Ranges'] = proxyRes.headers['accept-ranges'];
+          if (proxyRes.headers['content-range']) h['Content-Range'] = proxyRes.headers['content-range'];
+          res.writeHead(proxyRes.statusCode, h);
+          proxyRes.pipe(res, { end: true });
+        }
+      });
+      req2.on('error', (err) => { if (done) return; done = true; safeEnd(res, 502, 'Proxy error: ' + err.message); });
+      req2.on('timeout', () => { req2.destroy(); if (done) return; done = true; safeEnd(res, 504, 'Proxy timeout'); });
+      req2.end();
+      return req2;
+    };
+    followRedirect(targetUrl, extraHeaders, 0);
 
     proxyReq.on('error', (err) => {
       if (done) return; done = true;
