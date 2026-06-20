@@ -92,19 +92,6 @@ const server = http.createServer((req, res) => {
       return req2;
     };
     followRedirect(targetUrl, extraHeaders, 0);
-
-    proxyReq.on('error', (err) => {
-      if (done) return; done = true;
-      safeEnd(res, 502, 'Proxy error: ' + err.message);
-    });
-
-    proxyReq.on('timeout', () => {
-      proxyReq.destroy();
-      if (done) return; done = true;
-      safeEnd(res, 504, 'Proxy timeout');
-    });
-
-    proxyReq.end();
     return;
   }
 
