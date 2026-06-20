@@ -134,7 +134,7 @@ function rewriteM3U8(playlist, baseUrl, extraHeaders) {
 }
 
 const { PassThrough } = require('stream');
-const STREAM_BUFFER_SIZE = 512 * 1024;
+const STREAM_BUFFER_SIZE = 1024 * 1024;
 
 function proxyRequest(req, res, targetUrl, extraHeaders, depth = 0, retryCount = 0) {
   if (depth > MAX_REDIRECTS) {
@@ -225,8 +225,8 @@ function proxyRequest(req, res, targetUrl, extraHeaders, depth = 0, retryCount =
       const preBuffer = [];
       let preSize = 0;
       let preTimer = null;
-      const MIN_PREBUFFER = 32 * 1024;
-      const MAX_PREWAIT = 1000;
+      const MIN_PREBUFFER = 16 * 1024;
+      const MAX_PREWAIT = 500;
 
       function flushPrebuffer() {
         if (preTimer) clearTimeout(preTimer);

@@ -1412,17 +1412,14 @@ function playHls(idx, token, url, headers) {
 
 function playTs(idx, token, url, headers) {
   if (typeof mpegts === 'undefined' || !mpegts.isSupported()) { showStreamFailure(idx, 'المتصفح لا يدعم تشغيل TS عبر MSE.'); return; }
-  var warmupChunks = 0;
   var warmupTimer = null;
-  var warmupStarted = false;
 
   currentPlayer = mpegts.createPlayer({ type: 'mse', url: proxyUrl(url, headers), isLive: true }, {
     enableWorker: true,
-    enableStashBuffer: true,
-    stashInitialSize: 1024,
+    enableStashBuffer: false,
     liveBufferLatencyChasing: true,
     lazyLoad: true,
-    lazyMaxLatency: 15,
+    lazyMaxLatency: 10,
     lazyReconnect: 5,
     fixAudioTimestampGap: true
   });
@@ -1436,10 +1433,7 @@ function playTs(idx, token, url, headers) {
 
   currentPlayer.on(mpegts.Events.ERROR, function(errType, errDetail) {
     if (token !== playToken) return;
-    if (!warmupStarted) {
-      warmupStarted = true;
-      if (warmupTimer) { clearTimeout(warmupTimer); warmupTimer = null; }
-    }
+    if (warmupTimer) { clearTimeout(warmupTimer); warmupTimer = null; }
     if (errType === mpegts.ErrorTypes.NETWORK_ERROR && token === playToken && !isRetrying) {
       isRetrying = true;
       showStatus('انقطع الاتصال، إعادة محاولة...', true);
@@ -1455,43 +1449,28 @@ function playTs(idx, token, url, headers) {
     showStreamFailure(idx, 'خطأ في البث (' + errType + ')');
   });
 
-  currentPlayer.on(mpegts.Events.STATISTICS_INFO, function(stats) {
-    if (token !== playToken) return;
-    if (!warmupStarted && stats && stats.speed && stats.speed > 0) {
-      warmupChunks++;
-      if (warmupChunks > 2) {
-        warmupStarted = true;
-        if (warmupTimer) { clearTimeout(warmupTimer); warmupTimer = null; }
-        hideStatus();
-      }
-    }
-  });
-
   currentPlayer.load();
+
+  var p = currentPlayer.play();
+  if (p && p.catch) p.catch(function() {});
 
   var buffCheck = setInterval(function() {
     if (token !== playToken) { clearInterval(buffCheck); return; }
     try {
       var b = els.video.buffered;
-      if (b && b.length > 0 && b.end(b.length - 1) > 3) {
+      if (b && b.length > 0 && b.end(b.length - 1) > 0.5) {
         clearInterval(buffCheck);
-        warmupStarted = true;
         if (warmupTimer) { clearTimeout(warmupTimer); warmupTimer = null; }
         hideStatus();
-        var p = currentPlayer.play();
-        if (p && p.catch) p.catch(function() {});
       }
     } catch(e) {}
-  }, 500);
+  }, 200);
 
   warmupTimer = setTimeout(function() {
     if (token !== playToken) return;
     clearInterval(buffCheck);
-    warmupStarted = true;
     hideStatus();
-    var p = currentPlayer.play();
-    if (p && p.catch) p.catch(function() {});
-  }, 10000);
+  }, 5000);
 }
 
 function safeVideoPlay(token) {
