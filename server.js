@@ -224,13 +224,13 @@ function proxyRequest(req, res, targetUrl, extraHeaders, depth = 0, retryCount =
     if (isStreamContent && statusCode === 200 && !proxyRes.headers['content-length']) {
       const preBuffer = [];
       let preSize = 0;
-      let preTimer = null;
+      let flushed = false;
       const MIN_PREBUFFER = 16 * 1024;
       const MAX_PREWAIT = 500;
 
       function flushPrebuffer() {
-        if (preTimer) clearTimeout(preTimer);
-        preTimer = null;
+        if (flushed) return;
+        flushed = true;
         if (!res.headersSent) res.writeHead(statusCode, responseHeaders);
         for (let i = 0; i < preBuffer.length; i++) res.write(preBuffer[i]);
         preBuffer.length = 0;
@@ -241,18 +241,17 @@ function proxyRequest(req, res, targetUrl, extraHeaders, depth = 0, retryCount =
       }
 
       proxyRes.on('data', (chunk) => {
-        if (preTimer === null && preSize < MIN_PREBUFFER) {
+        if (!flushed && preSize < MIN_PREBUFFER) {
           preBuffer.push(chunk);
           preSize += chunk.length;
           if (preSize >= MIN_PREBUFFER) flushPrebuffer();
         }
       });
 
-      preTimer = setTimeout(flushPrebuffer, MAX_PREWAIT);
+      setTimeout(flushPrebuffer, MAX_PREWAIT);
 
       proxyRes.on('end', () => {
-        if (preTimer !== null) {
-          clearTimeout(preTimer);
+        if (!flushed) {
           if (!res.headersSent) res.writeHead(statusCode, responseHeaders);
           for (let i = 0; i < preBuffer.length; i++) res.write(preBuffer[i]);
           try { if (!res.writableEnded) res.end(); } catch (_) {}
@@ -264,10 +263,7 @@ function proxyRequest(req, res, targetUrl, extraHeaders, depth = 0, retryCount =
       });
 
       proxyRes.on('close', () => {
-        // Only act if prebuffer hasn't been flushed yet — after flush, the PassThrough pipe handles end.
-        if (preTimer !== null) {
-          clearTimeout(preTimer);
-          preTimer = null;
+        if (!flushed) {
           if (!res.headersSent) res.writeHead(statusCode, responseHeaders);
           for (let i = 0; i < preBuffer.length; i++) res.write(preBuffer[i]);
           try { if (!res.writableEnded) res.end(); } catch (_) {}
