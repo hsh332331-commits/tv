@@ -225,8 +225,8 @@ function proxyRequest(req, res, targetUrl, extraHeaders, depth = 0, retryCount =
       const preBuffer = [];
       let preSize = 0;
       let preTimer = null;
-      const MIN_PREBUFFER = 256 * 1024;
-      const MAX_PREWAIT = 5000;
+      const MIN_PREBUFFER = 64 * 1024;
+      const MAX_PREWAIT = 2500;
 
       function flushPrebuffer() {
         if (preTimer) clearTimeout(preTimer);
