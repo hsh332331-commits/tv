@@ -948,10 +948,10 @@ function playChannel(idx) {
         return;
       }
       var tsUrl = proxyUrl(url, headers);
-      currentPlayer = new mpegts.Player(video, {
+      currentPlayer = new mpegts.Player({
+        type: 'mse',
         url: tsUrl,
         isLive: true,
-        type: 'mse',
         lazyMaxLatency: 30,
         lazyReconnect: 5,
         liveBufferLatencyChasing: true,
@@ -959,11 +959,8 @@ function playChannel(idx) {
       });
       currentPlayer.attachMediaElement(video);
       currentPlayer.load();
-      currentPlayer.play().then(function() {
-        status.style.display = 'none';
-      }).catch(function() {
-        status.innerHTML = 'تعذر التشغيل';
-      });
+      currentPlayer.play();
+      status.style.display = 'none';
       currentPlayer.on(mpegts.Events.ERROR, function(errType, errDetail) {
         if (!isRetrying) {
           isRetrying = true;
