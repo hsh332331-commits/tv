@@ -1413,10 +1413,12 @@ function playHls(idx, token, url, headers) {
 function playTs(idx, token, url, headers) {
   if (typeof mpegts === 'undefined' || !mpegts.isSupported()) { showStreamFailure(idx, 'المتصفح لا يدعم تشغيل TS عبر MSE.'); return; }
   var warmupTimer = null;
+  var started = false;
 
   currentPlayer = mpegts.createPlayer({ type: 'mse', url: proxyUrl(url, headers), isLive: true }, {
     enableWorker: true,
-    enableStashBuffer: false,
+    enableStashBuffer: true,
+    stashInitialSize: 256,
     liveBufferLatencyChasing: true,
     lazyLoad: true,
     lazyMaxLatency: 10,
@@ -1451,17 +1453,17 @@ function playTs(idx, token, url, headers) {
 
   currentPlayer.load();
 
-  var p = currentPlayer.play();
-  if (p && p.catch) p.catch(function() {});
-
   var buffCheck = setInterval(function() {
     if (token !== playToken) { clearInterval(buffCheck); return; }
     try {
       var b = els.video.buffered;
-      if (b && b.length > 0 && b.end(b.length - 1) > 0.5) {
+      if (!started && b && b.length > 0 && b.end(b.length - 1) > 0.5) {
+        started = true;
         clearInterval(buffCheck);
         if (warmupTimer) { clearTimeout(warmupTimer); warmupTimer = null; }
         hideStatus();
+        var p = currentPlayer.play();
+        if (p && p.catch) p.catch(function() {});
       }
     } catch(e) {}
   }, 200);
@@ -1469,7 +1471,10 @@ function playTs(idx, token, url, headers) {
   warmupTimer = setTimeout(function() {
     if (token !== playToken) return;
     clearInterval(buffCheck);
+    started = true;
     hideStatus();
+    var p = currentPlayer.play();
+    if (p && p.catch) p.catch(function() {});
   }, 5000);
 }
 
