@@ -1,0 +1,20 @@
+[
+  {
+    "namear": "Diema 2",
+    "servers": "[{\"headers\":\"user-agent|stream|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"stream\",\"position\":\"0\",\"url\":\"http://93.155.227.38/m3u8/diemasport2hd.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Diema_Sport_HD_logo.png",
+    "nameen": "Diema 2",
+    "position": "1",
+    "type": "channel",
+    "key": "diema_sport"
+  },
+  {
+    "namear": "Diema 3",
+    "servers": "[{\"headers\":\"Referer|stream|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"stream\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://93.155.227.38/m3u8/diemasport3hd.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Diema_Sport_HD_logo.png",
+    "nameen": "Diema 3",
+    "position": "2",
+    "type": "channel",
+    "key": "diema_sport"
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "namear": "Cartoon Network AR",
+    "servers": "[{\"headers\":\"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36user-Agent|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36user-Agent|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36user-Agent|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36\",\"otherHeaders\":\"\",\"name\":\"Cartoon Network AR\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36user-Agent|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36\",\"position\":\"0\",\"url\":\"https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_3.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12137240_ico.png",
+    "nameen": "Cartoon Network AR",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarbein_entertai"
+  },
+  {
+    "namear": "Bein Movies 1",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Bein Movies 1\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/53.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12164150_ico.png",
+    "nameen": "Bein Movies 1",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarbein_entertai"
+  },
+  {
+    "namear": "Bein Movies 2",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Bein Movies 2\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/54.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12164159_ico.png",
+    "nameen": "Bein Movies 2",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarbein_entertai"
+  },
+  {
+    "namear": "Bein Movies 3",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Bein Movies 3\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/55.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12164164_ico.png",
+    "nameen": "Bein Movies 3",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarbein_entertai"
+  },
+  {
+    "namear": "Bein Movies 4",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Bein Movies 4\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/56.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12164175_ico.png",
+    "nameen": "Bein Movies 4",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarbein_entertai"
+  },
+  {
+    "namear": "Bein Series 1",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Bein Series 1\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/58.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12164180_ico.png",
+    "nameen": "Bein Series 1",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarbein_entertai"
+  },
+  {
+    "namear": "Bein Series 2",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Bein Series 2\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/59.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12164189_ico.png",
+    "nameen": "Bein Series 2",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarbein_entertai"
+  },
+  {
+    "namear": "Bein Drama",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Bein Drama\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/57.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12164198_ico.png",
+    "nameen": "Bein Drama",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarbein_entertai"
+  },
+  {
+    "namear": "Bein Fatafeat",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"Bein Fatafeat\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/214\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12164204_ico.png",
+    "nameen": "Bein Fatafeat",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarbein_entertai"
+  },
+  {
+    "namear": "Bein Gourmet",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Bein Gourmet\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/111\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12164209_ico.png",
+    "nameen": "Bein Gourmet",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadrarbein_entertai"
+  },
+  {
+    "namear": "BeIN Jeem",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"BeIN Jeem\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/64.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7575028_ico.png",
+    "nameen": "BeIN Jeem",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidadrarbein_entertai"
+  },
+  {
+    "namear": "Bein Baraeem",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Bein Baraeem\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/63.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7574984_ico.png",
+    "nameen": "Bein Baraeem",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidadrarbein_entertai"
+  },
+  {
+    "namear": "Bein Boomerang",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Bein Boomerang\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/116\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/399185_ico.png",
+    "nameen": "Bein Boomerang",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidadrarbein_entertai"
+  },
+  {
+    "namear": "beIN Dreamwork",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"beIN Dreamwork\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/119\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2325082_ico.png",
+    "nameen": "beIN Dreamwork",
+    "position": "13",
+    "type": "channel",
+    "key": "windroidadrarbein_entertai"
+  },
+  {
+    "namear": "beIN Junior",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"beIN Junior\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/118\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2325002_ico.png",
+    "nameen": "beIN Junior",
+    "position": "14",
+    "type": "channel",
+    "key": "windroidadrarbein_entertai"
+  },
+  {
+    "namear": "beIN DTX",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"beIN DTX\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/117\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26522832_ico.png",
+    "nameen": "beIN DTX",
+    "position": "15",
+    "type": "channel",
+    "key": "windroidadrarbein_entertai"
+  },
+  {
+    "namear": "beIN Outdoor",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"beIN Outdoor\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/108\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/3350587_ico.png",
+    "nameen": "beIN Outdoor",
+    "position": "16",
+    "type": "channel",
+    "key": "windroidadrarbein_entertai"
+  },
+  {
+    "namear": "beIN AMC",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"beIN AMC\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/109\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/3350597_ico.png",
+    "nameen": "beIN AMC",
+    "position": "17",
+    "type": "channel",
+    "key": "windroidadrarbein_entertai"
+  },
+  {
+    "namear": "BOXOFFICE 1",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"BOXOFFICE 1\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/121\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26522822_ico.png",
+    "nameen": "BOXOFFICE 1",
+    "position": "18",
+    "type": "channel",
+    "key": "windroidadrarbein_entertai"
+  },
+  {
+    "namear": "BOXOFFICE 2",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"BOXOFFICE 2\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/122\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26522827_ico.png",
+    "nameen": "BOXOFFICE 2",
+    "position": "19",
+    "type": "channel",
+    "key": "windroidadrarbein_entertai"
+  },
+  {
+    "namear": "BOXOFFICE 3",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"BOXOFFICE 3\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/123\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26522829_ico.png",
+    "nameen": "BOXOFFICE 3",
+    "position": "20",
+    "type": "channel",
+    "key": "windroidadrarbein_entertai"
+  },
+  {
+    "namear": "Fox Rewayat",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"Fox Rewayat\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/217\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12163870_ico.png",
+    "nameen": "Fox Rewayat",
+    "position": "21",
+    "type": "channel",
+    "key": "windroidadrarbein_entertai"
+  },
+  {
+    "namear": "Fox Movies",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"Fox Movies\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/220\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12163875_ico.png",
+    "nameen": "Fox Movies",
+    "position": "22",
+    "type": "channel",
+    "key": "windroidadrarbein_entertai"
+  },
+  {
+    "namear": "Fox Action",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Fox Action\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/61.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12163885_ico.png",
+    "nameen": "Fox Action",
+    "position": "23",
+    "type": "channel",
+    "key": "windroidadrarbein_entertai"
+  },
+  {
+    "namear": "Fox Crime",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"Fox Crime\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/216\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12163888_ico.png",
+    "nameen": "Fox Crime",
+    "position": "24",
+    "type": "channel",
+    "key": "windroidadrarbein_entertai"
+  },
+  {
+    "namear": "Fox Life",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"Fox Life\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/215\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18467547_ico.png",
+    "nameen": "Fox Life",
+    "position": "25",
+    "type": "channel",
+    "key": "windroidadrarbein_entertai"
+  },
+  {
+    "namear": "Bein Movies 1*",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Bein Movies 1*\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/102\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7574897_ico.png",
+    "nameen": "Bein Movies 1*",
+    "position": "26",
+    "type": "channel",
+    "key": "windroidadrarbein_entertai"
+  },
+  {
+    "namear": "Bein Movies 2*",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Bein Movies 2*\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/103\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7574906_ico.png",
+    "nameen": "Bein Movies 2*",
+    "position": "27",
+    "type": "channel",
+    "key": "windroidadrarbein_entertai"
+  },
+  {
+    "namear": "Bein Movies 3*",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Bein Movies 3*\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/104\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7574914_ico.png",
+    "nameen": "Bein Movies 3*",
+    "position": "28",
+    "type": "channel",
+    "key": "windroidadrarbein_entertai"
+  },
+  {
+    "namear": "Bein Movies 4*",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Bein Movies 4*\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/105\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7574926_ico.png",
+    "nameen": "Bein Movies 4*",
+    "position": "29",
+    "type": "channel",
+    "key": "windroidadrarbein_entertai"
+  },
+  {
+    "namear": "BeIN Series 1*",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"BeIN Series 1*\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/210\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7574933_ico.png",
+    "nameen": "BeIN Series 1*",
+    "position": "30",
+    "type": "channel",
+    "key": "windroidadrarbein_entertai"
+  },
+  {
+    "namear": "BeIN Series 2*",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"BeIN Series 2*\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/211\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7574945_ico.png",
+    "nameen": "BeIN Series 2*",
+    "position": "31",
+    "type": "channel",
+    "key": "windroidadrarbein_entertai"
+  },
+  {
+    "namear": "Bein Drama*",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"Bein Drama*\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/212\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/8099894_ico.png",
+    "nameen": "Bein Drama*",
+    "position": "32",
+    "type": "channel",
+    "key": "windroidadrarbein_entertai"
+  },
+  {
+    "namear": "Bein Fatafeat*",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Bein Fatafeat*\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/114\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7575155_ico.png",
+    "nameen": "Bein Fatafeat*",
+    "position": "33",
+    "type": "channel",
+    "key": "windroidadrarbein_entertai"
+  },
+  {
+    "namear": "Jeem*",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Jeem*\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/112\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12164441_ico.png",
+    "nameen": "Jeem*",
+    "position": "34",
+    "type": "channel",
+    "key": "windroidadrarbein_entertai"
+  },
+  {
+    "namear": "Baraeem*",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Baraeem*\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/115\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12164458_ico.png",
+    "nameen": "Baraeem*",
+    "position": "35",
+    "type": "channel",
+    "key": "windroidadrarbein_entertai"
+  }
+]

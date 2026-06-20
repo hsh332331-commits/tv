@@ -1,0 +1,326 @@
+[
+  {
+    "namear": "Libya 218 News (1080p) [Pas 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Libya 218 News (1080p) [Pas 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://95.85.47.43/libya218news/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Libya 218 News (1080p) [Pas 24/7]",
+    "position": "1",
+    "type": "channel",
+    "key": "lybietv"
+  },
+  {
+    "namear": "[Libya] Libya Al Ahrar TV",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Libya] Libya Al Ahrar TV\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2319\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Libya] Libya Al Ahrar TV",
+    "position": "1",
+    "type": "channel",
+    "key": "lybietv"
+  },
+  {
+    "namear": "Alwasat TV (1080p) [Pas 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Alwasat TV (1080p) [Pas 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://hiplayer.hibridcdn.net/p/alwasattv-live.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Alwasat TV (1080p) [Pas 24/7]",
+    "position": "2",
+    "type": "channel",
+    "key": "lybietv"
+  },
+  {
+    "namear": "[Libya] LIBYA ALHADATH",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Libya] LIBYA ALHADATH\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2318\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Libya] LIBYA ALHADATH",
+    "position": "2",
+    "type": "channel",
+    "key": "lybietv"
+  },
+  {
+    "namear": "Alwasat TV (1080p) [Pas 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Alwasat TV (1080p) [Pas 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://alwasat.ly/live\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Alwasat TV (1080p) [Pas 24/7]",
+    "position": "3",
+    "type": "channel",
+    "key": "lybietv"
+  },
+  {
+    "namear": "[Libya] AL_JAMAHIRIA_TV",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Libya] AL_JAMAHIRIA_TV\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2317\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Libya] AL_JAMAHIRIA_TV",
+    "position": "3",
+    "type": "channel",
+    "key": "lybietv"
+  },
+  {
+    "namear": "Février TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Février TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Février TV",
+    "position": "4",
+    "type": "channel",
+    "key": "lybietv"
+  },
+  {
+    "namear": "[Libya] Libya Alrasmia",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Libya] Libya Alrasmia\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2316\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Libya] Libya Alrasmia",
+    "position": "4",
+    "type": "channel",
+    "key": "lybietv"
+  },
+  {
+    "namear": "Jamahiria TV (480p) [Pas 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Jamahiria TV (480p) [Pas 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://master.starmena-cloud.com/hls/jam.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Jamahiria TV (480p) [Pas 24/7]",
+    "position": "5",
+    "type": "channel",
+    "key": "lybietv"
+  },
+  {
+    "namear": "[Libya] Libya Sport Channel",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Libya] Libya Sport Channel\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2315\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Libya] Libya Sport Channel",
+    "position": "5",
+    "type": "channel",
+    "key": "lybietv"
+  },
+  {
+    "namear": "Libya Al Ahrar TV (720p) [Pas 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Libya Al Ahrar TV (720p) [Pas 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://video.zidivo.com/live983/GrtjM_FNGC/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Libya Al Ahrar TV (720p) [Pas 24/7]",
+    "position": "6",
+    "type": "channel",
+    "key": "lybietv"
+  },
+  {
+    "namear": "[Libya] LIBYA TV",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Libya] LIBYA TV\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2314\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Libya] LIBYA TV",
+    "position": "6",
+    "type": "channel",
+    "key": "lybietv"
+  },
+  {
+    "namear": "Libya Al Hadath (576p) [Pas 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Libya Al Hadath (576p) [Pas 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://82.212.74.100:8000/live/8103.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Libya Al Hadath (576p) [Pas 24/7]",
+    "position": "7",
+    "type": "channel",
+    "key": "lybietv"
+  },
+  {
+    "namear": "[Libya] Libyaelwatan",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Libya] Libyaelwatan\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2313\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Libya] Libyaelwatan",
+    "position": "7",
+    "type": "channel",
+    "key": "lybietv"
+  },
+  {
+    "namear": "Tanasuh (720p) [Pas 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Tanasuh (720p) [Pas 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://www.youtube.com/channel/UCRaoHR6b3zViY9QxfgFNntQ/live\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Tanasuh (720p) [Pas 24/7]",
+    "position": "8",
+    "type": "channel",
+    "key": "lybietv"
+  },
+  {
+    "namear": "[Libya] LIBYA_TELEVISION",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Libya] LIBYA_TELEVISION\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2312\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Libya] LIBYA_TELEVISION",
+    "position": "8",
+    "type": "channel",
+    "key": "lybietv"
+  },
+  {
+    "namear": "[Libya] Libyih TV",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Libya] Libyih TV\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2311\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Libya] Libyih TV",
+    "position": "9",
+    "type": "channel",
+    "key": "lybietv"
+  },
+  {
+    "namear": "[Libya] TANASUH LIBYA",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Libya] TANASUH LIBYA\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2310\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Libya] TANASUH LIBYA",
+    "position": "10",
+    "type": "channel",
+    "key": "lybietv"
+  },
+  {
+    "namear": "mourabitoun",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"mourabitoun\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2309\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "mourabitoun",
+    "position": "11",
+    "type": "channel",
+    "key": "lybietv"
+  },
+  {
+    "namear": "Libya Sport 2 HD",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"Libya Sport 2 HD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2308\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Libya Sport 2 HD",
+    "position": "12",
+    "type": "channel",
+    "key": "lybietv"
+  },
+  {
+    "namear": "[Libya] Libya Channel HD",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Libya] Libya Channel HD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2307\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Libya] Libya Channel HD",
+    "position": "13",
+    "type": "channel",
+    "key": "lybietv"
+  },
+  {
+    "namear": "[Libya] Libya_WTV",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Libya] Libya_WTV\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2334\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Libya] Libya_WTV",
+    "position": "14",
+    "type": "channel",
+    "key": "lybietv"
+  },
+  {
+    "namear": "[Libya] Salam TV",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Libya] Salam TV\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2333\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Libya] Salam TV",
+    "position": "15",
+    "type": "channel",
+    "key": "lybietv"
+  },
+  {
+    "namear": "[Libya] LIBYA_WAAD_FM",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Libya] LIBYA_WAAD_FM\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2332\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Libya] LIBYA_WAAD_FM",
+    "position": "16",
+    "type": "channel",
+    "key": "lybietv"
+  },
+  {
+    "namear": "[Libya] LIBYA_PANORAMA_SD",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Libya] LIBYA_PANORAMA_SD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2331\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Libya] LIBYA_PANORAMA_SD",
+    "position": "17",
+    "type": "channel",
+    "key": "lybietv"
+  },
+  {
+    "namear": "[Libya] Libya_Febrayer",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Libya] Libya_Febrayer\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2330\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Libya] Libya_Febrayer",
+    "position": "18",
+    "type": "channel",
+    "key": "lybietv"
+  },
+  {
+    "namear": "[LIBYA] LIBYA_ALMUSTAQBAL_HD",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[LIBYA] LIBYA_ALMUSTAQBAL_HD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2329\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[LIBYA] LIBYA_ALMUSTAQBAL_HD",
+    "position": "19",
+    "type": "channel",
+    "key": "lybietv"
+  },
+  {
+    "namear": "[Libya] Abnaa Al Balad",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Libya] Abnaa Al Balad\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2328\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Libya] Abnaa Al Balad",
+    "position": "20",
+    "type": "channel",
+    "key": "lybietv"
+  },
+  {
+    "namear": "[Libya] Libya Al Naga TV",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Libya] Libya Al Naga TV\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2327\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Libya] Libya Al Naga TV",
+    "position": "21",
+    "type": "channel",
+    "key": "lybietv"
+  },
+  {
+    "namear": "[Libya] Libya Abnaa Al Balad",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Libya] Libya Abnaa Al Balad\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2326\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Libya] Libya Abnaa Al Balad",
+    "position": "22",
+    "type": "channel",
+    "key": "lybietv"
+  },
+  {
+    "namear": "[Libya] Libya Education",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Libya] Libya Education\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2325\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Libya] Libya Education",
+    "position": "23",
+    "type": "channel",
+    "key": "lybietv"
+  },
+  {
+    "namear": "[Libya] Libya Alwataniya",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Libya] Libya Alwataniya\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2324\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Libya] Libya Alwataniya",
+    "position": "24",
+    "type": "channel",
+    "key": "lybietv"
+  },
+  {
+    "namear": "[Libya] ETIHAD TV",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Libya] ETIHAD TV\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2323\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Libya] ETIHAD TV",
+    "position": "25",
+    "type": "channel",
+    "key": "lybietv"
+  },
+  {
+    "namear": "[Libya] Mawda TV",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Libya] Mawda TV\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2322\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Libya] Mawda TV",
+    "position": "26",
+    "type": "channel",
+    "key": "lybietv"
+  },
+  {
+    "namear": "[Libya] LIBYA 218",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Libya] LIBYA 218\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2321\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Libya] LIBYA 218",
+    "position": "27",
+    "type": "channel",
+    "key": "lybietv"
+  },
+  {
+    "namear": "[Libya] Libya 218 News",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Libya] Libya 218 News\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2320\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Libya] Libya 218 News",
+    "position": "28",
+    "type": "channel",
+    "key": "lybietv"
+  }
+]

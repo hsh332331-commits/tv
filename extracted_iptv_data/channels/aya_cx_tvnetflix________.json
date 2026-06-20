@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "NF Turkish AR",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8\"}]",
+    "logo": "https://up6.cc/2025/04/174423127491341.jpg",
+    "nameen": "NF Turkish AR",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvnetflix_نيتفلكس"
+  },
+  {
+    "namear": "NF Action",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8\"}]",
+    "logo": "https://up6.cc/2025/04/174423127491341.jpg",
+    "nameen": "NF Action",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvnetflix_نيتفلكس"
+  },
+  {
+    "namear": "NF Box Office",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8\"}]",
+    "logo": "https://up6.cc/2025/04/174423127491341.jpg",
+    "nameen": "NF Box Office",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvnetflix_نيتفلكس"
+  },
+  {
+    "namear": "NF Drama",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8\"}]",
+    "logo": "https://up6.cc/2025/04/174423127491341.jpg",
+    "nameen": "NF Drama",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvnetflix_نيتفلكس"
+  },
+  {
+    "namear": "NF Thriller",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8\"}]",
+    "logo": "https://up6.cc/2025/04/174423127491341.jpg",
+    "nameen": "NF Thriller",
+    "position": "6",
+    "type": "channel",
+    "key": "aya_cx_tvnetflix_نيتفلكس"
+  }
+]

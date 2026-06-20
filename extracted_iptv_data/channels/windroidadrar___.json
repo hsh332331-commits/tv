@@ -1,0 +1,191 @@
+[
+  {
+    "namear": "Assadissa",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Assadissa\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_1500000\\u003d4-mp4a_130400_qad\\u003d1.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9553306_ico.png",
+    "nameen": "Assadissa",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarدين"
+  },
+  {
+    "namear": "Nabaa TV",
+    "servers": "[{\"headers\":\"YYuser-Agent|YYuser-Agent|YYuser-Agent|YY\",\"otherHeaders\":\"\",\"name\":\"Nabaa TV\",\"Referer\":\"\",\"userAgent\":\"YYuser-Agent|YY\",\"position\":\"0\",\"url\":\"https://5dc7d824154d0.streamlock.net/live/Nabaa/chunklist.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12126485_ico.png",
+    "nameen": "Nabaa TV",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarدين"
+  },
+  {
+    "namear": "Noor Al-Sham",
+    "servers": "[{\"headers\":\"SSuser-Agent|SSuser-Agent|SSuser-Agent|SS\",\"otherHeaders\":\"\",\"name\":\"Noor Al-Sham\",\"Referer\":\"\",\"userAgent\":\"SSuser-Agent|SS\",\"position\":\"0\",\"url\":\"http://vod.ortas.sy:1935/oTv/nour05042022/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12131065_ico.png",
+    "nameen": "Noor Al-Sham",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarدين"
+  },
+  {
+    "namear": "Imam Hussein TV 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Imam Hussein TV 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://fa.imamhusseintv.com/live/ih1.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12132130_ico.png",
+    "nameen": "Imam Hussein TV 1",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarدين"
+  },
+  {
+    "namear": "Imam Hussein TV 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Imam Hussein TV 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ar.imamhusseintv.com/live/ih2.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12132139_ico.png",
+    "nameen": "Imam Hussein TV 2",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarدين"
+  },
+  {
+    "namear": "Imam Hussein TV 3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Imam Hussein TV 3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://en.imamhusseintv.com/live/ih3.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12132144_ico.png",
+    "nameen": "Imam Hussein TV 3",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarدين"
+  },
+  {
+    "namear": "Imam Hussein TV 4",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Imam Hussein TV 4\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live.imamhossaintv.com/live/ih4.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12166004_ico.png",
+    "nameen": "Imam Hussein TV 4",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarدين"
+  },
+  {
+    "namear": "Kuwait Ethraa",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Kuwait Ethraa\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/6864.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12134537_ico.png",
+    "nameen": "Kuwait Ethraa",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarدين"
+  },
+  {
+    "namear": "Al Maaref",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"Al Maaref\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12134568_ico.png",
+    "nameen": "Al Maaref",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarدين"
+  },
+  {
+    "namear": "Alistiqama",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Alistiqama\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12135735_ico.png",
+    "nameen": "Alistiqama",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadrarدين"
+  },
+  {
+    "namear": "Bahrain Quran",
+    "servers": "[{\"headers\":\"Hhuser-Agent|Hhuser-Agent|Hhuser-Agent|Hh\",\"otherHeaders\":\"\",\"name\":\"Bahrain Quran\",\"Referer\":\"\",\"userAgent\":\"Hhuser-Agent|Hh\",\"position\":\"0\",\"url\":\"https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12135896_ico.png",
+    "nameen": "Bahrain Quran",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidadrarدين"
+  },
+  {
+    "namear": "Alerth TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Alerth TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://82.212.74.2:8000/live/7307.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12136134_ico.png",
+    "nameen": "Alerth TV",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidadrarدين"
+  },
+  {
+    "namear": "Noor Dubai",
+    "servers": "[{\"headers\":\"gguser-Agent|gguser-Agent|gguser-Agent|gg\",\"otherHeaders\":\"\",\"name\":\"Noor Dubai\",\"Referer\":\"\",\"userAgent\":\"gguser-Agent|gg\",\"position\":\"0\",\"url\":\"http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12137280_ico.png",
+    "nameen": "Noor Dubai",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidadrarدين"
+  },
+  {
+    "namear": "Al Quran Al Kareem",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Al Quran Al Kareem\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12138813_ico.png",
+    "nameen": "Al Quran Al Kareem",
+    "position": "13",
+    "type": "channel",
+    "key": "windroidadrarدين"
+  },
+  {
+    "namear": "Al Sunnah",
+    "servers": "[{\"headers\":\"Ttuser-Agent|Ttuser-Agent|Ttuser-Agent|Tt\",\"otherHeaders\":\"\",\"name\":\"Al Sunnah\",\"Referer\":\"\",\"userAgent\":\"Ttuser-Agent|Tt\",\"position\":\"0\",\"url\":\"https://shls-euronews-en-prod-dub.shahid.net/out/v1/b09bbb8d9b684763be4211b088168de7/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9553262_ico.png",
+    "nameen": "Al Sunnah",
+    "position": "14",
+    "type": "channel",
+    "key": "windroidadrarدين"
+  },
+  {
+    "namear": "Makkah TV",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"Makkah TV\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"https://media2.streambrothers.com:1936/8122/8122/chunklist.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9553263_ico.png",
+    "nameen": "Makkah TV",
+    "position": "15",
+    "type": "channel",
+    "key": "windroidadrarدين"
+  },
+  {
+    "namear": "Al Resalah",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Al Resalah\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://w.bs-share.com:8000/247179867825237/23141543216575/450234\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12139227_ico.png",
+    "nameen": "Al Resalah",
+    "position": "16",
+    "type": "channel",
+    "key": "windroidadrarدين"
+  },
+  {
+    "namear": "Daawah TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Daawah TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://51.15.246.58:8081/daawahtv/daawahtv2/chunks.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14837762_ico.png",
+    "nameen": "Daawah TV",
+    "position": "17",
+    "type": "channel",
+    "key": "windroidadrarدين"
+  },
+  {
+    "namear": "Iqraa",
+    "servers": "[{\"headers\":\"Hhuser-Agent|Hhuser-Agent|Hhuser-Agent|Hh\",\"otherHeaders\":\"\",\"name\":\"Iqraa\",\"Referer\":\"\",\"userAgent\":\"Hhuser-Agent|Hh\",\"position\":\"0\",\"url\":\"https://jmc-live.ercdn.net/iqraa/iqraa_360p.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12139161_ico.png",
+    "nameen": "Iqraa",
+    "position": "18",
+    "type": "channel",
+    "key": "windroidadrarدين"
+  },
+  {
+    "namear": "Iqraa Europe",
+    "servers": "[{\"headers\":\"Gguser-Agent|Gguser-Agent|Gguser-Agent|Gg\",\"otherHeaders\":\"\",\"name\":\"Iqraa Europe\",\"Referer\":\"\",\"userAgent\":\"Gguser-Agent|Gg\",\"position\":\"0\",\"url\":\"https://jmc-live.ercdn.net/iqraaeurope/iqraaeurope_360p.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12139169_ico.png",
+    "nameen": "Iqraa Europe",
+    "position": "19",
+    "type": "channel",
+    "key": "windroidadrarدين"
+  },
+  {
+    "namear": "Ahlulbayt TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Ahlulbayt TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12197179_ico.png",
+    "nameen": "Ahlulbayt TV",
+    "position": "20",
+    "type": "channel",
+    "key": "windroidadrarدين"
+  }
+]

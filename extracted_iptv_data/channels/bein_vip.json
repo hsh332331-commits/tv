@@ -1,0 +1,20 @@
+[
+  {
+    "namear": "Dazn 1",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT fdgfgfdsgvfsgvfggsdfsdf;\",\"otherHeaders\":\"\",\"name\":\"Dazn\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT fdgfgfdsgvfsgvfggsdfsdf\",\"position\":\"0\",\"url\":\"http://31.172.87.51:2200/NL/dazn1hd-de/mono.m3u8 ?token\\u003dRED_Hqqv1c3nXjqlzBGFPhFuTg\\u003d\\u003d,165803831455.4814651659\\u003d\"}]",
+    "logo": "",
+    "nameen": "Dazn 1",
+    "position": "0",
+    "type": "channel",
+    "key": "bein_vip"
+  },
+  {
+    "namear": "Dazn 2",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT fdgfgfdsgvfsgvfggsdfsdf;\",\"otherHeaders\":\"\",\"name\":\"Dazn\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT fdgfgfdsgvfsgvfggsdfsdf\",\"position\":\"0\",\"url\":\"http://31.172.87.51:2200/NL/dazn2hd-de/mono.m3u8 ?token\\u003dRED_Hqqv1c3nXjqlzBGFPhFuTg\\u003d\\u003d,165803831455.4814651659\\u003d\"}]",
+    "logo": "",
+    "nameen": "Dazn 2",
+    "position": "1",
+    "type": "channel",
+    "key": "bein_vip"
+  }
+]

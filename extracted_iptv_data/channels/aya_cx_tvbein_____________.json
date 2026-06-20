@@ -1,0 +1,101 @@
+[
+  {
+    "namear": "beIN Earthlink 6",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|http://web.mytvplus.net/|user-agent|Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36|origin|http://web.mytvplus.net\",\"scheme\":\"\",\"otherHeaders\":\"origin|http://web.mytvplus.net\",\"isWeb\":\"false\",\"name\":\"Multi Earthlink\",\"Referer\":\"http://web.mytvplus.net/\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36\",\"position\":\"846406784\",\"url\":\"http://stream.mytvplus.net:7007/sport/ch6/adaptive.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png",
+    "nameen": "beIN Earthlink 6",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_cx_tvbein_خاص_إيرثلينك"
+  },
+  {
+    "namear": "beIN Earthlink 8",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|http://web.mytvplus.net/|user-agent|Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36|origin|http://web.mytvplus.net\",\"scheme\":\"\",\"otherHeaders\":\"origin|http://web.mytvplus.net\",\"isWeb\":\"false\",\"name\":\"Multi Earthlink\",\"Referer\":\"http://web.mytvplus.net/\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36\",\"position\":\"\",\"url\":\"http://stream.mytvplus.net:7009/sport/ch8/adaptive.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",
+    "nameen": "beIN Earthlink 8",
+    "position": "7",
+    "type": "channel",
+    "key": "aya_cx_tvbein_خاص_إيرثلينك"
+  },
+  {
+    "namear": "beIN Earthlink 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|http://web.mytvplus.net/|user-agent|Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36|origin|http://web.mytvplus.net\",\"scheme\":\"\",\"otherHeaders\":\"origin|http://web.mytvplus.net\",\"isWeb\":\"false\",\"name\":\"Multi Earthlink\",\"Referer\":\"http://web.mytvplus.net/\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36\",\"position\":\"55649949\",\"url\":\"http://stream.mytvplus.net:7003/sport/ch2/adaptive.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",
+    "nameen": "beIN Earthlink 2",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvbein_خاص_إيرثلينك"
+  },
+  {
+    "namear": "beIN Earthlink 4",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|http://web.mytvplus.net/|user-agent|Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36|origin|http://web.mytvplus.net\",\"scheme\":\"\",\"otherHeaders\":\"origin|http://web.mytvplus.net\",\"isWeb\":\"false\",\"name\":\"Multi Earthlink\",\"Referer\":\"http://web.mytvplus.net/\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36\",\"position\":\"6464846464\",\"url\":\"http://stream.mytvplus.net:7005/sport/ch4/adaptive.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",
+    "nameen": "beIN Earthlink 4",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvbein_خاص_إيرثلينك"
+  },
+  {
+    "namear": "beIN Earthlink 7",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|http://web.mytvplus.net/|user-agent|Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36|origin|http://web.mytvplus.net\",\"scheme\":\"\",\"otherHeaders\":\"origin|http://web.mytvplus.net\",\"isWeb\":\"false\",\"name\":\"Multi Earthlink\",\"Referer\":\"http://web.mytvplus.net/\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36\",\"position\":\"\",\"url\":\"http://stream.mytvplus.net:7008/sport/ch7/adaptive.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",
+    "nameen": "beIN Earthlink 7",
+    "position": "6",
+    "type": "channel",
+    "key": "aya_cx_tvbein_خاص_إيرثلينك"
+  },
+  {
+    "namear": "beIN Earthlink 5",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|http://web.mytvplus.net/|user-agent|Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36|origin|http://web.mytvplus.net\",\"scheme\":\"\",\"otherHeaders\":\"origin|http://web.mytvplus.net\",\"isWeb\":\"false\",\"name\":\"Multi Earthlink\",\"Referer\":\"http://web.mytvplus.net/\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36\",\"position\":\"87640678487\",\"url\":\"http://stream.mytvplus.net:7006/sport/ch5/adaptive.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",
+    "nameen": "beIN Earthlink 5",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvbein_خاص_إيرثلينك"
+  },
+  {
+    "namear": "AD SPORT Earthlink 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|http://web.mytvplus.net/|user-agent|Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36|origin|http://web.mytvplus.net\",\"scheme\":\"\",\"otherHeaders\":\"origin|http://web.mytvplus.net\",\"isWeb\":\"false\",\"name\":\"720\",\"Referer\":\"http://web.mytvplus.net/\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36\",\"position\":\"\",\"url\":\"http://stream.mytvplus.net:7012/sport/ch11/ch11_720.m3u8\"},{\"license\":\"\",\"headers\":\"Referer|http://web.mytvplus.net/|user-agent|Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36|origin|http://web.mytvplus.net\",\"scheme\":\"\",\"otherHeaders\":\"origin|http://web.mytvplus.net\",\"isWeb\":\"false\",\"name\":\"1080\",\"Referer\":\"http://web.mytvplus.net/\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36\",\"position\":\"\",\"url\":\"http://stream.mytvplus.net:7012/sport/ch11/ch11_1080.m3u8\"},{\"license\":\"\",\"headers\":\"Referer|http://web.mytvplus.net/|user-agent|Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36|origin|http://web.mytvplus.net\",\"scheme\":\"\",\"otherHeaders\":\"origin|http://web.mytvplus.net\",\"isWeb\":\"false\",\"name\":\"Multi Earthlink\",\"Referer\":\"http://web.mytvplus.net/\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36\",\"position\":\"\",\"url\":\"http://stream.mytvplus.net:7012/sport/ch11/adaptive.m3u8\"},{\"license\":\"\",\"headers\":\"Referer|http://web.mytvplus.net/|user-agent|Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36|origin|http://web.mytvplus.net\",\"scheme\":\"\",\"otherHeaders\":\"origin|http://web.mytvplus.net\",\"isWeb\":\"false\",\"name\":\"240\",\"Referer\":\"http://web.mytvplus.net/\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36\",\"position\":\"\",\"url\":\"http://stream.mytvplus.net:7012/sport/ch11/ch11_240.m3u8\"},{\"license\":\"\",\"headers\":\"Referer|http://web.mytvplus.net/|user-agent|Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36|origin|http://web.mytvplus.net\",\"scheme\":\"\",\"otherHeaders\":\"origin|http://web.mytvplus.net\",\"isWeb\":\"false\",\"name\":\"360\",\"Referer\":\"http://web.mytvplus.net/\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36\",\"position\":\"\",\"url\":\"http://stream.mytvplus.net:7012/sport/ch11/ch11_360.m3u8\"}]",
+    "logo": "https://files.rafal.li/59bbf7e8b272bb3801c7f08d165bbe77.photo.jpg",
+    "nameen": "AD SPORT Earthlink 1",
+    "position": "10",
+    "type": "channel",
+    "key": "aya_cx_tvbein_خاص_إيرثلينك"
+  },
+  {
+    "namear": "beIN Earthlink 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|http://web.mytvplus.net/|user-agent|Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36|origin|http://web.mytvplus.net\",\"scheme\":\"\",\"otherHeaders\":\"origin|http://web.mytvplus.net\",\"isWeb\":\"false\",\"name\":\"Multi Earthlink\",\"Referer\":\"http://web.mytvplus.net/\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36\",\"position\":\"2000000\",\"url\":\"http://stream.mytvplus.net:7002/sport/ch1/adaptive.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
+    "nameen": "beIN Earthlink 1",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvbein_خاص_إيرثلينك"
+  },
+  {
+    "namear": "beIN Earthlink 3",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|http://web.mytvplus.net/|user-agent|Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36|origin|http://web.mytvplus.net\",\"scheme\":\"\",\"otherHeaders\":\"origin|http://web.mytvplus.net\",\"isWeb\":\"false\",\"name\":\"Multi Earthlink\",\"Referer\":\"http://web.mytvplus.net/\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36\",\"position\":\"9468401648\",\"url\":\"http://stream.mytvplus.net:7004/sport/ch3/adaptive.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
+    "nameen": "beIN Earthlink 3",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvbein_خاص_إيرثلينك"
+  },
+  {
+    "namear": "AD SPORT Earthlink 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|http://web.mytvplus.net/|user-agent|Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36|origin|http://web.mytvplus.net\",\"scheme\":\"\",\"otherHeaders\":\"origin|http://web.mytvplus.net\",\"isWeb\":\"false\",\"name\":\"360\",\"Referer\":\"http://web.mytvplus.net/\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36\",\"position\":\"\",\"url\":\"http://stream.mytvplus.net:7013/sport/ch12/ch12_360.m3u8\"},{\"license\":\"\",\"headers\":\"Referer|http://web.mytvplus.net/|user-agent|Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36|origin|http://web.mytvplus.net\",\"scheme\":\"\",\"otherHeaders\":\"origin|http://web.mytvplus.net\",\"isWeb\":\"false\",\"name\":\"1080\",\"Referer\":\"http://web.mytvplus.net/\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36\",\"position\":\"\",\"url\":\"http://stream.mytvplus.net:7013/sport/ch12/ch12_1080.m3u8\"},{\"license\":\"\",\"headers\":\"Referer|http://web.mytvplus.net/|user-agent|Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36|origin|http://web.mytvplus.net/\",\"scheme\":\"\",\"otherHeaders\":\"origin|http://web.mytvplus.net/\",\"isWeb\":\"false\",\"name\":\"720\",\"Referer\":\"http://web.mytvplus.net/\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36\",\"position\":\"\",\"url\":\"http://stream.mytvplus.net:7013/sport/ch12/ch12_720.m3u8\"},{\"license\":\"\",\"headers\":\"Referer|http://web.mytvplus.net/|user-agent|Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36|origin|http://web.mytvplus.net\",\"scheme\":\"\",\"otherHeaders\":\"origin|http://web.mytvplus.net\",\"isWeb\":\"false\",\"name\":\"Multi Earthlink\",\"Referer\":\"http://web.mytvplus.net/\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36\",\"position\":\"\",\"url\":\"http://stream.mytvplus.net:7013/sport/ch12/adaptive.m3u8\"},{\"license\":\"\",\"headers\":\"Referer|http://web.mytvplus.net/|user-agent|Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36|origin|http://web.mytvplus.net\",\"scheme\":\"\",\"otherHeaders\":\"origin|http://web.mytvplus.net\",\"isWeb\":\"false\",\"name\":\"240\",\"Referer\":\"http://web.mytvplus.net/\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36\",\"position\":\"\",\"url\":\"http://stream.mytvplus.net:7013/sport/ch12/ch12_240.m3u8\"}]",
+    "logo": "https://files.rafal.li/59bbf7e8b272bb3801c7f08d165bbe77.photo.jpg",
+    "nameen": "AD SPORT Earthlink 2",
+    "position": "11",
+    "type": "channel",
+    "key": "aya_cx_tvbein_خاص_إيرثلينك"
+  },
+  {
+    "namear": "beIN Earthlink 9",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|http://web.mytvplus.net/|user-agent|Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36|origin|http://web.mytvplus.net\",\"scheme\":\"\",\"otherHeaders\":\"origin|http://web.mytvplus.net\",\"isWeb\":\"false\",\"name\":\"Multi Earthlink\",\"Referer\":\"http://web.mytvplus.net/\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36\",\"position\":\"\",\"url\":\"http://stream.mytvplus.net:7010/sport/ch9/adaptive.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",
+    "nameen": "beIN Earthlink 9",
+    "position": "8",
+    "type": "channel",
+    "key": "aya_cx_tvbein_خاص_إيرثلينك"
+  }
+]

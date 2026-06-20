@@ -1,0 +1,173 @@
+[
+  {
+    "namear": "Tunisia Nat1",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Tunisia Nat1\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/564\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9876281_ico.png",
+    "nameen": "Tunisia Nat1",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrartunisia_تونس"
+  },
+  {
+    "namear": "Tunisia Nat2",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Tunisia Nat2\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/565\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9876288_ico.png",
+    "nameen": "Tunisia Nat2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrartunisia_تونس"
+  },
+  {
+    "namear": "Tunisna",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Tunisna\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/577\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9876272_ico.png",
+    "nameen": "Tunisna",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrartunisia_تونس"
+  },
+  {
+    "namear": "Mosaïque",
+    "servers": "[{\"headers\":\"TunTVAg99*user-Agent|TunTVAg99*user-Agent|TunTVAg99*user-Agent|TunTVAg99*\",\"otherHeaders\":\"\",\"name\":\"Mosaïque\",\"Referer\":\"\",\"userAgent\":\"TunTVAg99*user-Agent|TunTVAg99*\",\"position\":\"0\",\"url\":\"https://webcam.mosaiquefm.net:1936/mosatv/studio/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9876298_ico.png",
+    "nameen": "Mosaïque",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrartunisia_تونس"
+  },
+  {
+    "namear": "Elhiwar TN",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Elhiwar TN\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/566\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9876304_ico.png",
+    "nameen": "Elhiwar TN",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrartunisia_تونس"
+  },
+  {
+    "namear": "Carthage+",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Carthage+\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/567\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9876308_ico.png",
+    "nameen": "Carthage+",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrartunisia_تونس"
+  },
+  {
+    "namear": "Telvza",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Telvza\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/575\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9876292_ico.png",
+    "nameen": "Telvza",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrartunisia_تونس"
+  },
+  {
+    "namear": "Attassia",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Attassia\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/569\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9876312_ico.png",
+    "nameen": "Attassia",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrartunisia_تونس"
+  },
+  {
+    "namear": "Nessma",
+    "servers": "[{\"headers\":\"Ttuser-Agent|Ttuser-Agent|Ttuser-Agent|Tt\",\"otherHeaders\":\"\",\"name\":\"Nessma\",\"Referer\":\"\",\"userAgent\":\"Ttuser-Agent|Tt\",\"position\":\"0\",\"url\":\"https://shls-live-ak.akamaized.net/out/v1/119ae95bbc91462093918a7c6ba11415/index_5.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9876295_ico.png",
+    "nameen": "Nessma",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrartunisia_تونس"
+  },
+  {
+    "namear": "Hannibal",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Hannibal\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/568\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9876303_ico.png",
+    "nameen": "Hannibal",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadrartunisia_تونس"
+  },
+  {
+    "namear": "Al Janoubia",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Al Janoubia\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/576\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9876321_ico.png",
+    "nameen": "Al Janoubia",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidadrartunisia_تونس"
+  },
+  {
+    "namear": "Zaytouna",
+    "servers": "[{\"headers\":\"SFXagent216+user-Agent|SFXagent216+user-Agent|SFXagent216+user-Agent|SFXagent216+\",\"otherHeaders\":\"\",\"name\":\"Zaytouna\",\"Referer\":\"\",\"userAgent\":\"SFXagent216+user-Agent|SFXagent216+\",\"position\":\"0\",\"url\":\"http://bizarot7.tk:14281/9NhEjpDiNH/eEFmaV8KIX/53\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9876267_ico.png",
+    "nameen": "Zaytouna",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidadrartunisia_تونس"
+  },
+  {
+    "namear": "Al Insen",
+    "servers": "[{\"headers\":\"SFXagent216+user-Agent|SFXagent216+user-Agent|SFXagent216+user-Agent|SFXagent216+\",\"otherHeaders\":\"\",\"name\":\"Al Insen\",\"Referer\":\"\",\"userAgent\":\"SFXagent216+user-Agent|SFXagent216+\",\"position\":\"0\",\"url\":\"http://bizarot7.tk:14281/9NhEjpDiNH/eEFmaV8KIX/47\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9876327_ico.png",
+    "nameen": "Al Insen",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidadrartunisia_تونس"
+  },
+  {
+    "namear": "Immobilier",
+    "servers": "[{\"headers\":\"Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36user-Agent|Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36user-Agent|Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36user-Agent|Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36\",\"otherHeaders\":\"\",\"name\":\"Immobilier\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36user-Agent|Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36\",\"position\":\"0\",\"url\":\"http://142.44.214.231:1935/tunimmob/myStream/chunklist_w485925469.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9876807_ico.png",
+    "nameen": "Immobilier",
+    "position": "13",
+    "type": "channel",
+    "key": "windroidadrartunisia_تونس"
+  },
+  {
+    "namear": "Mustakilla",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Mustakilla\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/573\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9876319_ico.png",
+    "nameen": "Mustakilla",
+    "position": "14",
+    "type": "channel",
+    "key": "windroidadrartunisia_تونس"
+  },
+  {
+    "namear": "Sahel TV",
+    "servers": "[{\"headers\":\"NEW20-APKuser-Agent|NEW20-APKuser-Agent|NEW20-APKuser-Agent|NEW20-APK\",\"otherHeaders\":\"\",\"name\":\"Sahel TV\",\"Referer\":\"\",\"userAgent\":\"NEW20-APKuser-Agent|NEW20-APK\",\"position\":\"0\",\"url\":\"http://142.44.214.231:1935/saheltv/myStream/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7620345_ico.png",
+    "nameen": "Sahel TV",
+    "position": "15",
+    "type": "channel",
+    "key": "windroidadrartunisia_تونس"
+  },
+  {
+    "namear": "Jawhara FM",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Jawhara FM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9876799_ico.png",
+    "nameen": "Jawhara FM",
+    "position": "16",
+    "type": "channel",
+    "key": "windroidadrartunisia_تونس"
+  },
+  {
+    "namear": "Tunisia Nat2'",
+    "servers": "[{\"headers\":\"ㅤuser-Agent|ㅤuser-Agent|ㅤuser-Agent|ㅤ\",\"otherHeaders\":\"\",\"name\":\"Tunisia Nat2\\u0027\",\"Referer\":\"\",\"userAgent\":\"ㅤuser-Agent|ㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/456.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26948083_ico.png",
+    "nameen": "Tunisia Nat2'",
+    "position": "17",
+    "type": "channel",
+    "key": "windroidadrartunisia_تونس"
+  },
+  {
+    "namear": "Tunisia 2",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Tunisia 2\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://live.watania2.tn:1935/live/watanya2.stream/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26948283_ico.png",
+    "nameen": "Tunisia 2",
+    "position": "18",
+    "type": "channel",
+    "key": "windroidadrartunisia_تونس"
+  }
+]

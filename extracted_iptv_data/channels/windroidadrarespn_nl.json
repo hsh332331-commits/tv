@@ -1,0 +1,38 @@
+[
+  {
+    "namear": "ESPN 1 NL",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"ESPN 1 NL\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://line.team-tv.link:80/mutant007/UzskkVQyjP/3072\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18000965_ico.png",
+    "nameen": "ESPN 1 NL",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarespn_nl"
+  },
+  {
+    "namear": "ESPN 2 NL",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"ESPN 2 NL\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://line.team-tv.link:80/mutant007/UzskkVQyjP/3073\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18000978_ico.png",
+    "nameen": "ESPN 2 NL",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarespn_nl"
+  },
+  {
+    "namear": "ESPN 3 NL",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"ESPN 3 NL\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://line.team-tv.link:80/mutant007/UzskkVQyjP/3074\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18119939_ico.png",
+    "nameen": "ESPN 3 NL",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarespn_nl"
+  },
+  {
+    "namear": "ESPN 4 NL",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"ESPN 4 NL\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://line.team-tv.link:80/mutant007/UzskkVQyjP/3075\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18119626_ico.png",
+    "nameen": "ESPN 4 NL",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarespn_nl"
+  }
+]

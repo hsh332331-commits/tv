@@ -1,0 +1,65 @@
+[
+  {
+    "namear": "FAST",
+    "servers": "[{\"headers\":\"\",\"license\":\"8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"DAZN FAST #KODIPROP:inputstream.adaptive.license_type\\u003dclearkey #KODIPROP:inputstream.adaptive.license_key\\u003d\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToB1YkhTgRKUJV-167QVu7CMGN_jPmeJ1miyLXVxYMAA&s=10",
+    "nameen": "FAST",
+    "position": "4",
+    "type": "channel",
+    "key": "dazn_sport"
+  },
+  {
+    "namear": "SportDigital",
+    "servers": "[{\"headers\":\"\",\"license\":\"0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm1FktMUotJPW-w1EDHTNrFc-ck3_d6kd9npBRjl8IgQ&s=10",
+    "nameen": "SportDigital",
+    "position": "5",
+    "type": "channel",
+    "key": "dazn_sport"
+  },
+  {
+    "namear": "Digital+1",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://d1yi40sjj0ca0v.cloudfront.net/TVD5788/index.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxz480zFjZKYgN1y6ZFvAj4Ra1q-rmf8RnE1vE7meRgA&s=10",
+    "nameen": "Digital+1",
+    "position": "5",
+    "type": "channel",
+    "key": "dazn_sport"
+  },
+  {
+    "namear": "Calcio",
+    "servers": "[{\"headers\":\"Referer|https://runginfect.net/embed/71urpyq|user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36|find|m3u8\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"name\":\"\",\"Referer\":\"https://runginfect.net/embed/71urpyq\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://runginfect.net/embed/71urpyq\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKcslylbPJzNBHWt5-URcXEz_D229jUtF1jvnrG7T54A&s=10",
+    "nameen": "Calcio",
+    "position": "6",
+    "type": "channel",
+    "key": "dazn_sport"
+  },
+  {
+    "namear": "DFB Play TV 🇩🇪",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"DFB Play TV 🇩🇪\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://daiconnect.com/live/hls/tvup/tvfy-dfbplay/.m3u8?ApPW\\u003d[playerWidth]\\u0026ApPH\\u003d[playerHeight]\\u0026USrGDPRC\\u003d[gdprConsent]\\u0026UGDPR\\u003d1\\u0026DLg\\u003d[deviceLanguage]\\u0026ApStURL\\u003d[storeUrl]\\u0026DAdID\\u003d[ifa]\\u0026DAdIDT\\u003d[ifaType]\\u0026UUA\\u003d[userAgent]\\u0026UIP\\u003d[ip]\\u0026ApNm\\u003d[appName]\\u0026ApV\\u003d[appVersion]\\u0026DT\\u003d[deviceType]\\u0026DMk\\u003d[deviceMake]\\u0026DMdl\\u003d[deviceModel]\\u0026ApBdl\\u003d[bundleId]\\u0026DID\\u003d[deviceId]\\u0026tvfy_env\\u003d[tivify_env]\\u0026lmt\\u003d[lmt]\\u0026ic\\u003dIAB17\\u0026content_genre\\u003dSports\\u0026language\\u003des\\u0026rating\\u003dTV-G\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAgW_udRW-HJ1QA4hm1H7_bpWDqvMBeTBflPjGq2af&s",
+    "nameen": "DFB Play TV 🇩🇪",
+    "position": "12",
+    "type": "channel",
+    "key": "dazn_sport"
+  },
+  {
+    "namear": "Sport1",
+    "servers": "[{\"headers\":\"\",\"license\":\"{\\\"keys\\\":[{\\\"kty\\\":\\\"oct\\\",\\\"k\\\":\\\"ftBraQjtw3Lyy47y3yYV0A\\\",\\\"kid\\\":\\\"mPKrSWBfBGmkuX3kAnf8oA\\\"}],\\\"type\\\":\\\"temporary\\\"}\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\\\"type\\\":\\\"temporary\\\"}\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd?DVR\"}]",
+    "logo": "https://i.ibb.co/DG6ZNVM/sport1-de.png",
+    "nameen": "Sport1",
+    "position": "15",
+    "type": "channel",
+    "key": "dazn_sport"
+  },
+  {
+    "namear": "DigitalFree",
+    "servers": "[{\"headers\":\"user-agent|Roku/DVP-12.0|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"Roku/DVP-12.0\",\"position\":\"0\",\"url\":\"https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/413e9d90-a69f-4c02-963d-6aca91619f32/0.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxz480zFjZKYgN1y6ZFvAj4Ra1q-rmf8RnE1vE7meRgA&s=10",
+    "nameen": "DigitalFree",
+    "position": "68",
+    "type": "channel",
+    "key": "dazn_sport"
+  }
+]

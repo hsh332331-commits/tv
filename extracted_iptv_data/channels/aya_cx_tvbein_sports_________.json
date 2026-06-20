@@ -1,0 +1,56 @@
+[
+  {
+    "namear": "Mejar 6 ᴴᴰ",
+    "servers": "[{\"license\":\"\",\"headers\":\"user-agent|akami|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Mejar Server ᴴᴰ\",\"Referer\":\"\",\"userAgent\":\"akami\",\"position\":\"\",\"label\":\"Server (HLS)\",\"url\":\"https://cast-x.com/token.php?id\\u003dnm6hd\\u0026type\\u003dhls\\u0026h\\u003dhttps%3A%2F%2Fcdn-js-mejarserver.aka-akamaized.net\\u0026ts\\u003d1768652408\\u0026sig\\u003d6fcbba603483ce8ff32908cc6f2b6ab545f246754f66e783b988f2c5608882a1\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png",
+    "nameen": "Mejar 6 ᴴᴰ",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_ᴴᴰ_صيانة"
+  },
+  {
+    "namear": "Mejar 5 ᴴᴰ",
+    "servers": "[{\"license\":\"\",\"headers\":\"user-agent|akami|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Mejar Server 5 ᴴᴰ\",\"Referer\":\"\",\"userAgent\":\"akami\",\"position\":\"\",\"label\":\"Server (HLS)\",\"url\":\"https://cast-x.com/token.php?id\\u003dnm5hd\\u0026type\\u003dhls\\u0026h\\u003dhttps%3A%2F%2Fcdn-js-mejarserver.aka-akamaized.net\\u0026ts\\u003d1768652408\\u0026sig\\u003debe42a60f573e272f4cf5f59162b8d7110b6623032e9987ff4499ff3c557693c\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",
+    "nameen": "Mejar 5 ᴴᴰ",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_ᴴᴰ_صيانة"
+  },
+  {
+    "namear": "Mejar 1 ᴴᴰ",
+    "servers": "[{\"license\":\"\",\"headers\":\"user-agent|akami|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Mejar Server ᴴᴰ\",\"Referer\":\"\",\"userAgent\":\"akami\",\"position\":\"\",\"url\":\"https://mejarhosting.cfd/1hd/index.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
+    "nameen": "Mejar 1 ᴴᴰ",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_ᴴᴰ_صيانة"
+  },
+  {
+    "namear": "Mejar 3 ᴴᴰ",
+    "servers": "[{\"license\":\"\",\"headers\":\"user-agent|akami|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Mejar Server 3 ᴴᴰ\",\"Referer\":\"\",\"userAgent\":\"akami\",\"position\":\"\",\"label\":\"Server (HLS)\",\"url\":\"https://cast-x.com/token.php?id\\u003dnm3hd\\u0026type\\u003dhls\\u0026h\\u003dhttps%3A%2F%2Fcdn-js-mejarserver.aka-akamaized.net\\u0026ts\\u003d1768652408\\u0026sig\\u003d22cbe0230c394f1a823ed8fd7c341a941584f264105b0f2ef70a9b55f6b23cf4\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
+    "nameen": "Mejar 3 ᴴᴰ",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_ᴴᴰ_صيانة"
+  },
+  {
+    "namear": "Mejar 4 ᴴᴰ",
+    "servers": "[{\"license\":\"\",\"headers\":\"user-agent|akami|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Mejar Server 4 ᴴᴰ\",\"Referer\":\"\",\"userAgent\":\"akami\",\"position\":\"\",\"label\":\"Server (HLS)\",\"url\":\"https://cast-x.com/token.php?id\\u003dnm4hd\\u0026type\\u003dhls\\u0026h\\u003dhttps%3A%2F%2Fcdn-js-mejarserver.aka-akamaized.net\\u0026ts\\u003d1768652408\\u0026sig\\u003dc223477358f53aeb58073b02c300d225250dcea169d84fa06bdd9c627c632048\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",
+    "nameen": "Mejar 4 ᴴᴰ",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_ᴴᴰ_صيانة"
+  },
+  {
+    "namear": "Mejar 2 ᴴᴰ",
+    "servers": "[{\"license\":\"\",\"headers\":\"user-agent|akami|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Mejar Server ᴴᴰ\",\"Referer\":\"\",\"userAgent\":\"akami\",\"position\":\"\",\"label\":\"Server (HLS)\",\"url\":\"https://cast-x.com/token.php?id\\u003dnm2hd\\u0026type\\u003dhls\\u0026h\\u003dhttps%3A%2F%2Fcdn-js-mejarserver.aka-akamaized.net\\u0026ts\\u003d1768652408\\u0026sig\\u003d37fba84cf2697100e13ed082c0d774a96ba1a050963d47989e3aeb2ddd1e30de\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png",
+    "nameen": "Mejar 2 ᴴᴰ",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_ᴴᴰ_صيانة"
+  }
+]

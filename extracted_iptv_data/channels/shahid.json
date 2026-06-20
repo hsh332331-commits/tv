@@ -1,0 +1,119 @@
+[
+  {
+    "namear": "ACTION 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ACTION 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/438046\"}]",
+    "logo": "https://i.ibb.co/yN5dkGw/Action-1.png",
+    "nameen": "ACTION 1",
+    "position": "1",
+    "type": "channel",
+    "key": "shahid"
+  },
+  {
+    "namear": "ACTION 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ACTION 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/394283\"}]",
+    "logo": "https://i.ibb.co/6tNW01b/Action-2.png",
+    "nameen": "ACTION 2",
+    "position": "2",
+    "type": "channel",
+    "key": "shahid"
+  },
+  {
+    "namear": "BOX-OFFICE1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BOX-OFFICE1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/421202\"}]",
+    "logo": "https://i.ibb.co/WHdxgMY/BOX1.png",
+    "nameen": "BOX-OFFICE1",
+    "position": "3",
+    "type": "channel",
+    "key": "shahid"
+  },
+  {
+    "namear": "BOX-OFFICE2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BOX-OFFICE2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/421203\"}]",
+    "logo": "https://i.ibb.co/SBBj5yV/BOX2.png",
+    "nameen": "BOX-OFFICE2",
+    "position": "4",
+    "type": "channel",
+    "key": "shahid"
+  },
+  {
+    "namear": "BOX-OFFICE3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BOX-OFFICE3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/421204\"}]",
+    "logo": "https://i.ibb.co/KmnMJq1/BOX3.png",
+    "nameen": "BOX-OFFICE3",
+    "position": "5",
+    "type": "channel",
+    "key": "shahid"
+  },
+  {
+    "namear": "BOX-OFFICE4",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BOX-OFFICE4\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/438640\"}]",
+    "logo": "https://i.ibb.co/7KRd6Kg/BOX4.png",
+    "nameen": "BOX-OFFICE4",
+    "position": "6",
+    "type": "channel",
+    "key": "shahid"
+  },
+  {
+    "namear": "BOX-OFFICE5",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BOX-OFFICE5\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/438644\"}]",
+    "logo": "https://i.ibb.co/xjRrtRr/BOX5.png",
+    "nameen": "BOX-OFFICE5",
+    "position": "7",
+    "type": "channel",
+    "key": "shahid"
+  },
+  {
+    "namear": "HORROR 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"HORROR 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/428633\"}]",
+    "logo": "https://i.ibb.co/1T6LVPp/Horror.png",
+    "nameen": "HORROR 1",
+    "position": "8",
+    "type": "channel",
+    "key": "shahid"
+  },
+  {
+    "namear": "TURKEY",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TURKEY\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/438048\"}]",
+    "logo": "https://i.ibb.co/VL27tbB/Turki.png",
+    "nameen": "TURKEY",
+    "position": "9",
+    "type": "channel",
+    "key": "shahid"
+  },
+  {
+    "namear": "BOLLYWOOD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BOLLYWOOD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223342775011431/223342775011431/421\"}]",
+    "logo": "https://i.ibb.co/1dZG67K/Bollywood.png",
+    "nameen": "BOLLYWOOD",
+    "position": "10",
+    "type": "channel",
+    "key": "shahid"
+  },
+  {
+    "namear": "AFLAM",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AFLAM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/394288\"}]",
+    "logo": "https://i.ibb.co/McX33Qk/AFLAM.png",
+    "nameen": "AFLAM",
+    "position": "11",
+    "type": "channel",
+    "key": "shahid"
+  },
+  {
+    "namear": "AL-SHAM",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AL-SHAM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223342775011431/223342775011431/44889\"}]",
+    "logo": "https://i.ibb.co/cyZYS4T/Al-Sham.png",
+    "nameen": "AL-SHAM",
+    "position": "12",
+    "type": "channel",
+    "key": "shahid"
+  },
+  {
+    "namear": "KIDS",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"KIDS\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223342775011431/223342775011431/20573\"}]",
+    "logo": "https://i.ibb.co/h212bL3/KIDS.png",
+    "nameen": "KIDS",
+    "position": "13",
+    "type": "channel",
+    "key": "shahid"
+  }
+]

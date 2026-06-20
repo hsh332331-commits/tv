@@ -1,0 +1,65 @@
+[
+  {
+    "namear": "Netflix Action",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Netflix Action\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/259\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12165155_ico.png",
+    "nameen": "Netflix Action",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarnetflix+"
+  },
+  {
+    "namear": "Netflix JR",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Netflix JR\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/268\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12165187_ico.png",
+    "nameen": "Netflix JR",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarnetflix+"
+  },
+  {
+    "namear": "Netflix Thriller",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Netflix Thriller\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/266\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12165675_ico.png",
+    "nameen": "Netflix Thriller",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarnetflix+"
+  },
+  {
+    "namear": "Netflix Arabic",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Netflix Arabic\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/278\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12165552_ico.png",
+    "nameen": "Netflix Arabic",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarnetflix+"
+  },
+  {
+    "namear": "Netflix Comedy",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Netflix Comedy\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/250\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12165293_ico.png",
+    "nameen": "Netflix Comedy",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarnetflix+"
+  },
+  {
+    "namear": "Netflix Horror",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Netflix Horror\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/280\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12165172_ico.png",
+    "nameen": "Netflix Horror",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarnetflix+"
+  },
+  {
+    "namear": "Netflix Kids",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Netflix Kids\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/256\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12165615_ico.png",
+    "nameen": "Netflix Kids",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarnetflix+"
+  }
+]

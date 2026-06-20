@@ -1,0 +1,308 @@
+[
+  {
+    "namear": "7ala TV [Géo-bloqué]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"7ala TV [Géo-bloqué]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://vstream3.hadara.ps:8081/7alafm2020/7alafm2020/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "7ala TV [Géo-bloqué]",
+    "position": "1",
+    "type": "channel",
+    "key": "palestinetv"
+  },
+  {
+    "namear": "|PS| Palestine Sport",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|PS| Palestine Sport\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2058\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|PS| Palestine Sport",
+    "position": "1",
+    "type": "channel",
+    "key": "palestinetv"
+  },
+  {
+    "namear": "Ajyal TV (720p) [Pas 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Ajyal TV (720p) [Pas 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://htvajyal.mada.ps:8888/ajyal/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Ajyal TV (720p) [Pas 24/7]",
+    "position": "2",
+    "type": "channel",
+    "key": "palestinetv"
+  },
+  {
+    "namear": "|PS| Falastini.tv",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|PS| Falastini.tv\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2057\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|PS| Falastini.tv",
+    "position": "2",
+    "type": "channel",
+    "key": "palestinetv"
+  },
+  {
+    "namear": "Ajyal TV (720p) [Pas 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Ajyal TV (720p) [Pas 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://htvmada.mada.ps:8888/ajyal/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Ajyal TV (720p) [Pas 24/7]",
+    "position": "3",
+    "type": "channel",
+    "key": "palestinetv"
+  },
+  {
+    "namear": "|PS| AL KAWTHAR Palestine",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|PS| AL KAWTHAR Palestine\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2056\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|PS| AL KAWTHAR Palestine",
+    "position": "3",
+    "type": "channel",
+    "key": "palestinetv"
+  },
+  {
+    "namear": "Chaîne Al Aqsa (416p) [Pas 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Chaîne Al Aqsa (416p) [Pas 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-1.linuxway.info/aqsatv/live/tv/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Chaîne Al Aqsa (416p) [Pas 24/7]",
+    "position": "4",
+    "type": "channel",
+    "key": "palestinetv"
+  },
+  {
+    "namear": "|PS| ALQUDS_TODAY_TV",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|PS| ALQUDS_TODAY_TV\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2055\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|PS| ALQUDS_TODAY_TV",
+    "position": "4",
+    "type": "channel",
+    "key": "palestinetv"
+  },
+  {
+    "namear": "Audeh (480p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Audeh (480p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://htvpalsat.mada.ps:8888/audeh/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Audeh (480p)",
+    "position": "5",
+    "type": "channel",
+    "key": "palestinetv"
+  },
+  {
+    "namear": "|PS| AL SERAJ Palestine",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|PS| AL SERAJ Palestine\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2054\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|PS| AL SERAJ Palestine",
+    "position": "5",
+    "type": "channel",
+    "key": "palestinetv"
+  },
+  {
+    "namear": "Falastini (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Falastini (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdg8.edge.technocdn.com/palestiniantv_source/live/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Falastini (720p)",
+    "position": "6",
+    "type": "channel",
+    "key": "palestinetv"
+  },
+  {
+    "namear": "|PS| ALHAQIQA",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|PS| ALHAQIQA\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2053\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|PS| ALHAQIQA",
+    "position": "6",
+    "type": "channel",
+    "key": "palestinetv"
+  },
+  {
+    "namear": "Marah FM (720p) [Pas 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Marah FM (720p) [Pas 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://vstream3.hadara.ps:8081/marahFM_web/web/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Marah FM (720p) [Pas 24/7]",
+    "position": "7",
+    "type": "channel",
+    "key": "palestinetv"
+  },
+  {
+    "namear": "|PS| ALKOFIYA Palestine",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|PS| ALKOFIYA Palestine\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2052\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|PS| ALKOFIYA Palestine",
+    "position": "7",
+    "type": "channel",
+    "key": "palestinetv"
+  },
+  {
+    "namear": "Mawwal (720p) [Pas 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Mawwal (720p) [Pas 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://vstream3.hadara.ps:8081/MawwalHD_web/web/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Mawwal (720p) [Pas 24/7]",
+    "position": "8",
+    "type": "channel",
+    "key": "palestinetv"
+  },
+  {
+    "namear": "|PS| MUSAWA Palestine",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|PS| MUSAWA Palestine\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2051\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|PS| MUSAWA Palestine",
+    "position": "8",
+    "type": "channel",
+    "key": "palestinetv"
+  },
+  {
+    "namear": "MusawaChannel (1080p) [Pas 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MusawaChannel (1080p) [Pas 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://pbc.furrera.ps/musawahd/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "MusawaChannel (1080p) [Pas 24/7]",
+    "position": "9",
+    "type": "channel",
+    "key": "palestinetv"
+  },
+  {
+    "namear": "|PS| Palestine.News",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|PS| Palestine.News\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2050\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|PS| Palestine.News",
+    "position": "9",
+    "type": "channel",
+    "key": "palestinetv"
+  },
+  {
+    "namear": "MusawaChannel (404p) [Pas 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MusawaChannel (404p) [Pas 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://htvpalsat.mada.ps:8888/musawa/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "MusawaChannel (404p) [Pas 24/7]",
+    "position": "10",
+    "type": "channel",
+    "key": "palestinetv"
+  },
+  {
+    "namear": "|PS| Awdeh",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|PS| Awdeh\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2049\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|PS| Awdeh",
+    "position": "10",
+    "type": "channel",
+    "key": "palestinetv"
+  },
+  {
+    "namear": "Naplouse TV (720p) [Pas 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Naplouse TV (720p) [Pas 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://htvmada.mada.ps:8888/nabluslive/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Naplouse TV (720p) [Pas 24/7]",
+    "position": "11",
+    "type": "channel",
+    "key": "palestinetv"
+  },
+  {
+    "namear": "|PS| Palestine",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|PS| Palestine\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2048\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|PS| Palestine",
+    "position": "11",
+    "type": "channel",
+    "key": "palestinetv"
+  },
+  {
+    "namear": "Palestine Mubasher (404p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Palestine Mubasher (404p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://htvpalsat.mada.ps:8888/PBCTv/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Palestine Mubasher (404p)",
+    "position": "12",
+    "type": "channel",
+    "key": "palestinetv"
+  },
+  {
+    "namear": "|PS| Palestine live",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|PS| Palestine live\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2047\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|PS| Palestine live",
+    "position": "12",
+    "type": "channel",
+    "key": "palestinetv"
+  },
+  {
+    "namear": "Chaîne satellite Palestine (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Chaîne satellite Palestine (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://pbc.furrera.ps/palestinehd/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Chaîne satellite Palestine (1080p)",
+    "position": "13",
+    "type": "channel",
+    "key": "palestinetv"
+  },
+  {
+    "namear": "|PS| PALESTINE TODAY",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|PS| PALESTINE TODAY\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2046\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|PS| PALESTINE TODAY",
+    "position": "13",
+    "type": "channel",
+    "key": "palestinetv"
+  },
+  {
+    "namear": "Chaîne satellite Palestine (404p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Chaîne satellite Palestine (404p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://htvpalsat.mada.ps:8888/PBC/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Chaîne satellite Palestine (404p)",
+    "position": "14",
+    "type": "channel",
+    "key": "palestinetv"
+  },
+  {
+    "namear": "Palestine Today (1080p) [Géo-bloqué]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Palestine Today (1080p) [Géo-bloqué]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://pbc.furrera.ps/palestinelivehd/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Palestine Today (1080p) [Géo-bloqué]",
+    "position": "15",
+    "type": "channel",
+    "key": "palestinetv"
+  },
+  {
+    "namear": "Palestine Today (480p) [Géo-bloqué]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Palestine Today (480p) [Géo-bloqué]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live.paltoday.tv/paltv/live/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Palestine Today (480p) [Géo-bloqué]",
+    "position": "16",
+    "type": "channel",
+    "key": "palestinetv"
+  },
+  {
+    "namear": "Rajeen TV (1080p) [Pas 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rajeen TV (1080p) [Pas 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://mn-nl.mncdn.com/palabroad/live/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Rajeen TV (1080p) [Pas 24/7]",
+    "position": "17",
+    "type": "channel",
+    "key": "palestinetv"
+  },
+  {
+    "namear": "Seraj TV (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Seraj TV (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live01.iflex.ps/Aqsa/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Seraj TV (1080p)",
+    "position": "18",
+    "type": "channel",
+    "key": "palestinetv"
+  },
+  {
+    "namear": "Shabab FM (720p) [Pas 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Shabab FM (720p) [Pas 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://streaming.zaytonatube.com:8081/ShababFM/shabab/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Shabab FM (720p) [Pas 24/7]",
+    "position": "19",
+    "type": "channel",
+    "key": "palestinetv"
+  },
+  {
+    "namear": "Watar TV (720p) [Pas 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Watar TV (720p) [Pas 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://htvint.mada.ps:8889/orient/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Watar TV (720p) [Pas 24/7]",
+    "position": "20",
+    "type": "channel",
+    "key": "palestinetv"
+  },
+  {
+    "namear": "Wattan TV (720p) [Pas 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Wattan TV (720p) [Pas 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://htvmada.mada.ps:8888/wattan/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Wattan TV (720p) [Pas 24/7]",
+    "position": "21",
+    "type": "channel",
+    "key": "palestinetv"
+  }
+]

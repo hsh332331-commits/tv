@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "Cast x Sports 4",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://mejar-Server.site/|user-agent|Mejarx|origin|https://mejar-Server.site/\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://mejar-Server.site/\",\"isWeb\":\"false\",\"name\":\"Cast X Sports 4 | 1080p50\",\"Referer\":\"https://mejar-Server.site/\",\"userAgent\":\"Mejarx\",\"position\":\"0\",\"url\":\"https://cast-x.site/token-hls.php?stream\\u003dcastx-tv-4-hd\"}]",
+    "logo": "https://l.top4top.io/p_3614yfmek0.jpg",
+    "nameen": "Cast x Sports 4",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvcast_x_tv_4k"
+  },
+  {
+    "namear": "Cast x Sports 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://mejar-Server.site/|user-agent|Mejarx|origin|https://mejar-Server.site/\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://mejar-Server.site/\",\"isWeb\":\"false\",\"name\":\"Cast X Sports 2 | 4Kp50\",\"Referer\":\"https://mejar-Server.site/\",\"userAgent\":\"Mejarx\",\"position\":\"0\",\"url\":\"https://cdnfest.com/castx-tv-2-hd/rewind-20.m3u8\"}]",
+    "logo": "https://a.top4top.io/p_361474nj70.jpg",
+    "nameen": "Cast x Sports 2",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvcast_x_tv_4k"
+  },
+  {
+    "namear": "Cast x Sports 5",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://mejar-Server.site/|user-agent|Mejarx|origin|https://mejar-Server.site/\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://mejar-Server.site/\",\"isWeb\":\"false\",\"name\":\"Cast X Sports 5 | 1080p50\",\"Referer\":\"https://mejar-Server.site/\",\"userAgent\":\"Mejarx\",\"position\":\"0\",\"url\":\"https://cast-x.site/token-hls.php?stream\\u003dcastx-tv-5-hd\"}]",
+    "logo": "https://i.top4top.io/p_3614tweym0.jpg",
+    "nameen": "Cast x Sports 5",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvcast_x_tv_4k"
+  },
+  {
+    "namear": "Cast x Sports 3",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://mejar-Server.site/|user-agent|Mejarx|origin|https://mejar-Server.site/\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://mejar-Server.site/\",\"isWeb\":\"false\",\"name\":\"Cast X Sports 3 | 4Kp50\",\"Referer\":\"https://mejar-Server.site/\",\"userAgent\":\"Mejarx\",\"position\":\"0\",\"url\":\"https://cast-x.site/token-hls.php?stream\\u003dcastx-tv-3-hd\"}]",
+    "logo": "https://g.top4top.io/p_36147f87i0.jpg",
+    "nameen": "Cast x Sports 3",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvcast_x_tv_4k"
+  },
+  {
+    "namear": "Cast x Sports 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://mejar-Server.site/|user-agent|Mejarx|origin|https://mejar-Server.site/\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://mejar-Server.site/\",\"isWeb\":\"false\",\"name\":\"Cast X Sports 1 | 4Kp50\",\"Referer\":\"https://mejar-Server.site/\",\"userAgent\":\"Mejarx\",\"position\":\"0\",\"url\":\"https://cdnfest.com/castx-tv-1-hd/rewind-20.m3u8\"}]",
+    "logo": "https://j.top4top.io/p_3614p0c1d0.png",
+    "nameen": "Cast x Sports 1",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvcast_x_tv_4k"
+  }
+]

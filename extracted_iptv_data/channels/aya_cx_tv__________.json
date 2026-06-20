@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "4",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/1200px-FITE_TV.svg.png",
+    "nameen": "4",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvمصارعة_حرة"
+  },
+  {
+    "namear": "2",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8\"}]",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FightBoxHD-logo.png",
+    "nameen": "2",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvمصارعة_حرة"
+  },
+  {
+    "namear": "3",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://iptv.prosto.tv:7000/ch118/video.m3u8\"}]",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FightBoxHD-logo.png",
+    "nameen": "3",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvمصارعة_حرة"
+  },
+  {
+    "namear": "1",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png",
+    "nameen": "1",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvمصارعة_حرة"
+  },
+  {
+    "namear": "5",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId\\u003d\\u0026appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026appStoreUrl\\u003d\\u0026architecture\\u003d\\u0026buildVersion\\u003d\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d1c7aea60-7089-11eb-842e-ed7bad763363\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026sid\\u003d9e96a0f6-ac42-4164-a333-6f430bfee437\\u0026userId\\u003d\\u0026serverSideAds\\u003dtrue\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/1200px-FITE_TV.svg.png",
+    "nameen": "5",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvمصارعة_حرة"
+  }
+]

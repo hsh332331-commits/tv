@@ -1,0 +1,121 @@
+[
+  {
+    "namear": "ESPN",
+    "servers": "[{\"headers\":\"\",\"license\":\"38b63f9aaa7b7c7a822c8e14c8a7212e:d6b1f45a59d2dac1a730c7f56c74971a\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"Espn\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-HD/default.mpd\"}]",
+    "logo": "https://assetshuluimcom-a.akamaihd.net/h3o/landing/networks/wall/espn-network-logo.png",
+    "nameen": "ESPN",
+    "position": "0",
+    "type": "channel",
+    "key": "espn_sport_br"
+  },
+  {
+    "namear": "🇲🇽 ESPN 1",
+    "servers": "[{\"headers\":\"\",\"license\":\"3fb8167957692836eca1464b7f952b45:f31042e8167eb4b49ce8117c9e5f1e85\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"🇲🇽 ESPN 1 #KODIPROP:inputstream.adaptive.license_type\\u003dclearkey #KODIPROP:inputstream.adaptive.license_key\\u003d3fb81PbWWqgKDBDorh525uecKaGZD21FGSoCeR:f31042e8167eb4b49ce8117c9e5f1e85\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://aca-live1-ott.izzigo.tv/6/out/u/dash/ESPN-HD-H265/default.mpd\"}]",
+    "logo": "https://assetshuluimcom-a.akamaihd.net/h3o/landing/networks/wall/espn-network-logo.png",
+    "nameen": "🇲🇽 ESPN 1",
+    "position": "1",
+    "type": "channel",
+    "key": "espn_sport_br"
+  },
+  {
+    "namear": "🇲🇽 ESPN 2",
+    "servers": "[{\"headers\":\"\",\"license\":\"faa2d2197cc44dc154650bbacb0dc238:9859d70c856660e20bbe6896f9cd3048\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"🇲🇽 ESPN 2 #KODIPROP:inputstream.adaptive.license_type\\u003dclearkey #KODIPROP:inputstream.adaptive.license_key\\u003dfaa2d2197cc44dc154650bbacb0dc238:9859d70c856660e20bbe6896f9cd3048\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://aca-live1-ott.izzigo.tv/7/out/u/dash/ESPN-2-HD-H265/default.mpd\"}]",
+    "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png",
+    "nameen": "🇲🇽 ESPN 2",
+    "position": "2",
+    "type": "channel",
+    "key": "espn_sport_br"
+  },
+  {
+    "namear": "🇲🇽 ESPN 3",
+    "servers": "[{\"headers\":\"\",\"license\":\"10580600369dbd7ac029f7e737247917:24ef48adb31daa130675c2a502da6982\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"🇲🇽 ESPN 3 #KODIPROP:inputstream.adaptive.license_type\\u003dclearkey #KODIPROP:inputstream.adaptive.license_key\\u003d10580600369dbd7ac029f7e737247917:24ef48adb31daa130675c2a502da6982\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://aca-live1-ott.izzigo.tv/6/out/u/dash/ESPN-3-HD-H265/default.mpd\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "🇲🇽 ESPN 3",
+    "position": "3",
+    "type": "channel",
+    "key": "espn_sport_br"
+  },
+  {
+    "namear": "🇲🇽 ESPN 4",
+    "servers": "[{\"headers\":\"\",\"license\":\"1d2d7f1116eeec62d19943a892d721f7:033b809769a3c248af7383aa817fce72\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"🇲🇽 ESPN 4 #KODIPROP:inputstream.adaptive.license_type\\u003dclearkey #KODIPROP:inputstream.adaptive.license_key\\u003d1PbWWqgKDBDorh525uecKaGZD21FGSoCeR:033b809769a3c248af7383aa817fce72\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://aca-live1-ott.izzigo.tv/6/out/u/dash/ESPN-4-HD-H265/default.mpd\"}]",
+    "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png",
+    "nameen": "🇲🇽 ESPN 4",
+    "position": "4",
+    "type": "channel",
+    "key": "espn_sport_br"
+  },
+  {
+    "namear": "TUDN",
+    "servers": "[{\"headers\":\"\",\"license\":\"1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://a162aivottevtad-a.akamaihd.net/IAD/83926f460d3441c0981f73bd62d7abab/v1/dash/091788724010/univision_vix_linear_amzn1_dv_live_csid_38f331a6-f6dd-4396-9193-4c0d5b6678b4_us-east-1_iad_dash_h264_none_stereo/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd?aws.sessionId\\u003dbac94a06-9cdd-4392-a494-8e68c98055ae\\u0026amznDtid\\u003dAOAGZA014O5RE\\u0026encoding\\u003dsegmentBase\"}]",
+    "logo": "https://www.copaangelina.com/tudn-logo.f5be7aa5.png",
+    "nameen": "TUDN",
+    "position": "11",
+    "type": "channel",
+    "key": "espn_sport_br"
+  },
+  {
+    "namear": "ESPN 2",
+    "servers": "[{\"headers\":\"\",\"license\":\"a49114957d155cacb2e027af14450b94:0fed6599a8740879a29f1a49ec6d482a\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"Espn\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-2-HD/default.mpd\"}]",
+    "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png",
+    "nameen": "ESPN 2",
+    "position": "30",
+    "type": "channel",
+    "key": "espn_sport_br"
+  },
+  {
+    "namear": "LaLiga",
+    "servers": "[{\"headers\":\"\",\"license\":\"dca8597f12f8d6928b55c1291c7bb300:36c8b3f51d474b95f0adad70899343e1\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/TNT-HD/default.mpd\"}]",
+    "visible": "false",
+    "logo": "https://gfr1.b-cdn.net/GFR%20League%20Logos/SPAIN%20LaLiga2.png",
+    "nameen": "LaLiga",
+    "position": "124",
+    "type": "channel",
+    "key": "espn_sport_br"
+  },
+  {
+    "namear": "FOX SPORTS 1",
+    "servers": "[{\"headers\":\"\",\"license\":\"c36b66165fd1064caa4844fa507431ac:3023291481faf9c80139d28893caa80e\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/FOX-SPORTS-HD/default.mpd\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Fox_Sports_Argentina_2026.webp/250px-Fox_Sports_Argentina_2026.webp.png",
+    "nameen": "FOX SPORTS 1",
+    "position": "552",
+    "type": "channel",
+    "key": "espn_sport_br"
+  },
+  {
+    "namear": "FOX SPORTS 2",
+    "servers": "[{\"headers\":\"\",\"license\":\"23986dae03fa883ed8e489cbf70f9ec3:6a42c42732a9dd1da1205971b2c5c535\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/FOX-SPORTS-2-HD/default.mpd\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Fox_Sports_Argentina_2026.webp/250px-Fox_Sports_Argentina_2026.webp.png",
+    "nameen": "FOX SPORTS 2",
+    "position": "555",
+    "type": "channel",
+    "key": "espn_sport_br"
+  },
+  {
+    "namear": "FOX SPORTS 3",
+    "servers": "[{\"headers\":\"\",\"license\":\"f2872dacd39f1bc6c720a49d30bb2fe6:5a3e58a3f0300c44fd568b1f291112e8\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/FOX-SPORTS-3-HD/default.mpd\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Fox_Sports_Argentina_2026.webp/250px-Fox_Sports_Argentina_2026.webp.png",
+    "nameen": "FOX SPORTS 3",
+    "position": "556",
+    "type": "channel",
+    "key": "espn_sport_br"
+  },
+  {
+    "namear": "Golazo",
+    "servers": "[{\"headers\":\"\",\"license\":\"d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd\"}]",
+    "logo": "",
+    "nameen": "Golazo",
+    "position": "1045",
+    "type": "channel",
+    "key": "espn_sport_br"
+  },
+  {
+    "namear": "DSports +",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://latam-cache-sv2-cdn.latamlive.net/DSPLUS_ENC_LIVE/index.mpd\"}]",
+    "visible": "false",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png?_=20180613015011",
+    "nameen": "DSports +",
+    "position": "2452",
+    "type": "channel",
+    "key": "espn_sport_br"
+  }
+]

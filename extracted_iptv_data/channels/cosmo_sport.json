@@ -1,0 +1,56 @@
+[
+  {
+    "namear": "Cosmo1",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36|find|.m3u8\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"find|.m3u8\",\"name\":\"Cosmo1\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://lovetier.bz/player/COSMOTESPORT1\"}]",
+    "logo": "https://logovectorseek.com/wp-content/uploads/2020/12/cosmote-gr-logo-vector.png",
+    "nameen": "Cosmo1",
+    "position": "1",
+    "type": "channel",
+    "key": "cosmo_sport"
+  },
+  {
+    "namear": "Cosmo2",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36|find|m3u8\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"name\":\"Cosmo2\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://lovetier.bz/player/COSMOTESPORT2\"}]",
+    "logo": "https://logovectorseek.com/wp-content/uploads/2020/12/cosmote-gr-logo-vector.png",
+    "nameen": "Cosmo2",
+    "position": "2",
+    "type": "channel",
+    "key": "cosmo_sport"
+  },
+  {
+    "namear": "Cosmo3",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36|find|m3u8\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"name\":\"Cosmo3\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://lovetier.bz/player/COSMOTESPORT3\"}]",
+    "logo": "https://logovectorseek.com/wp-content/uploads/2020/12/cosmote-gr-logo-vector.png",
+    "nameen": "Cosmo3",
+    "position": "3",
+    "type": "channel",
+    "key": "cosmo_sport"
+  },
+  {
+    "namear": "Cosmo4",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36|find|m3u8\",\"otherHeaders\":\"find|m3u8\",\"name\":\"Cosmo4\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://lovetier.bz/player/COSMOTESPORT4\"}]",
+    "logo": "https://logovectorseek.com/wp-content/uploads/2020/12/cosmote-gr-logo-vector.png",
+    "nameen": "Cosmo4",
+    "position": "4",
+    "type": "channel",
+    "key": "cosmo_sport"
+  },
+  {
+    "namear": "Cosmo5",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36|find|m3u8\",\"otherHeaders\":\"find|m3u8\",\"name\":\"Cosmo5\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://lovetier.bz/player/COSMOTESPORT5\"}]",
+    "logo": "https://logovectorseek.com/wp-content/uploads/2020/12/cosmote-gr-logo-vector.png",
+    "nameen": "Cosmo5",
+    "position": "5",
+    "type": "channel",
+    "key": "cosmo_sport"
+  },
+  {
+    "namear": "Cosmo6",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36|find|m3u8\",\"otherHeaders\":\"find|m3u8\",\"name\":\"Cosmo6\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://lovetier.bz/player/COSMOTESPORT6\"}]",
+    "logo": "https://logovectorseek.com/wp-content/uploads/2020/12/cosmote-gr-logo-vector.png",
+    "nameen": "Cosmo6",
+    "position": "6",
+    "type": "channel",
+    "key": "cosmo_sport"
+  }
+]

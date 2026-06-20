@@ -1,0 +1,299 @@
+[
+  {
+    "namear": "حكايات-دفعة",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"حكايات-دفعة\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/cf05f1dbbeae4878bbc4a5919cef3391/index.m3u8\"}]",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "nameen": "حكايات-دفعة",
+    "position": "2",
+    "type": "channel",
+    "key": "shahid_aflam"
+  },
+  {
+    "namear": "شاهد-إنمي",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"شاهد-إنمي\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/e7350ddf46c94dddafe14b099394ff56/index.m3u8\"}]",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "nameen": "شاهد-إنمي",
+    "position": "3",
+    "type": "channel",
+    "key": "shahid_aflam"
+  },
+  {
+    "namear": "Spooky-Nights",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Spooky-Nights\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index_4.m3u8\"}]",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "nameen": "Spooky-Nights",
+    "position": "4",
+    "type": "channel",
+    "key": "shahid_aflam"
+  },
+  {
+    "namear": "عزنا-بطبعنا",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"عزنا-بطبعنا\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index_5.m3u8\"}]",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "nameen": "عزنا-بطبعنا",
+    "position": "5",
+    "type": "channel",
+    "key": "shahid_aflam"
+  },
+  {
+    "namear": "SHAHID LIVE 1 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SHAHID LIVE 1 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-event-4-enc.edgenextcdn.net/out/v1/de16bd22e8854f80b0a6cd6815bacc14/index.m3u8\"}]",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "nameen": "SHAHID LIVE 1 HD",
+    "position": "6",
+    "type": "channel",
+    "key": "shahid_aflam"
+  },
+  {
+    "namear": "Aflam",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Aflam\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8\"}]",
+    "logo": "https://i.imgur.com/cTLj7Yt.png",
+    "nameen": "Aflam",
+    "position": "7",
+    "type": "channel",
+    "key": "shahid_aflam"
+  },
+  {
+    "namear": "Movies-Action",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Movies-Action\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8\"}]",
+    "logo": "https://i.imgur.com/NIVhISa.png",
+    "nameen": "Movies-Action",
+    "position": "8",
+    "type": "channel",
+    "key": "shahid_aflam"
+  },
+  {
+    "namear": "Movies-Thriller",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Movies-Thriller\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8\"}]",
+    "logo": "https://i.imgur.com/JWihdcl.png",
+    "nameen": "Movies-Thriller",
+    "position": "9",
+    "type": "channel",
+    "key": "shahid_aflam"
+  },
+  {
+    "namear": "قناة-البودكاسترز",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"قناة-البودكاسترز\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8\"}]",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "nameen": "قناة-البودكاسترز",
+    "position": "10",
+    "type": "channel",
+    "key": "shahid_aflam"
+  },
+  {
+    "namear": "الثقافية",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"الثقافية\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8\"}]",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "nameen": "الثقافية",
+    "position": "11",
+    "type": "channel",
+    "key": "shahid_aflam"
+  },
+  {
+    "namear": "Selfie",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Selfie\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/2a0f4768f7fa42ed813674628b487e95/index.m3u8\"}]",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "nameen": "Selfie",
+    "position": "12",
+    "type": "channel",
+    "key": "shahid_aflam"
+  },
+  {
+    "namear": "Tash",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Tash\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/e34e3ac9d2534543a13b44c2b458b0c2/index.m3u8\"}]",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "nameen": "Tash",
+    "position": "13",
+    "type": "channel",
+    "key": "shahid_aflam"
+  },
+  {
+    "namear": "قناة-سكة-سفر",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"قناة-سكة-سفر\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/40031eca7be34c4ea9744bf067f4fefa/index.m3u8\"}]",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "nameen": "قناة-سكة-سفر",
+    "position": "14",
+    "type": "channel",
+    "key": "shahid_aflam"
+  },
+  {
+    "namear": "Maraya",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Maraya\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8\"}]",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "nameen": "Maraya",
+    "position": "15",
+    "type": "channel",
+    "key": "shahid_aflam"
+  },
+  {
+    "namear": "قناة-مسرح-مصر",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"قناة-مسرح-مصر\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/8fae48b64942450cb5d60b3fb6910de0/index.m3u8\"}]",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "nameen": "قناة-مسرح-مصر",
+    "position": "16",
+    "type": "channel",
+    "key": "shahid_aflam"
+  },
+  {
+    "namear": "قناة-الكبير-أوي",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"قناة-الكبير-أوي\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/5f5de4f9efe24f758f1364dde5e2a45c/index.m3u8\"}]",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "nameen": "قناة-الكبير-أوي",
+    "position": "17",
+    "type": "channel",
+    "key": "shahid_aflam"
+  },
+  {
+    "namear": "قناة-اللعبة",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"قناة-اللعبة\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/d6e1fdee781f4506a6ac147fee5ba715/index.m3u8\"}]",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "nameen": "قناة-اللعبة",
+    "position": "18",
+    "type": "channel",
+    "key": "shahid_aflam"
+  },
+  {
+    "namear": "من-الجو",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"من-الجو\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index_3.m3u8\"}]",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "nameen": "من-الجو",
+    "position": "19",
+    "type": "channel",
+    "key": "shahid_aflam"
+  },
+  {
+    "namear": "قناة-واي-فاي",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"قناة-واي-فاي\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/22a1fb00da8a4b1fb15cbd70b8b59856/index.m3u8\"}]",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "nameen": "قناة-واي-فاي",
+    "position": "20",
+    "type": "channel",
+    "key": "shahid_aflam"
+  },
+  {
+    "namear": "Naser_Al_Qassaby",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Naser_Al_Qassaby\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/20e003242d244710bfe9ca0fd2b94d00/index.m3u8\"}]",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "nameen": "Naser_Al_Qassaby",
+    "position": "21",
+    "type": "channel",
+    "key": "shahid_aflam"
+  },
+  {
+    "namear": "Al_Asouf",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al_Asouf\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/0afd546fcb5342f69d6bfff2dd1596e9/index.m3u8\"}]",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "nameen": "Al_Asouf",
+    "position": "22",
+    "type": "channel",
+    "key": "shahid_aflam"
+  },
+  {
+    "namear": "Bab_Al_Hara",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Bab_Al_Hara\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8\"}]",
+    "logo": "https://i.imgur.com/QtlnZbq.png",
+    "nameen": "Bab_Al_Hara",
+    "position": "23",
+    "type": "channel",
+    "key": "shahid_aflam"
+  },
+  {
+    "namear": "رابح-صقر",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"رابح-صقر\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8\"}]",
+    "logo": "https://shahid.mbc.net/mediaObject/b98b0635-c8ed-4a7c-9efa-5856e278f54b?type=png",
+    "nameen": "رابح-صقر",
+    "position": "24",
+    "type": "channel",
+    "key": "shahid_aflam"
+  },
+  {
+    "namear": "عبدالمجيد-عبدالله",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"عبدالمجيد-عبدالله\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-abdulmajeed-abdullah/def450c25e1f2dd4379ca782e07c96a8/manifest/video/576p1200kbps/video.m3u8\"}]",
+    "logo": "https://assets.mbcmood.com/channels/1720184087Abdullah%20Majeed%20Abdullah%20banner.png",
+    "nameen": "عبدالمجيد-عبدالله",
+    "position": "25",
+    "type": "channel",
+    "key": "shahid_aflam"
+  },
+  {
+    "namear": "راشد-الماجد",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"راشد-الماجد\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-rashed-almajed/5acf573bde2dd6f133cbd6a338b1f312/manifest/video/576p1200kbps/video.m3u8\"}]",
+    "logo": "https://assets.mbcmood.com/channels/1720184087Abdullah%20Majeed%20Abdullah%20banner.png",
+    "nameen": "راشد-الماجد",
+    "position": "26",
+    "type": "channel",
+    "key": "shahid_aflam"
+  },
+  {
+    "namear": "محمد-عبده",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"محمد-عبده\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mohammed-abdou/ae9bed6024bb80026b2ab5a4de4754ef/manifest/video/576p1200kbps/video.m3u8\"}]",
+    "logo": "https://assets.mbcmood.com/channels/1720184012Mohammed%20Abdo%20banner.png",
+    "nameen": "محمد-عبده",
+    "position": "27",
+    "type": "channel",
+    "key": "shahid_aflam"
+  },
+  {
+    "namear": "فيروز",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"فيروز\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8\"}]",
+    "logo": "https://shahid.mbc.net/mediaObject/f809d51c-e83d-43c9-8236-78731c2216ad?type=png",
+    "nameen": "فيروز",
+    "position": "28",
+    "type": "channel",
+    "key": "shahid_aflam"
+  },
+  {
+    "namear": "طرب",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"طرب\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index_4.m3u8\"}]",
+    "logo": "https://assets.mbcmood.com/channels/1738059679TARAB_Logo.png",
+    "nameen": "طرب",
+    "position": "29",
+    "type": "channel",
+    "key": "shahid_aflam"
+  },
+  {
+    "namear": "ماجد-المهندس",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ماجد-المهندس\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8\"}]",
+    "logo": "https://assets.mbcmood.com/channels/1738059852MAJED_LOGO.png",
+    "nameen": "ماجد-المهندس",
+    "position": "30",
+    "type": "channel",
+    "key": "shahid_aflam"
+  },
+  {
+    "namear": "MBC FM LIVE TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC FM LIVE TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-fm/3f36f7db6086acf058dc51681c87f8ad/index.m3u8\"}]",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "nameen": "MBC FM LIVE TV",
+    "position": "31",
+    "type": "channel",
+    "key": "shahid_aflam"
+  },
+  {
+    "namear": "MBC LOUD FM TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC LOUD FM TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.m3u8\"}]",
+    "logo": "https://i.imgur.com/mptwwLs.png",
+    "nameen": "MBC LOUD FM TV",
+    "position": "32",
+    "type": "channel",
+    "key": "shahid_aflam"
+  },
+  {
+    "namear": "Red-Bull-TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Red-Bull-TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/ad35123d4ad041068bce26ae67ee3180/index.m3u8\"}]",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "nameen": "Red-Bull-TV",
+    "position": "33",
+    "type": "channel",
+    "key": "shahid_aflam"
+  },
+  {
+    "namear": "Big-Time-Plus",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Big-Time-Plus\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8\"}]",
+    "logo": "https://i.ibb.co/JqnC8VY/shahid.png",
+    "nameen": "Big-Time-Plus",
+    "position": "34",
+    "type": "channel",
+    "key": "shahid_aflam"
+  }
+]

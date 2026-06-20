@@ -1,0 +1,164 @@
+[
+  {
+    "namear": "Alanya TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Alanya TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://stream2.taksimbilisim.com:1935/alanyatv/smil:alanyatv.smil/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12283581_ico.png",
+    "nameen": "Alanya TV",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarturkey_تركيا"
+  },
+  {
+    "namear": "Altaş TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Altaş TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://stream.taksimbilisim.com:1935/altastv/bant1/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12283588_ico.png",
+    "nameen": "Altaş TV",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarturkey_تركيا"
+  },
+  {
+    "namear": "Bloomberg HT",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Bloomberg HT\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12284286_ico.png",
+    "nameen": "Bloomberg HT",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarturkey_تركيا"
+  },
+  {
+    "namear": "Eurostar",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Eurostar\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12284501_ico.png",
+    "nameen": "Eurostar",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarturkey_تركيا"
+  },
+  {
+    "namear": "Haber 61 Trabzon",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Haber 61 Trabzon\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12287457_ico.png",
+    "nameen": "Haber 61 Trabzon",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarturkey_تركيا"
+  },
+  {
+    "namear": "Kanal 3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Kanal 3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://stream.taksimbilisim.com:1935/kanal3/bant1/Kanal3.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12287514_ico.png",
+    "nameen": "Kanal 3",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarturkey_تركيا"
+  },
+  {
+    "namear": "Star TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Star TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12287866_ico.png",
+    "nameen": "Star TV",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarturkey_تركيا"
+  },
+  {
+    "namear": "Tivitürk TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Tivitürk TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://stream.tiviturk.de/live/tiviturk.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12287929_ico.png",
+    "nameen": "Tivitürk TV",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarturkey_تركيا"
+  },
+  {
+    "namear": "TV 41",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TV 41\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://stream.taksimbilisim.com:1935/tv41/smil:tv41.smil/chunklist.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12288390_ico.png",
+    "nameen": "TV 41",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarturkey_تركيا"
+  },
+  {
+    "namear": "Canlı 24",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Canlı 24\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12288563_ico.png",
+    "nameen": "Canlı 24",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadrarturkey_تركيا"
+  },
+  {
+    "namear": "Yol TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Yol TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://stream.yol.tv:9485/medialive/yol.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12288569_ico.png",
+    "nameen": "Yol TV",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidadrarturkey_تركيا"
+  },
+  {
+    "namear": "TRT Diyanet",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TRT Diyanet\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12289280_ico.png",
+    "nameen": "TRT Diyanet",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidadrarturkey_تركيا"
+  },
+  {
+    "namear": "Elit TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Elit TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://source2.primetime.ch:2981/play/elittv/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12289668_ico.png",
+    "nameen": "Elit TV",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidadrarturkey_تركيا"
+  },
+  {
+    "namear": "TRT Spor 1",
+    "servers": "[{\"headers\":\"REDLINECLIENT 4sq854884qs41 efg2g6f2gdfuser-Agent|REDLINECLIENT 4sq854884qs41 efg2g6f2gdfuser-Agent|REDLINECLIENT 4sq854884qs41 efg2g6f2gdfuser-Agent|REDLINECLIENT 4sq854884qs41 efg2g6f2gdf\",\"otherHeaders\":\"\",\"name\":\"TRT Spor 1\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT 4sq854884qs41 efg2g6f2gdfuser-Agent|REDLINECLIENT 4sq854884qs41 efg2g6f2gdf\",\"position\":\"0\",\"url\":\"http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/528\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7059223_ico.png",
+    "nameen": "TRT Spor 1",
+    "position": "13",
+    "type": "channel",
+    "key": "windroidadrarturkey_تركيا"
+  },
+  {
+    "namear": "TRT Spor 2",
+    "servers": "[{\"headers\":\"REDLINECLIENT 4sq854884qs41 efg2g6f2gdfuser-Agent|REDLINECLIENT 4sq854884qs41 efg2g6f2gdfuser-Agent|REDLINECLIENT 4sq854884qs41 efg2g6f2gdfuser-Agent|REDLINECLIENT 4sq854884qs41 efg2g6f2gdf\",\"otherHeaders\":\"\",\"name\":\"TRT Spor 2\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT 4sq854884qs41 efg2g6f2gdfuser-Agent|REDLINECLIENT 4sq854884qs41 efg2g6f2gdf\",\"position\":\"0\",\"url\":\"http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/32095\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7059240_ico.png",
+    "nameen": "TRT Spor 2",
+    "position": "14",
+    "type": "channel",
+    "key": "windroidadrarturkey_تركيا"
+  },
+  {
+    "namear": "a Spor",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"a Spor\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://66.160.192.241/aspor/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7059259_ico.png",
+    "nameen": "a Spor",
+    "position": "15",
+    "type": "channel",
+    "key": "windroidadrarturkey_تركيا"
+  },
+  {
+    "namear": "Spor Smart 1",
+    "servers": "[{\"headers\":\"REDLINECLIENT 4sq854884qs41 sdfcsdfsduser-Agent|REDLINECLIENT 4sq854884qs41 sdfcsdfsduser-Agent|REDLINECLIENT 4sq854884qs41 sdfcsdfsduser-Agent|REDLINECLIENT 4sq854884qs41 sdfcsdfsd\",\"otherHeaders\":\"\",\"name\":\"Spor Smart 1\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT 4sq854884qs41 sdfcsdfsduser-Agent|REDLINECLIENT 4sq854884qs41 sdfcsdfsd\",\"position\":\"0\",\"url\":\"http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1750\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/11069092_ico.png",
+    "nameen": "Spor Smart 1",
+    "position": "16",
+    "type": "channel",
+    "key": "windroidadrarturkey_تركيا"
+  },
+  {
+    "namear": "Spor Smart 2",
+    "servers": "[{\"headers\":\"REDLINECLIENT 4sq854884qs41 sdfcsdfsduser-Agent|REDLINECLIENT 4sq854884qs41 sdfcsdfsduser-Agent|REDLINECLIENT 4sq854884qs41 sdfcsdfsduser-Agent|REDLINECLIENT 4sq854884qs41 sdfcsdfsd\",\"otherHeaders\":\"\",\"name\":\"Spor Smart 2\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT 4sq854884qs41 sdfcsdfsduser-Agent|REDLINECLIENT 4sq854884qs41 sdfcsdfsd\",\"position\":\"0\",\"url\":\"http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/50121\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/15424012_ico.png",
+    "nameen": "Spor Smart 2",
+    "position": "17",
+    "type": "channel",
+    "key": "windroidadrarturkey_تركيا"
+  }
+]

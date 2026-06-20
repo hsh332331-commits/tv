@@ -1,0 +1,623 @@
+[
+  {
+    "namear": "Indosiar 1",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"Indosiar 1\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKRka_2bHOmO9SdXyOXQb3y0\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png",
+    "nameen": "Indosiar 1",
+    "position": "11",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "Indosiar 2",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"Indosiar 2\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png",
+    "nameen": "Indosiar 2",
+    "position": "12",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "Indosiar 3",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"Indosiar 3\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://stb.mbahnunungonline.net/live/m3u8/id/575eeb9f08dc8da.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png",
+    "nameen": "Indosiar 3",
+    "position": "14",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "National Geographic",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"National Geographic\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://117tv.icu:8080/live/X5xRz0/944877/47339.m3u8\"}]",
+    "logo": "https://i.pngimg.me/thumb/f/720/comdlpng6961737.jpg",
+    "nameen": "National Geographic",
+    "position": "54",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "National Geographic Wild",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"National Geographic Wild\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://117tv.icu:8080/live/X5xRz0/944877/57280.m3u8\"}]",
+    "logo": "https://m.media-amazon.com/images/I/61rYWQU3MpL.jpg",
+    "nameen": "National Geographic Wild",
+    "position": "55",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "beIN SPORTS 1 MY",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"beIN SPORTS 1 MY\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3498\"}]",
+    "logo": "https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/541416814a32457da86263874a8536e8/version/2",
+    "nameen": "beIN SPORTS 1 MY",
+    "position": "70",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "beIN SPORTS 2 MY #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=1c983e5a03b0f8adde686ef20497e2b4:f7b1d6556850b472f4f683519f4e41f7",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"beIN SPORTS 2 MY #KODIPROP:inputstreamaddon\\u003dinputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type\\u003ddash #KODIPROP:inputstream.adaptive.license_type\\u003dclearkey #KODIPROP:inputstream.adaptive.license_key\\u003d1c983e5a03b0f8adde686ef20497e2b4:f7b1d6556850b472f4f683519f4e41f7\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227971/3221227971.mpd?rrsip\\u003dweb.hypp.tv:443\\u0026zoneoffset\\u003d0\\u0026servicetype\\u003d1\\u0026icpid\\u003d\\u0026accounttype\\u003d1\\u0026limitflux\\u003d-1\\u0026limitdur\\u003d-1\\u0026accountinfo\\u003dU0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawgQY43Tg5eLk6%2BKHkOBbkVv%2FaciHRqnNnDuZfWMEk6l0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206101746%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101746%2Curn:Huawei:liveTV:XTV59922231%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND\\u0026GuardEncType\\u003d2\\u0026it\\u003dH4sIAAAAAAAAADWPQU-EMBSE_02PDX2LUA49rdnExKDJolcztI9KttC1ZTfx3wuKc3wz38vMkmD56dEMKEB1rQlDX6raNWh6TfqAinRflVZk_mqjIWERwjj7NroNez8fP1QhC0mkpCLRbe9OAX5Ptrep52QO_9iZ0320bFwe5B1ZwvvEHssYZ_ka8P2Wwh4R3O3VVFU_VE1RriItlu3aIV9WR3wiH-N0RWL3HP0vsC4JmcUV9gLPLSY28y2EP-4lubXND5_xMYT0AAAA\\u0026tenantId\\u003d6001\"}]",
+    "logo": "https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/a71f8dc3fb554106ba93cf03af6d7499/version/1",
+    "nameen": "beIN SPORTS 2 MY #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=1c983e5a03b0f8adde686ef20497e2b4:f7b1d6556850b472f4f683519f4e41f7",
+    "position": "71",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3500\"}]",
+    "logo": "https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/a6eeadb42ec6443fb027e24d6180c790/version/1",
+    "nameen": "",
+    "position": "72",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "BEIN SPORTS 4 🇲🇾 #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=94663e64ef81e90a9deeb0f1993ce11c:9d6f78876677b543cd4e18c846aa2481",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"BEIN SPORTS 4 🇲🇾 #KODIPROP:inputstreamaddon\\u003dinputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type\\u003ddash #KODIPROP:inputstream.adaptive.license_type\\u003dclearkey #KODIPROP:inputstream.adaptive.license_key\\u003d94663e64ef81e90a9deeb0f1993ce11c:9d6f78876677b543cd4e18c846aa2481\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227937/3221227937.mpd?rrsip\\u003dweb.hypp.tv:443\\u0026zoneoffset\\u003d0\\u0026servicetype\\u003d1\\u0026icpid\\u003d\\u0026accounttype\\u003d1\\u0026limitflux\\u003d-1\\u0026limitdur\\u003d-1\\u0026accountinfo\\u003dU0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrU7%2B8kYXzOcpo3wc%2BwgB1By0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV57682031%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND\\u0026GuardEncType\\u003d2\\u0026it\\u003dH4sIAAAAAAAAADWOwY6CMBRF_6bLpn10wC660piYTHASGbfmUR6VWKi2QDJ_P6K4vfeemzNGtHTYGRKbPMu0shsAVdu2FlDkYNtMo4RaS5boUQYDzKL33eDK0CzY-bS9SMEFB5BcAquWu71Hty7Lqa8pmuyDnSjOnSXTpJbPmDg6F8nh2IWB_3j8-41-nTCqVjWZF1-5FqoApTQbl7TCdHs27IppG_o7Rmq-g3sBpkWfiN3R3tBRiT2ZYfL-zR1j87T5B0NkEFD0AAAA\\u0026tenantId\\u003d6001\"}]",
+    "logo": "https://i.ibb.co.com/wLGqW0B/bein4.png",
+    "nameen": "BEIN SPORTS 4 🇲🇾 #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=94663e64ef81e90a9deeb0f1993ce11c:9d6f78876677b543cd4e18c846aa2481",
+    "position": "73",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "BEIN SPORTS XTRA 🇺🇸",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"BEIN SPORTS XTRA 🇺🇸\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-vidaa/mono.m3u8\"}]",
+    "logo": "https://i.ibb.co.com/v1bpVxN/beinxtraen.png",
+    "nameen": "BEIN SPORTS XTRA 🇺🇸",
+    "position": "74",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "BEIN SPORTS XTRA En Español 🇺🇸",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"BEIN SPORTS XTRA En Español 🇺🇸\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType\\u003dsamsung-tvplus\\u0026deviceMake\\u003dsamsung\\u0026deviceModel\\u003dsamsung\\u0026deviceVersion\\u003dunknown\\u0026appVersion\\u003dunknown\\u0026deviceLat\\u003d0\\u0026deviceLon\\u003d0\\u0026deviceDNT\\u003d%7BTARGETOPT%7D\\u0026deviceId\\u003d%7BPSID%7D\\u0026advertisingId\\u003d%7BPSID%7D\\u0026us_privacy\\u003d1YNY\\u0026samsung_app_domain\\u003d%7BAPP_DOMAIN%7D\\u0026samsung_app_name\\u003d%7BAPP_NAME%7D\\u0026profileLimit\\u003d\\u0026profileFloor\\u003d\\u0026embedPartner\\u003dsamsung-tvplus\"}]",
+    "logo": "https://i.ibb.co.com/44jf5LR/beinxtraes.png",
+    "nameen": "BEIN SPORTS XTRA En Español 🇺🇸",
+    "position": "75",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "BEIN SPORTS XTRA En Español 🇺🇸",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"BEIN SPORTS XTRA En Español 🇺🇸\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-vidaa/mono.m3u8\"}]",
+    "logo": "https://i.ibb.co.com/44jf5LR/beinxtraes.png",
+    "nameen": "BEIN SPORTS XTRA En Español 🇺🇸",
+    "position": "76",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "BEIN SPORTS XTRA En Español 🇺🇸",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"BEIN SPORTS XTRA En Español 🇺🇸\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/mono.m3u8\"}]",
+    "logo": "https://i.ibb.co.com/44jf5LR/beinxtraes.png",
+    "nameen": "BEIN SPORTS XTRA En Español 🇺🇸",
+    "position": "77",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "CBS Sports Network",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"CBS Sports Network\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/mono.m3u8 \"}]",
+    "logo": "https://static.wikia.nocookie.net/viacom4633/images/7/73/ACCD68D0-9B23-449F-A783-E8CF43EE2BD4.png/revision/latest?cb=20191208013647",
+    "nameen": "CBS Sports Network",
+    "position": "78",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "CANAL+ PREMIER LEAGUE HD",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"CANAL+ PREMIER LEAGUE HD\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://vpn.iplay-tv.co:8080/play/live.php?mac\\u003d00:1A:79:ca:ea:3c\\u0026stream\\u003d295371\\u0026extension\\u003dts\"}]",
+    "logo": "https://static.epg.best/fr/CanalPlusSport.fr.png",
+    "nameen": "CANAL+ PREMIER LEAGUE HD",
+    "position": "79",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "CANAL+ PREMIER LEAGUE HEVC",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"CANAL+ PREMIER LEAGUE HEVC\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://vpn.iplay-tv.co:8080/play/live.php?mac\\u003d00:1A:79:ca:ea:3c\\u0026stream\\u003d295372\\u0026extension\\u003dts\"}]",
+    "logo": "https://static.epg.best/fr/CanalPlusSport.fr.png",
+    "nameen": "CANAL+ PREMIER LEAGUE HEVC",
+    "position": "80",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "CANAL+ FOOT HD",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"CANAL+ FOOT HD\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://vpn.iplay-tv.co:8080/play/live.php?mac\\u003d00:1A:79:ca:ea:3c\\u0026stream\\u003d418638\\u0026extension\\u003dts\"}]",
+    "logo": "https://static.epg.best/fr/CanalPlusSport.fr.png",
+    "nameen": "CANAL+ FOOT HD",
+    "position": "81",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "CANAL+ FOOT SD",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"CANAL+ FOOT SD\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://vpn.iplay-tv.co:8080/play/live.php?mac\\u003d00:1A:79:ca:ea:3c\\u0026stream\\u003d683147\\u0026extension\\u003dts\"}]",
+    "logo": "https://static.epg.best/fr/CanalPlusSport.fr.png",
+    "nameen": "CANAL+ FOOT SD",
+    "position": "82",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "Canal+ Sport 1",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"Canal+ Sport 1\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/2775\"}]",
+    "logo": "https://static.epg.best/fr/CanalPlusSport.fr.png",
+    "nameen": "Canal+ Sport 1",
+    "position": "83",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "Canal+ Sport 2",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"Canal+ Sport 2\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/28146\"}]",
+    "logo": "https://static.epg.best/fr/CanalPlusSport.fr.png",
+    "nameen": "Canal+ Sport 2",
+    "position": "84",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "Canal+ Sport 3",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"Canal+ Sport 3\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/28090\"}]",
+    "logo": "https://static.epg.best/fr/CanalPlusSport.fr.png",
+    "nameen": "Canal+ Sport 3",
+    "position": "85",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "Canal+ MOTOGP",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"Canal+ MOTOGP\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/2793\"}]",
+    "logo": "https://static.epg.best/fr/CanalPlus.fr.png",
+    "nameen": "Canal+ MOTOGP",
+    "position": "86",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "Canal+ Sport 360 HD",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"Canal+ Sport 360 HD\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/2789\"}]",
+    "logo": "https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-sport-360-fr.png",
+    "nameen": "Canal+ Sport 360 HD",
+    "position": "87",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "Canal+ Sport DIRECT",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"Canal+ Sport DIRECT\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/2790\"}]",
+    "logo": "https://static.epg.best/fr/CanalPlusSport.fr.png",
+    "nameen": "Canal+ Sport DIRECT",
+    "position": "88",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "MUTV",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"MUTV\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/mono.m3u8\"}]",
+    "logo": "https://1.bp.blogspot.com/-_lgSyJxcGdg/YJbSYPirD6I/AAAAAAAAE5c/tVfhxaUS02MxrNuecOV8lHOmKXkxQQ1EQCLcBGAsYHQ/s720/mutv-p.png",
+    "nameen": "MUTV",
+    "position": "100",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "Nova Sport 1 🇸🇰",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"Nova Sport 1 🇸🇰\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://1sn.ns1.name:18800/rinorahmeti/gusht22D04/43340\"}]",
+    "logo": "https://i.ibb.co.com/56y8MCX/novasport1.png",
+    "nameen": "Nova Sport 1 🇸🇰",
+    "position": "101",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "Nova Sport 2 🇸🇰",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"Nova Sport 2 🇸🇰\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://1sn.ns1.name:18800/rinorahmeti/gusht22D04/43341\"}]",
+    "logo": "https://i.ibb.co.com/QQ8zfv4/novasport2.png",
+    "nameen": "Nova Sport 2 🇸🇰",
+    "position": "102",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "Sony Sports 1",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"Sony Sports 1\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.ts\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sony_Sports_Network_Logo.png/800px-Sony_Sports_Network_Logo.png",
+    "nameen": "Sony Sports 1",
+    "position": "118",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "Sony Sports 2",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"Sony Sports 2\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/192.ts\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sony_Sports_Network_Logo.png/800px-Sony_Sports_Network_Logo.png",
+    "nameen": "Sony Sports 2",
+    "position": "119",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "Sony Sports 3",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"Sony Sports 3\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sony_Sports_Network_Logo.png/800px-Sony_Sports_Network_Logo.png",
+    "nameen": "Sony Sports 3",
+    "position": "120",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "Sony Sports 4",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"Sony Sports 4\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sony_Sports_Network_Logo.png/800px-Sony_Sports_Network_Logo.png",
+    "nameen": "Sony Sports 4",
+    "position": "121",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "Sony Sports 5",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"Sony Sports 5\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sony_Sports_Network_Logo.png/800px-Sony_Sports_Network_Logo.png",
+    "nameen": "Sony Sports 5",
+    "position": "122",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "True Premiere 1",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"True Premiere 1\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://iptvtree.net:8080/F14995/a84c0963/162591\"}]",
+    "logo": "https://dl.dropboxusercontent.com/s/b5jnn0j8lk9lo9w/truepremierfootball1.png",
+    "nameen": "True Premiere 1",
+    "position": "123",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "like Gecko) Chrome/109.0.0.0 Safari/537.36",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"like Gecko) Chrome/109.0.0.0 Safari/537.36\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://iptvtree.net:8080/F14995/a84c0963/162592\"}]",
+    "logo": "http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png",
+    "nameen": "like Gecko) Chrome/109.0.0.0 Safari/537.36",
+    "position": "124",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "like Gecko) Chrome/109.0.0.0 Safari/537.36",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"like Gecko) Chrome/109.0.0.0 Safari/537.36\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://bkm.beetv.kz/btv/live/hls/000002649.m3u8\"}]",
+    "logo": "https://i.ibb.co.com/VDqDFL0/setantaspkz.png",
+    "nameen": "like Gecko) Chrome/109.0.0.0 Safari/537.36",
+    "position": "136",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "like Gecko) Chrome/109.0.0.0 Safari/537.36",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"like Gecko) Chrome/109.0.0.0 Safari/537.36\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://bkm.beetv.kz/btv/live/hls/000004619.m3u8\"}]",
+    "logo": "https://i.ibb.co/VDqDFL0/setantaspkz.png",
+    "nameen": "like Gecko) Chrome/109.0.0.0 Safari/537.36",
+    "position": "137",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "like Gecko) Chrome/109.0.0.0 Safari/537.36",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"like Gecko) Chrome/109.0.0.0 Safari/537.36\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://bkm.beetv.kz/btv/live/hls/000004498.m3u8\"}]",
+    "logo": "https://i.ibb.co/hyShPmQ/setantasp1.png",
+    "nameen": "like Gecko) Chrome/109.0.0.0 Safari/537.36",
+    "position": "138",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "like Gecko) Chrome/109.0.0.0 Safari/537.36",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"like Gecko) Chrome/109.0.0.0 Safari/537.36\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://bkm.beetv.kz/btv/live/hls/000006998.m3u8\"}]",
+    "logo": "https://i.ibb.co/hyShPmQ/setantasp1.png",
+    "nameen": "like Gecko) Chrome/109.0.0.0 Safari/537.36",
+    "position": "139",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "like Gecko) Chrome/109.0.0.0 Safari/537.36",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"like Gecko) Chrome/109.0.0.0 Safari/537.36\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://bkm.beetv.kz/btv/live/hls/000004499.m3u8\"}]",
+    "logo": "https://i.ibb.co/fpKYZrr/setantasp2.png",
+    "nameen": "like Gecko) Chrome/109.0.0.0 Safari/537.36",
+    "position": "140",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "like Gecko) Chrome/109.0.0.0 Safari/537.36",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"like Gecko) Chrome/109.0.0.0 Safari/537.36\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://bkm.beetv.kz/btv/live/hls/000006899.m3u8\"}]",
+    "logo": "https://i.ibb.co/fpKYZrr/setantasp2.png",
+    "nameen": "like Gecko) Chrome/109.0.0.0 Safari/537.36",
+    "position": "141",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "Setanta Event 2 HD #EXTGRP: Sports #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"Setanta Event 2 HD #EXTGRP: Sports #KODIPROP:inputstreamaddon\\u003dinputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type\\u003ddash #KODIPROP:inputstream.adaptive.license_type\\u003dorg.w3.clearkey #KODIPROP:inputstream.adaptive.license_key\\u003d1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdnlb.tvplayhome.lt/live/eds/Setanta17_HD_HVC/GO3_LIVE_DASH_HVC/Setanta17_HD_HVC.mpd\"}]",
+    "logo": "https://i.ibb.co/K5mvvQB/setantasp.png",
+    "nameen": "Setanta Event 2 HD #EXTGRP: Sports #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654",
+    "position": "143",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "Setanta Event 3 HD #EXTGRP: Sports #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"Setanta Event 3 HD #EXTGRP: Sports #KODIPROP:inputstreamaddon\\u003dinputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type\\u003ddash #KODIPROP:inputstream.adaptive.license_type\\u003dorg.w3.clearkey #KODIPROP:inputstream.adaptive.license_key\\u003d1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdnlb.tvplayhome.lt/live/eds/Setanta18_HD_HVC/GO3_LIVE_DASH_HVC/Setanta18_HD_HVC.mpd\"}]",
+    "logo": "https://i.ibb.co/K5mvvQB/setantasp.png",
+    "nameen": "Setanta Event 3 HD #EXTGRP: Sports #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654",
+    "position": "144",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "Setanta Event 4 HD #EXTGRP: Sports #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"Setanta Event 4 HD #EXTGRP: Sports #KODIPROP:inputstreamaddon\\u003dinputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type\\u003ddash #KODIPROP:inputstream.adaptive.license_type\\u003dorg.w3.clearkey #KODIPROP:inputstream.adaptive.license_key\\u003d1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdnlb.tvplayhome.lt/live/eds/Setanta19_HD_HVC/GO3_LIVE_DASH_HVC/Setanta19_HD_HVC.mpd\"}]",
+    "logo": "https://i.ibb.co/K5mvvQB/setantasp.png",
+    "nameen": "Setanta Event 4 HD #EXTGRP: Sports #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654",
+    "position": "145",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "Setanta Event 5 HD #EXTGRP: Sports #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"Setanta Event 5 HD #EXTGRP: Sports #KODIPROP:inputstreamaddon\\u003dinputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type\\u003ddash #KODIPROP:inputstream.adaptive.license_type\\u003dorg.w3.clearkey #KODIPROP:inputstream.adaptive.license_key\\u003d1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdnlb.tvplayhome.lt/live/eds/Setanta20_HD_HVC/GO3_LIVE_DASH_HVC/Setanta20_HD_HVC.mpd\"}]",
+    "logo": "https://i.ibb.co/K5mvvQB/setantasp.png",
+    "nameen": "Setanta Event 5 HD #EXTGRP: Sports #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654",
+    "position": "146",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "Setanta Event 6 HD #EXTGRP: Sports #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"Setanta Event 6 HD #EXTGRP: Sports #KODIPROP:inputstreamaddon\\u003dinputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type\\u003ddash #KODIPROP:inputstream.adaptive.license_type\\u003dorg.w3.clearkey #KODIPROP:inputstream.adaptive.license_key\\u003d1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdnlb.tvplayhome.lt/live/eds/Setanta21_HD_HVC/GO3_LIVE_DASH_HVC/Setanta21_HD_HVC.mpd\"}]",
+    "logo": "https://i.ibb.co/K5mvvQB/setantasp.png",
+    "nameen": "Setanta Event 6 HD #EXTGRP: Sports #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654",
+    "position": "147",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "Setanta Event 7 HD #EXTGRP: Sports #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"Setanta Event 7 HD #EXTGRP: Sports #KODIPROP:inputstreamaddon\\u003dinputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type\\u003ddash #KODIPROP:inputstream.adaptive.license_type\\u003dorg.w3.clearkey #KODIPROP:inputstream.adaptive.license_key\\u003d1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdnlb.tvplayhome.lt/live/eds/Setanta22_HD_HVC/GO3_LIVE_DASH_HVC/Setanta22_HD_HVC.mpd\"}]",
+    "logo": "https://i.ibb.co/K5mvvQB/setantasp.png",
+    "nameen": "Setanta Event 7 HD #EXTGRP: Sports #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654",
+    "position": "148",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "TYGON~1~FUTbol",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"TYGON~1~FUTbol\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://31.148.48.15:80/Match_Futbol_1_HD/mono.m3u8 ?token\\u003dtest\"}]",
+    "logo": "https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg",
+    "nameen": "TYGON~1~FUTbol",
+    "position": "152",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "TYGON~2~FUTBOL",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"TYGON~2~FUTBOL\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://31.148.48.15:80/Match_Futbol_2_HD/mono.m3u8 ?token\\u003dtest\"}]",
+    "logo": "https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg",
+    "nameen": "TYGON~2~FUTBOL",
+    "position": "153",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "TYGON~3~FUTBOL",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"TYGON~3~FUTBOL\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://31.148.48.15:80/Match_Futbol_3_HD/mono.m3u8 ?token\\u003dtest\"}]",
+    "logo": "https://i.ibb.co/qJJrHJb/Rusia-Sport-Share-Ext.jpg",
+    "nameen": "TYGON~3~FUTBOL",
+    "position": "154",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "TNT Sports 1 #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"TNT Sports 1 #KODIPROP:inputstreamaddon\\u003dinputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type\\u003ddash #KODIPROP:inputstream.adaptive.license_type\\u003dclearkey #KODIPROP:inputstream.adaptive.license_key\\u003dae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd\"}]",
+    "logo": "https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg",
+    "nameen": "TNT Sports 1 #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d",
+    "position": "160",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "TNT Sports 2 #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"TNT Sports 2 #KODIPROP:inputstreamaddon\\u003dinputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type\\u003ddash #KODIPROP:inputstream.adaptive.license_type\\u003dclearkey #KODIPROP:inputstream.adaptive.license_key\\u003d6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd\"}]",
+    "logo": "https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg",
+    "nameen": "TNT Sports 2 #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441",
+    "position": "161",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "TNT Sports 3 #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"TNT Sports 3 #KODIPROP:inputstreamaddon\\u003dinputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type\\u003ddash #KODIPROP:inputstream.adaptive.license_type\\u003dclearkey #KODIPROP:inputstream.adaptive.license_key\\u003d4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd\"}]",
+    "logo": "https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg",
+    "nameen": "TNT Sports 3 #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f",
+    "position": "162",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "TNT Sports 4 #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"TNT Sports 4 #KODIPROP:inputstreamaddon\\u003dinputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type\\u003ddash #KODIPROP:inputstream.adaptive.license_type\\u003dclearkey #KODIPROP:inputstream.adaptive.license_key\\u003de31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd\"}]",
+    "logo": "https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg",
+    "nameen": "TNT Sports 4 #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729",
+    "position": "163",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "TyCSports",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"TyCSports\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://1sn.ns1.name:18800/rinorahmeti/gusht22D04/46704\"}]",
+    "logo": "https://logowik.com/content/uploads/images/tyc-sports9267.logowik.com.webp",
+    "nameen": "TyCSports",
+    "position": "164",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "Rush Sport #KODIPROP:inputstream=inputstream.ffmpegdirect #KODIPROP:mimetype=video/mp2t #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"Rush Sport #KODIPROP:inputstream\\u003dinputstream.ffmpegdirect #KODIPROP:mimetype\\u003dvideo/mp2t #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream\\u003dtrue #KODIPROP:inputstream.ffmpegdirect.stream_mode\\u003dtimeshift #KODIPROP:inputstream.ffmpegdirect.manifest_type\\u003dts\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://tv14s.xyz:8080/live/753468/894568/99568.ts\"}]",
+    "logo": "https://ia903107.us.archive.org/35/items/rushsports/rush%20sports.png",
+    "nameen": "Rush Sport #KODIPROP:inputstream=inputstream.ffmpegdirect #KODIPROP:mimetype=video/mp2t #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts",
+    "position": "165",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "BR :SPORTV 1",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"BR :SPORTV 1\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://zlb189.office646851.online/auth/234839.ts\"}]",
+    "logo": "http://one-iptv.com/imageslogo/pu_assistir-ao-vivo-online-sportv-news-gratis.jpg",
+    "nameen": "BR :SPORTV 1",
+    "position": "185",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "BR :SPORTV 2",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"BR :SPORTV 2\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://zlb189.office646851.online/auth/302.ts\"}]",
+    "logo": "http://one-iptv.com/imageslogo/pu_assistir-ao-vivo-online-sportv-news-gratis.jpg",
+    "nameen": "BR :SPORTV 2",
+    "position": "186",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "BR :SPORTV 3",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"BR :SPORTV 3\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://zlb189.office646851.online/auth/303.ts\"}]",
+    "logo": "http://one-iptv.com/imageslogo/pu_assistir-ao-vivo-online-sportv-news-gratis.jpg",
+    "nameen": "BR :SPORTV 3",
+    "position": "187",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "FOX SPORTS DEPORTES",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"FOX SPORTS DEPORTES\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://hdtt3.online:3050/adagalarn17@gmail.com/qLFUMi83bq/418211\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/220px-FOX_Deportes_logo.png",
+    "nameen": "FOX SPORTS DEPORTES",
+    "position": "188",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "FOX SOCCER PLUS",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"FOX SOCCER PLUS\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://hdtt3.online:3050/adagalarn17@gmail.com/qLFUMi83bq/418210\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png",
+    "nameen": "FOX SOCCER PLUS",
+    "position": "189",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "FOX SPORTS 1 馃嚭馃嚫",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"FOX SPORTS 1 馃嚭馃嚫\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://117tv.icu:8080/live/X5xRz0/944877/1846.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",
+    "nameen": "FOX SPORTS 1 馃嚭馃嚫",
+    "position": "190",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "FOX SPORTS 2 馃嚭馃嚫",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"FOX SPORTS 2 馃嚭馃嚫\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://117tv.icu:8080/live/X5xRz0/944877/1847.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",
+    "nameen": "FOX SPORTS 2 馃嚭馃嚫",
+    "position": "191",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "HYPER LA LIGA 1 #EXTVLCOPT:http-user-agent=Mozilla/5.0 #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"HYPER LA LIGA 1 #EXTVLCOPT:http-user-agent\\u003dMozilla/5.0 #KODIPROP:inputstreamaddon\\u003dinputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type\\u003ddash #KODIPROP:inputstream.adaptive.license_type\\u003dorg.w3.clearkey #KODIPROP:inputstream.adaptive.license_key\\u003d0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd\"}]",
+    "logo": "https://i.ytimg.com/vi/tyeszANVosw/maxresdefault.jpg",
+    "nameen": "HYPER LA LIGA 1 #EXTVLCOPT:http-user-agent=Mozilla/5.0 #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71",
+    "position": "194",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "HYPER LA LIGA 2 #EXTVLCOPT:http-user-agent=Mozilla/5.0 #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"HYPER LA LIGA 2 #EXTVLCOPT:http-user-agent\\u003dMozilla/5.0 #KODIPROP:inputstreamaddon\\u003dinputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type\\u003ddash #KODIPROP:inputstream.adaptive.license_type\\u003dorg.w3.clearkey #KODIPROP:inputstream.adaptive.license_key\\u003dd8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd\"}]",
+    "logo": "https://i.ytimg.com/vi/tyeszANVosw/maxresdefault.jpg",
+    "nameen": "HYPER LA LIGA 2 #EXTVLCOPT:http-user-agent=Mozilla/5.0 #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6",
+    "position": "195",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "Real Madrid TV",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"Real Madrid TV\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8\"}]",
+    "logo": "https://comunidad.movistar.es/t5/image/serverpage/image-id/116745iC79D86FD3EB914B8?v=v2",
+    "nameen": "Real Madrid TV",
+    "position": "223",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "PREMIER SPORTS 1",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"PREMIER SPORTS 1\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://6oclock.xyz:8443/9rpAZwWZT9/zaGl252Y2w/25803\"}]",
+    "logo": "https://i2.wp.com/weplay.co/wp-content/uploads/2018/11/Premier-Sports.png?fit=960%2C960&ssl=1",
+    "nameen": "PREMIER SPORTS 1",
+    "position": "235",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "PREMIER SPORTS 2",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"PREMIER SPORTS 2\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://6oclock.xyz:8443/9rpAZwWZT9/zaGl252Y2w/25804\"}]",
+    "logo": "https://i2.wp.com/weplay.co/wp-content/uploads/2018/11/Premier-Sports.png?fit=960%2C960&ssl=1",
+    "nameen": "PREMIER SPORTS 2",
+    "position": "236",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "Win Sports #KODIPROP:inputstream=inputstream.ffmpegdirect #KODIPROP:mimetype=video/mp2t #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"Win Sports #KODIPROP:inputstream\\u003dinputstream.ffmpegdirect #KODIPROP:mimetype\\u003dvideo/mp2t #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream\\u003dtrue #KODIPROP:inputstream.ffmpegdirect.stream_mode\\u003dtimeshift #KODIPROP:inputstream.ffmpegdirect.manifest_type\\u003dts\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/78717.ts\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT62bFqq-uHcYqTFg-V8p6oDMKPT4akZ12Lsw&usqp=CAU",
+    "nameen": "Win Sports #KODIPROP:inputstream=inputstream.ffmpegdirect #KODIPROP:mimetype=video/mp2t #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts",
+    "position": "237",
+    "type": "channel",
+    "key": "tvi88"
+  },
+  {
+    "namear": "Win Sports +",
+    "servers": "[{\"headers\":\"Referer|https://www.visionplus.id/|license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"otherHeaders\":\"license_key\\u003dhttps://mrpw.ptmnc01.verspective.net/?deviceId\\u003dOTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh\",\"name\":\"Win Sports +\",\"Referer\":\"https://www.visionplus.id/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://1tv41.icu:8080/4qUDXt/560526/78717\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT62bFqq-uHcYqTFg-V8p6oDMKPT4akZ12Lsw&usqp=CAU",
+    "nameen": "Win Sports +",
+    "position": "238",
+    "type": "channel",
+    "key": "tvi88"
+  }
+]

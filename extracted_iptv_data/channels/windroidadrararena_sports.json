@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "Arena Sport 1",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Arena Sport 1\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/679\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2946248_ico.png",
+    "nameen": "Arena Sport 1",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrararena_sports"
+  },
+  {
+    "namear": "Arena Sport 2",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Arena Sport 2\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/675\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2946260_ico.png",
+    "nameen": "Arena Sport 2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrararena_sports"
+  },
+  {
+    "namear": "Arena Sport 3",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Arena Sport 3\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/676\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2946264_ico.png",
+    "nameen": "Arena Sport 3",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrararena_sports"
+  },
+  {
+    "namear": "Arena Sport 4",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Arena Sport 4\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/677\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2946269_ico.png",
+    "nameen": "Arena Sport 4",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrararena_sports"
+  },
+  {
+    "namear": "Arena Sport 5",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Arena Sport 5\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/678\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2946273_ico.png",
+    "nameen": "Arena Sport 5",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrararena_sports"
+  }
+]

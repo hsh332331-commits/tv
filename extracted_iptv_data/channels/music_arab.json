@@ -1,0 +1,353 @@
+[
+  {
+    "namear": "Arabica Music",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://istream.binarywaves.com:8081/hls/arabica/mono.m3u8\"}]",
+    "logo": "https://i.imgur.com/8He6Lca.png",
+    "nameen": "Arabica Music",
+    "position": "1",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "Panorama FM",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/mono.m3u8 \"}]",
+    "logo": "https://shahidstatic2.akamaized.net/mediaObject/slider/Ihsan/Thumbs-4/MBC-Panorama/original/MBC-Panorama.png?height=253&width=450&croppingPoint=&version=1&type=png",
+    "nameen": "Panorama FM",
+    "position": "2",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "Nojoum TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://nojoumhls.wns.live/hls/stream.m3u8\"}]",
+    "logo": "https://i.imgur.com/6ttWNu0.jpg",
+    "nameen": "Nojoum TV",
+    "position": "3",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "Rotana Music",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/mono.m3u8\"}]",
+    "logo": "https://i.imgur.com/N4AyK2U.png",
+    "nameen": "Rotana Music",
+    "position": "4",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "Rotana Khalijia",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/mono.m3u8 \"}]",
+    "logo": "https://i.imgur.com/xsbjQXZ.png",
+    "nameen": "Rotana Khalijia",
+    "position": "5",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "Takhayl",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://b832176c1c21d511e9ec3dc1df5d4cad.4gfbw5.channel-assembly.mediatailor.eu-west-1.amazonaws.com/v1/channel/shahid-media-prod-channel-assembly-1/mono.m3u8 \"}]",
+    "logo": "https://shahidstatic3.akamaized.net//mediaObject/2022/Amr/ramadan/takhayl_HD_thumb_chanel/original/takhayl_HD_thumb_chanel.jpg",
+    "nameen": "Takhayl",
+    "position": "7",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "Falastini",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://51.255.84.28:8081/palestiniantv_source/live/mono.m3u8\"}]",
+    "logo": "http://www.falastini.tv/wp-content/uploads/2018/10/logo.png",
+    "nameen": "Falastini",
+    "position": "8",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "Wanasah",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/mono.m3u8 \"}]",
+    "logo": "https://i.imgur.com/GmgibYW.jpg",
+    "nameen": "Wanasah",
+    "position": "9",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "Nougoum Fm TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://stream-live.tonystarkapi.com/nogoumfm/nogoumfmlive/chunklist_w1425569587.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Nougoum Fm TV",
+    "position": "10",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "Rotana+",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/mono.m3u8 \"}]",
+    "logo": "https://rotana.net/assets/themes/TriTheme-new/images/channels/hd.png",
+    "nameen": "Rotana+",
+    "position": "11",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "Melody FM Jordan",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/mono.m3u8\"}]",
+    "logo": "http://melody-fm.com/img/Logo.png",
+    "nameen": "Melody FM Jordan",
+    "position": "12",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://www.lyngsat.com/logo/tv/aa/art_tarab.png\\\" tvg-country\\u003d\\\"SA\\\" tvg-url\\u003d\\\"\\\" group-title\\u003d\\\"Music\\\",ART Tarab\"}]",
+    "logo": "https://www.lyngsat.com/logo/tv/aa/art_tarab.png",
+    "nameen": "",
+    "position": "13",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "HQM Arabic",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://livelist01.yowi.tv/lista/39596c72840d27b213caf4e58c39599a6f2ed203/master.m3u8\"}]",
+    "logo": "https://i.imgur.com/XtUBmwd.png",
+    "nameen": "HQM Arabic",
+    "position": "14",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "Marah FM",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://vstream3.hadara.ps:8081/marahFM_web/web/mono.m3u8\"}]",
+    "logo": "https://i.imgur.com/PeIYCXs.jpg",
+    "nameen": "Marah FM",
+    "position": "15",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "MBC FM",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/mono.m3u8 \"}]",
+    "logo": "https://www.lyngsat.com/logo/radio/mm/mbc_ae_fm.png",
+    "nameen": "MBC FM",
+    "position": "16",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "Nojoum TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://nojoumhls.wns.live/hls/stream.m3u8\"}]",
+    "logo": "https://i.imgur.com/6ttWNu0.jpg",
+    "nameen": "Nojoum TV",
+    "position": "18",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "Marina TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://www.youtube.com/c/marinai/live\"}]",
+    "logo": "https://content.osn.com/logo/channel/cropped/MRN.png",
+    "nameen": "Marina TV",
+    "position": "19",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "Dijlah Tarab",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ghaasiflu.online/tarab/mono.m3u8 \"}]",
+    "logo": "https://www.dijlah.tv/templates/default-2/live-page/images/tarab-logo.png",
+    "nameen": "Dijlah Tarab",
+    "position": "21",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "WATAR",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://htvint.mada.ps:8889//orient/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "WATAR",
+    "position": "22",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "Rotana Radio Jordan",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://188.247.86.66/RotanaRadio/OnAirStudio1/mono.m3u8\"}]",
+    "logo": "http://service.mobile.rotanaradio.jo/sites/default/files/studio.png",
+    "nameen": "Rotana Radio Jordan",
+    "position": "23",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "Rotana Radio Jordan: City View",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://188.247.86.66/RotanaRadio/CityView1/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Rotana Radio Jordan: City View",
+    "position": "24",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "Rotana Radio Jordan: Control Studio",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://188.247.86.66/RotanaRadio/ControlStudio1/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Rotana Radio Jordan: Control Studio",
+    "position": "25",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "Rotana Radio Jordan: Studio",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://188.247.86.66/RotanaRadio/OnAirStudio1/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Rotana Radio Jordan: Studio",
+    "position": "26",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "Rotana Tarab Jordan: City View",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://188.247.86.66/RadioFann/Audio32/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Rotana Tarab Jordan: City View",
+    "position": "27",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "Rotana Tarab Jordan: Control Studio",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://188.247.86.66/RotanaRadio/Audio32/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Rotana Tarab Jordan: Control Studio",
+    "position": "28",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "Audeh",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://htvpalsat.mada.ps:8888/audeh/mono.m3u8 \"}]",
+    "logo": "https://i.imgur.com/EKGnd0S.png",
+    "nameen": "Audeh",
+    "position": "31",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "PMC",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://hls.pmchd.live/hls/stream.m3u8\"}]",
+    "logo": "https://i.imgur.com/o8vx6FG.png",
+    "nameen": "PMC",
+    "position": "34",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "PMC Royale",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://51.210.199.29/hls/stream.m3u8\"}]",
+    "logo": "https://i.imgur.com/o8vx6FG.png",
+    "nameen": "PMC Royale",
+    "position": "35",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "Souryana Radio",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://vod.ortas.sy:1935/oTv/souryana05042022/mono.m3u8\"}]",
+    "logo": "https://i.imgur.com/j5o8ZPm.png",
+    "nameen": "Souryana Radio",
+    "position": "36",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "Radio Fann Jordan: City View",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://188.247.86.66/RadioFann/CityView1/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Radio Fann Jordan: City View",
+    "position": "37",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "Radio Fann Jordan: Control Studio",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://188.247.86.66/RadioFann/ControlStudio1/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Radio Fann Jordan: Control Studio",
+    "position": "38",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "Radio Fann Jordan: Studio",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://188.247.86.66/RadioFann/OnAirStudio1/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Radio Fann Jordan: Studio",
+    "position": "39",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "Radio Yaqeen Jordan: City View",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://188.247.86.66/MixFM/CityView1/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Radio Yaqeen Jordan: City View",
+    "position": "40",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "Radio Yaqeen Jordan: Control Studio",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://188.247.86.66/MixFM/ControlStudio1/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Radio Yaqeen Jordan: Control Studio",
+    "position": "41",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "Rotana Radio Jordan: City View",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://188.247.86.66/RotanaRadio/CityView1/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Rotana Radio Jordan: City View",
+    "position": "42",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "Rotana Radio Jordan: Control Studio",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://188.247.86.66/RotanaRadio/ControlStudio1/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Rotana Radio Jordan: Control Studio",
+    "position": "43",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "Rotana Radio Jordan: Studio",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://188.247.86.66/RotanaRadio/OnAirStudio1/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Rotana Radio Jordan: Studio",
+    "position": "44",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "Rotana Tarab Jordan: City View",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://188.247.86.66/RadioFann/Audio32/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Rotana Tarab Jordan: City View",
+    "position": "45",
+    "type": "channel",
+    "key": "music_arab"
+  },
+  {
+    "namear": "Rotana Tarab Jordan: Control Studio",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://188.247.86.66/RotanaRadio/Audio32/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Rotana Tarab Jordan: Control Studio",
+    "position": "46",
+    "type": "channel",
+    "key": "music_arab"
+  }
+]

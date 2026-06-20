@@ -1,0 +1,110 @@
+[
+  {
+    "namear": "Seta",
+    "servers": "[{\"headers\":\"user-agent|User-Agent\\u003dMozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0|use-replace|true\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"use-replace|true\",\"name\":\"Seta\",\"Referer\":\"\",\"userAgent\":\"User-Agent\\u003dMozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0\",\"position\":\"0\",\"url\":\"http://158.101.222.193:88/georgia_play.php?id\\u003dsetanta_georgia\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKy6e_VXVOYonzE2CL19gULCnpQPOeQ-bzgg&s",
+    "nameen": "Seta",
+    "position": "1",
+    "type": "channel",
+    "key": "premier_sport"
+  },
+  {
+    "namear": "Fan",
+    "servers": "[{\"headers\":\"\",\"license\":\"7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKy6e_VXVOYonzE2CL19gULCnpQPOeQ-bzgg&s",
+    "nameen": "Fan",
+    "position": "4",
+    "type": "channel",
+    "key": "premier_sport"
+  },
+  {
+    "namear": "Seta",
+    "servers": "[{\"headers\":\"\",\"license\":\"8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuOuNOvPkw0ifxNdEd3xy-T7y36NsfW_wggJIBwqFNcQ&s=10",
+    "nameen": "Seta",
+    "position": "8",
+    "type": "channel",
+    "key": "premier_sport"
+  },
+  {
+    "namear": "Fubo1",
+    "servers": "[{\"headers\":\"\",\"license\":\"dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd\"}]",
+    "logo": "https://i.imgur.com/dAPtBTh.png",
+    "nameen": "Fubo1",
+    "position": "10",
+    "type": "channel",
+    "key": "premier_sport"
+  },
+  {
+    "namear": "Now 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Now 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8\"}]",
+    "logo": "https://i.imgur.com/dAPtBTh.png",
+    "nameen": "Now 1",
+    "position": "55",
+    "type": "channel",
+    "key": "premier_sport"
+  },
+  {
+    "namear": "Now 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Now 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8\"}]",
+    "logo": "https://i.imgur.com/dAPtBTh.png",
+    "nameen": "Now 2",
+    "position": "56",
+    "type": "channel",
+    "key": "premier_sport"
+  },
+  {
+    "namear": "Now 3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Now 3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8\"}]",
+    "logo": "https://i.imgur.com/dAPtBTh.png",
+    "nameen": "Now 3",
+    "position": "57",
+    "type": "channel",
+    "key": "premier_sport"
+  },
+  {
+    "namear": "Now 4",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Now 4\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://eventcdn02-nowe.akamaized.net/hls/CH624/index.m3u8\"}]",
+    "logo": "https://i.imgur.com/dAPtBTh.png",
+    "nameen": "Now 4",
+    "position": "58",
+    "type": "channel",
+    "key": "premier_sport"
+  },
+  {
+    "namear": "Now 5",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Now 5\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://eventcdn02-nowe.akamaized.net/hls/CH625/index.m3u8\"}]",
+    "logo": "https://i.imgur.com/dAPtBTh.png",
+    "nameen": "Now 5",
+    "position": "59",
+    "type": "channel",
+    "key": "premier_sport"
+  },
+  {
+    "namear": "Now 6",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Now 6\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://eventcdn02-nowe.akamaized.net/hls/CH626/index.m3u8\"}]",
+    "logo": "https://i.imgur.com/dAPtBTh.png",
+    "nameen": "Now 6",
+    "position": "62",
+    "type": "channel",
+    "key": "premier_sport"
+  },
+  {
+    "namear": "Premier",
+    "servers": "[{\"headers\":\"\",\"license\":\"002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"Premier League #KODIPROP:inputstream.adaptive.manifest_type\\u003ddash #KODIPROP:inputstream.adaptive.license_type\\u003dorg.w3.clearkey #KODIPROP:inputstream.adaptive.license_key\\u003d002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd\"}]",
+    "logo": "https://i.imgur.com/dAPtBTh.png",
+    "nameen": "Premier",
+    "position": "1885",
+    "type": "channel",
+    "key": "premier_sport"
+  },
+  {
+    "namear": "Peacock",
+    "servers": "[{\"headers\":\"\",\"license\":\"002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"Premier League TV - Peacock #KODIPROP:inputstreamaddon\\u003dinputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type\\u003ddash #KODIPROP:inputstream.adaptive.license_type\\u003dorg.w3.clearkey #KODIPROP:inputstream.adaptive.license_key\\u003d\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd\"}]",
+    "logo": "https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",
+    "nameen": "Peacock",
+    "position": "1888",
+    "type": "channel",
+    "key": "premier_sport"
+  }
+]

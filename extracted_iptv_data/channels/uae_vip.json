@@ -1,0 +1,110 @@
+[
+  {
+    "namear": "SHARJAH",
+    "servers": "[{\"headers\":\"find|m3u8;mpd;hls;use-replace|true\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8;mpd;hls;use-replace|true\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://maraya.faulio.com/api/v1.1/channels/1/player\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxAp50-otsCpWaurfTQC-RExsASeQKRVZjyySGaFmzfw&s=10",
+    "nameen": "SHARJAH",
+    "position": "0",
+    "type": "channel",
+    "key": "uae_vip"
+  },
+  {
+    "namear": "Sharjah Sport",
+    "servers": "[{\"headers\":\"find|m3u8;mpd;hls;use-replace|true\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8;mpd;hls;use-replace|true\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://maraya.faulio.com/api/v1.1/channels/2/player\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUo0Ex0_mVIKaH4wboJh1agrMOb0Zat_TvcmgK2PU1Ow&s=10",
+    "nameen": "Sharjah Sport",
+    "position": "1",
+    "type": "channel",
+    "key": "uae_vip"
+  },
+  {
+    "namear": "Sharjah Radio",
+    "servers": "[{\"headers\":\"find|m3u8;mpd;hls;use-replace|true\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8;mpd;hls;use-replace|true\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://maraya.faulio.com/api/v1.1/channels/3/player\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVX9InYy9RqB47vMkepxrlf3KeT_doECi_3aWtgsYgQg&s=10",
+    "nameen": "Sharjah Radio",
+    "position": "2",
+    "type": "channel",
+    "key": "uae_vip"
+  },
+  {
+    "namear": "Sharjah",
+    "servers": "[{\"headers\":\"find|m3u8;mpd;hls;use-replace|true\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8;mpd;hls;use-replace|true\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://maraya.faulio.com/api/v1.1/channels/4/player\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLQrur66A22awYOXlmdR7miXyZJKHIRXzPeSjh6VE8DQ&s",
+    "nameen": "Sharjah Sharqia",
+    "position": "3",
+    "type": "channel",
+    "key": "uae_vip"
+  },
+  {
+    "namear": "الوسطى",
+    "servers": "[{\"headers\":\"find|m3u8;mpd;hls;use-replace|true\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8;mpd;hls;use-replace|true\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://maraya.faulio.com/api/v1.1/channels/5/player\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgdRoQDdYGDwYBBkLpm1QLw5tE5TM5XiyDwqYc-j3e8kenH60UmE5KDQQ&s=10",
+    "nameen": "الوسطى",
+    "position": "4",
+    "type": "channel",
+    "key": "uae_vip"
+  },
+  {
+    "namear": "Sharjah Sport 2",
+    "servers": "[{\"headers\":\"find|m3u8;mpd;hls;use-replace|true\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8;mpd;hls;use-replace|true\",\"name\":\"Sharjah Sport 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://maraya.faulio.com/api/v1.1/channels/14/player\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQrwsQSlwysC9zglw7psB1c7rje-2UBKNlHx7G0amcFg&s=10",
+    "nameen": "Sharjah Sport 2",
+    "position": "5",
+    "type": "channel",
+    "key": "uae_vip"
+  },
+  {
+    "namear": "Sharjah 2",
+    "servers": "[{\"headers\":\"find|m3u8;mpd;hls;use-replace|true\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8;mpd;hls;use-replace|true\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://maraya.faulio.com/api/v1.1/channels/7/player\"}]",
+    "logo": "https://sbauae.faulio.com/storage/mediagallery/89/14/fullhd_791cecd44950e87d0558b783273de114cf7656f7.png",
+    "nameen": "Sharjah 2",
+    "position": "6",
+    "type": "channel",
+    "key": "uae_vip"
+  },
+  {
+    "namear": "Quran Radio",
+    "servers": "[{\"headers\":\"find|m3u8;mpd;hls;use-replace|true\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8;mpd;hls;use-replace|true\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://maraya.faulio.com/api/v1.1/channels/8/player\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZNM8yZm7kohuljsH_fqJ8pnAk3yiu8DImKX8UkHIIQ&s=10",
+    "nameen": "Quran Radio",
+    "position": "7",
+    "type": "channel",
+    "key": "uae_vip"
+  },
+  {
+    "namear": "Pluse 95",
+    "servers": "[{\"headers\":\"find|m3u8;mpd;hls;use-replace|true\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8;mpd;hls;use-replace|true\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://maraya.faulio.com/api/v1.1/channels/9/player\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfyDooSd01LzO1MkEz6StWN1JN3S3qelGFGox9wKO2UQ&s=10",
+    "nameen": "Pluse 95",
+    "position": "8",
+    "type": "channel",
+    "key": "uae_vip"
+  },
+  {
+    "namear": "Watar",
+    "servers": "[{\"headers\":\"find|m3u8;mpd;hls;use-replace|true\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8;mpd;hls;use-replace|true\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://maraya.faulio.com/api/v1.1/channels/13/player\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFmGObNRlstuVlaObjYV3HQM6875FMtO_9LMvspc0wYw&s=10",
+    "nameen": "Watar",
+    "position": "9",
+    "type": "channel",
+    "key": "uae_vip"
+  },
+  {
+    "namear": "Tom Jerry",
+    "servers": "[{\"headers\":\"find|m3u8;mpd;hls;use-replace|true\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8;mpd;hls;use-replace|true\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://maraya.faulio.com/api/v1.1/channels/16/player\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjk4YpiI-eak1lCSjHJ663PpBvA_DonD-IOSvuiejmAQ&s=10",
+    "nameen": "Tom Jerry",
+    "position": "10",
+    "type": "channel",
+    "key": "uae_vip"
+  },
+  {
+    "namear": "Quran Karim",
+    "servers": "[{\"headers\":\"find|m3u8;mpd;hls;use-replace|true\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8;mpd;hls;use-replace|true\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://maraya.faulio.com/api/v1.1/channels/17/player\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdJcSJTMK-F0pX0A0LmMu_hg3hCka4fSAda6dPfCzGkQ&s",
+    "nameen": "Quran Karim",
+    "position": "11",
+    "type": "channel",
+    "key": "uae_vip"
+  }
+]

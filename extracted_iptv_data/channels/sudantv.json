@@ -1,0 +1,290 @@
+[
+  {
+    "namear": "Africa TV 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Africa TV 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://africatv.live.net.sa:1935/live/africatv/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Africa TV 1",
+    "position": "1",
+    "type": "channel",
+    "key": "sudantv"
+  },
+  {
+    "namear": "[Sudan] Sudan ASHOROOQ",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Sudan] Sudan ASHOROOQ\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2278\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Sudan] Sudan ASHOROOQ",
+    "position": "1",
+    "type": "channel",
+    "key": "sudantv"
+  },
+  {
+    "namear": "Africa TV 1 (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Africa TV 1 (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://africatv.live.net.sa:1935/live/africatv/mono.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Africa TV 1 (720p)",
+    "position": "1",
+    "type": "channel",
+    "key": "sudantv"
+  },
+  {
+    "namear": "Africa TV 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Africa TV 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://africatv.live.net.sa:1935/live/africatv2/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Africa TV 2",
+    "position": "2",
+    "type": "channel",
+    "key": "sudantv"
+  },
+  {
+    "namear": "|SUDAN| S24",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|SUDAN| S24\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2277\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|SUDAN| S24",
+    "position": "2",
+    "type": "channel",
+    "key": "sudantv"
+  },
+  {
+    "namear": "Africa TV 2 (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Africa TV 2 (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://africatv.live.net.sa:1935/live/africatv2/mono.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Africa TV 2 (720p)",
+    "position": "2",
+    "type": "channel",
+    "key": "sudantv"
+  },
+  {
+    "namear": "Al Alamiya 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Alamiya 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://82.212.74.98:8000/live/7815.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Alamiya 2",
+    "position": "3",
+    "type": "channel",
+    "key": "sudantv"
+  },
+  {
+    "namear": "[Sudan] Sudan tv",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Sudan] Sudan tv\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2276\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Sudan] Sudan tv",
+    "position": "3",
+    "type": "channel",
+    "key": "sudantv"
+  },
+  {
+    "namear": "Al Alamiya 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Alamiya 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://82.212.74.98:8000/live/7815.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Alamiya 2",
+    "position": "3",
+    "type": "channel",
+    "key": "sudantv"
+  },
+  {
+    "namear": "Sudan TV (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sudan TV (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://castor.streamthatvideo.co:8081/sudantv/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Sudan TV (720p)",
+    "position": "4",
+    "type": "channel",
+    "key": "sudantv"
+  },
+  {
+    "namear": "[Sudan] Sudan Drama",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Sudan] Sudan Drama\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2275\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Sudan] Sudan Drama",
+    "position": "4",
+    "type": "channel",
+    "key": "sudantv"
+  },
+  {
+    "namear": "Dabanga TV (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Dabanga TV (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdn-cf.dabangasudan.org/hls/stream.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Dabanga TV (1080p)",
+    "position": "4",
+    "type": "channel",
+    "key": "sudantv"
+  },
+  {
+    "namear": "|SUDAN| S24 HD",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|SUDAN| S24 HD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2274\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|SUDAN| S24 HD",
+    "position": "5",
+    "type": "channel",
+    "key": "sudantv"
+  },
+  {
+    "namear": "Sudan TV (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sudan TV (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://castor.streamthatvideo.co:8081/sudantv/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Sudan TV (720p)",
+    "position": "5",
+    "type": "channel",
+    "key": "sudantv"
+  },
+  {
+    "namear": "|Sudan|SSBC",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|Sudan|SSBC\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2294\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|Sudan|SSBC",
+    "position": "6",
+    "type": "channel",
+    "key": "sudantv"
+  },
+  {
+    "namear": "Sudania 24 TV (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sudania 24 TV (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://samson.streamerr.co:8081/sudania24/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Sudania 24 TV (1080p)",
+    "position": "6",
+    "type": "channel",
+    "key": "sudantv"
+  },
+  {
+    "namear": "[Sudan] Sudan Music",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Sudan] Sudan Music\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2293\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Sudan] Sudan Music",
+    "position": "7",
+    "type": "channel",
+    "key": "sudantv"
+  },
+  {
+    "namear": "Tayba TV (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Tayba TV (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://mn-nl.mncdn.com/tayba/live/mono.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Tayba TV (1080p)",
+    "position": "7",
+    "type": "channel",
+    "key": "sudantv"
+  },
+  {
+    "namear": "|SUDAN| NEELAIN SPORT",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|SUDAN| NEELAIN SPORT\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2292\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|SUDAN| NEELAIN SPORT",
+    "position": "8",
+    "type": "channel",
+    "key": "sudantv"
+  },
+  {
+    "namear": "|SUDAN| ALHILAL",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|SUDAN| ALHILAL\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2291\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|SUDAN| ALHILAL",
+    "position": "9",
+    "type": "channel",
+    "key": "sudantv"
+  },
+  {
+    "namear": "[Sudan]Al-Marikh TV",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Sudan]Al-Marikh TV\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2290\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Sudan]Al-Marikh TV",
+    "position": "10",
+    "type": "channel",
+    "key": "sudantv"
+  },
+  {
+    "namear": "|SUDAN| AL alamia",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|SUDAN| AL alamia\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2289\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|SUDAN| AL alamia",
+    "position": "11",
+    "type": "channel",
+    "key": "sudantv"
+  },
+  {
+    "namear": "[Sudan]Sudan monwaat",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Sudan]Sudan monwaat\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2288\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Sudan]Sudan monwaat",
+    "position": "12",
+    "type": "channel",
+    "key": "sudantv"
+  },
+  {
+    "namear": "[Sudan]ALGazera AlKhadra",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Sudan]ALGazera AlKhadra\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2287\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Sudan]ALGazera AlKhadra",
+    "position": "13",
+    "type": "channel",
+    "key": "sudantv"
+  },
+  {
+    "namear": "[Sudan] Sudan Al Istijaba TV",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Sudan] Sudan Al Istijaba TV\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2286\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Sudan] Sudan Al Istijaba TV",
+    "position": "14",
+    "type": "channel",
+    "key": "sudantv"
+  },
+  {
+    "namear": "[Sudan] Sudan Kassala TV",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Sudan] Sudan Kassala TV\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2285\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Sudan] Sudan Kassala TV",
+    "position": "15",
+    "type": "channel",
+    "key": "sudantv"
+  },
+  {
+    "namear": "|SUDAN| OMDURMAN",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|SUDAN| OMDURMAN\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2284\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|SUDAN| OMDURMAN",
+    "position": "16",
+    "type": "channel",
+    "key": "sudantv"
+  },
+  {
+    "namear": "[Sudan]Sudan Knowledge",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Sudan]Sudan Knowledge\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2283\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Sudan]Sudan Knowledge",
+    "position": "17",
+    "type": "channel",
+    "key": "sudantv"
+  },
+  {
+    "namear": "[Sudan] Sudan Red Sea TV",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Sudan] Sudan Red Sea TV\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2282\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Sudan] Sudan Red Sea TV",
+    "position": "18",
+    "type": "channel",
+    "key": "sudantv"
+  },
+  {
+    "namear": "|SUDAN| SOUTH",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|SUDAN| SOUTH\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2281\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|SUDAN| SOUTH",
+    "position": "19",
+    "type": "channel",
+    "key": "sudantv"
+  },
+  {
+    "namear": "[Sudan]Blue Nile TV",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Sudan]Blue Nile TV\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2280\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Sudan]Blue Nile TV",
+    "position": "20",
+    "type": "channel",
+    "key": "sudantv"
+  },
+  {
+    "namear": "[Sudan] Sudan Sport",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[Sudan] Sudan Sport\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2279\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[Sudan] Sudan Sport",
+    "position": "21",
+    "type": "channel",
+    "key": "sudantv"
+  }
+]

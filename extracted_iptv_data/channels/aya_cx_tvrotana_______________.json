@@ -1,0 +1,83 @@
+[
+  {
+    "namear": "Kids",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"روتانا كيدز\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/chunks.m3u8?\\u0026token\\u003ddemo\"}]",
+    "logo": "https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402579.webp",
+    "nameen": "Kids",
+    "position": "9",
+    "type": "channel",
+    "key": "aya_cx_tvrotana_روتــــانــــا"
+  },
+  {
+    "namear": "كوميدي",
+    "servers": "[{\"headers\":\"Referer|https://rotana.net/|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"https://rotana.net/\",\"name\":\"روتانا كوميدي\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8\"}]",
+    "logo": "https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402522.webp",
+    "nameen": "كوميدي",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvrotana_روتــــانــــا"
+  },
+  {
+    "namear": "موسيقى",
+    "servers": "[{\"headers\":\"Referer|https://rotana.net/\\n|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"https://rotana.net/\\n\",\"name\":\"روتانا موسيقى\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8\"}]",
+    "logo": "https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402600.webp",
+    "nameen": "موسيقى",
+    "position": "8",
+    "type": "channel",
+    "key": "aya_cx_tvrotana_روتــــانــــا"
+  },
+  {
+    "namear": "كلاسيك",
+    "servers": "[{\"headers\":\"Referer|https://rotana.net/\\n|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"https://rotana.net/\\n\",\"name\":\"روتانا كلاسيك\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8\"}]",
+    "logo": "https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402529.webp",
+    "nameen": "كلاسيك",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvrotana_روتــــانــــا"
+  },
+  {
+    "namear": "دراما",
+    "servers": "[{\"headers\":\"Referer|https://rotana.net/|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"https://rotana.net/\",\"name\":\"روتانا دراما\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8\"}]",
+    "logo": "https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402515.webp",
+    "nameen": "دراما",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_cx_tvrotana_روتــــانــــا"
+  },
+  {
+    "namear": "كليب",
+    "servers": "[{\"headers\":\"Referer|https://rotana.net/\\n|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"https://rotana.net/\\n\",\"name\":\"روتانا كليب\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8\"}]",
+    "logo": "https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402593.webp",
+    "nameen": "كليب",
+    "position": "7",
+    "type": "channel",
+    "key": "aya_cx_tvrotana_روتــــانــــا"
+  },
+  {
+    "namear": "سينما مصر",
+    "servers": "[{\"headers\":\"Referer|https://rotana.net/\\n|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"https://rotana.net/\\n\",\"name\":\"روتانا سينما مصر\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8\"}]",
+    "logo": "https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402537.webp",
+    "nameen": "سينما مصر",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvrotana_روتــــانــــا"
+  },
+  {
+    "namear": "خليجية",
+    "servers": "[{\"headers\":\"Referer|https://rotana.net/|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"https://rotana.net/\",\"name\":\"روتانا خليجية\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8\"}]",
+    "logo": "https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402508.webp",
+    "nameen": "خليجية",
+    "position": "6",
+    "type": "channel",
+    "key": "aya_cx_tvrotana_روتــــانــــا"
+  },
+  {
+    "namear": "سينما",
+    "servers": "[{\"headers\":\"Referer|https://rotana.net/\\n|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"https://rotana.net/\\n\",\"name\":\"روتانا سينما\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8\"}]",
+    "logo": "https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402472.webp",
+    "nameen": "سينما",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvrotana_روتــــانــــا"
+  }
+]

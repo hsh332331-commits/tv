@@ -1,0 +1,173 @@
+[
+  {
+    "namear": "AR: AD Premium 1 SD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: AD Premium 1 SD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/206559.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: AD Premium 1 SD",
+    "position": "1",
+    "type": "channel",
+    "key": "sport_vip"
+  },
+  {
+    "namear": "AR: AD Premium 2 SD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: AD Premium 2 SD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/206560.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: AD Premium 2 SD",
+    "position": "2",
+    "type": "channel",
+    "key": "sport_vip"
+  },
+  {
+    "namear": "AR: AD Premium 1 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: AD Premium 1 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/188753.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: AD Premium 1 HD",
+    "position": "3",
+    "type": "channel",
+    "key": "sport_vip"
+  },
+  {
+    "namear": "AR: AD Premium 2 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: AD Premium 2 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/188754.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: AD Premium 2 HD",
+    "position": "4",
+    "type": "channel",
+    "key": "sport_vip"
+  },
+  {
+    "namear": "AR: AD PREMIUM 1 4K",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: AD PREMIUM 1 4K\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/189413.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: AD PREMIUM 1 4K",
+    "position": "5",
+    "type": "channel",
+    "key": "sport_vip"
+  },
+  {
+    "namear": "AR: AD PREMIUM 2 4K",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: AD PREMIUM 2 4K\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/189415.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: AD PREMIUM 2 4K",
+    "position": "6",
+    "type": "channel",
+    "key": "sport_vip"
+  },
+  {
+    "namear": "AR: AD Sport Asia 1 SD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: AD Sport Asia 1 SD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/206564.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: AD Sport Asia 1 SD",
+    "position": "7",
+    "type": "channel",
+    "key": "sport_vip"
+  },
+  {
+    "namear": "AR: AD Sport Asia 2 SD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: AD Sport Asia 2 SD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/206566.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: AD Sport Asia 2 SD",
+    "position": "8",
+    "type": "channel",
+    "key": "sport_vip"
+  },
+  {
+    "namear": "AR: AD Sports Asia 1 4K",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: AD Sports Asia 1 4K\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/187812.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: AD Sports Asia 1 4K",
+    "position": "9",
+    "type": "channel",
+    "key": "sport_vip"
+  },
+  {
+    "namear": "AR: AD Sports Asia 2 4K",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: AD Sports Asia 2 4K\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/187813.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: AD Sports Asia 2 4K",
+    "position": "10",
+    "type": "channel",
+    "key": "sport_vip"
+  },
+  {
+    "namear": "AR: AD Sport Asia 1 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: AD Sport Asia 1 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/206563.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: AD Sport Asia 1 HD",
+    "position": "11",
+    "type": "channel",
+    "key": "sport_vip"
+  },
+  {
+    "namear": "AR: AD Sport Asia 2 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: AD Sport Asia 2 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/206565.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: AD Sport Asia 2 HD",
+    "position": "12",
+    "type": "channel",
+    "key": "sport_vip"
+  },
+  {
+    "namear": "AR: StarzPlay SPORT SD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: StarzPlay SPORT SD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/188745.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: StarzPlay SPORT SD",
+    "position": "13",
+    "type": "channel",
+    "key": "sport_vip"
+  },
+  {
+    "namear": "AR: StarzPlay SPORT HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: StarzPlay SPORT HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/187809.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: StarzPlay SPORT HD",
+    "position": "14",
+    "type": "channel",
+    "key": "sport_vip"
+  },
+  {
+    "namear": "AR: STARZPLAY FHD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: STARZPLAY FHD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/189419.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: STARZPLAY FHD",
+    "position": "15",
+    "type": "channel",
+    "key": "sport_vip"
+  },
+  {
+    "namear": "AR: AD Sport 1 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: AD Sport 1 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/1041.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: AD Sport 1 HD",
+    "position": "16",
+    "type": "channel",
+    "key": "sport_vip"
+  },
+  {
+    "namear": "AR: AD Sport 2 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: AD Sport 2 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/1042.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: AD Sport 2 HD",
+    "position": "17",
+    "type": "channel",
+    "key": "sport_vip"
+  },
+  {
+    "namear": "AR: AD Sport 1 FHD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: AD Sport 1 FHD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/156934.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: AD Sport 1 FHD",
+    "position": "18",
+    "type": "channel",
+    "key": "sport_vip"
+  },
+  {
+    "namear": "AR: AD Sport 2 FHD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: AD Sport 2 FHD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/156935.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: AD Sport 2 FHD",
+    "position": "19",
+    "type": "channel",
+    "key": "sport_vip"
+  }
+]

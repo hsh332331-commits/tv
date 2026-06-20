@@ -1,0 +1,92 @@
+[
+  {
+    "namear": "Combate br",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Combate br\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://superblazertop.com.br.global.prod.fastly.net/live2/combate/play2.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7199722_ico.png",
+    "nameen": "Combate br",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarbrasil_البرازيل"
+  },
+  {
+    "namear": "Band Sports",
+    "servers": "[{\"headers\":\"jjjhhgttyuiiiloooooppplluser-Agent|jjjhhgttyuiiiloooooppplluser-Agent|jjjhhgttyuiiiloooooppplluser-Agent|jjjhhgttyuiiilooooopppll\",\"otherHeaders\":\"\",\"name\":\"Band Sports\",\"Referer\":\"\",\"userAgent\":\"jjjhhgttyuiiiloooooppplluser-Agent|jjjhhgttyuiiilooooopppll\",\"position\":\"0\",\"url\":\"http://6690.streams.me.uk:25461/13erTgyh67QxGf24/090ijkPlwqm45WsRfc/47\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7199694_ico.png",
+    "nameen": "Band Sports",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarbrasil_البرازيل"
+  },
+  {
+    "namear": "Band",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"Band\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7200039_ico.png",
+    "nameen": "Band",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarbrasil_البرازيل"
+  },
+  {
+    "namear": "Globo",
+    "servers": "[{\"headers\":\"GoPlayeruser-Agent|GoPlayeruser-Agent|GoPlayeruser-Agent|GoPlayer\",\"otherHeaders\":\"\",\"name\":\"Globo\",\"Referer\":\"\",\"userAgent\":\"GoPlayeruser-Agent|GoPlayer\",\"position\":\"0\",\"url\":\"http://superblazertop.com.br.global.prod.fastly.net/live2/globo/play2.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7096919_ico.png",
+    "nameen": "Globo",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarbrasil_البرازيل"
+  },
+  {
+    "namear": "Globo News",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"Globo News\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://xx.scorpionplay.tech:80/douglas/102030/2190693\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7096980_ico.png",
+    "nameen": "Globo News",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarbrasil_البرازيل"
+  },
+  {
+    "namear": "Record TV",
+    "servers": "[{\"headers\":\"GoPlayeruser-Agent|GoPlayeruser-Agent|GoPlayeruser-Agent|GoPlayer\",\"otherHeaders\":\"\",\"name\":\"Record TV\",\"Referer\":\"\",\"userAgent\":\"GoPlayeruser-Agent|GoPlayer\",\"position\":\"0\",\"url\":\"http://superblazertop.com.br.global.prod.fastly.net/live2/record/play2.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7200090_ico.png",
+    "nameen": "Record TV",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarbrasil_البرازيل"
+  },
+  {
+    "namear": "TNT BR",
+    "servers": "[{\"headers\":\"jjjhhgttyuiiiloooooppplluser-Agent|jjjhhgttyuiiiloooooppplluser-Agent|jjjhhgttyuiiiloooooppplluser-Agent|jjjhhgttyuiiilooooopppll\",\"otherHeaders\":\"\",\"name\":\"TNT BR\",\"Referer\":\"\",\"userAgent\":\"jjjhhgttyuiiiloooooppplluser-Agent|jjjhhgttyuiiilooooopppll\",\"position\":\"0\",\"url\":\"http://superblazertop.com.br.global.prod.fastly.net/live2/tnt/play2.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7200136_ico.png",
+    "nameen": "TNT BR",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarbrasil_البرازيل"
+  },
+  {
+    "namear": "Space Brazil",
+    "servers": "[{\"headers\":\"jjjhhgttyuiiiloooooppplluser-Agent|jjjhhgttyuiiiloooooppplluser-Agent|jjjhhgttyuiiiloooooppplluser-Agent|jjjhhgttyuiiilooooopppll\",\"otherHeaders\":\"\",\"name\":\"Space Brazil\",\"Referer\":\"\",\"userAgent\":\"jjjhhgttyuiiiloooooppplluser-Agent|jjjhhgttyuiiilooooopppll\",\"position\":\"0\",\"url\":\"http://superblazertop.com.br.global.prod.fastly.net/live2/space/play2.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/19289624_ico.png",
+    "nameen": "Space Brazil",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarbrasil_البرازيل"
+  },
+  {
+    "namear": "Fox Sport 2 BR",
+    "servers": "[{\"headers\":\"FFuser-Agent|FFuser-Agent|FFuser-Agent|FF\",\"otherHeaders\":\"\",\"name\":\"Fox Sport 2 BR\",\"Referer\":\"\",\"userAgent\":\"FFuser-Agent|FF\",\"position\":\"0\",\"url\":\"http://191.37.250.169:8801/live/FoxSports2HD/720p.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/22638112_ico.png",
+    "nameen": "Fox Sport 2 BR",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarbrasil_البرازيل"
+  },
+  {
+    "namear": "H2 Brasil",
+    "servers": "[{\"headers\":\"gguser-Agent|gguser-Agent|gguser-Agent|gg\",\"otherHeaders\":\"\",\"name\":\"H2 Brasil\",\"Referer\":\"\",\"userAgent\":\"gguser-Agent|gg\",\"position\":\"0\",\"url\":\"http://cdn.connectbr.com.br:80/h2/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/22638249_ico.png",
+    "nameen": "H2 Brasil",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadrarbrasil_البرازيل"
+  }
+]

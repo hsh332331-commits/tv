@@ -1,0 +1,92 @@
+[
+  {
+    "namear": "Extra Live",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"b\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://new.cache-stream.workers.dev/stream/UCXw5vClfMWccw-OocfhQHiA/live.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"f\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://new.cache-stream.workers.dev/stream/UCXw5vClfMWccw-OocfhQHiA/live.m3u8\"}]",
+    "logo": "https://i.imgur.com/Cv2O0Cj.png",
+    "nameen": "Extra Live",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_مـــصـــر"
+  },
+  {
+    "namear": "قناة والناس",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"v\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://new.cache-stream.workers.dev/stream/UCzWdc0aUo0IDk5ysLrt04hw/live.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://new.cache-stream.workers.dev/stream/UCzWdc0aUo0IDk5ysLrt04hw/live.m3u8\"}]",
+    "logo": "https://i.imgur.com/8vSNskY.png",
+    "nameen": "قناة والناس",
+    "position": "7",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_مـــصـــر"
+  },
+  {
+    "namear": "One Movies",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://ffs2.gulfsat.com/OneMovies/video.m3u8?fbclid\\u003dIwZXh0bgNhZW0CMTEAAR2TdSxCLV5TFquP9adBwN0LKtcu9NhqDp6yP-PzWdZXwRr5WpkOQipjPF0_aem_ECO_Z7hfvfOYMKaMYDNWGQ\"}]",
+    "logo": "https://file.rafalnht.com/2614208cd7ec9e797de6ab1f98cf54f2.photo.jpg",
+    "nameen": "One Movies",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_مـــصـــر"
+  },
+  {
+    "namear": "قناة الشرق",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"v\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3M5VrCW",
+    "nameen": "قناة الشرق",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_مـــصـــر"
+  },
+  {
+    "namear": "EXTRA NEWS",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"8\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://new.cache-stream.workers.dev/stream/UC65F33K2cXk9hGDbOQYhTOw/live.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://new.cache-stream.workers.dev/stream/UC65F33K2cXk9hGDbOQYhTOw/live.m3u8\"}]",
+    "logo": "https://i.imgur.com/9HREF7o.png",
+    "nameen": "EXTRA NEWS",
+    "position": "6",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_مـــصـــر"
+  },
+  {
+    "namear": "قناة هدى",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"10\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"11\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8\"}]",
+    "logo": "https://bit.ly/3JWpf2d",
+    "nameen": "قناة هدى",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_مـــصـــر"
+  },
+  {
+    "namear": "القاهرة الاخبارية",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/profile_0/chunklist.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"بث مباشر\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/profile_0/chunklist.m3u8\"}]",
+    "logo": "https://bit.ly/3FHyEcq",
+    "nameen": "القاهرة الاخبارية",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_مـــصـــر"
+  },
+  {
+    "namear": "قناة مكملين",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8\"}]",
+    "logo": "https://i.imgur.com/8vSNskY.png",
+    "nameen": "قناة مكملين",
+    "position": "23",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_مـــصـــر"
+  },
+  {
+    "namear": "bee moveiz",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"f\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://new.cache-stream.workers.dev/stream/UCuaMJTqQ_W7qztqZ_zyErJg/live.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"m\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://new.cache-stream.workers.dev/stream/UCuaMJTqQ_W7qztqZ_zyErJg/live.m3u8\"}]",
+    "logo": "https://bit.ly/47R9S51",
+    "nameen": "bee moveiz",
+    "position": "8",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_مـــصـــر"
+  },
+  {
+    "namear": "قناة وطن",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"a\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://n101.stream.tactivemedia.com/watantv/live/chunks.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"l\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://n101.stream.tactivemedia.com/watantv/live/chunks.m3u8\"}]",
+    "logo": "https://bit.ly/42T6kxM",
+    "nameen": "قناة وطن",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_مـــصـــر"
+  }
+]

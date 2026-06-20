@@ -1,0 +1,236 @@
+[
+  {
+    "namear": "Afrobeats",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Afrobeats\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://stream.ecable.tv/afrobeats/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12196529_ico.png",
+    "nameen": "Afrobeats",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadraruk_بريطانيا"
+  },
+  {
+    "namear": "BBC World",
+    "servers": "[{\"headers\":\"elplayeruser-Agent|elplayeruser-Agent|elplayeruser-Agent|elplayer\",\"otherHeaders\":\"\",\"name\":\"BBC World\",\"Referer\":\"\",\"userAgent\":\"elplayeruser-Agent|elplayer\",\"position\":\"0\",\"url\":\"http://103.199.161.254/Content/bbcworld/Tv/Channel(BBCworld)/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12196780_ico.png",
+    "nameen": "BBC World",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadraruk_بريطانيا"
+  },
+  {
+    "namear": "BBC Arabic",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BBC Arabic\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://vs-cmaf-pushb-ww-live.akamaized.net/x\\u003d3/i\\u003durn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live.mpd\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12197170_ico.png",
+    "nameen": "BBC Arabic",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadraruk_بريطانيا"
+  },
+  {
+    "namear": "Ahlulbayt TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Ahlulbayt TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12197179_ico.png",
+    "nameen": "Ahlulbayt TV",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadraruk_بريطانيا"
+  },
+  {
+    "namear": "Al Hiwar",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Hiwar\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12197193_ico.png",
+    "nameen": "Al Hiwar",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadraruk_بريطانيا"
+  },
+  {
+    "namear": "Sky News Arabia",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sky News Arabia\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://stream.skynewsarabia.com/hls/sna.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12197202_ico.png",
+    "nameen": "Sky News Arabia",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadraruk_بريطانيا"
+  },
+  {
+    "namear": "Sky News",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sky News\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12197211_ico.png",
+    "nameen": "Sky News",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadraruk_بريطانيا"
+  },
+  {
+    "namear": "RT UK",
+    "servers": "[{\"headers\":\"ZZZZZZZZZZZZuser-Agent|ZZZZZZZZZZZZuser-Agent|ZZZZZZZZZZZZuser-Agent|ZZZZZZZZZZZZ\",\"otherHeaders\":\"\",\"name\":\"RT UK\",\"Referer\":\"\",\"userAgent\":\"ZZZZZZZZZZZZuser-Agent|ZZZZZZZZZZZZ\",\"position\":\"0\",\"url\":\"https://rt-uk.rttv.com/live/rtuk/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12197252_ico.png",
+    "nameen": "RT UK",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadraruk_بريطانيا"
+  },
+  {
+    "namear": "Bloomberg UK",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Bloomberg UK\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12197289_ico.png",
+    "nameen": "Bloomberg UK",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadraruk_بريطانيا"
+  },
+  {
+    "namear": "Eurosport 1 EN",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"Eurosport 1 EN\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://185.205.201.141:80/gooldstv.com/PbmDzbnBiM/9277\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2980031_ico.png",
+    "nameen": "Eurosport 1 EN",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadraruk_بريطانيا"
+  },
+  {
+    "namear": "Eurosport 2 EN",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"Eurosport 2 EN\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://185.205.201.141:80/gooldstv.com/PbmDzbnBiM/9332\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2980040_ico.png",
+    "nameen": "Eurosport 2 EN",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidadraruk_بريطانيا"
+  },
+  {
+    "namear": "SKY ONE",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"SKY ONE\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://185.205.201.141:80/gooldstv.com/PbmDzbnBiM/9276\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7580533_ico.png",
+    "nameen": "SKY ONE",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidadraruk_بريطانيا"
+  },
+  {
+    "namear": "SKY TWO",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"SKY TWO\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://185.205.201.141:80/gooldstv.com/PbmDzbnBiM/9277\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7580548_ico.png",
+    "nameen": "SKY TWO",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidadraruk_بريطانيا"
+  },
+  {
+    "namear": "Sky Atlantic UK",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"Sky Atlantic UK\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://iptvtree.net:8080/Houngst20001/8exj9Q7FFed3B3va/1093\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7580480_ico.png",
+    "nameen": "Sky Atlantic UK",
+    "position": "13",
+    "type": "channel",
+    "key": "windroidadraruk_بريطانيا"
+  },
+  {
+    "namear": "BBC One",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"BBC One\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://185.205.201.141:80/gooldstv.com/PbmDzbnBiM/9263\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7581535_ico.png",
+    "nameen": "BBC One",
+    "position": "14",
+    "type": "channel",
+    "key": "windroidadraruk_بريطانيا"
+  },
+  {
+    "namear": "BBC Two",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"BBC Two\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://185.205.201.141:80/gooldstv.com/PbmDzbnBiM/9264\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7581547_ico.png",
+    "nameen": "BBC Two",
+    "position": "15",
+    "type": "channel",
+    "key": "windroidadraruk_بريطانيا"
+  },
+  {
+    "namear": "BBC 3",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"BBC 3\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://185.205.201.141:80/gooldstv.com/PbmDzbnBiM/9265\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7581570_ico.png",
+    "nameen": "BBC 3",
+    "position": "16",
+    "type": "channel",
+    "key": "windroidadraruk_بريطانيا"
+  },
+  {
+    "namear": "BBC 4",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"BBC 4\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://185.205.201.141:80/gooldstv.com/PbmDzbnBiM/9266\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7581576_ico.png",
+    "nameen": "BBC 4",
+    "position": "17",
+    "type": "channel",
+    "key": "windroidadraruk_بريطانيا"
+  },
+  {
+    "namear": "BBC News",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"BBC News\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://31.172.87.46:2200/NL-N/BBC_One_HD-uk/mono.m3u8 ?token\\u003degBlCndpe3ZiDXBgN3JjewVhf3FmenNhfnAXeHItenVmc3Nje3Ngfg\\u003d\\u003d\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7583068_ico.png",
+    "nameen": "BBC News",
+    "position": "18",
+    "type": "channel",
+    "key": "windroidadraruk_بريطانيا"
+  },
+  {
+    "namear": "ITV 1 UK",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"ITV 1 UK\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://185.205.201.141:80/gooldstv.com/PbmDzbnBiM/9272\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7582839_ico.png",
+    "nameen": "ITV 1 UK",
+    "position": "19",
+    "type": "channel",
+    "key": "windroidadraruk_بريطانيا"
+  },
+  {
+    "namear": "ITV 2 UK",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"ITV 2 UK\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://185.205.201.141:80/gooldstv.com/PbmDzbnBiM/9268\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7582851_ico.png",
+    "nameen": "ITV 2 UK",
+    "position": "20",
+    "type": "channel",
+    "key": "windroidadraruk_بريطانيا"
+  },
+  {
+    "namear": "ITV 3 UK",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"ITV 3 UK\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://185.205.201.141:80/gooldstv.com/PbmDzbnBiM/9269\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7582868_ico.png",
+    "nameen": "ITV 3 UK",
+    "position": "21",
+    "type": "channel",
+    "key": "windroidadraruk_بريطانيا"
+  },
+  {
+    "namear": "ITV 4 UK",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"ITV 4 UK\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://185.205.201.141:80/gooldstv.com/PbmDzbnBiM/9270\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7582876_ico.png",
+    "nameen": "ITV 4 UK",
+    "position": "22",
+    "type": "channel",
+    "key": "windroidadraruk_بريطانيا"
+  },
+  {
+    "namear": "CNN UK",
+    "servers": "[{\"headers\":\"Hhuser-Agent|Hhuser-Agent|Hhuser-Agent|Hh\",\"otherHeaders\":\"\",\"name\":\"CNN UK\",\"Referer\":\"\",\"userAgent\":\"Hhuser-Agent|Hh\",\"position\":\"0\",\"url\":\"http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/480\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/15309878_ico.png",
+    "nameen": "CNN UK",
+    "position": "23",
+    "type": "channel",
+    "key": "windroidadraruk_بريطانيا"
+  },
+  {
+    "namear": "Premier UK 1",
+    "servers": "[{\"headers\":\"dVZcVkpkZAuser-Agent|dVZcVkpkZAuser-Agent|dVZcVkpkZAuser-Agent|dVZcVkpkZA\",\"otherHeaders\":\"\",\"name\":\"Premier UK 1\",\"Referer\":\"\",\"userAgent\":\"dVZcVkpkZAuser-Agent|dVZcVkpkZA\",\"position\":\"0\",\"url\":\"http://185.205.201.141:80/gooldstv.com/PbmDzbnBiM/9329\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24592824_ico.png",
+    "nameen": "Premier UK 1",
+    "position": "24",
+    "type": "channel",
+    "key": "windroidadraruk_بريطانيا"
+  },
+  {
+    "namear": "Premier UK 2",
+    "servers": "[{\"headers\":\"dV5fVkJnZAuser-Agent|dV5fVkJnZAuser-Agent|dV5fVkJnZAuser-Agent|dV5fVkJnZA\",\"otherHeaders\":\"\",\"name\":\"Premier UK 2\",\"Referer\":\"\",\"userAgent\":\"dV5fVkJnZAuser-Agent|dV5fVkJnZA\",\"position\":\"0\",\"url\":\"http://185.205.201.141:80/gooldstv.com/PbmDzbnBiM/9330\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24592840_ico.png",
+    "nameen": "Premier UK 2",
+    "position": "25",
+    "type": "channel",
+    "key": "windroidadraruk_بريطانيا"
+  }
+]

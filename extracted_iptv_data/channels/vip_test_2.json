@@ -1,0 +1,704 @@
+[
+  {
+    "namear": "ONC Comedy",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ONC Comedy\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0f9\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ONC Comedy",
+    "position": "1",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ONC Gym",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ONC Gym\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0fb\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ONC Gym",
+    "position": "2",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ONC History",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ONC History\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0f8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ONC History",
+    "position": "3",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ONC Plus",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ONC Plus\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0fa\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ONC Plus",
+    "position": "4",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "Alrabiaa Geo Graphic",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Alrabiaa Geo Graphic\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0ff\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Alrabiaa Geo Graphic",
+    "position": "5",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "Alrabiaa Movies",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Alrabiaa Movies\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0fd\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Alrabiaa Movies",
+    "position": "6",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "Alrabiaa Music",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Alrabiaa Music\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0fh\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Alrabiaa Music",
+    "position": "7",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "Alrabiaa Quran",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Alrabiaa Quran\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0fc\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Alrabiaa Quran",
+    "position": "8",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "Alrabiaa Series EN",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Alrabiaa Series EN\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0fe\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Alrabiaa Series EN",
+    "position": "9",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "Alrabiaa Varity",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Alrabiaa Varity\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0fg\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Alrabiaa Varity",
+    "position": "10",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "Bravo Boxoffice",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Bravo Boxoffice\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0gl\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Bravo Boxoffice",
+    "position": "11",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "Bravo Extra",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Bravo Extra\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0gm\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Bravo Extra",
+    "position": "12",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "Bravo Series",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Bravo Series\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0gn\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Bravo Series",
+    "position": "13",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "Bravo Turkey",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Bravo Turkey\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0go\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Bravo Turkey",
+    "position": "14",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "NETFLIX-ASIA",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NETFLIX-ASIA\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0e2\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "NETFLIX-ASIA",
+    "position": "15",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "NETFLIX-FRENCH",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NETFLIX-FRENCH\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0dz\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "NETFLIX-FRENCH",
+    "position": "16",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "NETFLIX-KIDS",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NETFLIX-KIDS\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0e1\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "NETFLIX-KIDS",
+    "position": "17",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "NETFLIX-SPANISH",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NETFLIX-SPANISH\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0e0\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "NETFLIX-SPANISH",
+    "position": "18",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "Njoom Alrabiaa",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Njoom Alrabiaa\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0fw\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Njoom Alrabiaa",
+    "position": "19",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ONC Animation",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ONC Animation\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0fp\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ONC Animation",
+    "position": "20",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ONC Asia",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ONC Asia\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0fo\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ONC Asia",
+    "position": "21",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ONC Bollywood",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ONC Bollywood\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0fr\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ONC Bollywood",
+    "position": "22",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ONC Cartoon",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ONC Cartoon\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0fn\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ONC Cartoon",
+    "position": "23",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ONC Cinema",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ONC Cinema\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0fk\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ONC Cinema",
+    "position": "24",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ONC Classic",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ONC Classic\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0fm\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ONC Classic",
+    "position": "25",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ONC Drama",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ONC Drama\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0fv\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ONC Drama",
+    "position": "26",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ONC Horror",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ONC Horror\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0fl\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ONC Horror",
+    "position": "27",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ONC Movie",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ONC Movie\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0fu\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ONC Movie",
+    "position": "28",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ONC Premium",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ONC Premium\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0fi\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ONC Premium",
+    "position": "29",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ONC Riwayat",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ONC Riwayat\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0fj\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ONC Riwayat",
+    "position": "30",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ONC Series",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ONC Series\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0fq\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ONC Series",
+    "position": "31",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ONC Turkey Max",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ONC Turkey Max\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0fs\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ONC Turkey Max",
+    "position": "32",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ONC Turkey dubbed",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ONC Turkey dubbed\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0ft\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ONC Turkey dubbed",
+    "position": "33",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ZINA-ACTION",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ZINA-ACTION\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0e3\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ZINA-ACTION",
+    "position": "34",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ZINA-ANIME",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ZINA-ANIME\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0ds\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ZINA-ANIME",
+    "position": "35",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ZINA-ARABIC",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ZINA-ARABIC\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0dr\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ZINA-ARABIC",
+    "position": "36",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ZINA-ASIAN-SERIES",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ZINA-ASIAN-SERIES\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0ee\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ZINA-ASIAN-SERIES",
+    "position": "37",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ZINA-AVENGRS",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ZINA-AVENGRS\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0e4\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ZINA-AVENGRS",
+    "position": "38",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ZINA-Asia",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ZINA-Asia\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0ef\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ZINA-Asia",
+    "position": "39",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ZINA-BOLYWOOD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ZINA-BOLYWOOD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0dt\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ZINA-BOLYWOOD",
+    "position": "40",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ZINA-BOXOFFICE",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ZINA-BOXOFFICE\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0eg\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ZINA-BOXOFFICE",
+    "position": "41",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ZINA-CLASSIC",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ZINA-CLASSIC\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0e5\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ZINA-CLASSIC",
+    "position": "42",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ZINA-COMEDY",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ZINA-COMEDY\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0e6\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ZINA-COMEDY",
+    "position": "43",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ZINA-COWBOY",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ZINA-COWBOY\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0dy\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ZINA-COWBOY",
+    "position": "44",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ZINA-DOCUMENTARY",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ZINA-DOCUMENTARY\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0dw\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ZINA-DOCUMENTARY",
+    "position": "45",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ZINA-DRAMA",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ZINA-DRAMA\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0e7\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ZINA-DRAMA",
+    "position": "46",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ZINA-FAMILY",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ZINA-FAMILY\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0e8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ZINA-FAMILY",
+    "position": "47",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ZINA-GYM",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ZINA-GYM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0dv\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ZINA-GYM",
+    "position": "48",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ZINA-HISTORICAL",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ZINA-HISTORICAL\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0e9\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ZINA-HISTORICAL",
+    "position": "49",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ZINA-HORROR",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ZINA-HORROR\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0ea\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ZINA-HORROR",
+    "position": "50",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ZINA-KIDS",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ZINA-KIDS\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0eb\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ZINA-KIDS",
+    "position": "51",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ZINA-MOVIES",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ZINA-MOVIES\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0dq\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ZINA-MOVIES",
+    "position": "52",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ZINA-MUSIC-AR",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ZINA-MUSIC-AR\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0ec\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ZINA-MUSIC-AR",
+    "position": "53",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ZINA-SCI FI",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ZINA-SCI FI\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0ed\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ZINA-SCI FI",
+    "position": "54",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ZINA-TOP-TEN",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ZINA-TOP-TEN\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0dp\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ZINA-TOP-TEN",
+    "position": "55",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ZINA-WAR",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ZINA-WAR\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0dx\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ZINA-WAR",
+    "position": "56",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "ZINA-WWE",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ZINA-WWE\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0du\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ZINA-WWE",
+    "position": "57",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "netflix-classic",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"netflix-classic\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0g1\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "netflix-classic",
+    "position": "58",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "netflix-crim",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"netflix-crim\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0g2\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "netflix-crim",
+    "position": "59",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "netflix-drama",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"netflix-drama\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0g5\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "netflix-drama",
+    "position": "60",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "netflix-fantasia",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"netflix-fantasia\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0g6\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "netflix-fantasia",
+    "position": "61",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "netflix-hollywood",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"netflix-hollywood\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0g3\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "netflix-hollywood",
+    "position": "62",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "netflix-science",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"netflix-science\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0g0\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "netflix-science",
+    "position": "63",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "netflix-thriller",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"netflix-thriller\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0g4\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "netflix-thriller",
+    "position": "64",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "sky-action",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"sky-action\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0gg\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "sky-action",
+    "position": "65",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "sky-animation",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"sky-animation\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0gd\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "sky-animation",
+    "position": "66",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "sky-bollyowood",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"sky-bollyowood\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0gj\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "sky-bollyowood",
+    "position": "67",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "sky-comedy",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"sky-comedy\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0gk\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "sky-comedy",
+    "position": "68",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "sky-hits",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"sky-hits\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0ge\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "sky-hits",
+    "position": "69",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "sky-premium",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"sky-premium\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0gf\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "sky-premium",
+    "position": "70",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "sky-sc-fi",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"sky-sc-fi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0gh\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "sky-sc-fi",
+    "position": "71",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "sky-thriller",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"sky-thriller\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0gi\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "sky-thriller",
+    "position": "72",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "zina-gaiming",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"zina-gaiming\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0ga\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "zina-gaiming",
+    "position": "73",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "zina-love",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"zina-love\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0gc\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "zina-love",
+    "position": "74",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "zina-musicly",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"zina-musicly\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0g7\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "zina-musicly",
+    "position": "75",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "zina-quran",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"zina-quran\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0gb\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "zina-quran",
+    "position": "76",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "zina-tube",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"zina-tube\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0g8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "zina-tube",
+    "position": "77",
+    "type": "channel",
+    "key": "vip_test_2"
+  },
+  {
+    "namear": "zina-turkey",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"zina-turkey\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.201.210.84:2110/play/a0g9 Découvrez du contenu intéressant Connectez-vous et suivez les créateurs et communautés populaires\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "zina-turkey",
+    "position": "78",
+    "type": "channel",
+    "key": "vip_test_2"
+  }
+]

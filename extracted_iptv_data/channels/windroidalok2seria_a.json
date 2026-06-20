@@ -1,0 +1,29 @@
+[
+  {
+    "namear": "AD PREMIUM 1 HD",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"AD PREMIUM 1 HD\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/42.ts\"}]",
+    "logo": "https://starzplay-img-prod-ssl.akamaized.net/600w/seriea/ABUDHABIPREMIUMSPORTS1Y2022M/ABUDHABIPREMIUMSPORTS1Y2022M-landscape-poster-v1.jpg",
+    "nameen": "AD PREMIUM 1 HD",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidalok2seria_a"
+  },
+  {
+    "namear": "AD PREMIUM 2 HD ",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"AD PREMIUM 2 HD \",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/43.ts\"}]",
+    "logo": "https://starzplay-img-prod-ssl.akamaized.net/600w/seriea/ABUDHABIPREMIUMSPORTS1Y2022M/ABUDHABIPREMIUMSPORTS1Y2022M-landscape-poster-v1.jpg",
+    "nameen": "AD PREMIUM 2 HD ",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidalok2seria_a"
+  },
+  {
+    "namear": "AD PREMIUM 1 SD ",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"AD PREMIUM 1 SD \",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/475.ts\"}]",
+    "logo": "https://starzplay-img-prod-ssl.akamaized.net/600w/seriea/ABUDHABIPREMIUMSPORTS1Y2022M/ABUDHABIPREMIUMSPORTS1Y2022M-landscape-poster-v1.jpg",
+    "nameen": "AD PREMIUM 1 SD ",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidalok2seria_a"
+  }
+]

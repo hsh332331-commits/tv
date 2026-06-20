@@ -1,0 +1,48 @@
+[
+  {
+    "namear": "Canal+ foot",
+    "servers": "[{\"headers\":\"Referer|https://cordneutral.net/embed/30knmufya26l51s|user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36|find|m3u8\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"name\":\"\",\"Referer\":\"https://cordneutral.net/embed/30knmufya26l51s\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://cordneutral.net/embed/30knmufya26l51s\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png",
+    "nameen": "Canal+ foot",
+    "position": "2",
+    "type": "channel",
+    "key": "canal+_sports"
+  },
+  {
+    "namear": "CANAL + Sport",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CANAL + Sport 🇫🇷\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://151.80.18.177:86/Canal+_sport_HD/index.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png",
+    "nameen": "CANAL + Sport",
+    "position": "4",
+    "type": "channel",
+    "key": "canal+_sports"
+  },
+  {
+    "namear": "Canal+360",
+    "servers": "[{\"headers\":\"Referer|https://cordneutral.net/embed/gaes7rdnbknd|user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36|find|m3u8\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"name\":\"Canal+ Sport 360 🇫🇷\",\"Referer\":\"https://cordneutral.net/embed/gaes7rdnbknd\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://cordneutral.net/embed/gaes7rdnbknd\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png",
+    "nameen": "Canal+360",
+    "position": "5",
+    "type": "channel",
+    "key": "canal+_sports"
+  },
+  {
+    "namear": "Canal+",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-HLS8/canalplusclair.m3u8\"}]",
+    "visible": "true",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png",
+    "nameen": "Canal+",
+    "position": "6",
+    "type": "channel",
+    "key": "canal+_sports"
+  },
+  {
+    "namear": "RMC1",
+    "servers": "[{\"headers\":\"Referer|https://cordneutral.net/embed/63aggm|user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36|find|m3u8\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"name\":\"\",\"Referer\":\"https://cordneutral.net/embed/63aggm\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://cordneutral.net/embed/63aggm\"}]",
+    "logo": "",
+    "nameen": "RMC1",
+    "position": "44",
+    "type": "channel",
+    "key": "canal+_sports"
+  }
+]

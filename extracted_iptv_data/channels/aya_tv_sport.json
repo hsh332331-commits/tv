@@ -1,0 +1,434 @@
+[
+  {
+    "namear": "FIGHTS SPORT #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"FIGHTS SPORT #EXTVLCOPT:http-user-agent\\u003dMozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://op-group2-swiftservehd-1.dens.tv/h/h05/01.m3u8\"}]",
+    "logo": "http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503244_tvchannels_v1.jpg",
+    "nameen": "FIGHTS SPORT #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0",
+    "position": "149",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "MOTOR RACING #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"MOTOR RACING #EXTVLCOPT:http-user-agent\\u003dMozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://op-group1-swiftservehd-1.dens.tv/h/h25/S4/mnf.m3u8\"}]",
+    "logo": "http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503257_tvchannels_v1.jpg",
+    "nameen": "MOTOR RACING #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0",
+    "position": "151",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "TRUE SPORT 2",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"TRUE SPORT 2\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://edge1.laotv.la/live/TrueSport2/mono.m3u8 \"}]",
+    "logo": "https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",
+    "nameen": "TRUE SPORT 2",
+    "position": "184",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "TRUE SPORT 1",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"TRUE SPORT 1\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://edge1.laotv.la/live/TrueSport6/mono.m3u8 \"}]",
+    "logo": "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+    "nameen": "TRUE SPORT 1",
+    "position": "185",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "BeIN Sports 2 Thailand (Bahasa Inggris)",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"BeIN Sports 2 Thailand (Bahasa Inggris)\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://ctrl.laotv.la/live/Bsport2/mono.m3u8 \"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "BeIN Sports 2 Thailand (Bahasa Inggris)",
+    "position": "186",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "BeIN Sports 2 Thailand (Bahasa Inggris)",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"BeIN Sports 2 Thailand (Bahasa Inggris)\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://ctrl.laotv.la/live/Bsport2/mono.m3u8 \"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "BeIN Sports 2 Thailand (Bahasa Inggris)",
+    "position": "259",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "PERSIANA SPORTS",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"PERSIANA SPORTS\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://stream.live12.ir/hls2/persiana.m3u8\"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "PERSIANA SPORTS",
+    "position": "261",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "BEIN OLAHRAGA 1",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"BEIN OLAHRAGA 1\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://edge1.laotv.la/live/Bsport1/mono.m3u8 \"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "BEIN OLAHRAGA 1",
+    "position": "262",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "BEIN OLAHRAGA 2",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"BEIN OLAHRAGA 2\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://edge1.laotv.la/live/Bsport2/mono.m3u8 \"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "BEIN OLAHRAGA 2",
+    "position": "263",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "Bintang Olahraga 1",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"Bintang Olahraga 1\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8\"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "Bintang Olahraga 1",
+    "position": "277",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "Bintang Olahraga 1 Hindi",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"Bintang Olahraga 1 Hindi\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://41.205.93.154/STARSPORTS1/tracks-v1/mono.m3u8 \"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "Bintang Olahraga 1 Hindi",
+    "position": "278",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "Olahraga Bintang Olahraga Langsung 1",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"Olahraga Bintang Olahraga Langsung 1\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8\"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "Olahraga Bintang Olahraga Langsung 1",
+    "position": "288",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "Jadilah Olahraga 6",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"Jadilah Olahraga 6\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/6620.m3u8\"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "Jadilah Olahraga 6",
+    "position": "295",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "Jadilah Olahraga 7",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"Jadilah Olahraga 7\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/6622.m3u8\"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "Jadilah Olahraga 7",
+    "position": "296",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "Jadilah Olahraga 8",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"Jadilah Olahraga 8\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/6624.m3u8\"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "Jadilah Olahraga 8",
+    "position": "297",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "Dalam Olahraga 9",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"Dalam Olahraga 9\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/53700.m3u8\"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "Dalam Olahraga 9",
+    "position": "298",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "Sony sepuluh 2 HD",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"Sony sepuluh 2 HD\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/mono.m3u8\"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "Sony sepuluh 2 HD",
+    "position": "299",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "Sony sepuluh 5 HD",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"Sony sepuluh 5 HD\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/mono.m3u8\"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "Sony sepuluh 5 HD",
+    "position": "300",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "Olahraga Bintang Olahraga Langsung 1 HD",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"Olahraga Bintang Olahraga Langsung 1 HD\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://41.205.93.154/STARSPORTS1/mono.m3u8 \"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "Olahraga Bintang Olahraga Langsung 1 HD",
+    "position": "303",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "OLAHRAGA BINTANG 1",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"OLAHRAGA BINTANG 1\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8\"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "OLAHRAGA BINTANG 1",
+    "position": "315",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "BEIN SPORTS (MMNHD)",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"BEIN SPORTS (MMNHD)\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8\"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "BEIN SPORTS (MMNHD)",
+    "position": "317",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "OLAHRAGA UTAMA 2",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"OLAHRAGA UTAMA 2\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://202.21.104.6:88/sps-play/mono.m3u8 \"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "OLAHRAGA UTAMA 2",
+    "position": "318",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "OLAHRAGA UTAMA 5",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"OLAHRAGA UTAMA 5\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://202.21.104.6:88/sps-plus/mono.m3u8 \"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "OLAHRAGA UTAMA 5",
+    "position": "319",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "Sony 1 HD",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"Sony 1 HD\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/mono.m3u8\"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "Sony 1 HD",
+    "position": "320",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "Claro Sports HD",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"Claro Sports HD\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8\"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "Claro Sports HD",
+    "position": "322",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "OLAHRAGA PALSAT 1",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"OLAHRAGA PALSAT 1\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://cdn-main.lolokoko.tv/polsatsportp1.stream/chunks.m3u8\"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "OLAHRAGA PALSAT 1",
+    "position": "323",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "ESPN oke",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"ESPN oke\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://143.244.60.30/ESPN/mono.m3u8 \"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "ESPN oke",
+    "position": "325",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "Lacak Bintang Olahraga",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"Lacak Bintang Olahraga\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://trace-sportstars-samsungnz.amagi.tv/mono.m3u8\"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "Lacak Bintang Olahraga",
+    "position": "344",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "Sony Sports Sepuluh 1 HD(BD)",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"Sony Sports Sepuluh 1 HD(BD)\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://103.2.153.38/trans1sd/smil:tensports1.smil/chunklist.m3u8\"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "Sony Sports Sepuluh 1 HD(BD)",
+    "position": "347",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "TV OLAHRAGA 1",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"TV OLAHRAGA 1\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://fadder.eletrinho.shop:2095/live/sportv1/chunks.m3u8\"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "TV OLAHRAGA 1",
+    "position": "351",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "OLAHRAGA Tepian",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"OLAHRAGA Tepian\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://edgesport-rakuten-samsung.amagi.tv/mono.m3u8\"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "OLAHRAGA Tepian",
+    "position": "353",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "Red Bull Tv",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"Red Bull Tv\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8\"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "Red Bull Tv",
+    "position": "354",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "OLAHRAGA CNCC",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"OLAHRAGA CNCC\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://208.86.19.13:81/102.stream/mono.m3u8 \"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "OLAHRAGA CNCC",
+    "position": "355",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "EDGESport (1080p)",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"EDGESport (1080p)\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://edgesports-sportstribal.amagi.tv/mono.m3u8\"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "EDGESport (1080p)",
+    "position": "356",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "KOTAK PERANG HD",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"KOTAK PERANG HD\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://iptv.prosto.tv:7000/ch118/video.m3u8\"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "KOTAK PERANG HD",
+    "position": "360",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "OLAHRAGA FOX",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"OLAHRAGA FOX\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://208.86.19.13:81/103.stream/mono.m3u8 ?\"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "OLAHRAGA FOX",
+    "position": "361",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "FoxSports HD.",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"FoxSports HD.\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://45.166.92.22:58001/play/a02m/mono.m3u8 \"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "FoxSports HD.",
+    "position": "362",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "FOXSPORTS 3 HD.",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"FOXSPORTS 3 HD.\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://45.166.92.22:58001/play/a01j/mono.m3u8 \"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "FOXSPORTS 3 HD.",
+    "position": "363",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "GOLTV HD.",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"GOLTV HD.\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://45.166.92.22:58001/play/a04k/mono.m3u8 \"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "GOLTV HD.",
+    "position": "364",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "MAQ TV",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"MAQ TV\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8\"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "MAQ TV",
+    "position": "365",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "TyCSports HD.",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"TyCSports HD.\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://45.166.92.22:58001/play/a04d/mono.m3u8 \"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "TyCSports HD.",
+    "position": "371",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "X OLAHRAGA",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"X OLAHRAGA\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://iptv.prosto.tv:7000/ch110/video.m3u8\"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "X OLAHRAGA",
+    "position": "372",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "X SPORT PLUS",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"X SPORT PLUS\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://iptv.prosto.tv:7000/ch117/video.m3u8\"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "X SPORT PLUS",
+    "position": "373",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "BANGLA TV UK",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"BANGLA TV UK\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://208.86.19.13:81/504.stream/mono.m3u8 ?\"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "BANGLA TV UK",
+    "position": "374",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "PALSAT OLAHRAGA 2",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"PALSAT OLAHRAGA 2\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://cdn-main.lolokoko.tv/polsatsportp2.stream/chunks.m3u8\"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "PALSAT OLAHRAGA 2",
+    "position": "375",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "PALSAT SPORTS EKSTRA",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"PALSAT SPORTS EKSTRA\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://cdn-main.lolokoko.tv/polsatsportextra.stream/chunks.m3u8\"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "PALSAT SPORTS EKSTRA",
+    "position": "376",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "BERITA OLAHRAGA PALSAT",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"BERITA OLAHRAGA PALSAT\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://cdn-main.lolokoko.tv/polsatsportnews.stream/chunks.m3u8\"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "BERITA OLAHRAGA PALSAT",
+    "position": "377",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  },
+  {
+    "namear": "SSC OLAHRAGA 1",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"SSC OLAHRAGA 1\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://af.ayassport.ir/hls2/ssc1.m3u8\"}]",
+    "logo": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
+    "nameen": "SSC OLAHRAGA 1",
+    "position": "378",
+    "type": "channel",
+    "key": "aya_tv_sport"
+  }
+]

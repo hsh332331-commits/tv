@@ -1,0 +1,38 @@
+[
+  {
+    "namear": "Skyflix 1",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Skyflix 1\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/404\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7088549_ico.png",
+    "nameen": "Skyflix 1",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarskyflix"
+  },
+  {
+    "namear": "Skyflix 2",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Skyflix 2\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/405\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7088559_ico.png",
+    "nameen": "Skyflix 2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarskyflix"
+  },
+  {
+    "namear": "Skyflix 3",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Skyflix 3\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/406\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7088563_ico.png",
+    "nameen": "Skyflix 3",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarskyflix"
+  },
+  {
+    "namear": "Skyflix 4",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Skyflix 4\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/407\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7088571_ico.png",
+    "nameen": "Skyflix 4",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarskyflix"
+  }
+]

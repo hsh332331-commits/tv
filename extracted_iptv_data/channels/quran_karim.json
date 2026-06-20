@@ -1,0 +1,272 @@
+[
+  {
+    "namear": "Juz 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Juz 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/01.mp3\"}]",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "nameen": "Juz 1",
+    "position": "1",
+    "type": "channel",
+    "key": "quran_karim"
+  },
+  {
+    "namear": "Juz 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Juz 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ia600402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/02.mp3\"}]",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "nameen": "Juz 2",
+    "position": "2",
+    "type": "channel",
+    "key": "quran_karim"
+  },
+  {
+    "namear": "Juz 3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Juz 3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/03.mp3\"}]",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "nameen": "Juz 3",
+    "position": "3",
+    "type": "channel",
+    "key": "quran_karim"
+  },
+  {
+    "namear": "Juz 4",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Juz 4\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/04.mp3\"}]",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "nameen": "Juz 4",
+    "position": "4",
+    "type": "channel",
+    "key": "quran_karim"
+  },
+  {
+    "namear": "Juz 5",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Juz 5\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/05.mp3\"}]",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "nameen": "Juz 5",
+    "position": "5",
+    "type": "channel",
+    "key": "quran_karim"
+  },
+  {
+    "namear": "Juz 6",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Juz 6\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/06.mp3\"}]",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "nameen": "Juz 6",
+    "position": "6",
+    "type": "channel",
+    "key": "quran_karim"
+  },
+  {
+    "namear": "Juz 7",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Juz 7\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/07.mp3\"}]",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "nameen": "Juz 7",
+    "position": "7",
+    "type": "channel",
+    "key": "quran_karim"
+  },
+  {
+    "namear": "Juz 8",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Juz 8\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/08.mp3\"}]",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "nameen": "Juz 8",
+    "position": "8",
+    "type": "channel",
+    "key": "quran_karim"
+  },
+  {
+    "namear": "Juz 9",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Juz 9\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ia600402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/09.mp3\"}]",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "nameen": "Juz 9",
+    "position": "9",
+    "type": "channel",
+    "key": "quran_karim"
+  },
+  {
+    "namear": "Juz 10",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Juz 10\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/10.mp3\"}]",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "nameen": "Juz 10",
+    "position": "10",
+    "type": "channel",
+    "key": "quran_karim"
+  },
+  {
+    "namear": "Juz 11",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Juz 11\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/11.mp3\"}]",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "nameen": "Juz 11",
+    "position": "11",
+    "type": "channel",
+    "key": "quran_karim"
+  },
+  {
+    "namear": "Juz 12",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Juz 12\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/12.mp3\"}]",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "nameen": "Juz 12",
+    "position": "12",
+    "type": "channel",
+    "key": "quran_karim"
+  },
+  {
+    "namear": "Juz 13",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Juz 13\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/13.mp3\"}]",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "nameen": "Juz 13",
+    "position": "13",
+    "type": "channel",
+    "key": "quran_karim"
+  },
+  {
+    "namear": "Juz 14",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Juz 14\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/14.mp3\"}]",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "nameen": "Juz 14",
+    "position": "14",
+    "type": "channel",
+    "key": "quran_karim"
+  },
+  {
+    "namear": "Juz 15",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Juz 15\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/15.mp3\"}]",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "nameen": "Juz 15",
+    "position": "15",
+    "type": "channel",
+    "key": "quran_karim"
+  },
+  {
+    "namear": "Juz 16",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Juz 16\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/16.mp3\"}]",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "nameen": "Juz 16",
+    "position": "16",
+    "type": "channel",
+    "key": "quran_karim"
+  },
+  {
+    "namear": "Juz 17",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Juz 17\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/17.mp3\"}]",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "nameen": "Juz 17",
+    "position": "17",
+    "type": "channel",
+    "key": "quran_karim"
+  },
+  {
+    "namear": "Juz 18",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Juz 18\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/18.mp3\"}]",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "nameen": "Juz 18",
+    "position": "18",
+    "type": "channel",
+    "key": "quran_karim"
+  },
+  {
+    "namear": "Juz 19",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Juz 19\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/19.mp3\"}]",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "nameen": "Juz 19",
+    "position": "19",
+    "type": "channel",
+    "key": "quran_karim"
+  },
+  {
+    "namear": "Juz 20",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Juz 20\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/20.mp3\"}]",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "nameen": "Juz 20",
+    "position": "20",
+    "type": "channel",
+    "key": "quran_karim"
+  },
+  {
+    "namear": "Juz 21",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Juz 21\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/21.mp3\"}]",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "nameen": "Juz 21",
+    "position": "21",
+    "type": "channel",
+    "key": "quran_karim"
+  },
+  {
+    "namear": "Juz 22",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Juz 22\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ia600402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/22.mp3\"}]",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "nameen": "Juz 22",
+    "position": "22",
+    "type": "channel",
+    "key": "quran_karim"
+  },
+  {
+    "namear": "Juz 23",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ia600402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/23.mp3\"}]",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "nameen": "Juz 23",
+    "position": "23",
+    "type": "channel",
+    "key": "quran_karim"
+  },
+  {
+    "namear": "Juz 24",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Juz 24\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/24.mp3\"}]",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "nameen": "Juz 24",
+    "position": "24",
+    "type": "channel",
+    "key": "quran_karim"
+  },
+  {
+    "namear": "Juz 25",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Juz 25\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/25.mp3\"}]",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "nameen": "Juz 25",
+    "position": "25",
+    "type": "channel",
+    "key": "quran_karim"
+  },
+  {
+    "namear": "Juz 26",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Juz 26\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/26.mp3\"}]",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "nameen": "Juz 26",
+    "position": "26",
+    "type": "channel",
+    "key": "quran_karim"
+  },
+  {
+    "namear": "Juz 27",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Juz 27\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/27.mp3\"}]",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "nameen": "Juz 27",
+    "position": "27",
+    "type": "channel",
+    "key": "quran_karim"
+  },
+  {
+    "namear": "Juz 28",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Juz 28\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ia600402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/28.mp3\"}]",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "nameen": "Juz 28",
+    "position": "28",
+    "type": "channel",
+    "key": "quran_karim"
+  },
+  {
+    "namear": "Juz 29",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Juz 29\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/29.mp3\"}]",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "nameen": "Juz 29",
+    "position": "29",
+    "type": "channel",
+    "key": "quran_karim"
+  },
+  {
+    "namear": "Juz 30",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Juz 30\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/30.mp3\"}]",
+    "logo": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png",
+    "nameen": "Juz 30",
+    "position": "30",
+    "type": "channel",
+    "key": "quran_karim"
+  }
+]

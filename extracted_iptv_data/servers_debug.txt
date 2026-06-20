@@ -1,0 +1,43 @@
+doc=1000_channels                            type=channel         servers=str   top_url=False name=http://cdn.hqth.me/vthanhmovies_schedule.xml" bill
+doc=Yalla live                               type=?               servers=str   top_url=False name=طاجيكستان - لبنان
+doc=Yallalive                                type=?               servers=str   top_url=False name=ليتشي - هيلاس فيرونا
+doc=ad_sport                                 type=channel         servers=str   top_url=False name=AD Sports 1 HD
+doc=ad_sports_1_hd                           type=channel         servers=str   top_url=False name=
+doc=adrarmax                                 type=?               servers=str   top_url=False name=MBC Max
+doc=alfajer_sport                            type=channel         servers=str   top_url=False name=Duhok
+doc=alfajr_sport_tv                          type=channel         servers=str   top_url=False name=FJR1
+doc=alg_rie                                  type=channel         servers=str   top_url=False name=4Kids TV
+doc=aljazeera                                type=channel         servers=str   top_url=False name=Al Jazeera (1080p)
+doc=alkass                                   type=channel         servers=str   top_url=False name=Al Kass Sports 1
+doc=alkass_sport                             type=channel         servers=str   top_url=False name=Alkass One
+doc=alkass_tv                                type=channel         servers=str   top_url=False name=AlKass three HD
+doc=alwan_sports                             type=channel         servers=str   top_url=False name=AL1
+doc=arab_sport                               type=channel         servers=str   top_url=False name=AR: Al Kass 1 HD
+doc=arab_tvi                                 type=channel         servers=str   top_url=False name=2M NAT
+doc=arabe_sport                              type=channel         servers=str   top_url=False name=Mbc5
+doc=arabic_tv                                type=channel         servers=str   top_url=False name=AL JAZEERA HD 🇶🇦
+doc=arabickids                               type=channel         servers=str   top_url=False name=Atfal Wa Mawaheb (1080p)
+doc=arryadia_sport                           type=channel         servers=str   top_url=False name=Arryadia TNT
+doc=art                                      type=channel         servers=str   top_url=False name=AR | ART-AFLAM_1
+doc=asian_2024_sport                         type=channel         servers=str   top_url=False name=Digital
+doc=aya_cx_tvad_sports________               type=channel         servers=str   top_url=False name=AD SPORTS 2
+doc=aya_cx_tvad_sports______                 type=channel         servers=str   top_url=False name=AD SPORTS 2
+doc=aya_cx_tval_fajer_tv____                 type=channel         servers=str   top_url=False name=Fajer 1 ᴿᴬᵂ
+doc=aya_cx_tval_fajer___________             type=channel         servers=str   top_url=False name=FAJER 1
+doc=aya_cx_tvalwan___________                type=channel         servers=str   top_url=False name=Alwan 3
+doc=aya_cx_tvalwan____________               type=channel         servers=str   top_url=False name=ALWAN TV 1
+doc=aya_cx_tvarab_cup__________              type=channel         servers=str   top_url=False name=دبي الرياضية 2
+doc=aya_cx_tvarabs________                   type=channel         servers=str   top_url=False name=AL KASS 2
+
+--- Checking raw servers content for a sample ---
+
+doc_id: 1000_channels
+servers raw[:500]: [{"headers":"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|ReactNativeVideo/3.4.4 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.13.3|","otherHeaders":"","name":"http://cdn.hqth.me/vthanhmovies_schedule.xml\" billed-msg\u003d\"Tham gia group Zalo để nhận thông báo:","Referer":"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium","userAgent":"ReactNativeVide
+Parsed OK - 1 servers, keys: ['headers', 'otherHeaders', 'name', 'Referer', 'userAgent', 'position', 'url']
+  headers: Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|ReactNativeVideo/3.4.4 (Linux;Mozilla/5...
+  otherHeaders: 
+  name: http://cdn.hqth.me/vthanhmovies_schedule.xml" billed-msg="Tham gia group Zalo để nhận thông báo:
+  Referer: https://forcedtoplay.xyz/server_lookup.php?channel_id=premium
+  userAgent: ReactNativeVideo/3.4.4 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chr...
+  position: 0
+  url: https://zalo.me/g/kubelh130"

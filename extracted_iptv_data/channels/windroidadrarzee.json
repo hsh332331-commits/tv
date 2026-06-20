@@ -1,0 +1,92 @@
+[
+  {
+    "namear": "MBC Bollywood",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"MBC Bollywood\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12139896_ico.png",
+    "nameen": "MBC Bollywood",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarzee"
+  },
+  {
+    "namear": "Star World",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"Star World\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/179\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12161644_ico.png",
+    "nameen": "Star World",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarzee"
+  },
+  {
+    "namear": "Star Movies",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"Star Movies\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/180\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12161637_ico.png",
+    "nameen": "Star Movies",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarzee"
+  },
+  {
+    "namear": "Star Gold",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Star Gold\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/174\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26523212_ico.png",
+    "nameen": "Star Gold",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarzee"
+  },
+  {
+    "namear": "Star World*",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Star World*\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/173\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/6641432_ico.png",
+    "nameen": "Star World*",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarzee"
+  },
+  {
+    "namear": "Star Movies*",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Star Movies*\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/172\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/6641439_ico.png",
+    "nameen": "Star Movies*",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarzee"
+  },
+  {
+    "namear": "Zee Aflam",
+    "servers": "[{\"headers\":\"best.play.ps/3.2 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.8.4user-Agent|best.play.ps/3.2 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.8.4user-Agent|best.play.ps/3.2 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.8.4user-Agent|best.play.ps/3.2 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.8.4\",\"otherHeaders\":\"\",\"name\":\"Zee Aflam\",\"Referer\":\"\",\"userAgent\":\"best.play.ps/3.2 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.8.4user-Agent|best.play.ps/3.2 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.8.4\",\"position\":\"0\",\"url\":\"https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v2a1/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/400418_ico.png",
+    "nameen": "Zee Aflam",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarzee"
+  },
+  {
+    "namear": "Zee Alwan",
+    "servers": "[{\"headers\":\"best.play.ps/3.2 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.8.4user-Agent|best.play.ps/3.2 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.8.4user-Agent|best.play.ps/3.2 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.8.4user-Agent|best.play.ps/3.2 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.8.4\",\"otherHeaders\":\"\",\"name\":\"Zee Alwan\",\"Referer\":\"\",\"userAgent\":\"best.play.ps/3.2 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.8.4user-Agent|best.play.ps/3.2 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.8.4\",\"position\":\"0\",\"url\":\"https://weyyak-live.akamaized.net/weyyak_zee_alwan/tracks-v2a1/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/400463_ico.png",
+    "nameen": "Zee Alwan",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarzee"
+  },
+  {
+    "namear": "ZEE World",
+    "servers": "[{\"headers\":\"AMQ10086@meuser-Agent|AMQ10086@meuser-Agent|AMQ10086@meuser-Agent|AMQ10086@me\",\"otherHeaders\":\"\",\"name\":\"ZEE World\",\"Referer\":\"\",\"userAgent\":\"AMQ10086@meuser-Agent|AMQ10086@me\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3661.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/19173583_ico.png",
+    "nameen": "ZEE World",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarzee"
+  },
+  {
+    "namear": "StarLife",
+    "servers": "[{\"headers\":\"@10086liveuser-Agent|@10086liveuser-Agent|@10086liveuser-Agent|@10086live\",\"otherHeaders\":\"\",\"name\":\"StarLife\",\"Referer\":\"\",\"userAgent\":\"@10086liveuser-Agent|@10086live\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3635.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/19173658_ico.png",
+    "nameen": "StarLife",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadrarzee"
+  }
+]

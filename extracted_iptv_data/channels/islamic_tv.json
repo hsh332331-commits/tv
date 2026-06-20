@@ -1,0 +1,182 @@
+[
+  {
+    "namear": "IQRAA 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"IQRAA 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8\"}]",
+    "logo": "https://i.ibb.co/S3Wm3q9/iqraanew.png",
+    "nameen": "IQRAA 1",
+    "position": "3",
+    "type": "channel",
+    "key": "islamic_tv"
+  },
+  {
+    "namear": "IQRAA 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"IQRAA 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8\"}]",
+    "logo": "https://i.ibb.co/S3Wm3q9/iqraanew.png",
+    "nameen": "IQRAA 2",
+    "position": "4",
+    "type": "channel",
+    "key": "islamic_tv"
+  },
+  {
+    "namear": "IQRAA 3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"IQRAA 3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8\"}]",
+    "logo": "https://i.ibb.co/S3Wm3q9/iqraanew.png",
+    "nameen": "IQRAA 3",
+    "position": "5",
+    "type": "channel",
+    "key": "islamic_tv"
+  },
+  {
+    "namear": "🕌مــكّة",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"🕌مــكّة\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://media2.streambrothers.com:1936/8122/8122/chunklist.m3u8\"}]",
+    "logo": "https://bit.ly/2Md9nOO",
+    "nameen": "🕌مــكّة",
+    "position": "6",
+    "type": "channel",
+    "key": "islamic_tv"
+  },
+  {
+    "namear": "Quraan Kareem🕌",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Quraan Kareem🕌\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://m.live.net.sa:1935/live/quran/gmswf.m3u8\"}]",
+    "logo": "https://bit.ly/3ZSma9t",
+    "nameen": "Quraan Kareem🕌",
+    "position": "7",
+    "type": "channel",
+    "key": "islamic_tv"
+  },
+  {
+    "namear": "Al Quran Shrja",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Quran Shrja\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8\"}]",
+    "logo": "https://github.com/abidm8/iptv.ara/blob/main/img/quran.ae.png?raw=true",
+    "nameen": "Al Quran Shrja",
+    "position": "8",
+    "type": "channel",
+    "key": "islamic_tv"
+  },
+  {
+    "namear": "Bahrain_Quran TV🕌",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Bahrain_Quran TV🕌\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Bahrain_Quran TV🕌",
+    "position": "9",
+    "type": "channel",
+    "key": "islamic_tv"
+  },
+  {
+    "namear": "Alfath Atfal TV 🕌",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Alfath Atfal TV 🕌\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://alfat7-q.com:5443/LiveApp/streams/434833549141598440488987.m3u8\"}]",
+    "logo": "https://i.imgur.com/p82RKIq.png",
+    "nameen": "Alfath Atfal TV 🕌",
+    "position": "10",
+    "type": "channel",
+    "key": "islamic_tv"
+  },
+  {
+    "namear": "Alfath Sonnah TV🕌",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Alfath Sonnah TV🕌\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://alfat7-q.com:5443/LiveApp/streams/986613792230697141226562.m3u8\"}]",
+    "logo": "https://i.imgur.com/7VYJStp.png",
+    "nameen": "Alfath Sonnah TV🕌",
+    "position": "11",
+    "type": "channel",
+    "key": "islamic_tv"
+  },
+  {
+    "namear": "Alfath TV🕌",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Alfath TV🕌\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://alfat7-q.com:5443/LiveApp/streams/515112551489055772942045.m3u8\"}]",
+    "logo": "https://i.imgur.com/87bdieg.png",
+    "nameen": "Alfath TV🕌",
+    "position": "12",
+    "type": "channel",
+    "key": "islamic_tv"
+  },
+  {
+    "namear": "Istiqama TV🕌",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Istiqama TV🕌\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Istiqama TV🕌",
+    "position": "13",
+    "type": "channel",
+    "key": "islamic_tv"
+  },
+  {
+    "namear": "Sharjahquran🕌",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sharjahquran🕌\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://svs.itworkscdn.net/smcquranlive/quranradiolive/chunks.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Sharjahquran🕌",
+    "position": "14",
+    "type": "channel",
+    "key": "islamic_tv"
+  },
+  {
+    "namear": "Sharjahtv2 TV🕌",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sharjahtv2 TV🕌\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2publish/smc2tv_360p/chunks.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Sharjahtv2 TV🕌",
+    "position": "15",
+    "type": "channel",
+    "key": "islamic_tv"
+  },
+  {
+    "namear": "Al Rahma TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Rahma TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://rumble.com/live-hls-dvr/6u42de/playlist.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Rahma TV",
+    "position": "16",
+    "type": "channel",
+    "key": "islamic_tv"
+  },
+  {
+    "namear": "🕌قــاف",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"🕌قــاف\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://mn-nl.mncdn.com/qaf/live/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3zN4EZn",
+    "nameen": "🕌قــاف",
+    "position": "17",
+    "type": "channel",
+    "key": "islamic_tv"
+  },
+  {
+    "namear": "Al Iarth Al Nabawi🕌",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Iarth Al Nabawi🕌\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://82.212.74.2:8000/live/hls/7307.m3u8\"}]",
+    "logo": "https://bit.ly/41b8eZe",
+    "nameen": "Al Iarth Al Nabawi🕌",
+    "position": "18",
+    "type": "channel",
+    "key": "islamic_tv"
+  },
+  {
+    "namear": "africatv 1🕌",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"africatv 1🕌\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://africatv.live.net.sa:1935/live/africatv/chunklist.m3u8\"}]",
+    "logo": "https://bit.ly/39ZVPhC",
+    "nameen": "africatv 1🕌",
+    "position": "19",
+    "type": "channel",
+    "key": "islamic_tv"
+  },
+  {
+    "namear": "africatv 2🕌",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"africatv 2🕌\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://africatv.live.net.sa:1935/live/africatv2/chunklist.m3u8\"}]",
+    "logo": "https://bit.ly/39ZVPhC",
+    "nameen": "africatv 2🕌",
+    "position": "20",
+    "type": "channel",
+    "key": "islamic_tv"
+  },
+  {
+    "namear": "Maher Al Meaqli-Kaf🕌",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Maher Al Meaqli-Kaf🕌\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://server12.mp3quran.net/maher/018.mp3\"}]",
+    "logo": "https://bit.ly/2M6CMtZ",
+    "nameen": "Maher Al Meaqli-Kaf🕌",
+    "position": "21",
+    "type": "channel",
+    "key": "islamic_tv"
+  },
+  {
+    "namear": "Affasy TV🕌",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Affasy TV🕌\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://qurango.net/radio/mishary_alafasi.mp3\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Affasy TV🕌",
+    "position": "22",
+    "type": "channel",
+    "key": "islamic_tv"
+  }
+]

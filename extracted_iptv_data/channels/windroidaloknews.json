@@ -1,0 +1,92 @@
+[
+  {
+    "namear": "AL-JAZEERA",
+    "servers": "[{\"headers\":\"user-agent|aloka|\",\"otherHeaders\":\"\",\"name\":\"AL-JAZEERA\",\"Referer\":\"\",\"userAgent\":\"aloka\",\"position\":\"0\",\"url\":\"https://live-hls-web-aja.getaj.net:443/AJA/02.m3u8\"}]",
+    "logo": "https://i.ibb.co/P4qckpM/aljazeera.png",
+    "nameen": "AL-JAZEERA",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidaloknews"
+  },
+  {
+    "namear": "AL-JAZEERA MUBASHER",
+    "servers": "[{\"headers\":\"user-agent|aloka|\",\"otherHeaders\":\"\",\"name\":\"AL-JAZEERA MUBASHER\",\"Referer\":\"\",\"userAgent\":\"aloka\",\"position\":\"0\",\"url\":\"https://live-hls-web-ajm.getaj.net:443/AJM/02.m3u8\"}]",
+    "logo": "http://bl3rbe.net/up/Dz2KKDbX.png",
+    "nameen": "AL-JAZEERA MUBASHER",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidaloknews"
+  },
+  {
+    "namear": "AL-ARABIA HADTAH",
+    "servers": "[{\"headers\":\"user-agent|aloka|\",\"otherHeaders\":\"\",\"name\":\"AL-ARABIA HADTAH\",\"Referer\":\"\",\"userAgent\":\"aloka\",\"position\":\"0\",\"url\":\"https://av.alarabiya.net/alarabiapublish/alhadath.smil/mono.m3u8\"}]",
+    "logo": "http://bl3rbe.net/up/nyr1FWs.png",
+    "nameen": "AL-ARABIA HADTAH",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidaloknews"
+  },
+  {
+    "namear": "AL-ARABIA",
+    "servers": "[{\"headers\":\"user-agent|aloka|\",\"otherHeaders\":\"\",\"name\":\"AL-ARABIA\",\"Referer\":\"\",\"userAgent\":\"aloka\",\"position\":\"0\",\"url\":\"https://live.alarabiya.net/alarabiapublish/alarabiya.smil/mono.m3u8\"}]",
+    "logo": "https://i.ibb.co/K0J188d/alarabia.png",
+    "nameen": "AL-ARABIA",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidaloknews"
+  },
+  {
+    "namear": "SKY NEWS",
+    "servers": "[{\"headers\":\"user-agent|aloka|\",\"otherHeaders\":\"\",\"name\":\"SKY NEWS\",\"Referer\":\"\",\"userAgent\":\"aloka\",\"position\":\"0\",\"url\":\"https://stream.skynewsarabia.com:443/hls/sna_720.m3u8\"}]",
+    "logo": "https://i.ibb.co/cDtZ5zy/skynews.png",
+    "nameen": "SKY NEWS",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidaloknews"
+  },
+  {
+    "namear": "EL-SHARQ",
+    "servers": "[{\"headers\":\"user-agent|aloka|\",\"otherHeaders\":\"\",\"name\":\"EL-SHARQ\",\"Referer\":\"\",\"userAgent\":\"aloka\",\"position\":\"0\",\"url\":\"https://mn-nl.mncdn.com/elsharq_live/live/mono.m3u8\"}]",
+    "logo": "http://elsharq.tv/img/elsharq.png",
+    "nameen": "EL-SHARQ",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidaloknews"
+  },
+  {
+    "namear": "AL-MBein DEN",
+    "servers": "[{\"headers\":\"user-agent|aloka|\",\"otherHeaders\":\"\",\"name\":\"AL-MBein DEN\",\"Referer\":\"\",\"userAgent\":\"aloka\",\"position\":\"0\",\"url\":\"http://mdnlv.cdn.octivid.com/almdn/smil:index.m3u8.stream.smil/mono.m3u8\"}]",
+    "logo": "https://i.ibb.co/vYNqcJR/almyaden.png",
+    "nameen": "AL-MBein DEN",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidaloknews"
+  },
+  {
+    "namear": "AL-MAMLKA",
+    "servers": "[{\"headers\":\"user-agent|aloka|\",\"otherHeaders\":\"\",\"name\":\"AL-MAMLKA\",\"Referer\":\"\",\"userAgent\":\"aloka\",\"position\":\"0\",\"url\":\"https://almamlka-live.ercdn.net/almamlka/almamlka_720p.m3u8\"}]",
+    "logo": "http://bl3rbe.net/up/8hvcydc8.png",
+    "nameen": "AL-MAMLKA",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidaloknews"
+  },
+  {
+    "namear": "MEKAMELEEN",
+    "servers": "[{\"headers\":\"user-agent|aloka|\",\"otherHeaders\":\"\",\"name\":\"MEKAMELEEN\",\"Referer\":\"\",\"userAgent\":\"aloka\",\"position\":\"0\",\"url\":\"http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/mono.m3u8?checkedby:iptvcat.com\"}]",
+    "logo": "https://mekameleen.tv/public/css/logo.png",
+    "nameen": "MEKAMELEEN",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidaloknews"
+  },
+  {
+    "namear": "TRT ARABIC",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤyacineee55000|\",\"otherHeaders\":\"\",\"name\":\"TRT ARABIC\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤyacineee55000\",\"position\":\"0\",\"url\":\"https://lb.buy-global.store/live/lb555/bp1-720.m3u8\"}]",
+    "logo": "https://i.ibb.co/1871Q3d/trtarbic.png",
+    "nameen": "TRT ARABIC",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidaloknews"
+  }
+]

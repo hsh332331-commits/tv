@@ -1,0 +1,56 @@
+[
+  {
+    "namear": "NAT-GEO-ABU-DHABI",
+    "servers": "[{\"headers\":\"user-agent|qaaa|referer|esss|\",\"otherHeaders\":\"\",\"name\":\"NAT-GEO-ABU-DHABI\",\"Referer\":\"esss\",\"userAgent\":\"qaaa\",\"position\":\"0\",\"url\":\"https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/mono.m3u8?checkedby:iptvcat.com\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/%D9%86%D8%A7%D8%B4%D9%8A%D9%88%D9%86%D8%A7%D9%84_%D8%AC%D9%8A%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D9%83_%D8%A7%D8%A8%D9%88_%D8%B8%D8%A8%D9%8A.png/280px-%D9%86%D8%A7%D8%B4%D9%8A%D9%88%D9%86%D8%A7%D9%84_%D8%AC%D9%8A%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D9%83_%D8%A7%D8%A8%D9%88_%D8%B8%D8%A8%D9%8A.png",
+    "nameen": "NAT-GEO-ABU-DHABI",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidalok2documentary"
+  },
+  {
+    "namear": "NAT GEO WILD",
+    "servers": "[{\"headers\":\"user-agent|qaaa|referer|esss|\",\"otherHeaders\":\"\",\"name\":\"NAT GEO WILD\",\"Referer\":\"esss\",\"userAgent\":\"qaaa\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/65.ts\"}]",
+    "logo": "http://bl3rbe.net/up/GrkFRD9FFz.png",
+    "nameen": "NAT GEO WILD",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidalok2documentary"
+  },
+  {
+    "namear": "DW ARABIC",
+    "servers": "[{\"headers\":\"user-agent|qaaa|referer|esss|\",\"otherHeaders\":\"\",\"name\":\"DW ARABIC\",\"Referer\":\"esss\",\"userAgent\":\"qaaa\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/465.ts\"}]",
+    "logo": "http://bl3rbe.net/up/KYShhYo.png",
+    "nameen": "DW ARABIC",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidalok2documentary"
+  },
+  {
+    "namear": "DISCOVERE ID",
+    "servers": "[{\"headers\":\"user-agent|qaaa|referer|esss|\",\"otherHeaders\":\"\",\"name\":\"DISCOVERE ID\",\"Referer\":\"esss\",\"userAgent\":\"qaaa\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/71.ts\"}]",
+    "logo": "https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png",
+    "nameen": "DISCOVERE ID",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidalok2documentary"
+  },
+  {
+    "namear": "DISCOVERE",
+    "servers": "[{\"headers\":\"user-agent|qaaa|referer|esss|\",\"otherHeaders\":\"\",\"name\":\"DISCOVERE\",\"Referer\":\"esss\",\"userAgent\":\"qaaa\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/72.ts\"}]",
+    "logo": "http://www.bbb.lol/uploads/tv_image/osn-discovery-hd.png",
+    "nameen": "DISCOVERE",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidalok2documentary"
+  },
+  {
+    "namear": "JAZZERA DOCUMENTARY",
+    "servers": "[{\"headers\":\"user-agent|qaaa|referer|esss|\",\"otherHeaders\":\"\",\"name\":\"JAZZERA DOCUMENTARY\",\"Referer\":\"esss\",\"userAgent\":\"qaaa\",\"position\":\"0\",\"url\":\"http://live-hls-web-ajd.getaj.net/AJD/03.m3u8\"}]",
+    "logo": "http://bl3rbe.net/up/RHHmphVC.png",
+    "nameen": "JAZZERA DOCUMENTARY",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidalok2documentary"
+  }
+]

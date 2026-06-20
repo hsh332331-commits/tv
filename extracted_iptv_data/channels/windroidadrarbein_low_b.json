@@ -1,0 +1,65 @@
+[
+  {
+    "namear": "beIN Pre LW1",
+    "servers": "[{\"headers\":\"ㅤuser-Agent|ㅤuser-Agent|ㅤuser-Agent|ㅤ\",\"otherHeaders\":\"\",\"name\":\"beIN Pre LW1\",\"Referer\":\"\",\"userAgent\":\"ㅤuser-Agent|ㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/27.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/6671330_ico.png",
+    "nameen": "beIN Pre LW1",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarbein_low_b"
+  },
+  {
+    "namear": "beIN Pre LW2",
+    "servers": "[{\"headers\":\"ㅤuser-Agent|ㅤuser-Agent|ㅤuser-Agent|ㅤ\",\"otherHeaders\":\"\",\"name\":\"beIN Pre LW2\",\"Referer\":\"\",\"userAgent\":\"ㅤuser-Agent|ㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/xx28.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/6671334_ico.png",
+    "nameen": "beIN Pre LW2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarbein_low_b"
+  },
+  {
+    "namear": "beIN Pre LW3",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"beIN Pre LW3\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/85\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/6671351_ico.png",
+    "nameen": "beIN Pre LW3",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarbein_low_b"
+  },
+  {
+    "namear": "beIN LOW1",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"beIN LOW1\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/86\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/6671367_ico.png",
+    "nameen": "beIN LOW1",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarbein_low_b"
+  },
+  {
+    "namear": "beIN LOW2",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"beIN LOW2\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/87\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/6671385_ico.png",
+    "nameen": "beIN LOW2",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarbein_low_b"
+  },
+  {
+    "namear": "beIN LOW3",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"beIN LOW3\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/88\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9094519_ico.png",
+    "nameen": "beIN LOW3",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarbein_low_b"
+  },
+  {
+    "namear": "beIN LOW4",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"beIN LOW4\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/89\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9094548_ico.png",
+    "nameen": "beIN LOW4",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarbein_low_b"
+  }
+]

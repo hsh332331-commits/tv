@@ -1,0 +1,110 @@
+[
+  {
+    "namear": "SPASETOON",
+    "servers": "[{\"headers\":\"user-agent|aloka|\",\"otherHeaders\":\"\",\"name\":\"SPASETOON\",\"Referer\":\"\",\"userAgent\":\"aloka\",\"position\":\"0\",\"url\":\"http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist_w1857813072_b346000_slAR.m3u8\"}]",
+    "logo": "http://bl3rbe.net/up/62V0uY1NAm.png",
+    "nameen": "SPASETOON",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidalokkids"
+  },
+  {
+    "namear": "CARTOON NETWORK",
+    "servers": "[{\"headers\":\"user-agent|aloka|\",\"otherHeaders\":\"\",\"name\":\"CARTOON NETWORK\",\"Referer\":\"\",\"userAgent\":\"aloka\",\"position\":\"0\",\"url\":\"https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/mono.m3u8 ?checkedby:hlscat.com\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cartoon_Network_logo_%282004-2010%29.svg/2560px-Cartoon_Network_logo_%282004-2010%29.svg.png",
+    "nameen": "CARTOON NETWORK",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidalokkids"
+  },
+  {
+    "namear": "BARAEM",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"BARAEM\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/63.m3u8\"}]",
+    "logo": "http://bl3rbe.net/up/BZnGZWen.png",
+    "nameen": "BARAEM",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidalokkids"
+  },
+  {
+    "namear": "TOYOR AL-JANNAH",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"TOYOR AL-JANNAH\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/467.m3u8\"}]",
+    "logo": "http://bl3rbe.net/up/SotxD0INV.png",
+    "nameen": "TOYOR AL-JANNAH",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidalokkids"
+  },
+  {
+    "namear": "MBC 3",
+    "servers": "[{\"headers\":\"user-agent|aloka|\",\"otherHeaders\":\"\",\"name\":\"MBC 3\",\"Referer\":\"\",\"userAgent\":\"aloka\",\"position\":\"0\",\"url\":\"https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8\"}]",
+    "logo": "https://i.ibb.co/nmbqRYx/mbc3.png",
+    "nameen": "MBC 3",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidalokkids"
+  },
+  {
+    "namear": "ROTANA KIDS",
+    "servers": "[{\"headers\":\"user-agent|aloka|\",\"otherHeaders\":\"\",\"name\":\"ROTANA KIDS\",\"Referer\":\"\",\"userAgent\":\"aloka\",\"position\":\"0\",\"url\":\"https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/mono.m3u8 ?checkedby:iptvcat.com\"}]",
+    "logo": "https://www.klma.org/wp-content/uploads/2020/04/kids.png",
+    "nameen": "ROTANA KIDS",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidalokkids"
+  },
+  {
+    "namear": "GULLI ARABI",
+    "servers": "[{\"headers\":\"user-agent|aloka|\",\"otherHeaders\":\"\",\"name\":\"GULLI ARABI\",\"Referer\":\"\",\"userAgent\":\"aloka\",\"position\":\"0\",\"url\":\"https://shls-gulli-bil-arabi-prod-dub.shahid.net:443/out/v1/5454d215afba410c90b233f400730958/index_2.m3u8\"}]",
+    "logo": "http://bl3rbe.net/up/5ktkftMM.png",
+    "nameen": "GULLI ARABI",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidalokkids"
+  },
+  {
+    "namear": "توم و جيري",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"توم و جيري\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/156.m3u8\"}]",
+    "logo": "http://bl3rbe.net/up/kFuYx96I.png",
+    "nameen": "توم و جيري",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidalokkids"
+  },
+  {
+    "namear": "BEIN JEEM",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"BEIN JEEM\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/64.m3u8\"}]",
+    "logo": "https://www.ngmisr.com/wp-content/uploads/2021/07/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%AC.jpg",
+    "nameen": "BEIN JEEM",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidalokkids"
+  },
+  {
+    "namear": "OSN DISNEY JUNIOR",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"OSN DISNEY JUNIOR\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/75.m3u8\"}]",
+    "logo": "https://i.ibb.co/0yW2Np6/osn.png",
+    "nameen": "OSN DISNEY JUNIOR",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidalokkids"
+  },
+  {
+    "namear": "ATFAL MAEAHEB",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"ATFAL MAEAHEB\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/267.m3u8\"}]",
+    "logo": "q",
+    "nameen": "ATFAL MAEAHEB",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidalokkids"
+  },
+  {
+    "namear": "MAJED",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"MAJED\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/347.m3u8\"}]",
+    "logo": "q",
+    "nameen": "MAJED",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidalokkids"
+  }
+]

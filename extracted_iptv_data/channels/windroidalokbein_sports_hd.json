@@ -1,0 +1,182 @@
+[
+  {
+    "namear": "Arena SPORTS 1 HD",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena SPORTS 1 HD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/18.m3u8\\r\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
+    "nameen": "Arena SPORTS 1 HD",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidalokbein_sports_hd"
+  },
+  {
+    "namear": "Arena SPORTS 2 HD",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena SPORTS 2 HD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/19.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",
+    "nameen": "Arena SPORTS 2 HD",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidalokbein_sports_hd"
+  },
+  {
+    "namear": "Arena SPORTS 3 HD",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena SPORTS 3 HD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/20.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
+    "nameen": "Arena SPORTS 3 HD",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidalokbein_sports_hd"
+  },
+  {
+    "namear": "Arena SPORTS 4 HD",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena SPORTS 4 HD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/21.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",
+    "nameen": "Arena SPORTS 4 HD",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidalokbein_sports_hd"
+  },
+  {
+    "namear": "Arena SPORTS 5 HD",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena SPORTS 5 HD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/22.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",
+    "nameen": "Arena SPORTS 5 HD",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidalokbein_sports_hd"
+  },
+  {
+    "namear": "Arena SPORTS 6 HD",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena SPORTS 6 HD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/23.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png",
+    "nameen": "Arena SPORTS 6 HD",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidalokbein_sports_hd"
+  },
+  {
+    "namear": "Arena SPORTS 7 HD",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena SPORTS 7 HD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/24.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",
+    "nameen": "Arena SPORTS 7 HD",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidalokbein_sports_hd"
+  },
+  {
+    "namear": "Arena SPORTS 8 HD",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena SPORTS 8 HD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/25.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",
+    "nameen": "Arena SPORTS 8 HD",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidalokbein_sports_hd"
+  },
+  {
+    "namear": "Arena SPORTS 9 HD",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena SPORTS 9 HD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/26.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",
+    "nameen": "Arena SPORTS 9 HD",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidalokbein_sports_hd"
+  },
+  {
+    "namear": "Arena SPORTS XTRA 1 HD",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena SPORTS XTRA 1 HD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/39.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png",
+    "nameen": "Arena SPORTS XTRA 1 HD",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidalokbein_sports_hd"
+  },
+  {
+    "namear": "Arena SPORTS XTRA 2 HD",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena SPORTS XTRA 2 HD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/40.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png",
+    "nameen": "Arena SPORTS XTRA 2 HD",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidalokbein_sports_hd"
+  },
+  {
+    "namear": "Arena SPORTS XTRA 3 HD",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena SPORTS XTRA 3 HD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/41.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTSXTRA3.png",
+    "nameen": "Arena SPORTS XTRA 3 HD",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidalokbein_sports_hd"
+  },
+  {
+    "namear": "Arena SPORTS NEWS",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena SPORTS NEWS\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/44.m3u8\"}]",
+    "logo": "https://i.ibb.co/D9zPQ6k/bein-news.png",
+    "nameen": "Arena SPORTS NEWS",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidalokbein_sports_hd"
+  },
+  {
+    "namear": "Arena French 1",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena French 1\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/47.m3u8\"}]",
+    "logo": "https://i.ibb.co/Pg1WRdr/1frhd.png",
+    "nameen": "Arena French 1",
+    "position": "13",
+    "type": "channel",
+    "key": "windroidalokbein_sports_hd"
+  },
+  {
+    "namear": "Arena French 2",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena French 2\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/48.m3u8\"}]",
+    "logo": "https://i.ibb.co/8dXBFjJ/2frhd.png",
+    "nameen": "Arena French 2",
+    "position": "14",
+    "type": "channel",
+    "key": "windroidalokbein_sports_hd"
+  },
+  {
+    "namear": "Arena AFC ",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena AFC \",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/551.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2022/03/bein.com-05.png",
+    "nameen": "Arena AFC ",
+    "position": "15",
+    "type": "channel",
+    "key": "windroidalokbein_sports_hd"
+  },
+  {
+    "namear": "Arena AFC 1 ",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena AFC 1 \",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/49.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2022/03/bein.com-06.png",
+    "nameen": "Arena AFC 1 ",
+    "position": "16",
+    "type": "channel",
+    "key": "windroidalokbein_sports_hd"
+  },
+  {
+    "namear": "Arena AFC 2",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena AFC 2\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/50.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2022/03/bein.com-07.png",
+    "nameen": "Arena AFC 2",
+    "position": "17",
+    "type": "channel",
+    "key": "windroidalokbein_sports_hd"
+  },
+  {
+    "namear": "Arena AFC 3",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena AFC 3\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/51.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2022/03/bein.com-08.png",
+    "nameen": "Arena AFC 3",
+    "position": "18",
+    "type": "channel",
+    "key": "windroidalokbein_sports_hd"
+  },
+  {
+    "namear": "Arena Sports open",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena Sports open\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/43.m3u8\"}]",
+    "logo": "q",
+    "nameen": "Arena Sports open",
+    "position": "19",
+    "type": "channel",
+    "key": "windroidalokbein_sports_hd"
+  }
+]

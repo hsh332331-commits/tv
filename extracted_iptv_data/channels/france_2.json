@@ -1,0 +1,551 @@
+[
+  {
+    "namear": "TF1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TF1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36165\"}]",
+    "logo": "https://i.ibb.co/Y85WVx8/TF1.png",
+    "nameen": "TF1",
+    "position": "1",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "FRANCE 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"FRANCE 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36181\"}]",
+    "logo": "https://i.ibb.co/hZV0JfQ/FR2.png",
+    "nameen": "FRANCE 2",
+    "position": "2",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "FRANCE 3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"FRANCE 3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36182\"}]",
+    "logo": "https://i.ibb.co/ZVshCh5/FR3.png",
+    "nameen": "FRANCE 3",
+    "position": "3",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "FRANCE 4",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"FRANCE 4\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36183\"}]",
+    "logo": "https://i.ibb.co/j4L7WXm/FR4.png",
+    "nameen": "FRANCE 4",
+    "position": "4",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "FRANCE 5",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"FRANCE 5\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36184\"}]",
+    "logo": "https://i.ibb.co/K2hk0S9/FR5.png",
+    "nameen": "FRANCE 5",
+    "position": "5",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "M6",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"M6\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36189\"}]",
+    "logo": "https://i.ibb.co/7gZRnSH/M6.png",
+    "nameen": "M6",
+    "position": "6",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "C8",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"C8\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36191\"}]",
+    "logo": "https://i.ibb.co/v4s8vcL/C8.png",
+    "nameen": "C8",
+    "position": "7",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "W9",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"W9\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36188\"}]",
+    "logo": "https://i.ibb.co/4t3CGJR/W9.png",
+    "nameen": "W9",
+    "position": "8",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "TF1 S&F",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TF1 S\\u0026F\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/491\"}]",
+    "logo": "https://i.ibb.co/Mk3YQwB/TF1-S-F.png",
+    "nameen": "TF1 S&F",
+    "position": "9",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "RTL9",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"RTL9\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36195\"}]",
+    "logo": "https://i.ibb.co/mBjd1fq/RTL9.png",
+    "nameen": "RTL9",
+    "position": "10",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "TFX",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TFX\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36187\"}]",
+    "logo": "https://i.ibb.co/ZhC07Qx/TFX.png",
+    "nameen": "TFX",
+    "position": "11",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "Canal+",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Canal+\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36225\"}]",
+    "logo": "https://i.ibb.co/hCWFxYJ/CANAL.png",
+    "nameen": "Canal+",
+    "position": "12",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "C DECALE",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"C DECALE\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36227\"}]",
+    "logo": "https://i.ibb.co/FzJnQ7z/CANAL-DECALE.png",
+    "nameen": "C DECALE",
+    "position": "13",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "C CINEMA",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"C CINEMA\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36226\"}]",
+    "logo": "https://i.ibb.co/1b29cjs/CANAL-CINEMA.png",
+    "nameen": "C CINEMA",
+    "position": "14",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "C FAMILY",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"C FAMILY\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36228\"}]",
+    "logo": "https://i.ibb.co/hW2KNbN/CANAL-FAMILY.png",
+    "nameen": "C FAMILY",
+    "position": "15",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "C SERIES",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"C SERIES\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36229\"}]",
+    "logo": "https://i.ibb.co/2hMKvwc/CANAL-SERIES.png",
+    "nameen": "C SERIES",
+    "position": "16",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "C SPORTS",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"C SPORTS\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/308030\"}]",
+    "logo": "https://i.ibb.co/p0tST3t/CANAL-SPORTS.png",
+    "nameen": "C SPORTS",
+    "position": "17",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "CINE-PREMIER",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CINE-PREMIER\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36230\"}]",
+    "logo": "https://i.ibb.co/6Pt9Sm7/CINE-PRM.png",
+    "nameen": "CINE-PREMIER",
+    "position": "18",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "C FRISSON",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"C FRISSON\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36231\"}]",
+    "logo": "https://i.ibb.co/6BVDZjJ/CINE-FRISSON.png",
+    "nameen": "C FRISSON",
+    "position": "19",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "CINE-FAMIZ",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CINE-FAMIZ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36233\"}]",
+    "logo": "https://i.ibb.co/9T1PcvR/CINE-FAMIZ.png",
+    "nameen": "CINE-FAMIZ",
+    "position": "20",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "C EMOTION",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"C EMOTION\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36232\"}]",
+    "logo": "https://i.ibb.co/fG1G0Ym/CINE-EMOTION.png",
+    "nameen": "C EMOTION",
+    "position": "21",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "OCS-CITY",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"OCS-CITY\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36239\"}]",
+    "logo": "https://i.ibb.co/HrMz13N/OCS-CITY.png",
+    "nameen": "OCS-CITY",
+    "position": "22",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "OCS-MAX",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"OCS-MAX\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36238\"}]",
+    "logo": "https://i.ibb.co/56jh7hW/OCS-MAX.png",
+    "nameen": "OCS-MAX",
+    "position": "23",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "OSC-CHOC",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"OSC-CHOC\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36240\"}]",
+    "logo": "https://i.ibb.co/3BPxmQ7/OCS-CHOC.png",
+    "nameen": "OSC-CHOC",
+    "position": "24",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "OSC-GEANT",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"OSC-GEANT\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36241\"}]",
+    "logo": "https://i.ibb.co/F0CrNhv/OCS-GEANT.png",
+    "nameen": "OSC-GEANT",
+    "position": "25",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "ACTION",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ACTION\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36244\"}]",
+    "logo": "https://i.ibb.co/d2D09Dy/ACTION.png",
+    "nameen": "ACTION",
+    "position": "26",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "AB1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AB1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/1526\"}]",
+    "logo": "https://i.ibb.co/D1cTYRx/AB1.png",
+    "nameen": "AB1",
+    "position": "27",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "ARTE",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ARTE\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36266\"}]",
+    "logo": "https://i.ibb.co/QjT9VDn/ARTE.png",
+    "nameen": "ARTE",
+    "position": "28",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "TV BREZH",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TV BREZH\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/976\"}]",
+    "logo": "https://i.ibb.co/qkCf4Ct/TV-BREIZH.png",
+    "nameen": "TV BREZH",
+    "position": "29",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "beiNSPORTSHD1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beiNSPORTSHD1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36207\"}]",
+    "logo": "https://i.ibb.co/30qM52s/BFR1.png",
+    "nameen": "beiNSPORTSHD1",
+    "position": "30",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "beiNSPORTSHD2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beiNSPORTSHD2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36208\"}]",
+    "logo": "https://i.ibb.co/ggch4tD/BFR2.png",
+    "nameen": "beiNSPORTSHD2",
+    "position": "31",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "beiNSPORTSHD3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beiNSPORTSHD3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/71\"}]",
+    "logo": "https://i.ibb.co/x6L9GVb/BFR3.png",
+    "nameen": "beiNSPORTSHD3",
+    "position": "32",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "EUROSPORT1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"EUROSPORT1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/572\"}]",
+    "logo": "https://i.ibb.co/sjmLdxT/EUROSPORT-1.png",
+    "nameen": "EUROSPORT1",
+    "position": "33",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "EUROSPORT2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"EUROSPORT2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/287\"}]",
+    "logo": "https://i.ibb.co/YBxCz5W/EUROSPORT-2.png",
+    "nameen": "EUROSPORT2",
+    "position": "34",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "CANAL-FOOT",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CANAL-FOOT\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/975\"}]",
+    "logo": "https://i.ibb.co/t23qwgs/CANAL-FOOT.png",
+    "nameen": "CANAL-FOOT",
+    "position": "35",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "RMC HD1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"RMC HD1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/1554\"}]",
+    "logo": "https://i.ibb.co/C7WzFbx/RMC1.png",
+    "nameen": "RMC HD1",
+    "position": "36",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "RMC HD2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"RMC HD2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/1555\"}]",
+    "logo": "https://i.ibb.co/dbbjKpp/RMC2.png",
+    "nameen": "RMC HD2",
+    "position": "37",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "RMC HD3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"RMC HD3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/1556\"}]",
+    "logo": "https://i.ibb.co/hf9B5NS/RMC3.png",
+    "nameen": "RMC HD3",
+    "position": "38",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "Equipe 21",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Equipe 21\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/580\"}]",
+    "logo": "https://i.ibb.co/q911qfh/EQUPE-21.png",
+    "nameen": "Equipe 21",
+    "position": "39",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "INFOSPORT",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"INFOSPORT\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/500\"}]",
+    "logo": "https://i.ibb.co/fMB0v4R/INFOSPORTS.png",
+    "nameen": "INFOSPORT",
+    "position": "40",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "France 24",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"France 24\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/303\"}]",
+    "logo": "https://i.ibb.co/ng9QsBz/FR24.png",
+    "nameen": "France 24",
+    "position": "41",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "LCI",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"LCI\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/3625\"}]",
+    "logo": "https://i.ibb.co/hd3dKbC/LCI.png",
+    "nameen": "LCI",
+    "position": "42",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "TV5monde",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TV5monde\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/1528\"}]",
+    "logo": "https://i.ibb.co/yp9Lqsz/TV5.png",
+    "nameen": "TV5monde",
+    "position": "43",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "Nat Geo HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Nat Geo HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/486\"}]",
+    "logo": "https://i.ibb.co/SnBxX5r/NATIONAL.png",
+    "nameen": "Nat Geo HD",
+    "position": "44",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "Nat WILD HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Nat WILD HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/485\"}]",
+    "logo": "https://i.ibb.co/jLzpGN7/WILD.png",
+    "nameen": "Nat WILD HD",
+    "position": "45",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "DiscoveryHD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"DiscoveryHD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/3381\"}]",
+    "logo": "https://i.ibb.co/3fm6gqp/DISCOVERY.png",
+    "nameen": "DiscoveryHD",
+    "position": "46",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "ANIMAUX",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ANIMAUX\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/284\"}]",
+    "logo": "https://i.ibb.co/6ZX1KTM/ANIMAUX.png",
+    "nameen": "ANIMAUX",
+    "position": "47",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "USHUAIA",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"USHUAIA\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/483\"}]",
+    "logo": "https://i.ibb.co/mGQyKVD/USHUAIA.png",
+    "nameen": "USHUAIA",
+    "position": "48",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "PLANETE+",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"PLANETE+\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/288\"}]",
+    "logo": "https://i.ibb.co/ZTdSxSJ/PLANETE.png",
+    "nameen": "PLANETE+",
+    "position": "49",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "DISNEY FR",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"DISNEY FR\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/300\"}]",
+    "logo": "https://i.ibb.co/SK3Vcm4/DISNEY.png",
+    "nameen": "DISNEY FR",
+    "position": "50",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "DISNEY JR",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"DISNEY JR\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/1523\"}]",
+    "logo": "https://i.ibb.co/P11fXWF/DISNEY-JR.png",
+    "nameen": "DISNEY JR",
+    "position": "51",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "PIWI",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"PIWI\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/1023\"}]",
+    "logo": "https://i.ibb.co/TYt8Whm/PIWI.png",
+    "nameen": "PIWI",
+    "position": "52",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "TIJI",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TIJI\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/1482\"}]",
+    "logo": "https://i.ibb.co/0QVdKXM/TIJI.png",
+    "nameen": "TIJI",
+    "position": "53",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "BOOMERANG",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BOOMERANG\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/297\"}]",
+    "logo": "https://i.ibb.co/gySSFwQ/BOOM.png",
+    "nameen": "BOOMERANG",
+    "position": "54",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "CN",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CN\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/488\"}]",
+    "logo": "https://i.ibb.co/F71L5Ls/CN.png",
+    "nameen": "CN",
+    "position": "55",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "NICK JR",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NICK JR\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/1483\"}]",
+    "logo": "https://i.ibb.co/XxHnvzw/NICK-JR.png",
+    "nameen": "NICK JR",
+    "position": "56",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "NICK TEEN",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NICK TEEN\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/5056\"}]",
+    "logo": "https://i.ibb.co/xCx5JfW/NICK-TEEN.png",
+    "nameen": "NICK TEEN",
+    "position": "57",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "NICK HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NICK HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/1029\"}]",
+    "logo": "https://i.ibb.co/W08wZ7q/NICKELODEON.png",
+    "nameen": "NICK HD",
+    "position": "58",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "TELETOON",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TELETOON\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/489\"}]",
+    "logo": "https://i.ibb.co/sgDH5mj/TELET.png",
+    "nameen": "TELETOON",
+    "position": "59",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "MANGAS",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MANGAS\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/490\"}]",
+    "logo": "https://i.ibb.co/gZW83mC/MANGAS.png",
+    "nameen": "MANGAS",
+    "position": "60",
+    "type": "channel",
+    "key": "france_2"
+  },
+  {
+    "namear": "CANAL J",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CANAL J\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/492\"}]",
+    "logo": "https://i.ibb.co/5nDRZbL/CANAL-J.png",
+    "nameen": "CANAL J",
+    "position": "61",
+    "type": "channel",
+    "key": "france_2"
+  }
+]

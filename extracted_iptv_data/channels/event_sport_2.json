@@ -1,0 +1,56 @@
+[
+  {
+    "namear": "Live1",
+    "servers": "[{\"headers\":\"Referer|https://areagame.net/home/blog1/|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://areagame.net/home/blog1/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://areagame.net/1111.php\"}]",
+    "logo": "",
+    "nameen": "Live1",
+    "position": "0",
+    "type": "channel",
+    "key": "event_sport_2"
+  },
+  {
+    "namear": "Live2",
+    "servers": "[{\"headers\":\"Referer|https://areagame.net/home/blog1/|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://areagame.net/home/blog1/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://areagame.net/2222.php\"}]",
+    "logo": "",
+    "nameen": "Live2",
+    "position": "1",
+    "type": "channel",
+    "key": "event_sport_2"
+  },
+  {
+    "namear": "Live3",
+    "servers": "[{\"headers\":\"Referer|https://areagame.net/home/blog1/|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://areagame.net/home/blog1/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://areagame.net/3333.php\"}]",
+    "logo": "",
+    "nameen": "Live3",
+    "position": "2",
+    "type": "channel",
+    "key": "event_sport_2"
+  },
+  {
+    "namear": "Live4",
+    "servers": "[{\"headers\":\"Referer|https://areagame.net/home/blog1/|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://areagame.net/home/blog1/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://areagame.net/4444.php\"}]",
+    "logo": "",
+    "nameen": "Live4",
+    "position": "3",
+    "type": "channel",
+    "key": "event_sport_2"
+  },
+  {
+    "namear": "Live5",
+    "servers": "[{\"headers\":\"Referer|https://areagame.net/home/blog1/|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://areagame.net/home/blog1/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://areagame.net/5555.php\"}]",
+    "logo": "",
+    "nameen": "Live5",
+    "position": "4",
+    "type": "channel",
+    "key": "event_sport_2"
+  },
+  {
+    "namear": "Live6",
+    "servers": "[{\"headers\":\"Referer|https://areagame.net/home/blog1/|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://areagame.net/home/blog1/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://areagame.net/6666.php\"}]",
+    "logo": "",
+    "nameen": "Live6",
+    "position": "5",
+    "type": "channel",
+    "key": "event_sport_2"
+  }
+]

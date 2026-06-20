@@ -1,0 +1,965 @@
+[
+  {
+    "namear": "TF1",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"TF1\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/727\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12166645_ico.png",
+    "nameen": "TF1",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "France 2",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"France 2\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/737\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12166079_ico.png",
+    "nameen": "France 2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "France 3",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"France 3\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/738\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12166087_ico.png",
+    "nameen": "France 3",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "France 4",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"France 4\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/741\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12166125_ico.png",
+    "nameen": "France 4",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "France 5",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"France 5\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/743\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12166131_ico.png",
+    "nameen": "France 5",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "M6",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"M6\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/729\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12176296_ico.png",
+    "nameen": "M6",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "M6 Inter",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"M6 Inter\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index_3.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/15410360_ico.png",
+    "nameen": "M6 Inter",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "6TER",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"6TER\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/826\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24219323_ico.png",
+    "nameen": "6TER",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Arte",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Arte\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/731\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12176405_ico.png",
+    "nameen": "Arte",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Cstar",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Cstar\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/830\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12173069_ico.png",
+    "nameen": "Cstar",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "C8",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"C8\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/835\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/3112977_ico.png",
+    "nameen": "C8",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Cnews",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Cnews\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/745\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/3112885_ico.png",
+    "nameen": "Cnews",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "W9",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"W9\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/736\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12166697_ico.png",
+    "nameen": "W9",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "RTL9",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"RTL9\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/812\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12176412_ico.png",
+    "nameen": "RTL9",
+    "position": "13",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "NRJ 12",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"NRJ 12\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/823\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24219283_ico.png",
+    "nameen": "NRJ 12",
+    "position": "14",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Cherie 25",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Cherie 25\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/822\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24219282_ico.png",
+    "nameen": "Cherie 25",
+    "position": "15",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Serie Club",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Serie Club\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/814\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24219233_ico.png",
+    "nameen": "Serie Club",
+    "position": "16",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "AB1",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"AB1\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/816\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24219248_ico.png",
+    "nameen": "AB1",
+    "position": "17",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "TMC",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"TMC\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/747\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12166639_ico.png",
+    "nameen": "TMC",
+    "position": "18",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "TFX",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"TFX\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/744\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12166663_ico.png",
+    "nameen": "TFX",
+    "position": "19",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "BET FR",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"BET FR\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/804\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24219214_ico.png",
+    "nameen": "BET FR",
+    "position": "20",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "MTV France",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"MTV France\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/819\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24219270_ico.png",
+    "nameen": "MTV France",
+    "position": "21",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "GAME ONE",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"GAME ONE\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/821\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24219274_ico.png",
+    "nameen": "GAME ONE",
+    "position": "22",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "J ONE",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"J ONE\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/820\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24219272_ico.png",
+    "nameen": "J ONE",
+    "position": "23",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "France 24 FR",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"France 24 FR\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/749\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12173608_ico.png",
+    "nameen": "France 24 FR",
+    "position": "24",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Eurosport 1 FR",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Eurosport 1 FR\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/766\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12176438_ico.png",
+    "nameen": "Eurosport 1 FR",
+    "position": "25",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Eurosport 2 FR",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Eurosport 2 FR\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/767\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12176455_ico.png",
+    "nameen": "Eurosport 2 FR",
+    "position": "26",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Canal+",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Canal+\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/714\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12176079_ico.png",
+    "nameen": "Canal+",
+    "position": "27",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Canal+ Sport",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Canal+ Sport\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/787\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12176336_ico.png",
+    "nameen": "Canal+ Sport",
+    "position": "28",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Canal+ Cinema",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Canal+ Cinema\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/779\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12176109_ico.png",
+    "nameen": "Canal+ Cinema",
+    "position": "29",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Canal+ Family",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Canal+ Family\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/783\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12176094_ico.png",
+    "nameen": "Canal+ Family",
+    "position": "30",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Canal+ Series",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Canal+ Series\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/782\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12176087_ico.png",
+    "nameen": "Canal+ Series",
+    "position": "31",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Canal+ Decale",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Canal+ Decale\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/785\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12176100_ico.png",
+    "nameen": "Canal+ Decale",
+    "position": "32",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Cine+ Premier",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Cine+ Premier\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/792\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/1937011_ico.png",
+    "nameen": "Cine+ Premier",
+    "position": "33",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Cine+ Famiz",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Cine+ Famiz\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/795\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/1937018_ico.png",
+    "nameen": "Cine+ Famiz",
+    "position": "34",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Cine+ Emotion",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Cine+ Emotion\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/796\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/1939788_ico.png",
+    "nameen": "Cine+ Emotion",
+    "position": "35",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Cine+ Frisson",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Cine+ Frisson\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/794\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/1937997_ico.png",
+    "nameen": "Cine+ Frisson",
+    "position": "36",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Cine+ Classic",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Cine+ Classic\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/797\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/1939802_ico.png",
+    "nameen": "Cine+ Classic",
+    "position": "37",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Cine+ Club",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Cine+ Club\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/798\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/1939883_ico.png",
+    "nameen": "Cine+ Club",
+    "position": "38",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "A La Carte 1",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"A La Carte 1\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/889\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24219485_ico.png",
+    "nameen": "A La Carte 1",
+    "position": "39",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "A La Carte 2",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"A La Carte 2\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/890\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24219490_ico.png",
+    "nameen": "A La Carte 2",
+    "position": "40",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "A La Carte 3",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"A La Carte 3\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/891\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24219493_ico.png",
+    "nameen": "A La Carte 3",
+    "position": "41",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "A La Carte 4",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"A La Carte 4\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/893\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24219496_ico.png",
+    "nameen": "A La Carte 4",
+    "position": "42",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Action",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Action\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/802\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12176246_ico.png",
+    "nameen": "Action",
+    "position": "43",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "TV Breizh",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"TV Breizh\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/811\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2027810_ico.png",
+    "nameen": "TV Breizh",
+    "position": "44",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "E! FR",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"E! FR\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/803\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24219212_ico.png",
+    "nameen": "E! FR",
+    "position": "45",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Syfy FR",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Syfy FR\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/808\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2027134_ico.png",
+    "nameen": "Syfy FR",
+    "position": "46",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "13ème RUE",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"13ème RUE\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/815\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12176383_ico.png",
+    "nameen": "13ème RUE",
+    "position": "47",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "TF1 Séries Films",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"TF1 Séries Films\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://gratuittv.free.fr/Files/tfsf/live/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12166653_ico.png",
+    "nameen": "TF1 Séries Films",
+    "position": "48",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Paramount FR",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Paramount FR\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/799\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2027140_ico.png",
+    "nameen": "Paramount FR",
+    "position": "49",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "OCS Choc",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"OCS Choc\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/793\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2027862_ico.png",
+    "nameen": "OCS Choc",
+    "position": "50",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "OCS City",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"OCS City\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/790\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2027855_ico.png",
+    "nameen": "OCS City",
+    "position": "51",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "OCS Geant",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"OCS Geant\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/789\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24218774_ico.png",
+    "nameen": "OCS Geant",
+    "position": "52",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "OCS Max",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"OCS Max\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/788\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2027834_ico.png",
+    "nameen": "OCS Max",
+    "position": "53",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Comedie+",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Comedie+\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/806\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/3112902_ico.png",
+    "nameen": "Comedie+",
+    "position": "54",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Canal J",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Canal J\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/849\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12176082_ico.png",
+    "nameen": "Canal J",
+    "position": "55",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Mangas",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Mangas\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/853\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12176198_ico.png",
+    "nameen": "Mangas",
+    "position": "56",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Boomerang FR",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Boomerang FR\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/850\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12176237_ico.png",
+    "nameen": "Boomerang FR",
+    "position": "57",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Nickelodeon FR",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Nickelodeon FR\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/840\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12176278_ico.png",
+    "nameen": "Nickelodeon FR",
+    "position": "58",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Nick Teen FR",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Nick Teen FR\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/841\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24219396_ico.png",
+    "nameen": "Nick Teen FR",
+    "position": "59",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "CN FR",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"CN FR\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/836\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24219349_ico.png",
+    "nameen": "CN FR",
+    "position": "60",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Disney FR",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Disney FR\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/844\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24219407_ico.png",
+    "nameen": "Disney FR",
+    "position": "61",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "DISNEY +1",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"DISNEY +1\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/845\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24219411_ico.png",
+    "nameen": "DISNEY +1",
+    "position": "62",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Disney XD FR",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Disney XD FR\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/847\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12176304_ico.png",
+    "nameen": "Disney XD FR",
+    "position": "63",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Disney JR FR",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Disney JR FR\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/847\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24219412_ico.png",
+    "nameen": "Disney JR FR",
+    "position": "64",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "DISNEY+",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"DISNEY+\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/843\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24219402_ico.png",
+    "nameen": "DISNEY+",
+    "position": "65",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "TELETOON+",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"TELETOON+\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/837\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24219355_ico.png",
+    "nameen": "TELETOON+",
+    "position": "66",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "TOONAMI",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"TOONAMI\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/832\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24219344_ico.png",
+    "nameen": "TOONAMI",
+    "position": "67",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "GULLI FR",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"GULLI FR\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/857\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24219417_ico.png",
+    "nameen": "GULLI FR",
+    "position": "68",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Piwi FR",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Piwi FR\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/848\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12166207_ico.png",
+    "nameen": "Piwi FR",
+    "position": "69",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "TIJI",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"TIJI\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/856\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24219414_ico.png",
+    "nameen": "TIJI",
+    "position": "70",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "BOING Français",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"BOING Français\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/851\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12166141_ico.png",
+    "nameen": "BOING Français",
+    "position": "71",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Nat Geo FR",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Nat Geo FR\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/866\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24219451_ico.png",
+    "nameen": "Nat Geo FR",
+    "position": "72",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Nat G Wild FR",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Nat G Wild FR\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/868\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24219457_ico.png",
+    "nameen": "Nat G Wild FR",
+    "position": "73",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Animaux",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Animaux\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/869\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12176350_ico.png",
+    "nameen": "Animaux",
+    "position": "74",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Chasse et Peche",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Chasse et Peche\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/870\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2555521_ico.png",
+    "nameen": "Chasse et Peche",
+    "position": "75",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Voyage",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Voyage\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/865\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2555499_ico.png",
+    "nameen": "Voyage",
+    "position": "76",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Ushuaia TV",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Ushuaia TV\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/875\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2555539_ico.png",
+    "nameen": "Ushuaia TV",
+    "position": "77",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "SEASONS",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"SEASONS\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/871\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24219462_ico.png",
+    "nameen": "SEASONS",
+    "position": "78",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "HISTOIRE",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"HISTOIRE\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/874\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24219473_ico.png",
+    "nameen": "HISTOIRE",
+    "position": "79",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Toute L'histoire",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Toute L\\u0027histoire\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/873\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24219470_ico.png",
+    "nameen": "Toute L'histoire",
+    "position": "80",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Sciences & Vie",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Sciences \\u0026 Vie\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/872\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2756846_ico.png",
+    "nameen": "Sciences & Vie",
+    "position": "81",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Planete+",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Planete+\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/879\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2756888_ico.png",
+    "nameen": "Planete+",
+    "position": "82",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Planete+ CI",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Planete+ CI\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/878\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2756939_ico.png",
+    "nameen": "Planete+ CI",
+    "position": "83",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Planete+ A&E",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Planete+ A\\u0026E\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/877\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2756971_ico.png",
+    "nameen": "Planete+ A&E",
+    "position": "84",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "ID FR",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"ID FR\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/861\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24219441_ico.png",
+    "nameen": "ID FR",
+    "position": "85",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Discovery Sci FR",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Discovery Sci FR\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/863\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24219447_ico.png",
+    "nameen": "Discovery Sci FR",
+    "position": "86",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Crime District FR",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Crime District FR\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/860\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2757021_ico.png",
+    "nameen": "Crime District FR",
+    "position": "87",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "RMC Story",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"RMC Story\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/732\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24219147_ico.png",
+    "nameen": "RMC Story",
+    "position": "88",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "RMC Découverte",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"RMC Découverte\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/881\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12176205_ico.png",
+    "nameen": "RMC Découverte",
+    "position": "89",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "TREK",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"TREK\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/882\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24219478_ico.png",
+    "nameen": "TREK",
+    "position": "90",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "TV5 Monde",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"TV5 Monde\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/750\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/662793_ico.png",
+    "nameen": "TV5 Monde",
+    "position": "91",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "TEVA",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"TEVA\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/813\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24219223_ico.png",
+    "nameen": "TEVA",
+    "position": "92",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "MCM Top",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"MCM Top\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/807\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12173705_ico.png",
+    "nameen": "MCM Top",
+    "position": "93",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "BFM",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"BFM\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/746\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12173100_ico.png",
+    "nameen": "BFM",
+    "position": "94",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Paris Premiere",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Paris Premiere\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/809\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12176395_ico.png",
+    "nameen": "Paris Premiere",
+    "position": "95",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Novela Ch.",
+    "servers": "[{\"headers\":\"ttuser-Agent|ttuser-Agent|ttuser-Agent|tt\",\"otherHeaders\":\"\",\"name\":\"Novela Ch.\",\"Referer\":\"\",\"userAgent\":\"ttuser-Agent|tt\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3715.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26611059_ico.png",
+    "nameen": "Novela Ch.",
+    "position": "96",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Novelas TV",
+    "servers": "[{\"headers\":\"hhuser-Agent|hhuser-Agent|hhuser-Agent|hh\",\"otherHeaders\":\"\",\"name\":\"Novelas TV\",\"Referer\":\"\",\"userAgent\":\"hhuser-Agent|hh\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3293.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26611064_ico.png",
+    "nameen": "Novelas TV",
+    "position": "97",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Nollywood TV",
+    "servers": "[{\"headers\":\"REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89\",\"otherHeaders\":\"\",\"name\":\"Nollywood TV\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3713.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/22558730_ico.png",
+    "nameen": "Nollywood TV",
+    "position": "98",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Nollywood Epic",
+    "servers": "[{\"headers\":\"REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89\",\"otherHeaders\":\"\",\"name\":\"Nollywood Epic\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3292.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/22558735_ico.png",
+    "nameen": "Nollywood Epic",
+    "position": "99",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "A+",
+    "servers": "[{\"headers\":\"REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89\",\"otherHeaders\":\"\",\"name\":\"A+\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3145.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26611071_ico.png",
+    "nameen": "A+",
+    "position": "100",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "L'EQUIPE",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"L\\u0027EQUIPE\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/769\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2946863_ico.png",
+    "nameen": "L'EQUIPE",
+    "position": "101",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Equidia",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Equidia\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/775\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/10177584_ico.png",
+    "nameen": "Equidia",
+    "position": "102",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "GOLF+",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"GOLF+\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/770\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2953823_ico.png",
+    "nameen": "GOLF+",
+    "position": "103",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "FOOT+",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"FOOT+\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/768\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2953829_ico.png",
+    "nameen": "FOOT+",
+    "position": "104",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Canal+ Action",
+    "servers": "[{\"headers\":\"ccuser-Agent|ccuser-Agent|ccuser-Agent|cc\",\"otherHeaders\":\"\",\"name\":\"Canal+ Action\",\"Referer\":\"\",\"userAgent\":\"ccuser-Agent|cc\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3187.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26759984_ico.png",
+    "nameen": "Canal+ Action",
+    "position": "105",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  },
+  {
+    "namear": "Canal+ Pop",
+    "servers": "[{\"headers\":\"hhuser-Agent|hhuser-Agent|hhuser-Agent|hh\",\"otherHeaders\":\"\",\"name\":\"Canal+ Pop\",\"Referer\":\"\",\"userAgent\":\"hhuser-Agent|hh\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3191.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26759994_ico.png",
+    "nameen": "Canal+ Pop",
+    "position": "106",
+    "type": "channel",
+    "key": "windroidadrarcanal+"
+  }
+]

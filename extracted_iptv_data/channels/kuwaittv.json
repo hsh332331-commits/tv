@@ -1,0 +1,317 @@
+[
+  {
+    "namear": "Al-Bawadi (360p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al-Bawadi (360p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://gulfsat.cdn.easybroadcast.fr/live/Al-Bawadi_abr/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al-Bawadi (360p)",
+    "position": "1",
+    "type": "channel",
+    "key": "kuwaittv"
+  },
+  {
+    "namear": "|KUW| Scope TV",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|KUW| Scope TV\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2395\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|KUW| Scope TV",
+    "position": "1",
+    "type": "channel",
+    "key": "kuwaittv"
+  },
+  {
+    "namear": "Al Maali TV (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Maali TV (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://kali.vdopanel.com:3986/live/mbashalive.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Maali TV (1080p)",
+    "position": "2",
+    "type": "channel",
+    "key": "kuwaittv"
+  },
+  {
+    "namear": "|KUW| Al Adalah TV",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|KUW| Al Adalah TV\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2394\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|KUW| Al Adalah TV",
+    "position": "2",
+    "type": "channel",
+    "key": "kuwaittv"
+  },
+  {
+    "namear": "Al Maaref (350p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Maaref (350p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://5e74a9d684b2e.streamlock.net/liveTrans/ngrp:channel23_all/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Maaref (350p)",
+    "position": "3",
+    "type": "channel",
+    "key": "kuwaittv"
+  },
+  {
+    "namear": "[KWT] KTV Sport Plus",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[KWT] KTV Sport Plus\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2393\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[KWT] KTV Sport Plus",
+    "position": "3",
+    "type": "channel",
+    "key": "kuwaittv"
+  },
+  {
+    "namear": "Al Sabah (360p) [Pas 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Sabah (360p) [Pas 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://gulfsat.cdn.easybroadcast.fr/live/Al-Sabah_abr/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Sabah (360p) [Pas 24/7]",
+    "position": "4",
+    "type": "channel",
+    "key": "kuwaittv"
+  },
+  {
+    "namear": "[KWT]ALMAJLIS",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[KWT]ALMAJLIS\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2392\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[KWT]ALMAJLIS",
+    "position": "4",
+    "type": "channel",
+    "key": "kuwaittv"
+  },
+  {
+    "namear": "Al-Shahed (720p) [Pas 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al-Shahed (720p) [Pas 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://gulfsat.cdn.easybroadcast.fr/abr_live/Al-Shahed/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al-Shahed (720p) [Pas 24/7]",
+    "position": "5",
+    "type": "channel",
+    "key": "kuwaittv"
+  },
+  {
+    "namear": "[KWT]Kuwait Qurain",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[KWT]Kuwait Qurain\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2391\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[KWT]Kuwait Qurain",
+    "position": "5",
+    "type": "channel",
+    "key": "kuwaittv"
+  },
+  {
+    "namear": "ATV (360p) [Pas 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ATV (360p) [Pas 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://gulfsat.cdn.easybroadcast.fr/live/Aladalah_abr/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ATV (360p) [Pas 24/7]",
+    "position": "6",
+    "type": "channel",
+    "key": "kuwaittv"
+  },
+  {
+    "namear": "[KWT] KTV 1",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[KWT] KTV 1\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2390\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[KWT] KTV 1",
+    "position": "6",
+    "type": "channel",
+    "key": "kuwaittv"
+  },
+  {
+    "namear": "Ch4Teen (480p) [Pas 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Ch4Teen (480p) [Pas 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://www.dailymotion.com/video/x7tchkl\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Ch4Teen (480p) [Pas 24/7]",
+    "position": "7",
+    "type": "channel",
+    "key": "kuwaittv"
+  },
+  {
+    "namear": "[KWT] KTV 2",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[KWT] KTV 2\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2389\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[KWT] KTV 2",
+    "position": "7",
+    "type": "channel",
+    "key": "kuwaittv"
+  },
+  {
+    "namear": "Ch4teen Clip (480p) [Pas 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Ch4teen Clip (480p) [Pas 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://www.dailymotion.com/video/x7v4ezg\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Ch4teen Clip (480p) [Pas 24/7]",
+    "position": "8",
+    "type": "channel",
+    "key": "kuwaittv"
+  },
+  {
+    "namear": "[KWT] KTV Arabi",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[KWT] KTV Arabi\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2388\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[KWT] KTV Arabi",
+    "position": "8",
+    "type": "channel",
+    "key": "kuwaittv"
+  },
+  {
+    "namear": "Documentaire Ch4teen (480p) [Pas 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Documentaire Ch4teen (480p) [Pas 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://www.dailymotion.com/video/x7yu0j5\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Documentaire Ch4teen (480p) [Pas 24/7]",
+    "position": "9",
+    "type": "channel",
+    "key": "kuwaittv"
+  },
+  {
+    "namear": "[KWT] KTV ethraa",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[KWT] KTV ethraa\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2387\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[KWT] KTV ethraa",
+    "position": "9",
+    "type": "channel",
+    "key": "kuwaittv"
+  },
+  {
+    "namear": "Funoon (360p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Funoon (360p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Funoon (360p)",
+    "position": "10",
+    "type": "channel",
+    "key": "kuwaittv"
+  },
+  {
+    "namear": "[KWT] KTV Plus",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[KWT] KTV Plus\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2386\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[KWT] KTV Plus",
+    "position": "10",
+    "type": "channel",
+    "key": "kuwaittv"
+  },
+  {
+    "namear": "KTV 1 (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"KTV 1 (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://www.media.gov.kw/TvTV.aspx?PanChannel\\u003dKTV1\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "KTV 1 (1080p)",
+    "position": "11",
+    "type": "channel",
+    "key": "kuwaittv"
+  },
+  {
+    "namear": "[KWT] KTV Sport",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[KWT] KTV Sport\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2385\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[KWT] KTV Sport",
+    "position": "11",
+    "type": "channel",
+    "key": "kuwaittv"
+  },
+  {
+    "namear": "KTV 2 (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"KTV 2 (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://www.media.gov.kw/TvTV.aspx?PanChannel\\u003dKTV2\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "KTV 2 (1080p)",
+    "position": "12",
+    "type": "channel",
+    "key": "kuwaittv"
+  },
+  {
+    "namear": "|KUW| Al-Shahed TV HD",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|KUW| Al-Shahed TV HD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2384\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|KUW| Al-Shahed TV HD",
+    "position": "12",
+    "type": "channel",
+    "key": "kuwaittv"
+  },
+  {
+    "namear": "KTV Al Majlis (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"KTV Al Majlis (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://www.media.gov.kw/TvTV.aspx?PanChannel\\u003dKTVSportExtra\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "KTV Al Majlis (1080p)",
+    "position": "13",
+    "type": "channel",
+    "key": "kuwaittv"
+  },
+  {
+    "namear": "|KUW| AL RAI TV",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|KUW| AL RAI TV\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2383\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|KUW| AL RAI TV",
+    "position": "13",
+    "type": "channel",
+    "key": "kuwaittv"
+  },
+  {
+    "namear": "KTV Al Qurain (1080p) [Pas 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"KTV Al Qurain (1080p) [Pas 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://www.media.gov.kw/TvTV.aspx?PanChannel\\u003dKTVPlus\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "KTV Al Qurain (1080p) [Pas 24/7]",
+    "position": "14",
+    "type": "channel",
+    "key": "kuwaittv"
+  },
+  {
+    "namear": "|KUW| FUNoon",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|KUW| FUNoon\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2382\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|KUW| FUNoon",
+    "position": "14",
+    "type": "channel",
+    "key": "kuwaittv"
+  },
+  {
+    "namear": "KTV Arabe (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"KTV Arabe (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://www.media.gov.kw/TvTV.aspx?PanChannel\\u003dKTVArabe\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "KTV Arabe (1080p)",
+    "position": "15",
+    "type": "channel",
+    "key": "kuwaittv"
+  },
+  {
+    "namear": "|KUW| ATV Kuwait",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|KUW| ATV Kuwait\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2381\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|KUW| ATV Kuwait",
+    "position": "15",
+    "type": "channel",
+    "key": "kuwaittv"
+  },
+  {
+    "namear": "KTV Ethraa (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"KTV Ethraa (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://www.media.gov.kw/TvTV.aspx?PanChannel\\u003dKTVEthraa\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "KTV Ethraa (1080p)",
+    "position": "16",
+    "type": "channel",
+    "key": "kuwaittv"
+  },
+  {
+    "namear": "KTV Khallik Bilbait (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"KTV Khallik Bilbait (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://www.media.gov.kw/TvTV.aspx?PanChannel\\u003dKhallikBilbait\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "KTV Khallik Bilbait (1080p)",
+    "position": "17",
+    "type": "channel",
+    "key": "kuwaittv"
+  },
+  {
+    "namear": "KTV Sport (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"KTV Sport (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://www.media.gov.kw/TvTV.aspx?PanChannel\\u003dKTVSports\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "KTV Sport (1080p)",
+    "position": "18",
+    "type": "channel",
+    "key": "kuwaittv"
+  },
+  {
+    "namear": "KTV Sport Plus (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"KTV Sport Plus (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://www.media.gov.kw/TvTV.aspx?PanChannel\\u003dKTVSportPlus\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "KTV Sport Plus (1080p)",
+    "position": "19",
+    "type": "channel",
+    "key": "kuwaittv"
+  },
+  {
+    "namear": "Marina TV (1080p) [Pas 24/7]",
+    "servers": "[{\"headers\":\"user-agent;web;y;\",\"otherHeaders\":\"\",\"name\":\"Marina TV (1080p) [Pas 24/7]\",\"Referer\":\"\",\"userAgent\":\"web;y\",\"position\":\"0\",\"url\":\"https://www.youtube.com/c/marinai/live\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Marina TV (1080p) [Pas 24/7]",
+    "position": "20",
+    "type": "channel",
+    "key": "kuwaittv"
+  }
+]

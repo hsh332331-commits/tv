@@ -1,0 +1,56 @@
+[
+  {
+    "namear": "beIN Sports 5 mejar",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://mejar-Server.site/|user-agent|Mejarx|origin|https://mejar-Server.site/\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://mejar-Server.site/\",\"isWeb\":\"false\",\"name\":\"MejarServer 900p\",\"Referer\":\"https://mejar-Server.site/\",\"userAgent\":\"Mejarx\",\"position\":\"6\",\"url\":\"https://cdnfest.com/G5-720p/playlist.m3u8\"},{\"license\":\"\",\"headers\":\"Referer|https://mejar-Server.site/|user-agent|Mejarx|origin|https://mejar-Server.site/\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://mejar-Server.site/\",\"isWeb\":\"false\",\"name\":\"MejarServer 576p\",\"Referer\":\"https://mejar-Server.site/\",\"userAgent\":\"Mejarx\",\"position\":\"7\",\"url\":\"https://cdnfest.com/G5-480p/playlist.m3u8\"},{\"license\":\"\",\"headers\":\"Referer|https://mejar-Server.site/|user-agent|Mejarx|origin|https://mejar-Server.site/\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://mejar-Server.site/\",\"isWeb\":\"false\",\"name\":\"MejarServer 1080p\",\"Referer\":\"https://mejar-Server.site/\",\"userAgent\":\"Mejarx\",\"position\":\"5\",\"url\":\"https://cdnfest.com/G5-1080p/playlist.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",
+    "nameen": "beIN Sports 5 mejar",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvmejarserver_bein"
+  },
+  {
+    "namear": "beIN Sports 2 mejar",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://cast-x.site/|user-agent|This Channel For Mejar Server|origin|https://cast-x.site/\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://cast-x.site/\",\"isWeb\":\"false\",\"name\":\"MejarServer 720p\",\"Referer\":\"https://cast-x.site/\",\"userAgent\":\"This Channel For Mejar Server\",\"position\":\"10\",\"url\":\"https://cdnfest.com/G2-720p-cast/playlist.m3u8\"},{\"license\":\"\",\"headers\":\"Referer|https://mejar-Server.site/|user-agent|Mejarx|origin|https://mejar-Server.site/tod-drm|true\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://mejar-Server.site/tod-drm|true\",\"isWeb\":\"false\",\"name\":\"MejarServer 1080p\",\"Referer\":\"https://mejar-Server.site/\",\"userAgent\":\"Mejarx\",\"position\":\"9\",\"url\":\"https://cdnfest.com/G2-1080p-cast/playlist.m3u8\"},{\"license\":\"\",\"headers\":\"Referer|https://cast-x.site/|user-agent|This Channel For Mejar Server|origin|https://cast-x.site/|tod-drm|true\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://cast-x.site/|tod-drm|true\",\"isWeb\":\"false\",\"name\":\"MejarServer 576p\",\"Referer\":\"https://cast-x.site/\",\"userAgent\":\"This Channel For Mejar Server\",\"position\":\"11\",\"url\":\"https://cdnfest.com/G2-480p-cast/playlist.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",
+    "nameen": "beIN Sports 2 mejar",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvmejarserver_bein"
+  },
+  {
+    "namear": "beIN Sports 4 mejar",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://mejar-Server.site/|user-agent|Mejarx|origin|https://mejar-Server.site/\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://mejar-Server.site/\",\"isWeb\":\"false\",\"name\":\"MejarServer 576p\",\"Referer\":\"https://mejar-Server.site/\",\"userAgent\":\"Mejarx\",\"position\":\"7\",\"url\":\"https://cdnfest.com/G4-480p/playlist.m3u8\"},{\"license\":\"\",\"headers\":\"Referer|https://mejar-Server.site/|user-agent|Mejarx|origin|https://mejar-Server.site/\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://mejar-Server.site/\",\"isWeb\":\"false\",\"name\":\"MejarServer 1080p\",\"Referer\":\"https://mejar-Server.site/\",\"userAgent\":\"Mejarx\",\"position\":\"5\",\"url\":\"https://cdnfest.com/G4-1080p/playlist.m3u8\"},{\"license\":\"\",\"headers\":\"Referer|https://mejar-Server.site/|user-agent|Mejarx|origin|https://mejar-Server.site/\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://mejar-Server.site/\",\"isWeb\":\"false\",\"name\":\"MejarServer 900p\",\"Referer\":\"https://mejar-Server.site/\",\"userAgent\":\"Mejarx\",\"position\":\"6\",\"url\":\"https://cdnfest.com/G4-720p/playlist.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",
+    "nameen": "beIN Sports 4 mejar",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvmejarserver_bein"
+  },
+  {
+    "namear": "beIN Sports 6 mejar",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://mejar-Server.site/|user-agent|Mejarx|origin|https://mejar-Server.site/\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://mejar-Server.site/\",\"isWeb\":\"false\",\"name\":\"MejarServer 900p\",\"Referer\":\"https://mejar-Server.site/\",\"userAgent\":\"Mejarx\",\"position\":\"6\",\"url\":\"https://cdnfest.com/G6-720p/playlist.m3u8\"},{\"license\":\"\",\"headers\":\"Referer|https://mejar-Server.site/|user-agent|Mejarx|origin|https://mejar-Server.site/\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://mejar-Server.site/\",\"isWeb\":\"false\",\"name\":\"MejarServer 576p\",\"Referer\":\"https://mejar-Server.site/\",\"userAgent\":\"Mejarx\",\"position\":\"7\",\"url\":\"https://cdnfest.com/G6-480p/playlist.m3u8\"},{\"license\":\"\",\"headers\":\"Referer|https://mejar-Server.site/|user-agent|Mejarx|origin|https://mejar-Server.site/\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://mejar-Server.site/\",\"isWeb\":\"false\",\"name\":\"MejarServer 1080p\",\"Referer\":\"https://mejar-Server.site/\",\"userAgent\":\"Mejarx\",\"position\":\"5\",\"url\":\"https://cdnfest.com/G6-720p/playlist.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png",
+    "nameen": "beIN Sports 6 mejar",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_cx_tvmejarserver_bein"
+  },
+  {
+    "namear": "beIN Sports 1 mejar",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://mejar-Server.site/|user-agent|Mejarx|origin|https://mejar-Server.site/\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://mejar-Server.site/\",\"isWeb\":\"false\",\"name\":\"MejarServer 900p\",\"Referer\":\"https://mejar-Server.site/\",\"userAgent\":\"Mejarx\",\"position\":\"6\",\"url\":\"https://cdnfest.com/G1-720p/playlist.m3u8\"},{\"license\":\"\",\"headers\":\"Referer|https://mejar-Server.site/|user-agent|mejarx|origin|https://mejar-Server.site/\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://mejar-Server.site/\",\"isWeb\":\"false\",\"name\":\"Cast X \\u0026 Mejar Server 4Kp\",\"Referer\":\"https://mejar-Server.site/\",\"userAgent\":\"mejarx\",\"position\":\"4\",\"url\":\"https://cdnfest.com/castx-tv-1-hd/rewind-15.m3u8\"},{\"license\":\"\",\"headers\":\"Referer|https://mejar-Server.site/|user-agent|Mejarx|origin|https://mejar-Server.site/\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://mejar-Server.site/\",\"isWeb\":\"false\",\"name\":\"MejarServer 576p\",\"Referer\":\"https://mejar-Server.site/\",\"userAgent\":\"Mejarx\",\"position\":\"7\",\"url\":\"https://cdnfest.com/G1-480p/playlist.m3u8\"},{\"license\":\"\",\"headers\":\"Referer|https://mejar-Server.site/|user-agent|Mejarx |origin|https://mejar-Server.site/\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://mejar-Server.site/\",\"isWeb\":\"false\",\"name\":\"MejarServer 1080p\",\"Referer\":\"https://mejar-Server.site/\",\"userAgent\":\"Mejarx \",\"position\":\"5\",\"url\":\"https://cdnfest.com/G1-1080p/playlist.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
+    "nameen": "beIN Sports 1 mejar",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvmejarserver_bein"
+  },
+  {
+    "namear": "beIN Sports 3 mejar",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://mejar-Server.site/|user-agent|Mejarx|origin|https://mejar-Server.site/\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://mejar-Server.site/\",\"isWeb\":\"false\",\"name\":\"MejarServer 900p\",\"Referer\":\"https://mejar-Server.site/\",\"userAgent\":\"Mejarx\",\"position\":\"6\",\"url\":\"https://cdnfest.com/G3-720p/playlist.m3u8\"},{\"license\":\"\",\"headers\":\"Referer|https://mejar-Server.site/|user-agent|Mejarx|origin|https://mejar-Server.site/\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://mejar-Server.site/\",\"isWeb\":\"false\",\"name\":\"MejarServer 576p\",\"Referer\":\"https://mejar-Server.site/\",\"userAgent\":\"Mejarx\",\"position\":\"7\",\"url\":\"https://cdnfest.com/G3-480p/playlist.m3u8\"},{\"license\":\"\",\"headers\":\"Referer|https://mejar-Server.site/|user-agent|Mejarx|origin|https://mejar-Server.site/\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://mejar-Server.site/\",\"isWeb\":\"false\",\"name\":\"MejarServer 1080p\",\"Referer\":\"https://mejar-Server.site/\",\"userAgent\":\"Mejarx\",\"position\":\"5\",\"url\":\"https://cdnfest.com/G3-1080p/playlist.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
+    "nameen": "beIN Sports 3 mejar",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvmejarserver_bein"
+  }
+]

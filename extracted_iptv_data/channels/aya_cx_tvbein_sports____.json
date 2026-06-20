@@ -1,0 +1,56 @@
+[
+  {
+    "namear": "Mejar 4 ᴸᵒʷ",
+    "servers": "[{\"license\":\"\",\"headers\":\"user-agent|akami|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Mejar Server 4 ᴸᵒʷ\",\"Referer\":\"\",\"userAgent\":\"akami\",\"position\":\"\",\"label\":\"Server (HLS)\",\"url\":\"https://cast-x.com/token.php?id\\u003dnm4sd\\u0026type\\u003dhls\\u0026h\\u003dhttps%3A%2F%2Fcdn-js-mejarserver.aka-akamaized.net\\u0026ts\\u003d1768743482\\u0026sig\\u003def9d480459fc857f2db17e8d9dbe0edd8e9a343029145139c98032e793ed443e\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",
+    "nameen": "Mejar 4 ᴸᵒʷ",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_ᴸᵒʷ"
+  },
+  {
+    "namear": "Mejar 1 ᴸᵒʷ",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"backup | Mejar Server ᴸᵒʷ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://mejarhosting.cfd/nm1sd/index.m3u8\"},{\"license\":\"\",\"headers\":\"user-agent|akami|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Mejar Server ᴸᵒʷ\",\"Referer\":\"\",\"userAgent\":\"akami\",\"position\":\"\",\"label\":\"Server (HLS)\",\"url\":\"https://cast-x.com/token.php?id\\u003dnm1sd\\u0026type\\u003dhls\\u0026h\\u003dhttps%3A%2F%2Fcdn-js-mejarserver.aka-akamaized.net\\u0026ts\\u003d1768743482\\u0026sig\\u003dcf4cc236b62a2ace6952b2f6fcc8f455d87c85c9b47e4d25ac73bf7a56abfdbe\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
+    "nameen": "Mejar 1 ᴸᵒʷ",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_ᴸᵒʷ"
+  },
+  {
+    "namear": "Mejar 3 ᴸᵒʷ",
+    "servers": "[{\"license\":\"\",\"headers\":\"user-agent|akami|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Mejar Server 3 ᴸᵒʷ\",\"Referer\":\"\",\"userAgent\":\"akami\",\"position\":\"\",\"label\":\"Server (HLS)\",\"url\":\"https://cast-x.com/token.php?id\\u003dnm3sd\\u0026type\\u003dhls\\u0026h\\u003dhttps%3A%2F%2Fcdn-js-mejarserver.aka-akamaized.net\\u0026ts\\u003d1768743482\\u0026sig\\u003dcb3d8fe1f42f4eb76c6a094066a4c518664cfd9b14ac76b1fd857338aaffad23\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
+    "nameen": "Mejar 3 ᴸᵒʷ",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_ᴸᵒʷ"
+  },
+  {
+    "namear": "Mejar 5 ᴸᵒʷ",
+    "servers": "[{\"license\":\"\",\"headers\":\"user-agent|akami|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Mejar Server 5 ᴸᵒʷ\",\"Referer\":\"\",\"userAgent\":\"akami\",\"position\":\"\",\"label\":\"Server (HLS)\",\"url\":\"https://cast-x.com/token.php?id\\u003dnm5sd\\u0026type\\u003dhls\\u0026h\\u003dhttps%3A%2F%2Fcdn-js-mejarserver.aka-akamaized.net\\u0026ts\\u003d1768743482\\u0026sig\\u003d0dc9cb0f87c6ebee812f7a2f781b9bd03abba62c075befc34aeabc7fe4f3ef25\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",
+    "nameen": "Mejar 5 ᴸᵒʷ",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_ᴸᵒʷ"
+  },
+  {
+    "namear": "Mejar 2 ᴸᵒʷ",
+    "servers": "[{\"license\":\"\",\"headers\":\"user-agent|akami|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Mejar Server ᴸᵒʷ\",\"Referer\":\"\",\"userAgent\":\"akami\",\"position\":\"\",\"label\":\"Server (HLS)\",\"url\":\"https://cast-x.com/token.php?id\\u003dnm2sd\\u0026type\\u003dhls\\u0026h\\u003dhttps%3A%2F%2Fcdn-js-mejarserver.aka-akamaized.net\\u0026ts\\u003d1768743482\\u0026sig\\u003de98777dab0309ebf3686a66a114296159eaedb4fade0839741ebf69a2a534f8f\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png",
+    "nameen": "Mejar 2 ᴸᵒʷ",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_ᴸᵒʷ"
+  },
+  {
+    "namear": "Mejar 6 ᴸᵒʷ",
+    "servers": "[{\"license\":\"\",\"headers\":\"user-agent|akami|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Mejar Server ᴸᵒʷ\",\"Referer\":\"\",\"userAgent\":\"akami\",\"position\":\"\",\"label\":\"Server (HLS)\",\"url\":\"https://cast-x.com/token.php?id\\u003dnm6sd\\u0026type\\u003dhls\\u0026h\\u003dhttps%3A%2F%2Fcdn-js-mejarserver.aka-akamaized.net\\u0026ts\\u003d1768743482\\u0026sig\\u003d23029c33ab6500fdc1b07917e51e0083f6fd4c037b6a6161836ea7231ddf74b7\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png",
+    "nameen": "Mejar 6 ᴸᵒʷ",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_ᴸᵒʷ"
+  }
+]

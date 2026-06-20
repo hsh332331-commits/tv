@@ -1,0 +1,155 @@
+[
+  {
+    "namear": "هولا قرآن",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://streaming.zaytonatube.com:8080/holyquran/holyquran/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://streaming.zaytonatube.com:8080/holyquran/holyquran/index.m3u8\"}]",
+    "logo": "https://bit.ly/3RqaiIC",
+    "nameen": "هولا قرآن",
+    "position": "11",
+    "type": "channel",
+    "key": "aya_cx_tvفلسطين"
+  },
+  {
+    "namear": "قناة حكاية",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://flu.systemnet.tv/hekaya/tracks-v1a1/mono.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://flu.systemnet.tv/hekaya/tracks-v1a1/mono.m3u8\"}]",
+    "logo": "https://i.ibb.co/dLyP0JK/WWW.png",
+    "nameen": "قناة حكاية",
+    "position": "14",
+    "type": "channel",
+    "key": "aya_cx_tvفلسطين"
+  },
+  {
+    "namear": "الاقصى",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Live 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://95.216.180.111:1935/live/68/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Live 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://95.216.180.111:1935/live/68/index.m3u8\"}]",
+    "logo": "https://file.rafalnht.com/04c79aa221a48dec777840a71e025418.photo.jpg",
+    "nameen": "الاقصى",
+    "position": "15",
+    "type": "channel",
+    "key": "aya_cx_tvفلسطين"
+  },
+  {
+    "namear": "PNN PAL",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://217.21.0.15:8081/pnn/pnn/playlist.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://217.21.0.15:8081/pnn/pnn/playlist.m3u8\"}]",
+    "logo": "https://file.rafalnht.com/9e61dd35b6f4bc4b388bfb5838cb1842.photo.jpg",
+    "nameen": "PNN PAL",
+    "position": "16",
+    "type": "channel",
+    "key": "aya_cx_tvفلسطين"
+  },
+  {
+    "namear": "قناة أجيال",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8\"}]",
+    "logo": "https://bit.ly/3Wf8S8K",
+    "nameen": "قناة أجيال",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvفلسطين"
+  },
+  {
+    "namear": "قناة نابلس",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://htvmada.mada.ps:8888/nabluslive/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://htvmada.mada.ps:8888/nabluslive/index.m3u8\"}]",
+    "logo": "https://bit.ly/3qI6iVN",
+    "nameen": "قناة نابلس",
+    "position": "8",
+    "type": "channel",
+    "key": "aya_cx_tvفلسطين"
+  },
+  {
+    "namear": "قناة قدسنا",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://qudsunatv-live.cdnnew.com/qudsunatv/qudsunatv_higher.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://qudsunatv-live.cdnnew.com/qudsunatv/qudsunatv_higher.m3u8\"}]",
+    "logo": "https://i16.servimg.com/u/f16/18/15/28/91/aca23.png",
+    "nameen": "قناة قدسنا",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_cx_tvفلسطين"
+  },
+  {
+    "namear": "Musawa TV HD",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"musawa tv\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://pbc.furrera.ps/musawahd/index.m3u8\"}]",
+    "logo": "https://i0.wp.com/www.pbc.ps/wp-content/uploads/2021/09/%D9%82%D9%86%D8%A7%D8%A9-%D9%85%D8%B3%D8%A7%D9%88%D8%A7%D8%A9.webp?w=500&ssl=1",
+    "nameen": "Musawa TV HD",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvفلسطين"
+  },
+  {
+    "namear": "قناة راجعين",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3e6Mtn6",
+    "nameen": "قناة راجعين",
+    "position": "8",
+    "type": "channel",
+    "key": "aya_cx_tvفلسطين"
+  },
+  {
+    "namear": "قناة النجاح",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://streaming.najah.edu:8443/hls/AlNajah.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://streaming.najah.edu:8443/hls/AlNajah.m3u8\"}]",
+    "logo": "https://bit.ly/3p9P1EL",
+    "nameen": "قناة النجاح",
+    "position": "9",
+    "type": "channel",
+    "key": "aya_cx_tvفلسطين"
+  },
+  {
+    "namear": "قناة وتر",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://htvint.mada.ps:8889//orient/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://htvint.mada.ps:8889//orient/index.m3u8\"}]",
+    "logo": "https://www.elahmad.com/tv/images/flagtv/ps.png?v=6",
+    "nameen": "قناة وتر",
+    "position": "12",
+    "type": "channel",
+    "key": "aya_cx_tvفلسطين"
+  },
+  {
+    "namear": "Palestine TV HD",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"pal tv\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://pbc.furrera.ps/palestinehd/index.m3u8\"}]",
+    "logo": "https://i0.wp.com/www.pbc.ps/wp-content/uploads/2021/09/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86.webp?w=500&ssl=1",
+    "nameen": "Palestine TV HD",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvفلسطين"
+  },
+  {
+    "namear": "قناة قرآن نابلس",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8\"}]",
+    "logo": "https://bit.ly/3sPqo3V",
+    "nameen": "قناة قرآن نابلس",
+    "position": "10",
+    "type": "channel",
+    "key": "aya_cx_tvفلسطين"
+  },
+  {
+    "namear": "Palestine Live HD",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"pal live\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://pbc.furrera.ps/palestinelivehd/index.m3u8\"}]",
+    "logo": "https://i0.wp.com/www.pbc.ps/wp-content/uploads/2021/09/%D9%82%D9%86%D8%A7%D8%A9-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.webp?w=500&ssl=1",
+    "nameen": "Palestine Live HD",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvفلسطين"
+  },
+  {
+    "namear": "قناة وطن",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://htvmada.mada.ps:8888/wattan/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://htvmada.mada.ps:8888/wattan/index.m3u8\"}]",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_l-oH0FXa7d4bYbOZ54kOTb-YJKZSBAjhcWIV41sbiCbw=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "قناة وطن",
+    "position": "8",
+    "type": "channel",
+    "key": "aya_cx_tvفلسطين"
+  },
+  {
+    "namear": "اذاعة صوت فلسطين",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"اذاعة صوت فلسطين\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://pbc.furrera.ps/PalLive/VOPTV/index.m3u8\"}]",
+    "logo": "https://i0.wp.com/www.pbc.ps/wp-content/uploads/2021/09/%D8%B5%D9%88%D8%AA-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86.webp?w=300&ssl=1",
+    "nameen": "اذاعة صوت فلسطين",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvفلسطين"
+  },
+  {
+    "namear": "قناة معًا",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://htvmada.mada.ps:4443/maannews/tracks-v1a1/mono.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://htvmada.mada.ps:4443/maannews/tracks-v1a1/mono.m3u8\"}]",
+    "logo": "https://www.maannews.net/assets/images/logo.png",
+    "nameen": "قناة معًا",
+    "position": "13",
+    "type": "channel",
+    "key": "aya_cx_tvفلسطين"
+  }
+]

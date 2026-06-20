@@ -1,0 +1,74 @@
+[
+  {
+    "namear": "Astro Sport 1",
+    "servers": "[{\"headers\":\"@MEME4646@user-Agent|@MEME4646@user-Agent|@MEME4646@user-Agent|@MEME4646@\",\"otherHeaders\":\"\",\"name\":\"Astro Sport 1\",\"Referer\":\"\",\"userAgent\":\"@MEME4646@user-Agent|@MEME4646@\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/16479.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4826110_ico.png",
+    "nameen": "Astro Sport 1",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarastro_sports"
+  },
+  {
+    "namear": "Astro Sport 2",
+    "servers": "[{\"headers\":\"@MEME4646@user-Agent|@MEME4646@user-Agent|@MEME4646@user-Agent|@MEME4646@\",\"otherHeaders\":\"\",\"name\":\"Astro Sport 2\",\"Referer\":\"\",\"userAgent\":\"@MEME4646@user-Agent|@MEME4646@\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/16480.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4826122_ico.png",
+    "nameen": "Astro Sport 2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarastro_sports"
+  },
+  {
+    "namear": "Astro Sport 3",
+    "servers": "[{\"headers\":\"didhuser-Agent|didhuser-Agent|didhuser-Agent|didh\",\"otherHeaders\":\"\",\"name\":\"Astro Sport 3\",\"Referer\":\"\",\"userAgent\":\"didhuser-Agent|didh\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/16481.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4826129_ico.png",
+    "nameen": "Astro Sport 3",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarastro_sports"
+  },
+  {
+    "namear": "Astro Sport 4",
+    "servers": "[{\"headers\":\"djdguser-Agent|djdguser-Agent|djdguser-Agent|djdg\",\"otherHeaders\":\"\",\"name\":\"Astro Sport 4\",\"Referer\":\"\",\"userAgent\":\"djdguser-Agent|djdg\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/16482.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4826142_ico.png",
+    "nameen": "Astro Sport 4",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarastro_sports"
+  },
+  {
+    "namear": "Astro Arena",
+    "servers": "[{\"headers\":\"@MEME4646@user-Agent|@MEME4646@user-Agent|@MEME4646@user-Agent|@MEME4646@\",\"otherHeaders\":\"\",\"name\":\"Astro Arena\",\"Referer\":\"\",\"userAgent\":\"@MEME4646@user-Agent|@MEME4646@\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/16464.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4826257_ico.png",
+    "nameen": "Astro Arena",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarastro_sports"
+  },
+  {
+    "namear": "Astro Cricket",
+    "servers": "[{\"headers\":\"CHANNEL4_34user-Agent|CHANNEL4_34user-Agent|CHANNEL4_34user-Agent|CHANNEL4_34\",\"otherHeaders\":\"\",\"name\":\"Astro Cricket\",\"Referer\":\"\",\"userAgent\":\"CHANNEL4_34user-Agent|CHANNEL4_34\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/8738.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4826587_ico.png",
+    "nameen": "Astro Cricket",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarastro_sports"
+  },
+  {
+    "namear": "Astro Sport 5",
+    "servers": "[{\"headers\":\"@MEME4646@user-Agent|@MEME4646@user-Agent|@MEME4646@user-Agent|@MEME4646@\",\"otherHeaders\":\"\",\"name\":\"Astro Sport 5\",\"Referer\":\"\",\"userAgent\":\"@MEME4646@user-Agent|@MEME4646@\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/16483.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/27621220_ico.png",
+    "nameen": "Astro Sport 5",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarastro_sports"
+  },
+  {
+    "namear": "Astro Arena 2",
+    "servers": "[{\"headers\":\"@MEME4646@user-Agent|@MEME4646@user-Agent|@MEME4646@user-Agent|@MEME4646@\",\"otherHeaders\":\"\",\"name\":\"Astro Arena 2\",\"Referer\":\"\",\"userAgent\":\"@MEME4646@user-Agent|@MEME4646@\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/16463.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/27621228_ico.png",
+    "nameen": "Astro Arena 2",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarastro_sports"
+  }
+]

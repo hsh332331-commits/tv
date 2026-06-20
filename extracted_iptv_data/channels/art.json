@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "AR | ART-AFLAM_1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR | ART-AFLAM_1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://12.balans12.xyz:50750/QzSY4bJnNzKRX282869845krx/cjsdcvd51252krx/95841\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/ART_Aflam_1.png/183px-ART_Aflam_1.png",
+    "nameen": "AR | ART-AFLAM_1",
+    "position": "1",
+    "type": "channel",
+    "key": "art"
+  },
+  {
+    "namear": "AR | ART-AFLAM_2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR | ART-AFLAM_2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://12.balans12.xyz:50750/QzSY4bJnNzKRX282869845krx/cjsdcvd51252krx/95842\"}]",
+    "logo": "https://media.elcinema.com/tvguide/1121_1.png",
+    "nameen": "AR | ART-AFLAM_2",
+    "position": "2",
+    "type": "channel",
+    "key": "art"
+  },
+  {
+    "namear": "AR | ART-CINEMA",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR | ART-CINEMA\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://12.balans12.xyz:50750/QzSY4bJnNzKRX282869845krx/cjsdcvd51252krx/95843\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Cm8-TgSeb_tVvKjremuipo0XJ3eENvGqMw&usqp=CAU",
+    "nameen": "AR | ART-CINEMA",
+    "position": "3",
+    "type": "channel",
+    "key": "art"
+  },
+  {
+    "namear": "AR | ART-HEKBein T_1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR | ART-HEKBein T_1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://12.balans12.xyz:50750/QzSY4bJnNzKRX282869845krx/cjsdcvd51252krx/95844\"}]",
+    "logo": "https://www.wataan.tv/uploads/2422018-065658PM.png",
+    "nameen": "AR | ART-HEKBein T_1",
+    "position": "4",
+    "type": "channel",
+    "key": "art"
+  },
+  {
+    "namear": "AR | ART-HEKBein T_2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR | ART-HEKBein T_2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://12.balans12.xyz:50750/QzSY4bJnNzKRX282869845krx/cjsdcvd51252krx/95845\"}]",
+    "logo": "https://www.wataan.tv/uploads/2422018-065658PM.png",
+    "nameen": "AR | ART-HEKBein T_2",
+    "position": "5",
+    "type": "channel",
+    "key": "art"
+  }
+]

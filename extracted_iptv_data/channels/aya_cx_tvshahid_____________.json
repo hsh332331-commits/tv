@@ -1,0 +1,29 @@
+[
+  {
+    "namear": "Aflam",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"Aflam\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8?aws.manifestfilter\\u003dvideo_height:144-1080;video_codec:H264\\u0026video_height\\u003d144-1080\\u0026video_codec\\u003dH264\"}]",
+    "logo": "https://shahid.mbc.net/mediaObject/06e1a853-795b-4b01-b1fd-baed5df7969c?height=auto&width=288&croppingPoint=&version=1&type=webp",
+    "nameen": "Aflam",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvshahid_أفـــــــلام"
+  },
+  {
+    "namear": "Movies Action",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"Movies Action\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8?aws.manifestfilter\\u003dvideo_height:144-1080;video_codec:H264\\u0026video_height\\u003d144-1080\\u0026video_codec\\u003dH264\"}]",
+    "logo": "https://shahid.mbc.net/mediaObject/d7354fd2-4d5e-4e0e-93e1-8e759b29b892?height=auto&width=288&croppingPoint=&version=1&type=webp",
+    "nameen": "Movies Action",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvshahid_أفـــــــلام"
+  },
+  {
+    "namear": "Movies Thriller",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"Movies Thriller\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8?aws.manifestfilter\\u003dvideo_height:144-1080;video_codec:H264\\u0026video_height\\u003d144-1080\\u0026video_codec\\u003dH264\"}]",
+    "logo": "https://shahid.mbc.net/mediaObject/40a83fb3-2eb3-4d13-83dd-f39a3060d20e?height=auto&width=288&croppingPoint=&version=1&type=webp",
+    "nameen": "Movies Thriller",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvshahid_أفـــــــلام"
+  }
+]

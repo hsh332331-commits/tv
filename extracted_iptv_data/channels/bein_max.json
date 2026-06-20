@@ -1,0 +1,56 @@
+[
+  {
+    "namear": "Max 1",
+    "servers": "[{\"headers\":\"Referer;https://safa.ps/;\",\"otherHeaders\":\"\",\"name\":\"Safa\",\"Referer\":\"https://safa.ps/\",\"userAgent\":\"\",\"position\":\"9\",\"url\":\"https://live.safa.news/live/sport/chunklist_w1300906979.m3u8\"},{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Max 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"99\",\"url\":\"http://141.98.247.253:80/app/ch1.m3u8\"}]",
+    "logo": "https://www.telesatellite.com/images/actu/b/beinsports-max.jpg",
+    "nameen": "Max 1",
+    "position": "0",
+    "type": "channel",
+    "key": "bein_max"
+  },
+  {
+    "namear": "Max 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Max 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"4\",\"url\":\"http://141.98.247.253:80/app/ch2.m3u8\"}]",
+    "logo": "https://www.telesatellite.com/images/actu/b/beinsports-max.jpg",
+    "nameen": "Max 2",
+    "position": "1",
+    "type": "channel",
+    "key": "bein_max"
+  },
+  {
+    "namear": "Max 3",
+    "servers": "[{\"headers\":\"user-agent;REDmi;\",\"otherHeaders\":\"\",\"name\":\"HD\",\"Referer\":\"\",\"userAgent\":\"REDmi\",\"position\":\"1\",\"url\":\"http://45.77.126.248/bein_sports_max_3_720p/video.m3u8?token\\u003dupbAHZrQv54Po2\"},{\"headers\":\"user-agent;REDmi;\",\"otherHeaders\":\"\",\"name\":\"SD\",\"Referer\":\"\",\"userAgent\":\"REDmi\",\"position\":\"1\",\"url\":\"http://45.77.126.248/bein_sports_max_3_360p/video.m3u8?token\\u003dupbAHZrQv54Po2\"}]",
+    "logo": "https://www.telesatellite.com/images/actu/b/beinsports-max.jpg",
+    "nameen": "Max 3",
+    "position": "2",
+    "type": "channel",
+    "key": "bein_max"
+  },
+  {
+    "namear": "Max 4",
+    "servers": "[{\"headers\":\"user-agent;REDmi;\",\"otherHeaders\":\"\",\"name\":\"Max\",\"Referer\":\"\",\"userAgent\":\"REDmi\",\"position\":\"1\",\"url\":\"http://45.77.126.248/bein_sports_max_4_720p/video.m3u8?token\\u003dupbAHZrQv54Po2\"},{\"headers\":\"user-agent;REDmi;\",\"otherHeaders\":\"\",\"name\":\"SD\",\"Referer\":\"\",\"userAgent\":\"REDmi\",\"position\":\"1\",\"url\":\"http://45.77.126.248/bein_sports_max_4_360p/video.m3u8?token\\u003dupbAHZrQv54Po2\"}]",
+    "logo": "https://www.telesatellite.com/images/actu/b/beinsports-max.jpg",
+    "nameen": "Max 4",
+    "position": "3",
+    "type": "channel",
+    "key": "bein_max"
+  },
+  {
+    "namear": "Max 5",
+    "servers": "[{\"headers\":\"user-agent;REDmi;\",\"otherHeaders\":\"\",\"name\":\"FR\",\"Referer\":\"\",\"userAgent\":\"REDmi\",\"position\":\"1\",\"url\":\"http://45.77.126.248/bein_sports_max_5_720p/video.m3u8?token\\u003dupbAHZrQv54Po2\"},{\"headers\":\"user-agent;REDmi;\",\"otherHeaders\":\"\",\"name\":\"SD\",\"Referer\":\"\",\"userAgent\":\"REDmi\",\"position\":\"1\",\"url\":\"http://45.77.126.248/bein_sports_max_5_360p/video.m3u8?token\\u003dupbAHZrQv54Po2\"}]",
+    "logo": "https://www.telesatellite.com/images/actu/b/beinsports-max.jpg",
+    "nameen": "Max 5",
+    "position": "4",
+    "type": "channel",
+    "key": "bein_max"
+  },
+  {
+    "namear": "Max 6",
+    "servers": "[{\"headers\":\"Referer;https://widevine.licenses4.me/;\",\"otherHeaders\":\"\",\"name\":\"HD\",\"Referer\":\"https://widevine.licenses4.me/\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://webdi.openhd.lol/ddyx2/premium301/mono.m3u8 \"}]",
+    "logo": "https://www.telesatellite.com/images/actu/b/beinsports-max.jpg",
+    "nameen": "Max 6",
+    "position": "5",
+    "type": "channel",
+    "key": "bein_max"
+  }
+]

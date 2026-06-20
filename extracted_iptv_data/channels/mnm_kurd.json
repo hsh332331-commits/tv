@@ -1,0 +1,83 @@
+[
+  {
+    "namear": "MMN action ᴴᴰ",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MMN action ᴴᴰ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://mmn.mypsx.net:1935/live/mmnhdaction/playlist.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvba3C_7KjVqHzKWDm_jg8lup6cT5AhjXo-eCpE2tUQ&s=10",
+    "nameen": "MMN action ᴴᴰ",
+    "position": "1",
+    "type": "channel",
+    "key": "mnm_kurd"
+  },
+  {
+    "namear": "MMN quran ᴴᴰ",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MMN quran ᴴᴰ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://mmn.mypsx.net:1935/live/mmnhdquran/playlist.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvba3C_7KjVqHzKWDm_jg8lup6cT5AhjXo-eCpE2tUQ&s=10",
+    "nameen": "MMN quran ᴴᴰ",
+    "position": "1",
+    "type": "channel",
+    "key": "mnm_kurd"
+  },
+  {
+    "namear": "MMN documentary ᴴᴰ",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MMN documentary ᴴᴰ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvba3C_7KjVqHzKWDm_jg8lup6cT5AhjXo-eCpE2tUQ&s=10",
+    "nameen": "MMN documentary ᴴᴰ",
+    "position": "2",
+    "type": "channel",
+    "key": "mnm_kurd"
+  },
+  {
+    "namear": "MMN radiofarsy ᴴᴰ",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MMN radiofarsy ᴴᴰ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://mmn.mypsx.net:1935/live/mmnhdradiofarsy/playlist.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvba3C_7KjVqHzKWDm_jg8lup6cT5AhjXo-eCpE2tUQ&s=10",
+    "nameen": "MMN radiofarsy ᴴᴰ",
+    "position": "3",
+    "type": "channel",
+    "key": "mnm_kurd"
+  },
+  {
+    "namear": "MMN radioturky ᴴᴰ",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MMN radioturky ᴴᴰ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://mmn.mypsx.net:1935/live/mmnhdradioturky/playlist.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvba3C_7KjVqHzKWDm_jg8lup6cT5AhjXo-eCpE2tUQ&s=10",
+    "nameen": "MMN radioturky ᴴᴰ",
+    "position": "4",
+    "type": "channel",
+    "key": "mnm_kurd"
+  },
+  {
+    "namear": "MMN news ᴴᴰ",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MMN news ᴴᴰ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://mmn.mypsx.net:1935/live/mmnhdnews/playlist.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvba3C_7KjVqHzKWDm_jg8lup6cT5AhjXo-eCpE2tUQ&s=10",
+    "nameen": "MMN news ᴴᴰ",
+    "position": "5",
+    "type": "channel",
+    "key": "mnm_kurd"
+  },
+  {
+    "namear": "MMN movies ᴴᴰ",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MMN movies ᴴᴰ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://mmn.mypsx.net:1935/live/mmnhdmovies/playlist.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvba3C_7KjVqHzKWDm_jg8lup6cT5AhjXo-eCpE2tUQ&s=10",
+    "nameen": "MMN movies ᴴᴰ",
+    "position": "6",
+    "type": "channel",
+    "key": "mnm_kurd"
+  },
+  {
+    "namear": "MMN drama ᴴᴰ",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MMN drama ᴴᴰ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://mmn.mypsx.net:1935/live/mmnhddrama/playlist.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvba3C_7KjVqHzKWDm_jg8lup6cT5AhjXo-eCpE2tUQ&s=10",
+    "nameen": "MMN drama ᴴᴰ",
+    "position": "7",
+    "type": "channel",
+    "key": "mnm_kurd"
+  },
+  {
+    "namear": "MMN kids ᴴᴰ",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MMN kids ᴴᴰ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://mmn.mypsx.net:1935/live/mmnhdkids/playlist.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvba3C_7KjVqHzKWDm_jg8lup6cT5AhjXo-eCpE2tUQ&s=10",
+    "nameen": "MMN kids ᴴᴰ",
+    "position": "8",
+    "type": "channel",
+    "key": "mnm_kurd"
+  }
+]

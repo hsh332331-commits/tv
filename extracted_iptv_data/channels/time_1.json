@@ -1,0 +1,42 @@
+[
+  {
+    "namear": "اسوان - الزمالك",
+    "servers": "[{\"name\":\"S1\",\"url\":\"https:\\/\\/cdn.jsdelivr.net\\/clappr\\/latest\\/clappr.min.js\",\"position\":\"0\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"},{\"name\":\"S2\",\"url\":\"https:\\/\\/cdn.jsdelivr.net\\/clappr\\/latest\\/clappr.min.js\",\"position\":\"1\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"},{\"name\":\"S3\",\"url\":\"https:\\/\\/cdn.jsdelivr.net\\/clappr\\/latest\\/clappr.min.js\",\"position\":\"2\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"},{\"name\":\"S4\",\"url\":\"https:\\/\\/online.alkoora.live\\/albaplayer\\/bein-sports-premium-1\\/\",\"position\":\"3\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"},{\"name\":\"S5\",\"url\":\"https:\\/\\/online.alkoora.live\\/albaplayer\\/bein-sports-premium-1\\/\",\"position\":\"4\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"}]",
+    "logo": "https://online.alkoora.live/wp-content/uploads/2022/10/2.png",
+    "nameen": "اسوان - الزمالك",
+    "position": "0",
+    "key": "time_1"
+  },
+  {
+    "namear": "الداخلية - المصري البورسعيدي",
+    "servers": "[]",
+    "logo": "https://online.alkoora.live/wp-content/uploads/2022/10/8.png",
+    "nameen": "الداخلية - المصري البورسعيدي",
+    "position": "1",
+    "key": "time_1"
+  },
+  {
+    "namear": "الأهلي - بيراميدز",
+    "servers": "[{\"name\":\"S1\",\"url\":\"https:\\/\\/cdn.jsdelivr.net\\/clappr\\/latest\\/clappr.min.js\",\"position\":\"0\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"},{\"name\":\"S2\",\"url\":\"https:\\/\\/cdn.jsdelivr.net\\/clappr\\/latest\\/clappr.min.js\",\"position\":\"1\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"},{\"name\":\"S3\",\"url\":\"https:\\/\\/cdn.jsdelivr.net\\/clappr\\/latest\\/clappr.min.js\",\"position\":\"2\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"},{\"name\":\"S4\",\"url\":\"https:\\/\\/online.alkoora.live\\/albaplayer\\/bein-sports-premium-1\\/\",\"position\":\"3\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"},{\"name\":\"S5\",\"url\":\"https:\\/\\/online.alkoora.live\\/albaplayer\\/bein-sports-premium-1\\/\",\"position\":\"4\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"}]",
+    "logo": "https://online.alkoora.live/wp-content/uploads/2022/10/1451.png",
+    "nameen": "الأهلي - بيراميدز",
+    "position": "2",
+    "key": "time_1"
+  },
+  {
+    "namear": "برينتفورد - ليفربول",
+    "servers": "[]",
+    "logo": "https://www.yalla-sport.com/assets/images_original/teams/1376917554.png",
+    "nameen": "برينتفورد - ليفربول",
+    "position": "3",
+    "key": "time_1"
+  },
+  {
+    "namear": "مونبلييه - مارسيليا",
+    "servers": "[]",
+    "logo": "https://www.yalla-sport.com/assets/images_original/teams/1377260774.png",
+    "nameen": "مونبلييه - مارسيليا",
+    "position": "4",
+    "key": "time_1"
+  }
+]

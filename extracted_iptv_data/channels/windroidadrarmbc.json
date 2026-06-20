@@ -1,0 +1,83 @@
+[
+  {
+    "namear": "MBC+ Movies1",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"MBC+ Movies1\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/284\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24220100_ico.png",
+    "nameen": "MBC+ Movies1",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarmbc+"
+  },
+  {
+    "namear": "MBC+ Movies2",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"MBC+ Movies2\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/285\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24220107_ico.png",
+    "nameen": "MBC+ Movies2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarmbc+"
+  },
+  {
+    "namear": "MBC+ Arabic1",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"MBC+ Arabic1\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/286\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24220115_ico.png",
+    "nameen": "MBC+ Arabic1",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarmbc+"
+  },
+  {
+    "namear": "MBC+ Arabic2",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"MBC+ Arabic2\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/287\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24220120_ico.png",
+    "nameen": "MBC+ Arabic2",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarmbc+"
+  },
+  {
+    "namear": "MBC+ Turki 1",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"MBC+ Turki 1\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/288\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24220130_ico.png",
+    "nameen": "MBC+ Turki 1",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarmbc+"
+  },
+  {
+    "namear": "MBC+ Turki 2",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"MBC+ Turki 2\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/289\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24220134_ico.png",
+    "nameen": "MBC+ Turki 2",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarmbc+"
+  },
+  {
+    "namear": "MBC+ Kids 1",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"MBC+ Kids 1\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/290\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24220140_ico.png",
+    "nameen": "MBC+ Kids 1",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarmbc+"
+  },
+  {
+    "namear": "MBC+ Kids 2",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"MBC+ Kids 2\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/291\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24220144_ico.png",
+    "nameen": "MBC+ Kids 2",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarmbc+"
+  },
+  {
+    "namear": "MBC+ Family",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"MBC+ Family\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/282\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24220089_ico.png",
+    "nameen": "MBC+ Family",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarmbc+"
+  }
+]

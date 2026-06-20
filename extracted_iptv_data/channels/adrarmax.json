@@ -1,0 +1,162 @@
+[
+  {
+    "namear": "MBC Max",
+    "servers": "[{\"headers\":\"user-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"MBC Max\",\"Referer\":\"\",\"userAgent\":\"damx\",\"position\":\"0\",\"url\":\"http://minafire.com:8080/ic7X1IEnEa/rbJO9BSXaI/158\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12139902_ico.png",
+    "nameen": "MBC Max",
+    "position": "475",
+    "key": "adrarmax"
+  },
+  {
+    "namear": "OCS Max",
+    "servers": "[{\"headers\":\"user-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"OCS Max\",\"Referer\":\"\",\"userAgent\":\"damx\",\"position\":\"0\",\"url\":\"http://minafire.com:8080/ic7X1IEnEa/rbJO9BSXaI/788\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2027834_ico.png",
+    "nameen": "OCS Max",
+    "position": "714",
+    "key": "adrarmax"
+  },
+  {
+    "namear": "Bein Max 4",
+    "servers": "[{\"headers\":\"user-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Bein Max 4\",\"Referer\":\"\",\"userAgent\":\"damx\",\"position\":\"0\",\"url\":\"http://minafire.com:8080/ic7X1IEnEa/rbJO9BSXaI/758\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2952628_ico.png",
+    "nameen": "Bein Max 4",
+    "position": "791",
+    "key": "adrarmax"
+  },
+  {
+    "namear": "Bein Max 5",
+    "servers": "[{\"headers\":\"user-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Bein Max 5\",\"Referer\":\"\",\"userAgent\":\"damx\",\"position\":\"0\",\"url\":\"http://minafire.com:8080/ic7X1IEnEa/rbJO9BSXaI/759\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2952654_ico.png",
+    "nameen": "Bein Max 5",
+    "position": "792",
+    "key": "adrarmax"
+  },
+  {
+    "namear": "Bein Max 6",
+    "servers": "[{\"headers\":\"user-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Bein Max 6\",\"Referer\":\"\",\"userAgent\":\"damx\",\"position\":\"0\",\"url\":\"http://minafire.com:8080/ic7X1IEnEa/rbJO9BSXaI/764\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2952685_ico.png",
+    "nameen": "Bein Max 6",
+    "position": "793",
+    "key": "adrarmax"
+  },
+  {
+    "namear": "Bein Max 7",
+    "servers": "[{\"headers\":\"user-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Bein Max 7\",\"Referer\":\"\",\"userAgent\":\"damx\",\"position\":\"0\",\"url\":\"http://minafire.com:8080/ic7X1IEnEa/rbJO9BSXaI/760\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2952744_ico.png",
+    "nameen": "Bein Max 7",
+    "position": "794",
+    "key": "adrarmax"
+  },
+  {
+    "namear": "Bein Max 8",
+    "servers": "[{\"headers\":\"user-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Bein Max 8\",\"Referer\":\"\",\"userAgent\":\"damx\",\"position\":\"0\",\"url\":\"http://minafire.com:8080/ic7X1IEnEa/rbJO9BSXaI/761\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2952812_ico.png",
+    "nameen": "Bein Max 8",
+    "position": "795",
+    "key": "adrarmax"
+  },
+  {
+    "namear": "Bein Max 9",
+    "servers": "[{\"headers\":\"user-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Bein Max 9\",\"Referer\":\"\",\"userAgent\":\"damx\",\"position\":\"0\",\"url\":\"http://minafire.com:8080/ic7X1IEnEa/rbJO9BSXaI/762\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2952845_ico.png",
+    "nameen": "Bein Max 9",
+    "position": "796",
+    "key": "adrarmax"
+  },
+  {
+    "namear": "Bein Max 10",
+    "servers": "[{\"headers\":\"user-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Bein Max 10\",\"Referer\":\"\",\"userAgent\":\"damx\",\"position\":\"0\",\"url\":\"http://minafire.com:8080/ic7X1IEnEa/rbJO9BSXaI/763\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2952858_ico.png",
+    "nameen": "Bein Max 10",
+    "position": "797",
+    "key": "adrarmax"
+  },
+  {
+    "namear": "Newsmax TV",
+    "servers": "[{\"headers\":\"user-Agent|\",\"otherHeaders\":\"\",\"name\":\"Newsmax TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://nmxlive.akamaized.net/hls/live/529965/Tv_1/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12407187_ico.png",
+    "nameen": "Newsmax TV",
+    "position": "915",
+    "key": "adrarmax"
+  },
+  {
+    "namear": "SS Maximo 1",
+    "servers": "[{\"headers\":\"user-Agent|REDLINECLIENT ed5zs4d5sd41\",\"otherHeaders\":\"\",\"name\":\"SS Maximo 1\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT ed5zs4d5sd41\",\"position\":\"0\",\"url\":\"http://172.107.94.243:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3817.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2961504_ico.png",
+    "nameen": "SS Maximo 1",
+    "position": "1109",
+    "key": "adrarmax"
+  },
+  {
+    "namear": "Cinemax US",
+    "servers": "[{\"headers\":\"user-Agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36\",\"otherHeaders\":\"\",\"name\":\"Cinemax US\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36\",\"position\":\"0\",\"url\":\"https://livecdn.fptplay.net/hda1/cinemax_hls.smil/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7004577_ico.png",
+    "nameen": "Cinemax US",
+    "position": "1257",
+    "key": "adrarmax"
+  },
+  {
+    "namear": "Cinemax ES",
+    "servers": "[{\"headers\":\"user-Agent|elplayer\",\"otherHeaders\":\"\",\"name\":\"Cinemax ES\",\"Referer\":\"\",\"userAgent\":\"elplayer\",\"position\":\"0\",\"url\":\"https://main.cinedecalidad.xyz:443/elplayer/QWXcqM4gJQ/171\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7057126_ico.png",
+    "nameen": "Cinemax ES",
+    "position": "1277",
+    "key": "adrarmax"
+  },
+  {
+    "namear": "Bandamax",
+    "servers": "[{\"headers\":\"user-Agent|elplayer\",\"otherHeaders\":\"\",\"name\":\"Bandamax\",\"Referer\":\"\",\"userAgent\":\"elplayer\",\"position\":\"0\",\"url\":\"https://main.cinedecalidad.xyz:443/elplayer/QWXcqM4gJQ/173\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7057143_ico.png",
+    "nameen": "Bandamax",
+    "position": "1278",
+    "key": "adrarmax"
+  },
+  {
+    "namear": "ONMAX",
+    "servers": "[{\"headers\":\"user-Agent|@10086live\",\"otherHeaders\":\"\",\"name\":\"ONMAX\",\"Referer\":\"\",\"userAgent\":\"@10086live\",\"position\":\"0\",\"url\":\"http://pizztv.xyz:8000/3421omoeqappy/omohaktv-apk/265\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/22557362_ico.png",
+    "nameen": "ONMAX",
+    "position": "1631",
+    "key": "adrarmax"
+  },
+  {
+    "namear": "Max Sport 1",
+    "servers": "[{\"headers\":\"user-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Max Sport 1\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://212.5.59.2:9882/play/a017/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/25033486_ico.png",
+    "nameen": "Max Sport 1",
+    "position": "1885",
+    "key": "adrarmax"
+  },
+  {
+    "namear": "Max Sport 2",
+    "servers": "[{\"headers\":\"user-Agent|iosapp2\",\"otherHeaders\":\"\",\"name\":\"Max Sport 2\",\"Referer\":\"\",\"userAgent\":\"iosapp2\",\"position\":\"0\",\"url\":\"http://212.5.59.2:9882/play/a018/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/25033496_ico.png",
+    "nameen": "Max Sport 2",
+    "position": "1886",
+    "key": "adrarmax"
+  },
+  {
+    "namear": "Max Sport 3",
+    "servers": "[{\"headers\":\"user-Agent|iosapp2\",\"otherHeaders\":\"\",\"name\":\"Max Sport 3\",\"Referer\":\"\",\"userAgent\":\"iosapp2\",\"position\":\"0\",\"url\":\"http://300607193521376723.otrees.xyz:80/play/Sergio402/Sergio402M12/376723.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/25033502_ico.png",
+    "nameen": "Max Sport 3",
+    "position": "1887",
+    "key": "adrarmax"
+  },
+  {
+    "namear": "Max Sport 4",
+    "servers": "[{\"headers\":\"user-Agent|iosapp2\",\"otherHeaders\":\"\",\"name\":\"Max Sport 4\",\"Referer\":\"\",\"userAgent\":\"iosapp2\",\"position\":\"0\",\"url\":\"http://50740659334438082.opword.xyz:80/play/Sergio402/Sergio402M12/438082.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/25033510_ico.png",
+    "nameen": "Max Sport 4",
+    "position": "1888",
+    "key": "adrarmax"
+  },
+  {
+    "namear": "SS Maximo+",
+    "servers": "[{\"headers\":\"user-Agent|SS\",\"otherHeaders\":\"\",\"name\":\"SS Maximo+\",\"Referer\":\"\",\"userAgent\":\"SS\",\"position\":\"0\",\"url\":\"https://tvnow.best/api/stream/lilycampos103@gmail.com/625206/livetv.epg/ss.premier.league.ze.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26261671_ico.png",
+    "nameen": "SS Maximo+",
+    "position": "1936",
+    "key": "adrarmax"
+  }
+]

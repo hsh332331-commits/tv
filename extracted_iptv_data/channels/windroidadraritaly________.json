@@ -1,0 +1,65 @@
+[
+  {
+    "namear": "Euro Indie Music",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Euro Indie Music\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://178.33.224.197:1935/euroindiemusic/euroindiemusic/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12270540_ico.png",
+    "nameen": "Euro Indie Music",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadraritaly_إيطاليا"
+  },
+  {
+    "namear": "Rai 2",
+    "servers": "[{\"headers\":\"1m3u8user-Agent|1m3u8user-Agent|1m3u8user-Agent|1m3u8\",\"otherHeaders\":\"\",\"name\":\"Rai 2\",\"Referer\":\"\",\"userAgent\":\"1m3u8user-Agent|1m3u8\",\"position\":\"0\",\"url\":\"http://31.220.41.86:8081/live/it-rai2.stream/chunks.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12270815_ico.png",
+    "nameen": "Rai 2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadraritaly_إيطاليا"
+  },
+  {
+    "namear": "Rai 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rai 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://92.43.140.249/s29/04.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12270975_ico.png",
+    "nameen": "Rai 1",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadraritaly_إيطاليا"
+  },
+  {
+    "namear": "Rai News 24",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rai News 24\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12271012_ico.png",
+    "nameen": "Rai News 24",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadraritaly_إيطاليا"
+  },
+  {
+    "namear": "Rai 3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rai 3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://wzstreaming.rai.it/TVlive/liveStream/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12271055_ico.png",
+    "nameen": "Rai 3",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadraritaly_إيطاليا"
+  },
+  {
+    "namear": "VH1 IT",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"VH1 IT\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12272022_ico.png",
+    "nameen": "VH1 IT",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadraritaly_إيطاليا"
+  },
+  {
+    "namear": "Euronews IT",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Euronews IT\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://rakuten-euronews-3-it.samsung.wurl.com/manifest/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7032979_ico.png",
+    "nameen": "Euronews IT",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadraritaly_إيطاليا"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "namear": "beIN MAX 1 4K",
+    "servers": "[{\"url\":\"http://195.182.16.46:8080/live/omar777/01103978590/460861.ts?token=yafHbHd.ydyfz.X.adUXc.ydzdHbfHUb.X.y.EG.ts.ff5745f1bc4df49108ab5650a30e83c8c7fc1ec7a3c8d965feabdb0fe7373d6e.37069.T3JhbmdlIEVneXB0.b25lZ2F6YWwyLnh5eg==\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"http://23370wa.xyz/\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15\",\"headers\":\"Referer|http://23370wa.xyz/|User-Agent|Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15\"}]",
+    "logo": "https://up6.cc/2026/05/177929485997331.png",
+    "nameen": "beIN MAX 1 4K",
+    "type": "movie-api",
+    "key": "parser_sport_1"
+  },
+  {
+    "namear": "beIN MAX 2 4K",
+    "servers": "[{\"url\":\"http://172.110.216.171:2095/live/omar777/01103978590/460864.ts?token=yafHbHd.azXzf.X.aUbXz.ydzdHzXHca.X.y.EG.ts.1ff2867e8238680fd862ac09d0ffb8a6f4e4f0d3295613c1281d4e0494f4f18f.8452.VGVsZWNvbSBFZ3lwdA==.b25lZ2F6YWwyLnh5eg==\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"http://be-ice.com:8080/live/omar777/01103978590/462212.ts\",\"headers\":\"User-Agent|http://be-ice.com:8080/live/omar777/01103978590/462212.ts\"}]",
+    "logo": "https://up6.cc/2026/05/177929492239961.png",
+    "nameen": "beIN MAX 2 4K",
+    "type": "movie-api",
+    "key": "parser_sport_1"
+  },
+  {
+    "namear": "beIN MAX 3 4K",
+    "servers": "[{\"url\":\"http://195.182.16.44:8080/live/omar777/01103978590/460867.ts?token=yafHbHd.cyXbU.X.ayUbX.ydzdHbfzdX.X.y.EG.ts.e7b55c03065ced69687837344fcf752dccd12a2c7afd3b8af00a215c227bb253.37069.T3JhbmdlIEVneXB0.b25lZ2F6YWwyLnh5eg==\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"\",\"headers\":\"\"}]",
+    "logo": "https://up6.cc/2026/05/177929498885651.png",
+    "nameen": "beIN MAX 3 4K",
+    "type": "movie-api",
+    "key": "parser_sport_1"
+  },
+  {
+    "namear": "beIN MAX 1 HD",
+    "servers": "[{\"url\":\"http://195.182.16.45:8080/live/omar777/01103978590/460862.ts?token=yafHbHd.fcyfa.X.cbbXX.ydzdHdzdfH.X.y.EG.ts.9179f44c7ba637ff8fd887c31a3b8395e992d7c7a2f25a994b1c5ad644fc24a7.8452.VGVsZWNvbSBFZ3lwdA==.b25lZ2F6YWwyLnh5eg==\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"\",\"headers\":\"\"}]",
+    "logo": "https://up6.cc/2026/05/177929485997331.png",
+    "nameen": "beIN MAX 1 HD",
+    "type": "movie-api",
+    "key": "parser_sport_1"
+  },
+  {
+    "namear": "beIN MAX 2 HD",
+    "servers": "[{\"url\":\"http://195.182.16.45:8080/live/omar777/01103978590/460865.ts?token=yafHbHd.fcXdy.X.cbdXd.ydzdHzXHzX.X.y.EG.ts.e2dab7af0afdcae1678ed4df481dc2792e6822ae0ba840b990e7d0e4e3161d46.8452.VGVsZWNvbSBFZ3lwdA==.b25lZ2F6YWwyLnh5eg==\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"\",\"headers\":\"\"}]",
+    "logo": "https://up6.cc/2026/05/177929492239961.png",
+    "nameen": "beIN MAX 2 HD",
+    "type": "movie-api",
+    "key": "parser_sport_1"
+  },
+  {
+    "namear": "beIN MAX 3 HD",
+    "servers": "[{\"url\":\"http://185.160.192.14/live/anes34/87msit89svtu/255238.m3u8\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"\",\"headers\":\"\"}]",
+    "logo": "https://up6.cc/2026/05/177929498885651.png",
+    "nameen": "beIN MAX 3 HD",
+    "type": "movie-api",
+    "key": "parser_sport_1"
+  },
+  {
+    "namear": "beIN MAX 1 SD",
+    "servers": "[{\"url\":\"http://onegazal2.xyz:8080/live//omar777/01103978590/460863.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"\",\"headers\":\"\"}]",
+    "logo": "https://up6.cc/2026/05/177929485997331.png",
+    "nameen": "beIN MAX 1 SD",
+    "type": "movie-api",
+    "key": "parser_sport_1"
+  },
+  {
+    "namear": "beIN MAX 2 SD",
+    "servers": "[{\"url\":\"http://195.182.16.45:8080/live/omar777/01103978590/460866.ts?token=yafHbHd.fcbab.X.UzXXd.ydzdHzXzaf.X.y.EG.ts.aea161935df9590c6f7ce5b28f179da1eda87ee5d05b1e8a2b0a2254731a7ff2.8452.VGVsZWNvbSBFZ3lwdA==.b25lZ2F6YWwyLnh5eg==\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"\",\"headers\":\"\"}]",
+    "logo": "https://up6.cc/2026/05/177929492239961.png",
+    "nameen": "beIN MAX 2 SD",
+    "type": "movie-api",
+    "key": "parser_sport_1"
+  },
+  {
+    "namear": "beIN MAX 3 SD",
+    "servers": "[{\"url\":\"http://185.160.192.14/live/anes34/87msit89svtu/255244.m3u8\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"\",\"headers\":\"\"}]",
+    "logo": "https://up6.cc/2026/05/177929498885651.png",
+    "nameen": "beIN MAX 3 SD",
+    "type": "movie-api",
+    "key": "parser_sport_1"
+  },
+  {
+    "namear": "beIN MAX 4 4K",
+    "servers": "[{\"url\":\"http://195.182.16.45:8080/live/omar777/01103978590/460870.ts?token=yafHbHd.yafaH.X.UbUcf.ydzdHzXbzy.X.y.EG.ts.9897b8cd97a8009d95dfd6b1db592fdc37886ca1a2a5ffa2604f903befe63061.8452.VGVsZWNvbSBFZ3lwdA==.b25lZ2F6YWwyLnh5eg==\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"... \",\"userAgent\":\".... \",\"headers\":\"Referer|... |User-Agent|.... \"}]",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_4.png",
+    "nameen": "beIN MAX 4 4K",
+    "type": "movie-api",
+    "key": "parser_sport_1"
+  },
+  {
+    "namear": "beIN MAX 4 HD",
+    "servers": "[{\"url\":\"http://217.60.15.202:2095/live/omar777/01103978590/460871.ts?token=yafHbHd.UbXbU.X.bcba.ydzdHzXdfz.X.y.EG.ts.03e98c5d215f1efca759f8de2fcc112c1520584860f5a5c7e88321d2325fa11c.8452.VGVsZWNvbSBFZ3lwdA==.b25lZ2F6YWwyLnh5eg==\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"\",\"headers\":\"\"}]",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_4.png",
+    "nameen": "beIN MAX 4 HD",
+    "type": "movie-api",
+    "key": "parser_sport_1"
+  },
+  {
+    "namear": "beIN MAX 4 SD",
+    "servers": "[{\"url\":\"http://195.182.16.44:8080/live/omar777/01103978590/460872.ts?token=yafHbHd.fzdHa.X.ayUUd.ydzdHzXdHU.X.y.EG.ts.e4c64d4b2091d256b7f52829221cede0240cc55865836a0670936e70538f4ba4.8452.VGVsZWNvbSBFZ3lwdA==.b25lZ2F6YWwyLnh5eg==\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"\",\"headers\":\"\"}]",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_4.png",
+    "nameen": "beIN MAX 4 SD",
+    "type": "movie-api",
+    "key": "parser_sport_1"
+  },
+  {
+    "namear": "beIN MAX 1 4K SS",
+    "servers": "[{\"url\":\"http://kalaasmr.blog:8080/live/1793416520/3146985400/1295251.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"\",\"headers\":\"\"}]",
+    "logo": "https://up6.cc/2026/05/177929485997331.png",
+    "nameen": "beIN MAX 1 4K SS",
+    "type": "movie-api",
+    "key": "parser_sport_1"
+  },
+  {
+    "namear": "beIN MAX 2 4K SS",
+    "servers": "[{\"url\":\"http://kalaasmr.blog:8080/live/1793416520/3146985400/1295252.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"\",\"headers\":\"\"}]",
+    "logo": "https://up6.cc/2026/05/177929492239961.png",
+    "nameen": "beIN MAX 2 4K SS",
+    "type": "movie-api",
+    "key": "parser_sport_1"
+  },
+  {
+    "namear": "beIN MAX 1 HD SS",
+    "servers": "[{\"url\":\"http://kalaasmr.blog:8080/live/1793416520/3146985400/1246128.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"\",\"headers\":\"\"}]",
+    "logo": "https://up6.cc/2026/05/177929485997331.png",
+    "nameen": "beIN MAX 1 HD SS",
+    "type": "movie-api",
+    "key": "parser_sport_1"
+  },
+  {
+    "namear": "beIN MAX 2 HD SS",
+    "servers": "[{\"url\":\"http://kalaasmr.blog:8080/live/1793416520/3146985400/1246129.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"\",\"headers\":\"\"}]",
+    "logo": "https://up6.cc/2026/05/177929492239961.png",
+    "nameen": "beIN MAX 2 HD SS",
+    "type": "movie-api",
+    "key": "parser_sport_1"
+  },
+  {
+    "namear": "beIN MAX 1 SD F",
+    "servers": "[{\"url\":\"http://kalaasmr.blog:8080/live/1793416520/3146985400/1295215.m3u8\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"\",\"headers\":\"\"}]",
+    "logo": "https://up6.cc/2026/05/177929485997331.png",
+    "nameen": "beIN MAX 1 SD F",
+    "type": "movie-api",
+    "key": "parser_sport_1"
+  },
+  {
+    "namear": "beIN MAX 2 SD F",
+    "servers": "[{\"url\":\"http://kalaasmr.blog:8080/live/1793416520/3146985400/1295216.m3u8\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"\",\"headers\":\"\"}]",
+    "logo": "https://up6.cc/2026/05/177929492239961.png",
+    "nameen": "beIN MAX 2 SD F",
+    "type": "movie-api",
+    "key": "parser_sport_1"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "namear": "٨ 1 HD",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"FHD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://w.shahidtv.net/live/34682514/73347194/41.m3u8\"},{\"headers\":\"user-agent|Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"THMHD\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36\",\"position\":\"0\",\"url\":\"https://d1yi40sjj0ca0v.cloudfront.net/TVD1451/index.mpd\"},{\"headers\":\"Referer|https://m.syrlive.com/matches/al-hilal-vs-damac-fc/|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"TM8HD\",\"Referer\":\"https://m.syrlive.com/matches/al-hilal-vs-damac-fc/\",\"userAgent\":\"\",\"position\":\"055\",\"url\":\"https://3syrialive.s3.us-east-2.amazonaws.com/ssc1/master.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtNoLt8xUQbTvUVqLNT_UQjBn6EfjwctOwY6vzQNOASg&s=10",
+    "nameen": "٨ 1 HD",
+    "position": "4",
+    "type": "channel",
+    "key": "thamanyah_sport_2"
+  },
+  {
+    "namear": "٨ 1 HD2",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"thm\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://d1yi40sjj0ca0v.cloudfront.net/TVD1403/index.mpd\"},{\"headers\":\"user-agent|k1Kaeell3Mko )b0)V5Df0e1Vl.MoK )d;5o3C3L65dzb;dld l 0G103zGV6 lANLb7 iM1ek3dl50 T),,e3kor. TMdo1MCW lMimldHe(7/93oL|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"thm7\",\"Referer\":\"\",\"userAgent\":\"k1Kaeell3Mko )b0)V5Df0e1Vl.MoK )d;5o3C3L65dzb;dld l 0G103zGV6 lANLb7 iM1ek3dl50 T),,e3kor. TMdo1MCW lMimldHe(7/93oL\",\"position\":\"2\",\"url\":\"https://w.shahidtv.net/live/34682514/73347194/359.m3u8\"},{\"headers\":\"Referer|https://direct.aflam4you.net/|user-agent|Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRhls Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36A58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36|find|m3u8\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"name\":\"thm3\",\"Referer\":\"https://direct.aflam4you.net/\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRhls Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36A58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36\",\"position\":\"25\",\"url\":\"https://handicapskate.net/embed/tr81yto0ib1p\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtNoLt8xUQbTvUVqLNT_UQjBn6EfjwctOwY6vzQNOASg&s=10",
+    "nameen": "٨ 2 HD",
+    "position": "5",
+    "type": "channel",
+    "key": "thamanyah_sport_2"
+  },
+  {
+    "namear": "٨ 3 HD",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"THM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://d1yi40sjj0ca0v.cloudfront.net/TVD6737/index.mpd\"},{\"headers\":\"user-agent|k1Kaeell3Mko )b0)V5Df0e1Vl.MoK )d;5o3C3L65dzb;dld l 0G103zGV6 lANLb7 iM1ek3dl50 T),,e3kor. TMdo1MCW lMimldHe(7/93oL|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"thm\",\"Referer\":\"\",\"userAgent\":\"k1Kaeell3Mko )b0)V5Df0e1Vl.MoK )d;5o3C3L65dzb;dld l 0G103zGV6 lANLb7 iM1ek3dl50 T),,e3kor. TMdo1MCW lMimldHe(7/93oL\",\"position\":\"1\",\"url\":\"https://w.shahidtv.net/live/34682514/73347194/362.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtNoLt8xUQbTvUVqLNT_UQjBn6EfjwctOwY6vzQNOASg&s=10",
+    "nameen": "٨ 3 HD",
+    "position": "6",
+    "type": "channel",
+    "key": "thamanyah_sport_2"
+  },
+  {
+    "namear": "٨ 1 HD",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRhls Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36A58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRhls Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36A58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36\",\"position\":\"08\",\"url\":\"https://d1yi40sjj0ca0v.cloudfront.net/TVD6737/index.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtNoLt8xUQbTvUVqLNT_UQjBn6EfjwctOwY6vzQNOASg&s=10",
+    "nameen": "٨ 1 TV",
+    "position": "08",
+    "type": "channel",
+    "key": "thamanyah_sport_2"
+  },
+  {
+    "namear": "ITALIA",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36\",\"position\":\"0\",\"url\":\"https://edge-003.streamup.eu/sportitalia/sihd_abr2/playlist.m3u8\"}]",
+    "logo": "http://picon.tivi-ott.net:25461/picon/ARGENTINA/%E2%94%83AFCON%E2%94%83%20AFRICA%20CUP%202025/SPORT%20ITALIA.png",
+    "nameen": "ITALIA",
+    "position": "8",
+    "type": "channel",
+    "key": "thamanyah_sport_2"
+  },
+  {
+    "namear": "SpoTV HD",
+    "servers": "[{\"headers\":\"\",\"license\":\"ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"SpoTV HD #KODIPROP:inputstream.adaptive.license_type\\u003dclearkey #KODIPROP:inputstream.adaptive.license_key\\u003dec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSawpH-gLI-7DnswQxMu_8qLWSW2fGo2LUE1Ojo4WwAFA&s=10",
+    "nameen": "SpoTV HD",
+    "position": "9",
+    "type": "channel",
+    "key": "thamanyah_sport_2"
+  },
+  {
+    "namear": "SpoTV 2",
+    "servers": "[{\"headers\":\"\",\"license\":\"7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"SpoTV 2 HD #KODIPROP:inputstream.adaptive.license_type\\u003dclearkey #KODIPROP:inputstream.adaptive.license_key\\u003d7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSawpH-gLI-7DnswQxMu_8qLWSW2fGo2LUE1Ojo4WwAFA&s=10",
+    "nameen": "SpoTV 2",
+    "position": "10",
+    "type": "channel",
+    "key": "thamanyah_sport_2"
+  }
+]

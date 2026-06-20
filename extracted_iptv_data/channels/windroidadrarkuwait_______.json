@@ -1,0 +1,119 @@
+[
+  {
+    "namear": "Kuwait 1",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Kuwait 1\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/20832.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12134465_ico.png",
+    "nameen": "Kuwait 1",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarkuwait_الكويت"
+  },
+  {
+    "namear": "Kuwait 2",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Kuwait 2\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/20833.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12134468_ico.png",
+    "nameen": "Kuwait 2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarkuwait_الكويت"
+  },
+  {
+    "namear": "Kuwait Ethraa",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Kuwait Ethraa\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/6864.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12134537_ico.png",
+    "nameen": "Kuwait Ethraa",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarkuwait_الكويت"
+  },
+  {
+    "namear": "Kuwait Al Qurain",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Kuwait Al Qurain\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/20838.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12134544_ico.png",
+    "nameen": "Kuwait Al Qurain",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarkuwait_الكويت"
+  },
+  {
+    "namear": "Kuwait Arabe",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Kuwait Arabe\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/6863.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12134551_ico.png",
+    "nameen": "Kuwait Arabe",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarkuwait_الكويت"
+  },
+  {
+    "namear": "Kuwait Sport",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Kuwait Sport\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"https://mo3ad@kwmedia.hibridcdn.net/kwmedia/kwtvsports_abr/kwmedia/kwtvsports_480p/chunks.m3u8?p\\u003d53\\u0026s\\u003d1691418456\\u0026e\\u003d1691504856\\u0026cf\\u003d1691504856\\u0026h\\u003da916627f5d9bd784c157b0e5e2b03f7f\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12134555_ico.png",
+    "nameen": "Kuwait Sport",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarkuwait_الكويت"
+  },
+  {
+    "namear": "Kuwait Plus",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Kuwait Plus\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/6866.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12134560_ico.png",
+    "nameen": "Kuwait Plus",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarkuwait_الكويت"
+  },
+  {
+    "namear": "Al Rai",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"Al Rai\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"https://svs.itworkscdn.net/alraitvlive/alraitv.smil/alraitv_source_chunks.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12134564_ico.png",
+    "nameen": "Al Rai",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarkuwait_الكويت"
+  },
+  {
+    "namear": "Funoon TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Funoon TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://iptv.ndasat.com:88/live/224687427626312/224687427626312/862.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12134578_ico.png",
+    "nameen": "Funoon TV",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarkuwait_الكويت"
+  },
+  {
+    "namear": "KTV Drama",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"KTV Drama\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://javaprotcol.com:2082/mac_8074173/vXFFqxF6ugFm5fTJkuX4/95311\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/19383655_ico.png",
+    "nameen": "KTV Drama",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadrarkuwait_الكويت"
+  },
+  {
+    "namear": "Kuwait Al Majlis",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Kuwait Al Majlis\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/6855.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12134546_ico.png",
+    "nameen": "Kuwait Al Majlis",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidadrarkuwait_الكويت"
+  },
+  {
+    "namear": "Al Maaref",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"Al Maaref\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12134568_ico.png",
+    "nameen": "Al Maaref",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidadrarkuwait_الكويت"
+  },
+  {
+    "namear": "Al Resalah",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Al Resalah\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://w.bs-share.com:8000/247179867825237/23141543216575/450234\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12139227_ico.png",
+    "nameen": "Al Resalah",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidadrarkuwait_الكويت"
+  }
+]

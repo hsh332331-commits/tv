@@ -1,0 +1,29 @@
+[
+  {
+    "namear": "Ksa Sport 1",
+    "servers": "[{\"headers\":\"\",\"license\":\"a0723ff5bf2bbbb31dc727e4346b1cc7:29951a0a48586258ab168f26b3f58daa\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"KSA\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://neacdnpop3-edge01.aws.playco.com/live/eds/KSA_Sports1_HD/DASH/KSA_Sports1_HD.mpd\"},{\"headers\":\"Referer|https://www.aloula.sa/|find|m3u8\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"name\":\"ksa\",\"Referer\":\"https://www.aloula.sa/\",\"userAgent\":\"\",\"position\":\"08\",\"url\":\"https://aloula.faulio.com/api/v1.1/channels/9/player\"}]",
+    "logo": "https://i.imgur.com/32ZwaW0.png",
+    "nameen": "Ksa Sport 1",
+    "position": "0",
+    "type": "channel",
+    "key": "ksa_sport"
+  },
+  {
+    "namear": "Ksa Sport 2",
+    "servers": "[{\"headers\":\"\",\"license\":\"f7142ef5a9d7b8ef1044232e74605e91:f36d37064c1109c107ffab95c0f7532d\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"KSA2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://neacdnpop3-edge01.aws.playco.com/live/eds/KSA_Sports2_HD/DASH/KSA_Sports2_HD.mpd\"},{\"headers\":\"Referer|https://www.aloula.sa/|find|m3u8\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"name\":\"Ksa\",\"Referer\":\"https://www.aloula.sa/\",\"userAgent\":\"\",\"position\":\"08\",\"url\":\"https://aloula.faulio.com/api/v1.1/channels/10/player\"}]",
+    "logo": "https://i.imgur.com/32ZwaW0.png",
+    "nameen": "Ksa Sport 2",
+    "position": "1",
+    "type": "channel",
+    "key": "ksa_sport"
+  },
+  {
+    "namear": "Ksa Sport 3",
+    "servers": "[{\"headers\":\"\",\"license\":\"637dc9620732d390ab2df32e070256f0:0e47bb47e90258b5f392f8ecb54a8b22\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"KSAHD3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://neacdnpop3-edge01.aws.playco.com/live/eds/KSA_Sports3_HD/DASH/KSA_Sports3_HD.mpd\"},{\"headers\":\"Referer|https://www.aloula.sa/|find|m3u8\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"name\":\"ksa3\",\"Referer\":\"https://www.aloula.sa/\",\"userAgent\":\"\",\"position\":\"08\",\"url\":\"https://aloula.faulio.com/api/v1.1/channels/11/player\"}]",
+    "logo": "https://i.imgur.com/32ZwaW0.png",
+    "nameen": "Ksa Sport 3",
+    "position": "2",
+    "type": "channel",
+    "key": "ksa_sport"
+  }
+]

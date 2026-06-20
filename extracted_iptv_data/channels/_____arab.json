@@ -1,0 +1,155 @@
+[
+  {
+    "namear": "NETLFIX ACTION 1 800P",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NETLFIX ACTION 1 800P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://144.76.157.86:8080/Bein TV/Bein VIP/123986?token\\u003dGhoNVBVaEA4WWwMNBgtTWQJTBlQAVAECVQoGUwENUlcEDFAAU1AHAwZBHBpHRhBdAA9oDQdACQMBDFEJABgWERJdF2oPVhAOFlcACAUAUBpNQEMNDgcRCAIOVgYBAABdVg9JFxZbVhYODUVUWB5AXRkWUhYNA19tV10UWFJRFl4PTQlZShBdWmsHVVVVXAYaW0AGRk9AWkFDGlhfRFhYSENaDEEUU0ZRFlleTVheThoCDUIKFxBKEAkaMWgTGBYBGUwAWxVbXVoWWRJMRxBOGggRaBYGEUdAVlkPVEMWDkZRGkkXC1NKa1cMXlZRURZRDgxERllAAhAfGg9eX11ACxNnFVwCEAhaQQ9cRQ\\u003d\\u003d\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgpb58-kcY1GofMUe6NwovG2L8GN7JGneZKw&usqp=CAU",
+    "nameen": "NETLFIX ACTION 1 800P",
+    "position": "1",
+    "type": "channel",
+    "key": "عربي_arab"
+  },
+  {
+    "namear": "NETLFIX ACTION 2 1080P",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NETLFIX ACTION 2 1080P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://144.76.157.86:8080/Bein TV/Bein VIP/123987?token\\u003dGhoNVBVaEA4WWwMNBgtTWQJTBlQAVAECVQoGUwENUlcEDFAAU1AHAwZBHBpHRhBdAA9oDQdACQMBDFEJABgWERJdF2oPVhAOFlcACAUAUBpNQEMNDgcRCAIOVgYBAABdVg9JFxZbVhYODUVUWB5AXRkWUhYNA19tV10UWFJRFl4PTQlZShBdWmsHVVVVXAYaW0AGRk9AWkFDGlhfRFhYSENaDEEUU0ZRFlleTVheThoCDUIKFxBKEAkaMWgTGBYBGUwAWxVbXVoWWRJMRxBOGggRaBYGEUdAVlkPVEMWDkZRGkkXC1NKa1cMXlZRURZRDgxERllAAhAfGg9eX11ACxNnFVwCEAhaQQ9cRQ\\u003d\\u003d\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgpb58-kcY1GofMUe6NwovG2L8GN7JGneZKw&usqp=CAU",
+    "nameen": "NETLFIX ACTION 2 1080P",
+    "position": "2",
+    "type": "channel",
+    "key": "عربي_arab"
+  },
+  {
+    "namear": "NETFLIX HORROR 1 800P",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NETFLIX HORROR 1 800P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://144.76.157.86:8080/Bein TV/Bein VIP/123985?token\\u003dGhoNVBVaEA4WWwMNBgtTWQJTBlQAVAECVQoGUwENUlcEDFAAU1AHAwZBHBpHRhBdAA9oDQdACQMBDFEJABgWERJdF2oPVhAOFlcACAUAUBpNQEMNDgcRCAIOVgYBAABdVg9JFxZbVhYODUVUWB5AXRkWUhYNA19tV10UWFJRFl4PTQlZShBdWmsHVVVVXAYaW0AGRk9AWkFDGlhfRFhYSENaDEEUU0ZRFlleTVheThoCDUIKFxBKEAkaMWgTGBYBGUwAWxVbXVoWWRJMRxBOGggRaBYGEUdAVlkPVEMWDkZRGkkXC1NKa1cMXlZRURZRDgxERllAAhAfGg9eX11ACxNnFVwCEAhaQQ9cRQ\\u003d\\u003d\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgpb58-kcY1GofMUe6NwovG2L8GN7JGneZKw&usqp=CAU",
+    "nameen": "NETFLIX HORROR 1 800P",
+    "position": "3",
+    "type": "channel",
+    "key": "عربي_arab"
+  },
+  {
+    "namear": "NETFLIX HORROR 2 1080P",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NETFLIX HORROR 2 1080P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://144.76.157.86:8080/Bein TV/Bein VIP/123984?token\\u003dGhoNVBVaEA4WWwMNBgtTWQJTBlQAVAECVQoGUwENUlcEDFAAU1AHAwZBHBpHRhBdAA9oDQdACQMBDFEJABgWERJdF2oPVhAOFlcACAUAUBpNQEMNDgcRCAIOVgYBAABdVg9JFxZbVhYODUVUWB5AXRkWUhYNA19tV10UWFJRFl4PTQlZShBdWmsHVVVVXAYaW0AGRk9AWkFDGlhfRFhYSENaDEEUU0ZRFlleTVheThoCDUIKFxBKEAkaMWgTGBYBGUwAWxVbXVoWWRJMRxBOGggRaBYGEUdAVlkPVEMWDkZRGkkXC1NKa1cMXlZRURZRDgxERllAAhAfGg9eX11ACxNnFVwCEAhaQQ9cRQ\\u003d\\u003d\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgpb58-kcY1GofMUe6NwovG2L8GN7JGneZKw&usqp=CAU",
+    "nameen": "NETFLIX HORROR 2 1080P",
+    "position": "4",
+    "type": "channel",
+    "key": "عربي_arab"
+  },
+  {
+    "namear": "NETFLIX COMEDY 1 1080P",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NETFLIX COMEDY 1 1080P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://144.76.157.86:8080/Bein TV/Bein VIP/123977?token\\u003dGhoNVBVaEA4WWwMNBgtTWQJTBlQAVAECVQoGUwENUlcEDFAAU1AHAwZBHBpHRhBdAA9oDQdACQMBDFEJABgWERJdF2oPVhAOFlcACAUAUBpNQEMNDgcRCAIOVgYBAABdVg9JFxZbVhYODUVUWB5AXRkWUhYNA19tV10UWFJRFl4PTQlZShBdWmsHVVVVXAYaW0AGRk9AWkFDGlhfRFhYSENaDEEUU0ZRFlleTVheThoCDUIKFxBKEAkaMWgTGBYBGUwAWxVbXVoWWRJMRxBOGggRaBYGEUdAVlkPVEMWDkZRGkkXC1NKa1cMXlZRURZRDgxERllAAhAfGg9eX11ACxNnFVwCEAhaQQ9cRQ\\u003d\\u003d\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgpb58-kcY1GofMUe6NwovG2L8GN7JGneZKw&usqp=CAU",
+    "nameen": "NETFLIX COMEDY 1 1080P",
+    "position": "5",
+    "type": "channel",
+    "key": "عربي_arab"
+  },
+  {
+    "namear": "NETFLIX COMEDY 2 1080P",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NETFLIX COMEDY 2 1080P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://144.76.157.86:8080/Bein TV/Bein VIP/123976?token\\u003dGhoNVBVaEA4WWwMNBgtTWQJTBlQAVAECVQoGUwENUlcEDFAAU1AHAwZBHBpHRhBdAA9oDQdACQMBDFEJABgWERJdF2oPVhAOFlcACAUAUBpNQEMNDgcRCAIOVgYBAABdVg9JFxZbVhYODUVUWB5AXRkWUhYNA19tV10UWFJRFl4PTQlZShBdWmsHVVVVXAYaW0AGRk9AWkFDGlhfRFhYSENaDEEUU0ZRFlleTVheThoCDUIKFxBKEAkaMWgTGBYBGUwAWxVbXVoWWRJMRxBOGggRaBYGEUdAVlkPVEMWDkZRGkkXC1NKa1cMXlZRURZRDgxERllAAhAfGg9eX11ACxNnFVwCEAhaQQ9cRQ\\u003d\\u003d\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgpb58-kcY1GofMUe6NwovG2L8GN7JGneZKw&usqp=CAU",
+    "nameen": "NETFLIX COMEDY 2 1080P",
+    "position": "6",
+    "type": "channel",
+    "key": "عربي_arab"
+  },
+  {
+    "namear": "NETFLIX KIDS 1 1080P",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NETFLIX KIDS 1 1080P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://144.76.157.86:8080/Bein TV/Bein VIP/123971?token\\u003dGhoNVBVaEA4WWwMNBgtTWQJTBlQAVAECVQoGUwENUlcEDFAAU1AHAwZBHBpHRhBdAA9oDQdACQMBDFEJABgWERJdF2oPVhAOFlcACAUAUBpNQEMNDgcRCAIOVgYBAABdVg9JFxZbVhYODUVUWB5AXRkWUhYNA19tV10UWFJRFl4PTQlZShBdWmsHVVVVXAYaW0AGRk9AWkFDGlhfRFhYSENaDEEUU0ZRFlleTVheThoCDUIKFxBKEAkaMWgTGBYBGUwAWxVbXVoWWRJMRxBOGggRaBYGEUdAVlkPVEMWDkZRGkkXC1NKa1cMXlZRURZRDgxERllAAhAfGg9eX11ACxNnFVwCEAhaQQ9cRQ\\u003d\\u003d\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgpb58-kcY1GofMUe6NwovG2L8GN7JGneZKw&usqp=CAU",
+    "nameen": "NETFLIX KIDS 1 1080P",
+    "position": "7",
+    "type": "channel",
+    "key": "عربي_arab"
+  },
+  {
+    "namear": "NETFLIX KIDS 2 1080P",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NETFLIX KIDS 2 1080P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://144.76.157.86:8080/Bein TV/Bein VIP/123972?token\\u003dGhoNVBVaEA4WWwMNBgtTWQJTBlQAVAECVQoGUwENUlcEDFAAU1AHAwZBHBpHRhBdAA9oDQdACQMBDFEJABgWERJdF2oPVhAOFlcACAUAUBpNQEMNDgcRCAIOVgYBAABdVg9JFxZbVhYODUVUWB5AXRkWUhYNA19tV10UWFJRFl4PTQlZShBdWmsHVVVVXAYaW0AGRk9AWkFDGlhfRFhYSENaDEEUU0ZRFlleTVheThoCDUIKFxBKEAkaMWgTGBYBGUwAWxVbXVoWWRJMRxBOGggRaBYGEUdAVlkPVEMWDkZRGkkXC1NKa1cMXlZRURZRDgxERllAAhAfGg9eX11ACxNnFVwCEAhaQQ9cRQ\\u003d\\u003d\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgpb58-kcY1GofMUe6NwovG2L8GN7JGneZKw&usqp=CAU",
+    "nameen": "NETFLIX KIDS 2 1080P",
+    "position": "8",
+    "type": "channel",
+    "key": "عربي_arab"
+  },
+  {
+    "namear": "NETFLIX DRAMA 1 1080P",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NETFLIX DRAMA 1 1080P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://144.76.157.86:8080/Bein TV/Bein VIP/123970?token\\u003dGhoNVBVaEA4WWwMNBgtTWQJTBlQAVAECVQoGUwENUlcEDFAAU1AHAwZBHBpHRhBdAA9oDQdACQMBDFEJABgWERJdF2oPVhAOFlcACAUAUBpNQEMNDgcRCAIOVgYBAABdVg9JFxZbVhYODUVUWB5AXRkWUhYNA19tV10UWFJRFl4PTQlZShBdWmsHVVVVXAYaW0AGRk9AWkFDGlhfRFhYSENaDEEUU0ZRFlleTVheThoCDUIKFxBKEAkaMWgTGBYBGUwAWxVbXVoWWRJMRxBOGggRaBYGEUdAVlkPVEMWDkZRGkkXC1NKa1cMXlZRURZRDgxERllAAhAfGg9eX11ACxNnFVwCEAhaQQ9cRQ\\u003d\\u003d\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgpb58-kcY1GofMUe6NwovG2L8GN7JGneZKw&usqp=CAU",
+    "nameen": "NETFLIX DRAMA 1 1080P",
+    "position": "9",
+    "type": "channel",
+    "key": "عربي_arab"
+  },
+  {
+    "namear": "NETFLIX DRAMA 2 1080P",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NETFLIX DRAMA 2 1080P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://144.76.157.86:8080/Bein TV/Bein VIP/123969?token\\u003dGhoNVBVaEA4WWwMNBgtTWQJTBlQAVAECVQoGUwENUlcEDFAAU1AHAwZBHBpHRhBdAA9oDQdACQMBDFEJABgWERJdF2oPVhAOFlcACAUAUBpNQEMNDgcRCAIOVgYBAABdVg9JFxZbVhYODUVUWB5AXRkWUhYNA19tV10UWFJRFl4PTQlZShBdWmsHVVVVXAYaW0AGRk9AWkFDGlhfRFhYSENaDEEUU0ZRFlleTVheThoCDUIKFxBKEAkaMWgTGBYBGUwAWxVbXVoWWRJMRxBOGggRaBYGEUdAVlkPVEMWDkZRGkkXC1NKa1cMXlZRURZRDgxERllAAhAfGg9eX11ACxNnFVwCEAhaQQ9cRQ\\u003d\\u003d\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgpb58-kcY1GofMUe6NwovG2L8GN7JGneZKw&usqp=CAU",
+    "nameen": "NETFLIX DRAMA 2 1080P",
+    "position": "10",
+    "type": "channel",
+    "key": "عربي_arab"
+  },
+  {
+    "namear": "NETFLIX ANIME 1 1080P",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NETFLIX ANIME 1 1080P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://144.76.157.86:8080/Bein TV/Bein VIP/123965?token\\u003dGhoNVBVaEA4WWwMNBgtTWQJTBlQAVAECVQoGUwENUlcEDFAAU1AHAwZBHBpHRhBdAA9oDQdACQMBDFEJABgWERJdF2oPVhAOFlcACAUAUBpNQEMNDgcRCAIOVgYBAABdVg9JFxZbVhYODUVUWB5AXRkWUhYNA19tV10UWFJRFl4PTQlZShBdWmsHVVVVXAYaW0AGRk9AWkFDGlhfRFhYSENaDEEUU0ZRFlleTVheThoCDUIKFxBKEAkaMWgTGBYBGUwAWxVbXVoWWRJMRxBOGggRaBYGEUdAVlkPVEMWDkZRGkkXC1NKa1cMXlZRURZRDgxERllAAhAfGg9eX11ACxNnFVwCEAhaQQ9cRQ\\u003d\\u003d\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgpb58-kcY1GofMUe6NwovG2L8GN7JGneZKw&usqp=CAU",
+    "nameen": "NETFLIX ANIME 1 1080P",
+    "position": "11",
+    "type": "channel",
+    "key": "عربي_arab"
+  },
+  {
+    "namear": "NETFLIX SCI-FI 1 1080P",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NETFLIX SCI-FI 1 1080P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://144.76.157.86:8080/Bein TV/Bein VIP/123964?token\\u003dGhoNVBVaEA4WWwMNBgtTWQJTBlQAVAECVQoGUwENUlcEDFAAU1AHAwZBHBpHRhBdAA9oDQdACQMBDFEJABgWERJdF2oPVhAOFlcACAUAUBpNQEMNDgcRCAIOVgYBAABdVg9JFxZbVhYODUVUWB5AXRkWUhYNA19tV10UWFJRFl4PTQlZShBdWmsHVVVVXAYaW0AGRk9AWkFDGlhfRFhYSENaDEEUU0ZRFlleTVheThoCDUIKFxBKEAkaMWgTGBYBGUwAWxVbXVoWWRJMRxBOGggRaBYGEUdAVlkPVEMWDkZRGkkXC1NKa1cMXlZRURZRDgxERllAAhAfGg9eX11ACxNnFVwCEAhaQQ9cRQ\\u003d\\u003d\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgpb58-kcY1GofMUe6NwovG2L8GN7JGneZKw&usqp=CAU",
+    "nameen": "NETFLIX SCI-FI 1 1080P",
+    "position": "12",
+    "type": "channel",
+    "key": "عربي_arab"
+  },
+  {
+    "namear": "NETFLIX SCI-FI 2 1080P",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NETFLIX SCI-FI 2 1080P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://144.76.157.86:8080/Bein TV/Bein VIP/123963?token\\u003dGhoNVBVaEA4WWwMNBgtTWQJTBlQAVAECVQoGUwENUlcEDFAAU1AHAwZBHBpHRhBdAA9oDQdACQMBDFEJABgWERJdF2oPVhAOFlcACAUAUBpNQEMNDgcRCAIOVgYBAABdVg9JFxZbVhYODUVUWB5AXRkWUhYNA19tV10UWFJRFl4PTQlZShBdWmsHVVVVXAYaW0AGRk9AWkFDGlhfRFhYSENaDEEUU0ZRFlleTVheThoCDUIKFxBKEAkaMWgTGBYBGUwAWxVbXVoWWRJMRxBOGggRaBYGEUdAVlkPVEMWDkZRGkkXC1NKa1cMXlZRURZRDgxERllAAhAfGg9eX11ACxNnFVwCEAhaQQ9cRQ\\u003d\\u003d\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgpb58-kcY1GofMUe6NwovG2L8GN7JGneZKw&usqp=CAU",
+    "nameen": "NETFLIX SCI-FI 2 1080P",
+    "position": "13",
+    "type": "channel",
+    "key": "عربي_arab"
+  },
+  {
+    "namear": "NETFLIX DISNEY 1 720P",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NETFLIX DISNEY 1 720P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://5.9.78.81:8880/Bein TV/Bein VIP/122578?token\\u003dGhoNVBVaEA4WWwMNBgtTWQJTBlQAVAECVQoGUwENUlcEDFAAU1AHAwZBHBpHRhBdAA9oDQdACQMBDFEJABgWERJdF2oPVhAOFlcACAUAUBpNQEMNDgcRCAIOVgYBAABdVg9JFxZbVhYODUVUWB5AXRkWUhYNA19tV10UWFJRFl4PTQlZShBdWmsHVVVVXAYaW0AGRk9AWkFDGlhfRFhYSENaDEEUU0ZRFlleTVheThoCDUIKFxBKEAkaMWgTGBYBGUwAWxVbXVoWWRJMRxBOGggRaBYGEUdAVlkPVEMWDkZRGkkXC1NKa1cMXlZRURZRDgxERllAAhAfGg9eX11ACxNnFVwCEAhaQQ9cRQ\\u003d\\u003d\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgpb58-kcY1GofMUe6NwovG2L8GN7JGneZKw&usqp=CAU",
+    "nameen": "NETFLIX DISNEY 1 720P",
+    "position": "14",
+    "type": "channel",
+    "key": "عربي_arab"
+  },
+  {
+    "namear": "NETFLIX DISNEY 2 720P",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NETFLIX DISNEY 2 720P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://5.9.78.81:8880/Bein TV/Bein VIP/122579?token\\u003dGhoNVBVaEA4WWwMNBgtTWQJTBlQAVAECVQoGUwENUlcEDFAAU1AHAwZBHBpHRhBdAA9oDQdACQMBDFEJABgWERJdF2oPVhAOFlcACAUAUBpNQEMNDgcRCAIOVgYBAABdVg9JFxZbVhYODUVUWB5AXRkWUhYNA19tV10UWFJRFl4PTQlZShBdWmsHVVVVXAYaW0AGRk9AWkFDGlhfRFhYSENaDEEUU0ZRFlleTVheThoCDUIKFxBKEAkaMWgTGBYBGUwAWxVbXVoWWRJMRxBOGggRaBYGEUdAVlkPVEMWDkZRGkkXC1NKa1cMXlZRURZRDgxERllAAhAfGg9eX11ACxNnFVwCEAhaQQ9cRQ\\u003d\\u003d\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgpb58-kcY1GofMUe6NwovG2L8GN7JGneZKw&usqp=CAU",
+    "nameen": "NETFLIX DISNEY 2 720P",
+    "position": "15",
+    "type": "channel",
+    "key": "عربي_arab"
+  },
+  {
+    "namear": "NETFLIX AFLAM 1 720P",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NETFLIX AFLAM 1 720P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://5.9.78.81:8880/Bein TV/Bein VIP/122582?token\\u003dGhoNVBVaEA4WWwMNBgtTWQJTBlQAVAECVQoGUwENUlcEDFAAU1AHAwZBHBpHRhBdAA9oDQdACQMBDFEJABgWERJdF2oPVhAOFlcACAUAUBpNQEMNDgcRCAIOVgYBAABdVg9JFxZbVhYODUVUWB5AXRkWUhYNA19tV10UWFJRFl4PTQlZShBdWmsHVVVVXAYaW0AGRk9AWkFDGlhfRFhYSENaDEEUU0ZRFlleTVheThoCDUIKFxBKEAkaMWgTGBYBGUwAWxVbXVoWWRJMRxBOGggRaBYGEUdAVlkPVEMWDkZRGkkXC1NKa1cMXlZRURZRDgxERllAAhAfGg9eX11ACxNnFVwCEAhaQQ9cRQ\\u003d\\u003d\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgpb58-kcY1GofMUe6NwovG2L8GN7JGneZKw&usqp=CAU",
+    "nameen": "NETFLIX AFLAM 1 720P",
+    "position": "16",
+    "type": "channel",
+    "key": "عربي_arab"
+  },
+  {
+    "namear": "NETFLIX AFLAM 2 720P",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NETFLIX AFLAM 2 720P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://5.9.78.81:8880/Bein TV/Bein VIP/122583?token\\u003dGhoNVBVaEA4WWwMNBgtTWQJTBlQAVAECVQoGUwENUlcEDFAAU1AHAwZBHBpHRhBdAA9oDQdACQMBDFEJABgWERJdF2oPVhAOFlcACAUAUBpNQEMNDgcRCAIOVgYBAABdVg9JFxZbVhYODUVUWB5AXRkWUhYNA19tV10UWFJRFl4PTQlZShBdWmsHVVVVXAYaW0AGRk9AWkFDGlhfRFhYSENaDEEUU0ZRFlleTVheThoCDUIKFxBKEAkaMWgTGBYBGUwAWxVbXVoWWRJMRxBOGggRaBYGEUdAVlkPVEMWDkZRGkkXC1NKa1cMXlZRURZRDgxERllAAhAfGg9eX11ACxNnFVwCEAhaQQ9cRQ\\u003d\\u003d\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgpb58-kcY1GofMUe6NwovG2L8GN7JGneZKw&usqp=CAU",
+    "nameen": "NETFLIX AFLAM 2 720P",
+    "position": "17",
+    "type": "channel",
+    "key": "عربي_arab"
+  }
+]

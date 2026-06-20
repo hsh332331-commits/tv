@@ -1,0 +1,884 @@
+[
+  {
+    "namear": "Adjugé vendu !",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Adjugé vendu !\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64bab8ba5dc1660008969b5a/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e06ff28-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d5c583725-776e-440c-a02f-17dca14750d3\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Adjugé vendu !",
+    "position": "1",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Alerte Cobra",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Alerte Cobra\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f3e4bc08f5ec000744f552/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e06b105-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003de8eddbbb-a9fd-424c-9473-64dc6420b913\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Alerte Cobra",
+    "position": "2",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Angela Anaconda",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Angela Anaconda\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e73687fcd580007d1f052/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e063bd1-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d28121508-e373-4b45-8f21-c48bbc48ecda\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Angela Anaconda",
+    "position": "3",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Avatar",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Avatar\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60b4c17a81e29300071d3a39/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e05edb7-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d640a4092-5016-4d01-bcbf-d66e4f7aa21d\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Avatar",
+    "position": "4",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "BBC Drama",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BBC Drama\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d35a74c63c3c0008df6a90/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e0614c5-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003deff52b4b-c804-4f5a-968a-d48a2898e184\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "BBC Drama",
+    "position": "5",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Bob l'éponge",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Bob l\\u0027éponge\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ffc8c345822750007e167de/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e059f93-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003deb72cd85-f8e2-414a-99d0-c0cd8a98518d\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Bob l'éponge",
+    "position": "6",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Bubble Guppies",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Bubble Guppies\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/618e3c1106d23b0007366723/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e0662e5-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d7d78b066-1897-473b-a861-c3b256c623ae\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Bubble Guppies",
+    "position": "7",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "C'est pas sorcier",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"C\\u0027est pas sorcier\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63b579961bdba100071214cb/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e06ff23-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d410cc83b-4396-41a0-b726-70e8f1e3fea4\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "C'est pas sorcier",
+    "position": "8",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "CATFISH TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CATFISH TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8eb66537867f0007146953/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e04b530-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d49bb6c77-a3e5-4314-90b2-4494da60cda0\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "CATFISH TV",
+    "position": "9",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "CBS News 24/7",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CBS News 24/7\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6231ec93779a9d00079ba8e2/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e0689f3-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dfed25d80-74f3-47d1-a87b-51755ac6ef8a\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "CBS News 24/7",
+    "position": "10",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Charlotte aux Fraises",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Charlotte aux Fraises\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60dc6937b450ad0007377e48/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e0614c7-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d647718a5-2915-4d3e-af3e-84f437cb7b7e\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Charlotte aux Fraises",
+    "position": "11",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Coeur Océan",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Coeur Océan\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f3dd1c2f29ce0007e18596/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e06b102-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d0031c60f-4d94-4726-b1ae-5054583e82c7\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Coeur Océan",
+    "position": "12",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Degrassi",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Degrassi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e71322f5f180007001dde/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e063bd0-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003db13bbde4-6ce3-474b-9630-e27748ff481f\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Degrassi",
+    "position": "13",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Detective Conan",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Detective Conan\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f3e8ad2a8e8000077b013d/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e06b107-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d165463a5-b9d3-452a-84d9-0cf94452227f\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Detective Conan",
+    "position": "14",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Digimon Adventure",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Digimon Adventure\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/617bae1d69bca3000729561e/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e0662e2-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dd081da78-acbb-459e-9034-63720548296e\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Digimon Adventure",
+    "position": "15",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Dora TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Dora TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ecb9524419b0007365a1c/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e050350-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dc938e920-2111-4877-9e36-97d7a0a0d005\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Dora TV",
+    "position": "16",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Dossiers FBI",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Dossiers FBI\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8edad922b10b000753bc37/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e057883-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003da243842a-2a92-4ca0-bdea-73f35b29bf5c\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Dossiers FBI",
+    "position": "17",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Echappées Belles & Co",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Echappées Belles \\u0026 Co\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63b578b524f0cf00072f2a52/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e06ff22-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d3edb47ac-db16-4729-ab4d-d838f822b945\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Echappées Belles & Co",
+    "position": "18",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Enquêtes de Choc",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Enquêtes de Choc\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63921a1bf76e7d0007c998a6/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e06d816-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d7931c2bb-1392-4543-8cc4-684661cfd449\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Enquêtes de Choc",
+    "position": "19",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Euronews",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Euronews\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d35bcaf1ff4a00078af0a6/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e0614c6-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d90bc590c-c00a-4ff4-b9e2-ad20ea686992\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Euronews",
+    "position": "20",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "FailArmy",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"FailArmy\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ecd9169d2d4000864a974/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e052a61-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d9b7a96a5-bbde-4e9f-8dd8-997f6a97611f\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "FailArmy",
+    "position": "21",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Family Club",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Family Club\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c9260ac0222700089ee62b/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e072631-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d364c137f-40b0-4bdd-a96c-0065bd886eaf\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Family Club",
+    "position": "22",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Génération Sitcoms",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Génération Sitcoms\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60afb203ec391c00070ea1bf/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e05edb6-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d268b6554-9dcf-4fcd-bcd8-d9cb017d0cd0\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Génération Sitcoms",
+    "position": "23",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Hélène et les garçons",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Hélène et les garçons\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604f8de01b479400078fb1e7/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e05c6a0-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d081319e1-aad5-46bc-a821-8d7f431286e4\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Hélène et les garçons",
+    "position": "24",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Homicide",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Homicide\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63921a3d00c96100082a3cb4/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e06ff20-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d565ac5c2-e1ef-42f5-ae84-d1094ca9e136\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Homicide",
+    "position": "25",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "iCarly TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"iCarly TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ecc7aa44d9c00081fca29/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e050352-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003deaebd5fc-5255-402d-a88a-1c56b0f17230\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "iCarly TV",
+    "position": "26",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "INA 70",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"INA 70\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/639b54404cfdf7000729b3c1/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e06ff21-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d95c3471a-db5b-4447-994a-2655607bc4b2\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "INA 70",
+    "position": "27",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Inazuma Eleven",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Inazuma Eleven\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e75226b7f420007c3f319/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e063bd2-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d80879397-91d6-4d71-9c36-ad9f3ac25c0e\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Inazuma Eleven",
+    "position": "28",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Instant Saga",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Instant Saga\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60549e98061b5f000776866a/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e05c6a3-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d16bbfa2e-016b-4b40-921e-897d0f478a5e\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Instant Saga",
+    "position": "29",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Just Tattoo of Us",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Just Tattoo of Us\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6304f20c941c5d00089634e7/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e06d813-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dbd619bf4-9a83-4ae8-86d7-ec8f0db9023c\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Just Tattoo of Us",
+    "position": "30",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Juste pour Rire",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Juste pour Rire\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e05edb3-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003da0ee8bde-7a09-45e2-b51d-4cf3012304cd\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Juste pour Rire",
+    "position": "31",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Le miracle de l'amour",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Le miracle de l\\u0027amour\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60549c238c3f21000753d3e0/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e05c6a1-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d21b0efd4-95cf-47d3-8340-8a9081e64732\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Le miracle de l'amour",
+    "position": "32",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Les Années fac",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Les Années fac\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60afae68a7fc50000737186d/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e05edb5-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003df7ccca4e-2376-4b24-b7e1-561c50fd11f1\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Les Années fac",
+    "position": "33",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Les Cordier",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Les Cordier\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed80fa09f120007c8daa5/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e057881-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d5245267d-c5fb-4400-bd66-dc84e2d51b0d\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Les Cordier",
+    "position": "34",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Les filles d'à côté",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Les filles d\\u0027à côté\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60549d97cd7b090007c73314/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e05c6a2-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d61cfbbdf-3d49-4d7f-8543-a26adf49304b\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Les filles d'à côté",
+    "position": "35",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Les Nouveaux Detectives",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Les Nouveaux Detectives\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8edb6df1ebb800072edf10/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e057884-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d887f2f41-cfec-4cf3-9d93-fd01cf780148\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Les Nouveaux Detectives",
+    "position": "36",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Les Z'amours",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Les Z\\u0027amours\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/652d0b756208700008d758ad/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e072637-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d71d0e873-d985-45af-839e-e1df31b4c82c\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Les Z'amours",
+    "position": "37",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Louis La Brocante",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Louis La Brocante\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed6d569d2d4000864a976/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e057880-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003de2513a1b-6870-4923-9291-f318e9804044\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Louis La Brocante",
+    "position": "38",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "MacGyver",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MacGyver\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245ccd0c6cdb800074632e4/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e0689f4-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dc819e186-9c9f-4c4c-b2a0-ab6e0dee5fab\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MacGyver",
+    "position": "39",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Melrose Place",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Melrose Place\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245ceece1977a00079e2fbd/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e0689f5-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d10e5d770-d56c-414c-8e80-dedbac870ea5\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Melrose Place",
+    "position": "40",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Monster Jam",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Monster Jam\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655e053efbc15b00082277de/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e074d41-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003ddf261cab-9eb5-4b1b-9e27-67395bdf79ab\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Monster Jam",
+    "position": "41",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "MTV CLASSICS",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MTV CLASSICS\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f92b56a367e170007cd43f4/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e057887-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d26866fb9-ab48-465b-85a8-8314ba7340fa\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MTV CLASSICS",
+    "position": "42",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "MTV Classics+",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MTV Classics+\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff5ec5500d4c70007341c7c/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e059f92-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d457511ca-61ab-4eec-b63a-a8f7fbd11f13\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MTV Classics+",
+    "position": "43",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Nature Time",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Nature Time\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61fc0df14159c40007250432/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e0689f1-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dc6eb9bb4-6b13-4301-ab2b-7475ad0a7145\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Nature Time",
+    "position": "44",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "One Piece",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"One Piece\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6380c94947c72b0007ee9a13/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e06d815-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d011422f0-e50a-4334-9bb5-b01fe7684ef5\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "One Piece",
+    "position": "45",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Pluto TV Action",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Action\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e055171-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dc3b67254-4628-4f0e-8164-5a50e8969a42\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Action",
+    "position": "46",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Pluto TV Animaux",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Animaux\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e05edb2-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d754cd30f-6a34-42d3-9e06-63128a8e07e3\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Animaux",
+    "position": "47",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Pluto TV Aventure",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Aventure\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e7811eb9daf000764cbfd/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e063bd4-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003df4bcb3a3-c66e-47ef-80c5-fcf29cba6e6a\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Aventure",
+    "position": "48",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Pluto TV Catastrophe",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Catastrophe\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a69ef53af63d000825e0ee/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e074d42-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d68b1c3a0-a3f2-41b3-ae05-e83e4e687617\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Catastrophe",
+    "position": "49",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Pluto TV Ciné",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Ciné\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed0f17564a300082b676a/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e052a64-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003daaa3f7a8-585d-4916-bff9-f90769b38333\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Ciné",
+    "position": "50",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Pluto TV Ciné d'Asie",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Ciné d\\u0027Asie\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f3e2d000418d00070f7dbc/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e06b104-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d05e57977-cc39-4403-b3e6-4865a2677ec1\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Ciné d'Asie",
+    "position": "51",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Pluto TV Ciné Rétro",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Ciné Rétro\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e055170-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d16087aae-45a5-4664-9dd5-7ba7c4fa78cf\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Ciné Rétro",
+    "position": "52",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Pluto TV Ciné+",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Ciné+\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff5eb810e2996000768c0e2/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e059f91-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d08ff6b98-d06f-4b08-acd6-c97e0886ea1f\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Ciné+",
+    "position": "53",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Pluto TV Classic Hip-Hop",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Classic Hip-Hop\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/625e79fe9b586d000785e330/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e0689f6-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d04ab907e-f979-4513-97f3-a176d33db0f6\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Classic Hip-Hop",
+    "position": "54",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Pluto TV Classic Rock",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Classic Rock\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6447d08f2858cb0008b9957c/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e06ff26-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d713ee127-0f8a-4167-a669-0f01b34cc722\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Classic Rock",
+    "position": "55",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Pluto TV Classic TV FR",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Classic TV FR\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e46ae801f347500099d461a/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e046710-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dd5a0b272-dd4e-43ac-a7de-c838f640afd0\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Classic TV FR",
+    "position": "56",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Pluto TV Comédie",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Comédie\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8eb91bb9b9e7000817e67f/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e04dc40-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d7eeb5026-2fd1-4f02-8b21-df9f69932d00\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Comédie",
+    "position": "57",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Pluto TV Cuisine",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Cuisine\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed48146ba9e00078424b6/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e055175-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dd65e7814-007f-4b37-ac42-189f2577bbff\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Cuisine",
+    "position": "58",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Pluto TV French Collection",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV French Collection\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f3e0522443200008c567d7/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e06b103-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d4bbc9d99-9639-4d56-9418-ebeff0d039f1\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV French Collection",
+    "position": "59",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Pluto TV Histoire",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Histoire\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e771e2f5f180007002224/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e063bd3-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003da7663e8d-062c-4293-9b93-a2bd07b5cb20\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Histoire",
+    "position": "60",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Pluto TV Inside",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Inside\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed3892ed7bb000741a1d2/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e055174-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d487dd86d-4b70-41e0-bab7-33de0eda4283\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Inside",
+    "position": "61",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Pluto TV Investigation",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Investigation\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f914f4b36d67d0007a91a04/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e057885-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003da6c08e34-78b6-42cf-bca2-5017c1566c3c\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Investigation",
+    "position": "62",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Pluto TV Junior",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Junior\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ecb336537e8000764a17f/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e04dc43-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d39cb1f02-1907-4cc7-8224-1bd6adfb09bc\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Junior",
+    "position": "63",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Pluto TV Kids Animation",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Kids Animation\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8eba14a4ffb8000764e950/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e04dc42-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d1894d5d0-76ab-4321-9f74-30abda806f6e\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Kids Animation",
+    "position": "64",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Pluto TV Kids Classics",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Kids Classics\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654a58dbf9cc82000868f0fb/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e072639-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003df64d55f0-5a5d-460e-9d8f-a12bb3309360\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Kids Classics",
+    "position": "65",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Pluto TV Kids Gaming",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Kids Gaming\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e6ddc7fcd580007d1eb5f/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e0614c9-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003de5e05ce9-206e-4e18-bc1a-aeaae6cc75d3\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Kids Gaming",
+    "position": "66",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Pluto TV Kids Séries",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Kids Séries\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8eb99ff17815000784a3b0/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e04dc41-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d1b78d402-2a11-47c6-a674-a4b8f5098e41\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Kids Séries",
+    "position": "67",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Pluto TV Love Songs",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Love Songs\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/619b80acac5329000740c022/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e0662e7-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003daf267621-bff5-4a9c-8852-07f7c4aef3de\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Love Songs",
+    "position": "68",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Pluto TV Paranormal",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Paranormal\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed9461b35690007a0bc3a/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e057882-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d71e28713-4d07-4b50-8bdf-ede6b2fac167\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Paranormal",
+    "position": "69",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Pluto TV Polar",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Polar\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed4dbf6bb0800071ffbcb/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e055176-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d13a0cdb7-ad38-4359-a137-634d80c1b23b\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Polar",
+    "position": "70",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Pluto TV Polar+",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Polar+\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ffebbeabd18520007b37709/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e059f94-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d8c0239cc-0d96-4499-b1e3-83502189015d\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Polar+",
+    "position": "71",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Pluto TV Rap",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Rap\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65d4be214e01740008991d3b/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e074d46-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d7259af3a-5d9c-4d37-ba1b-3afdd9ec3b10\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Rap",
+    "position": "72",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Pluto TV Reality",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Reality\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6092544e7639460007d4835e/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e05edb1-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d97ed3328-d359-49d3-914f-a68568384f64\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Reality",
+    "position": "73",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Pluto TV Retro Toons",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Retro Toons\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e6a9b4bb5790007a6f0f8/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e0614c8-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003de3784c13-5aeb-4c18-bd31-9334376945c6\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Retro Toons",
+    "position": "74",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Pluto TV Romance",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Romance\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60812fc8539963000707d1e1/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e05c6a4-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dd84357a9-e5ec-4c91-a037-9a426fa2cdff\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Romance",
+    "position": "75",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Pluto TV Sci-Fi",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Sci-Fi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c34592c911890007f29a73/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e0614c1-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d6b2680c6-291b-492d-a7cf-589b55d330d2\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Sci-Fi",
+    "position": "76",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Pluto TV Series",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Series\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed2d1c34c2300073bf02c/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e055172-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d4bf0c406-dfcb-4037-8de6-bd12c393c6a5\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Series",
+    "position": "77",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Pluto TV Séries Fantastiques",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Séries Fantastiques\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/625ec7a1c853fd00073b38fd/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e0689f7-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d73335f0a-bb15-4a60-b2d2-8eaac6dadf6f\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Séries Fantastiques",
+    "position": "78",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Pluto TV Super Kids",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Super Kids\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/652557d93fd33c000802f995/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e072636-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d3cdbfc7d-6e82-40c4-be54-7974658b4cc2\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Super Kids",
+    "position": "79",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Pluto TV Thrillers",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Thrillers\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c3472a51a2050008dad272/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e0614c2-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003db27ed94e-1347-4dd0-af99-b2e901fd5e71\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Thrillers",
+    "position": "80",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Pluto TV Western",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Western\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cca3e2ec452d0008af3a65/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e074d44-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dbae761e4-0e1a-4102-8f5e-fa657934946c\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Western",
+    "position": "81",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Qui veut gagner des millions?",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Qui veut gagner des millions?\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/652d0b9ceb72580008a4ea5b/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e072638-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003daa2f770a-beb0-4b2b-a263-f675cf594993\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Qui veut gagner des millions?",
+    "position": "82",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Realmadrid TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Realmadrid TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65f96c0c2873090008d356d1/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e077450-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003da4abe5c4-6a8e-4dcd-9dda-9d882f0a93fb\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Realmadrid TV",
+    "position": "83",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Ridiculousness",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Ridiculousness\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8eb8a8b2619a000710605c/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e04b532-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d62fcc810-774f-4c6c-8c43-6a67070856ac\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Ridiculousness",
+    "position": "84",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Sabrina la série animée",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sabrina la série animée\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e78c4954f250007ef7b84/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e063bd5-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dd91f8235-755b-4e9c-8062-05d444de314d\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Sabrina la série animée",
+    "position": "85",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Teen Mom",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Teen Mom\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f3f05505e621000783df2f/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e06d811-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003ded84458b-d963-4758-88f3-5745e78c08a4\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Teen Mom",
+    "position": "86",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "The Asylum",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"The Asylum\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ece1a89d79800072510e6/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e052a62-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d1739a4c5-d7e2-41f4-aa40-91bb650267c5\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "The Asylum",
+    "position": "87",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Top Gear",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Top Gear\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c1093824ade50008bd117f/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e06ff29-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dc899871e-cbc2-427a-96ca-5b12be666bec\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Top Gear",
+    "position": "88",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Tortues Ninja TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Tortues Ninja TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ecc1b37867f00071469e9/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e050351-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d8626ec32-5f10-4aef-bfdb-f5495f6d4ff1\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Tortues Ninja TV",
+    "position": "89",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Toute une histoire",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Toute une histoire\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f3e6aebcdda4000754fa47/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e06b106-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d944d6772-86fc-4c0e-8d05-e958415ee0be\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Toute une histoire",
+    "position": "90",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Un gars une fille",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Un gars une fille\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f3ece7b09fd6000783bfb9/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e06d810-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dd4806e73-8205-4c2d-96f4-b4107c552c9a\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Un gars une fille",
+    "position": "91",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Un Village Français",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Un Village Français\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6304f2e2eb10450007298023/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e06d814-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dd68b6dc2-69b4-4a6c-9775-d8cca16bea85\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Un Village Français",
+    "position": "92",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Victorious",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Victorious\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64bab8830e086a0009d44273/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e06ff27-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dd562924d-7b50-4dfa-bcf9-0cb983d72a29\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Victorious",
+    "position": "93",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Walker Texas Ranger",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Walker Texas Ranger\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60afa749ac7f3200078adb40/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e05edb4-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d53334da2-2bf6-4492-9d72-20248eaff31c\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Walker Texas Ranger",
+    "position": "94",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Wild Side TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Wild Side TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60b4d6c806ad2a00073b3108/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e0614c0-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dd329ef28-8c5a-4451-bc8a-ab7d7083f320\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Wild Side TV",
+    "position": "95",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "WPT",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"WPT\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ecfb9db6c180007a6d1b0/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e052a63-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d6b59a91e-3da5-46c2-b495-c383ef6eaa90\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "WPT",
+    "position": "96",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Y'a que la vérité qui compte",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Y\\u0027a que la vérité qui compte\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/612e044c970e6f00083bcf3b/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e063bd6-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d2371cf64-2e91-492c-9f0c-c88a7f973944\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Y'a que la vérité qui compte",
+    "position": "97",
+    "type": "channel",
+    "key": "français"
+  },
+  {
+    "namear": "Yu-Gi-Oh!",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Yu-Gi-Oh!\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6130d9c712c2b000070abb50/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d8e063bd7-1f2c-11ef-86d8-5d587df108c6\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d9dfe906b-1b35-424b-b7f0-ed75c3050f92\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Yu-Gi-Oh!",
+    "position": "98",
+    "type": "channel",
+    "key": "français"
+  }
+]

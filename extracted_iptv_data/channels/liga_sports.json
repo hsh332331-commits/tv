@@ -1,0 +1,92 @@
+[
+  {
+    "namear": "Eng",
+    "servers": "[{\"headers\":\"\",\"license\":\"0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd\"}]",
+    "logo": "https://images.bfmtv.com/C5rkv8VPD84yH7JKiGKYN3sHkOE=/0x0:0x0/400x0/site_manager_images/image_contenu3_top_categories_1688048101027_1732458001199.png",
+    "nameen": "Eng",
+    "position": "5",
+    "type": "channel",
+    "key": "liga_sports"
+  },
+  {
+    "namear": "Seta",
+    "servers": "[{\"headers\":\"\",\"license\":\"8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuOuNOvPkw0ifxNdEd3xy-T7y36NsfW_wggJIBwqFNcQ&s=10",
+    "nameen": "Seta",
+    "position": "6",
+    "type": "channel",
+    "key": "liga_sports"
+  },
+  {
+    "namear": "Fanacode",
+    "servers": "[{\"headers\":\"\",\"license\":\"065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd\"}]",
+    "logo": "https://images.bfmtv.com/C5rkv8VPD84yH7JKiGKYN3sHkOE=/0x0:0x0/400x0/site_manager_images/image_contenu3_top_categories_1688048101027_1732458001199.png",
+    "nameen": "Fanacode",
+    "position": "7",
+    "type": "channel",
+    "key": "liga_sports"
+  },
+  {
+    "namear": "PRM1",
+    "servers": "[{\"headers\":\"\",\"license\":\"1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd\"}]",
+    "logo": "https://images.bfmtv.com/C5rkv8VPD84yH7JKiGKYN3sHkOE=/0x0:0x0/400x0/site_manager_images/image_contenu3_top_categories_1688048101027_1732458001199.png",
+    "nameen": "PRM1",
+    "position": "9",
+    "type": "channel",
+    "key": "liga_sports"
+  },
+  {
+    "namear": "SKY",
+    "servers": "[{\"headers\":\"Referer|https://gooz.aapmains.net/|\",\"license\":\"95b52d16d344af539ce9c2c9ff95571a:5f035d9c4a178221f89d2439426b2e9a\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://gooz.aapmains.net/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://aca-live-ott.izzigo.tv/7/out/u/dash/SKY-SPORTS-16-HD-H265/default.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s",
+    "nameen": "SKY",
+    "position": "9",
+    "type": "channel",
+    "key": "liga_sports"
+  },
+  {
+    "namear": "Liga",
+    "servers": "[{\"headers\":\"\",\"license\":\"620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd\"}]",
+    "logo": "https://images.bfmtv.com/C5rkv8VPD84yH7JKiGKYN3sHkOE=/0x0:0x0/400x0/site_manager_images/image_contenu3_top_categories_1688048101027_1732458001199.png",
+    "nameen": "Liga",
+    "position": "10",
+    "type": "channel",
+    "key": "liga_sports"
+  },
+  {
+    "namear": "Dazn1",
+    "servers": "[{\"headers\":\"\",\"license\":\"d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1WqnudkeW3yyQknO2tBwMhYAID9P34K56GEKtFUPSrg&s=10",
+    "nameen": "Dazn1",
+    "position": "88",
+    "type": "channel",
+    "key": "liga_sports"
+  },
+  {
+    "namear": "Dazn2",
+    "servers": "[{\"headers\":\"\",\"license\":\"29cd88140a812a06a8b7545c258235c9:e7cac95c5c591af733ab6e13892abc81\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/tdk3bssrpb/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1WqnudkeW3yyQknO2tBwMhYAID9P34K56GEKtFUPSrg&s=10",
+    "nameen": "Dazn2",
+    "position": "89",
+    "type": "channel",
+    "key": "liga_sports"
+  },
+  {
+    "namear": "Dazn3",
+    "servers": "[{\"headers\":\"\",\"license\":\"d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1WqnudkeW3yyQknO2tBwMhYAID9P34K56GEKtFUPSrg&s=10",
+    "nameen": "Dazn3",
+    "position": "90",
+    "type": "channel",
+    "key": "liga_sports"
+  },
+  {
+    "namear": "La liga Inside",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"La liga Inside 🇪🇸\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8\"}]",
+    "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20241022T050545SQUARE.png",
+    "nameen": "La liga Inside",
+    "position": "112",
+    "type": "channel",
+    "key": "liga_sports"
+  }
+]

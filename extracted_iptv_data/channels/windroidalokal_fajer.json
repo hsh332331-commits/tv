@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "FAJER 1 ",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"FAJER 1 \",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/101.m3u8\"}]",
+    "logo": "https://www3.0zz0.com/2023/04/09/19/562803823.jpg",
+    "nameen": "FAJER 1 ",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidalokal_fajer"
+  },
+  {
+    "namear": "FAJER 2",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"FAJER 2\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/102.m3u8\"}]",
+    "logo": "https://www3.0zz0.com/2023/04/09/19/562803823.jpg",
+    "nameen": "FAJER 2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidalokal_fajer"
+  },
+  {
+    "namear": "FAJER 3",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"FAJER 3\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/103.m3u8\"}]",
+    "logo": "https://www3.0zz0.com/2023/04/09/19/562803823.jpg",
+    "nameen": "FAJER 3",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidalokal_fajer"
+  },
+  {
+    "namear": "FAJER 4",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"FAJER 4\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/104.m3u8\"}]",
+    "logo": "https://www3.0zz0.com/2023/04/09/19/562803823.jpg",
+    "nameen": "FAJER 4",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidalokal_fajer"
+  },
+  {
+    "namear": "FAJER 5",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"FAJER 5\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/105.m3u8\"}]",
+    "logo": "https://www3.0zz0.com/2023/04/09/19/562803823.jpg",
+    "nameen": "FAJER 5",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidalokal_fajer"
+  }
+]

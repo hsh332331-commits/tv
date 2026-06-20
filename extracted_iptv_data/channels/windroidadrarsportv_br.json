@@ -1,0 +1,29 @@
+[
+  {
+    "namear": "SPORTV 1 BR",
+    "servers": "[{\"headers\":\"jjjhhgttyuiiiloooooppp11user-Agent|jjjhhgttyuiiiloooooppp11user-Agent|jjjhhgttyuiiiloooooppp11user-Agent|jjjhhgttyuiiiloooooppp11\",\"otherHeaders\":\"\",\"name\":\"SPORTV 1 BR\",\"Referer\":\"\",\"userAgent\":\"jjjhhgttyuiiiloooooppp11user-Agent|jjjhhgttyuiiiloooooppp11\",\"position\":\"0\",\"url\":\"http://superblazertop.com.br.global.prod.fastly.net/live2/sportv/play2.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/23536208_ico.png",
+    "nameen": "SPORTV 1 BR",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarsportv_br"
+  },
+  {
+    "namear": "SPORTV 2 BR",
+    "servers": "[{\"headers\":\"jjjhhgttyuiiiloooooppp11user-Agent|jjjhhgttyuiiiloooooppp11user-Agent|jjjhhgttyuiiiloooooppp11user-Agent|jjjhhgttyuiiiloooooppp11\",\"otherHeaders\":\"\",\"name\":\"SPORTV 2 BR\",\"Referer\":\"\",\"userAgent\":\"jjjhhgttyuiiiloooooppp11user-Agent|jjjhhgttyuiiiloooooppp11\",\"position\":\"0\",\"url\":\"http://superblazertop.com.br.global.prod.fastly.net/live2/sportv2/play2.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/23536210_ico.png",
+    "nameen": "SPORTV 2 BR",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarsportv_br"
+  },
+  {
+    "namear": "SPORTV 3 BR",
+    "servers": "[{\"headers\":\"jjjhhgttyuiiiloooooppp11user-Agent|jjjhhgttyuiiiloooooppp11user-Agent|jjjhhgttyuiiiloooooppp11user-Agent|jjjhhgttyuiiiloooooppp11\",\"otherHeaders\":\"\",\"name\":\"SPORTV 3 BR\",\"Referer\":\"\",\"userAgent\":\"jjjhhgttyuiiiloooooppp11user-Agent|jjjhhgttyuiiiloooooppp11\",\"position\":\"0\",\"url\":\"http://superblazertop.com.br.global.prod.fastly.net/live2/sportv3/play2.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/23536213_ico.png",
+    "nameen": "SPORTV 3 BR",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarsportv_br"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "namear": "Pluto TV Animals (England) (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Animals (England) (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?advertisingId\\u003d\\u0026appName\\u003dweb\\u0026appStoreUrl\\u003d\\u0026appVersion\\u003dDNT\\u0026app_name\\u003d\\u0026architecture\\u003d\\u0026buildVersion\\u003d\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d5ddf8ea0d000120009bcad83\\u0026deviceLat\\u003d\\u0026deviceLon\\u003d\\u0026deviceMake\\u003dweb\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dDNT\\u0026includeExtendedEvents\\u003dfalse\\u0026marketingRegion\\u003dUS\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d550\\u0026terminate\\u003dfalse\\u0026userId\\u003d\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Animals (England) (720p)",
+    "position": "1",
+    "type": "channel",
+    "key": "uk"
+  },
+  {
+    "namear": "Pluto TV Antiques Roadshow UK (720p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Antiques Roadshow UK (720p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ce44810b421747ae467b7cd/master.m3u8?advertisingId\\u003dchannel\\u0026appName\\u003drokuchannel\\u0026appVersion\\u003d1.0\\u0026bmodel\\u003dbm1\\u0026channel_id\\u003dchannel\\u0026content\\u003dchannel\\u0026content_rating\\u003dROKU_ADS_CONTENT_RATING\\u0026content_type\\u003dlivefeed\\u0026coppa\\u003dfalse\\u0026deviceDNT\\u003d1\\u0026deviceId\\u003dchannel\\u0026deviceMake\\u003drokuChannel\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003drokuChannel\\u0026deviceVersion\\u003d1.0\\u0026embedPartner\\u003drokuChannel\\u0026genre\\u003dROKU_ADS_CONTENT_GENRE\\u0026is_lat\\u003d1\\u0026platform\\u003dweb\\u0026rdid\\u003dchannel\\u0026studio_id\\u003dviacom\\u0026tags\\u003dROKU_CONTENT_TAGS\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Antiques Roadshow UK (720p) [Not 24/7]",
+    "position": "2",
+    "type": "channel",
+    "key": "uk"
+  },
+  {
+    "namear": "Pluto TV Antiques Roadshow UK (240p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Antiques Roadshow UK (240p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce44810b421747ae467b7cd/master.m3u8?advertisingId\\u003d\\u0026appName\\u003dweb\\u0026appStoreUrl\\u003d\\u0026appVersion\\u003dDNT\\u0026app_name\\u003d\\u0026architecture\\u003d\\u0026buildVersion\\u003d\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d5ce44810b421747ae467b7cd\\u0026deviceLat\\u003d\\u0026deviceLon\\u003d\\u0026deviceMake\\u003dweb\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dDNT\\u0026includeExtendedEvents\\u003dfalse\\u0026marketingRegion\\u003dUS\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d621\\u0026terminate\\u003dfalse\\u0026userId\\u003d\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Antiques Roadshow UK (240p)",
+    "position": "3",
+    "type": "channel",
+    "key": "uk"
+  },
+  {
+    "namear": "Pluto TV Classic Movies (England) (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Classic Movies (England) (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d134a74ca91eedee1630faa/master.m3u8?advertisingId\\u003d\\u0026appName\\u003dweb\\u0026appStoreUrl\\u003d\\u0026appVersion\\u003dDNT\\u0026app_name\\u003d\\u0026architecture\\u003d\\u0026buildVersion\\u003d\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d5d134a74ca91eedee1630faa\\u0026deviceLat\\u003d\\u0026deviceLon\\u003d\\u0026deviceMake\\u003dweb\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dDNT\\u0026includeExtendedEvents\\u003dfalse\\u0026marketingRegion\\u003dUS\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d903\\u0026terminate\\u003dfalse\\u0026userId\\u003d\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Classic Movies (England) (720p)",
+    "position": "4",
+    "type": "channel",
+    "key": "uk"
+  },
+  {
+    "namear": "Pluto TV Classic TV (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Classic TV (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46ae801f347500099d461a/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d35f76fb0-e986-11eb-a0af-c3b401f46211\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d2fac39a7-56bc-492e-ae1e-3f6fb6cef1bc\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Classic TV (720p)",
+    "position": "5",
+    "type": "channel",
+    "key": "uk"
+  },
+  {
+    "namear": "Pluto TV Classic TV (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Classic TV (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d134a74ca91eedee1630faa/master.m3u8?advertisingId\\u003dchannel\\u0026appName\\u003drokuchannel\\u0026appVersion\\u003d1.0\\u0026bmodel\\u003dbm1\\u0026channel_id\\u003dchannel\\u0026content\\u003dchannel\\u0026content_rating\\u003dROKU_ADS_CONTENT_RATING\\u0026content_type\\u003dlivefeed\\u0026coppa\\u003dfalse\\u0026deviceDNT\\u003d1\\u0026deviceId\\u003dchannel\\u0026deviceMake\\u003drokuChannel\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003drokuChannel\\u0026deviceVersion\\u003d1.0\\u0026embedPartner\\u003drokuChannel\\u0026genre\\u003dROKU_ADS_CONTENT_GENRE\\u0026is_lat\\u003d1\\u0026platform\\u003dweb\\u0026rdid\\u003dchannel\\u0026studio_id\\u003dviacom\\u0026tags\\u003dROKU_CONTENT_TAGS\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Classic TV (720p)",
+    "position": "6",
+    "type": "channel",
+    "key": "uk"
+  },
+  {
+    "namear": "Pluto TV Crime (England) (720p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Crime (England) (720p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea18cd42ee5410007e349dc/master.m3u8?advertisingId\\u003d\\u0026appName\\u003dweb\\u0026appStoreUrl\\u003d\\u0026appVersion\\u003dDNT\\u0026app_name\\u003d\\u0026architecture\\u003d\\u0026buildVersion\\u003d\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d5ea18cd42ee5410007e349dc\\u0026deviceLat\\u003d\\u0026deviceLon\\u003d\\u0026deviceMake\\u003dweb\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dDNT\\u0026includeExtendedEvents\\u003dfalse\\u0026marketingRegion\\u003dUS\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d200\\u0026terminate\\u003dfalse\\u0026userId\\u003d\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Crime (England) (720p) [Not 24/7]",
+    "position": "7",
+    "type": "channel",
+    "key": "uk"
+  },
+  {
+    "namear": "Pluto TV Food (England) (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Food (England) (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf930548ff9b00090d5686/master.m3u8?advertisingId\\u003d\\u0026appName\\u003dweb\\u0026appStoreUrl\\u003d\\u0026appVersion\\u003dDNT\\u0026app_name\\u003d\\u0026architecture\\u003d\\u0026buildVersion\\u003d\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d5ddf930548ff9b00090d5686\\u0026deviceLat\\u003d\\u0026deviceLon\\u003d\\u0026deviceMake\\u003dweb\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dDNT\\u0026includeExtendedEvents\\u003dfalse\\u0026marketingRegion\\u003dUS\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d500\\u0026terminate\\u003dfalse\\u0026userId\\u003d\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Food (England) (720p)",
+    "position": "8",
+    "type": "channel",
+    "key": "uk"
+  },
+  {
+    "namear": "Pluto TV Movies (England) (684p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Movies (England) (684p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?advertisingId\\u003d\\u0026appName\\u003dweb\\u0026appStoreUrl\\u003d\\u0026appVersion\\u003dDNT\\u0026app_name\\u003d\\u0026architecture\\u003d\\u0026buildVersion\\u003d\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d5ad8d3a31b95267e225e4e09\\u0026deviceLat\\u003d\\u0026deviceLon\\u003d\\u0026deviceMake\\u003dweb\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dDNT\\u0026includeExtendedEvents\\u003dfalse\\u0026marketingRegion\\u003dUS\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d50\\u0026terminate\\u003dfalse\\u0026userId\\u003d\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Movies (England) (684p)",
+    "position": "9",
+    "type": "channel",
+    "key": "uk"
+  },
+  {
+    "namear": "Pluto TV Paranormal (England) (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Paranormal (England) (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4af2ffa9506ab29cf38c38/master.m3u8?advertisingId\\u003d\\u0026appName\\u003dweb\\u0026appStoreUrl\\u003d\\u0026appVersion\\u003dDNT\\u0026app_name\\u003d\\u0026architecture\\u003d\\u0026buildVersion\\u003d\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d5d4af2ffa9506ab29cf38c38\\u0026deviceLat\\u003d\\u0026deviceLon\\u003d\\u0026deviceMake\\u003dweb\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dDNT\\u0026includeExtendedEvents\\u003dfalse\\u0026marketingRegion\\u003dUS\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d216\\u0026terminate\\u003dfalse\\u0026userId\\u003d\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Paranormal (England) (720p)",
+    "position": "10",
+    "type": "channel",
+    "key": "uk"
+  },
+  {
+    "namear": "Pluto TV Romance (720p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Romance (720p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?advertisingId\\u003dchannel\\u0026appName\\u003drokuchannel\\u0026appVersion\\u003d1.0\\u0026bmodel\\u003dbm1\\u0026channel_id\\u003dchannel\\u0026content\\u003dchannel\\u0026content_rating\\u003dROKU_ADS_CONTENT_RATING\\u0026content_type\\u003dlivefeed\\u0026coppa\\u003dfalse\\u0026deviceDNT\\u003d1\\u0026deviceId\\u003dchannel\\u0026deviceMake\\u003drokuChannel\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003drokuChannel\\u0026deviceVersion\\u003d1.0\\u0026embedPartner\\u003drokuChannel\\u0026genre\\u003dROKU_ADS_CONTENT_GENRE\\u0026is_lat\\u003d1\\u0026platform\\u003dweb\\u0026rdid\\u003dchannel\\u0026studio_id\\u003dviacom\\u0026tags\\u003dROKU_CONTENT_TAGS\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Romance (720p) [Not 24/7]",
+    "position": "11",
+    "type": "channel",
+    "key": "uk"
+  },
+  {
+    "namear": "Pluto TV Romance (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Romance (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60812fc8539963000707d1e1/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d2c8bf321-e98a-11eb-a932-2f3c780ff9ff\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d7ebb5004-1cd6-44bb-990a-082fdcdcba6d\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Romance (720p)",
+    "position": "12",
+    "type": "channel",
+    "key": "uk"
+  },
+  {
+    "namear": "Pluto TV Romance (684p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Romance (684p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?advertisingId\\u003d\\u0026appName\\u003dweb\\u0026appStoreUrl\\u003d\\u0026appVersion\\u003dDNT\\u0026app_name\\u003d\\u0026architecture\\u003d\\u0026buildVersion\\u003d\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d5a66795ef91fef2c7031c599\\u0026deviceLat\\u003d\\u0026deviceLon\\u003d\\u0026deviceMake\\u003dweb\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dDNT\\u0026includeExtendedEvents\\u003dfalse\\u0026marketingRegion\\u003dUS\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d70\\u0026terminate\\u003dfalse\\u0026userId\\u003d\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Romance (684p)",
+    "position": "13",
+    "type": "channel",
+    "key": "uk"
+  },
+  {
+    "namear": "Pluto TV Sherlock (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Sherlock (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2c00abfed110009d97243/master.m3u8?advertisingId\\u003dchannel\\u0026appName\\u003drokuchannel\\u0026appVersion\\u003d1.0\\u0026bmodel\\u003dbm1\\u0026channel_id\\u003dchannel\\u0026content\\u003dchannel\\u0026content_rating\\u003dROKU_ADS_CONTENT_RATING\\u0026content_type\\u003dlivefeed\\u0026coppa\\u003dfalse\\u0026deviceDNT\\u003d1\\u0026deviceId\\u003dchannel\\u0026deviceMake\\u003drokuChannel\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003drokuChannel\\u0026deviceVersion\\u003d1.0\\u0026embedPartner\\u003drokuChannel\\u0026genre\\u003dROKU_ADS_CONTENT_GENRE\\u0026is_lat\\u003d1\\u0026platform\\u003dweb\\u0026rdid\\u003dchannel\\u0026studio_id\\u003dviacom\\u0026tags\\u003dROKU_CONTENT_TAGS\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Sherlock (720p)",
+    "position": "14",
+    "type": "channel",
+    "key": "uk"
+  }
+]

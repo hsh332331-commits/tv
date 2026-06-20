@@ -1,0 +1,29 @@
+[
+  {
+    "namear": "Eleven 1",
+    "servers": "[{\"headers\":\"Referer|https://https://play2.gomoon.live/|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://https://play2.gomoon.live/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ussec.score806.cc/DnoME4bdokSsRWvrcrf6sLstCFZ6JbBMAy06KDR6CxM=/1712424145772/pt_elevensport1/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqeLS86qj3j3lP9yM5hQrn1AdMr45dx_GAFA&usqp=CAU",
+    "nameen": "Eleven 1",
+    "position": "0",
+    "type": "channel",
+    "key": "eleven_portugal"
+  },
+  {
+    "namear": "Eleven 2",
+    "servers": "[{\"headers\":\"Referer|https://https://play2.gomoon.live/|user-agent|Mozilla/5.0 (Linux; Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 5.1.1; SM-G955N Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.136 Mobile Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://https://play2.gomoon.live/\",\"userAgent\":\"Mozilla/5.0 (Linux; Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 5.1.1; SM-G955N Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.136 Mobile Safari/537.36\",\"position\":\"0\",\"url\":\"https://ussec.score806.cc/DnoME4bdokSsRWvrcrf6sLstCFZ6JbBMAy06KDR6CxM=/1712424145772/pt_elevensport2/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqeLS86qj3j3lP9yM5hQrn1AdMr45dx_GAFA&usqp=CAU",
+    "nameen": "Eleven 2",
+    "position": "1",
+    "type": "channel",
+    "key": "eleven_portugal"
+  },
+  {
+    "namear": "Eleven 3",
+    "servers": "[{\"headers\":\"Referer|https://https://play2.gomoon.live/|user-agent|Mozilla/5.0 (Linux; Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 5.1.1; SM-G955N Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.136 Mobile Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://https://play2.gomoon.live/\",\"userAgent\":\"Mozilla/5.0 (Linux; Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 5.1.1; SM-G955N Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.136 Mobile Safari/537.36\",\"position\":\"0\",\"url\":\"https://ussec.score806.cc/DnoME4bdokSsRWvrcrf6sLstCFZ6JbBMAy06KDR6CxM=/1712424145772/pt_elevensport3/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqeLS86qj3j3lP9yM5hQrn1AdMr45dx_GAFA&usqp=CAU",
+    "nameen": "Eleven 3",
+    "position": "2",
+    "type": "channel",
+    "key": "eleven_portugal"
+  }
+]

@@ -1,0 +1,641 @@
+[
+  {
+    "namear": "Trace Sports Stars",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8\"}]",
+    "logo": "https://file.rafalnht.com/15436a79a0a31e96295ed291581e1a47.photo.jpg",
+    "nameen": "Trace Sports Stars",
+    "position": "60",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "Stenta Sports 1",
+    "servers": "[{\"license\":\"8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd\"}]",
+    "logo": "https://file.rafalnht.com/f240949bc496a146dd6379fa1da887f7.photo.jpg",
+    "nameen": "Stenta Sports 1",
+    "position": "56",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "ESPN SPORT 5",
+    "servers": "[{\"license\":\"4e126297fc7af35c736bdffe98eecaaa:fdb0091cf67d9c596dbfb07cf6f4c8f5\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(80c74968-a2ef-4005-8661-045fe97408a8)/master.mpd\"}]",
+    "logo": "data:image/png;base64,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",
+    "nameen": "ESPN SPORT 5",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "SKY LIVE 4",
+    "servers": "[{\"license\":\"a931b2e953695ffb0cfd38573e97ba33:4ddd99cc4fb168d7f0e20be8a3287100\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-4-HD/manifest.mpd\"}]",
+    "logo": "https://play-lh.googleusercontent.com/-kP0io9_T-LULzdpmtb4E-nFYFwDIKW7cwBhOSRwjn6T2ri0hKhz112s-ksI26NFCKOg",
+    "nameen": "SKY LIVE 4",
+    "position": "17",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "Real Madrid",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://alldownplay.xyz/|origin|https://alldownplay.xyz\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://alldownplay.xyz\",\"isWeb\":\"false\",\"name\":\"Referer HD SP\",\"Referer\":\"https://alldownplay.xyz/\",\"userAgent\":\"\",\"position\":\"30\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium523/mono.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"4K Stream SP\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"12\",\"url\":\"https://prod-fastly-eu-central-1.video.pscp.tv:443/Transcoding/v1/hls/kZgo2cuyyxUx5lBeZ6pqv76j_bOAoIf72FwIfdBKv2tUJOH7ZJtiuJ4qqPhZpEQn2N24mAm69U7AQHUD_-Zn4w/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type\\u003dlive\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"HD Stream SP\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"13\",\"url\":\"https://prod-fastly-eu-central-1.video.pscp.tv:443/Transcoding/v1/hls/kZgo2cuyyxUx5lBeZ6pqv76j_bOAoIf72FwIfdBKv2tUJOH7ZJtiuJ4qqPhZpEQn2N24mAm69U7AQHUD_-Zn4w/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type\\u003dlive\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"LOW Stream SP\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"15\",\"url\":\"https://rmtv.akamaized.net:443/hls/live/2043153/rmtv-es-web/bitrate_1.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi Spain\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/kZgo2cuyyxUx5lBeZ6pqv76j_bOAoIf72FwIfdBKv2tUJOH7ZJtiuJ4qqPhZpEQn2N24mAm69U7AQHUD_-Zn4w/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type\\u003dlive\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"SD Stream SP\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"14\",\"url\":\"https://prod-fastly-eu-central-1.video.pscp.tv:443/Transcoding/v1/hls/kZgo2cuyyxUx5lBeZ6pqv76j_bOAoIf72FwIfdBKv2tUJOH7ZJtiuJ4qqPhZpEQn2N24mAm69U7AQHUD_-Zn4w/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type\\u003dlive\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"SD Stream AR\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"5\",\"url\":\"https://prod-fastly-eu-central-1.video.pscp.tv:443/Transcoding/v1/hls/Xc6_hy8YwfrjTIGvPrGhitIWgVL9ENV4LttBlWH7TAeXs32UWlR-wkCHTEeFTifq-Gt-Ghuk50t2iClYy4bkqA/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type\\u003dlive\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi Arabic\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/Xc6_hy8YwfrjTIGvPrGhitIWgVL9ENV4LttBlWH7TAeXs32UWlR-wkCHTEeFTifq-Gt-Ghuk50t2iClYy4bkqA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type\\u003dlive\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"HD Stream AR\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"4\",\"url\":\"https://prod-fastly-eu-central-1.video.pscp.tv:443/Transcoding/v1/hls/Xc6_hy8YwfrjTIGvPrGhitIWgVL9ENV4LttBlWH7TAeXs32UWlR-wkCHTEeFTifq-Gt-Ghuk50t2iClYy4bkqA/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type\\u003dlive\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi Spain 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"LOW Stream AR\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"6\",\"url\":\"https://prod-fastly-eu-central-1.video.pscp.tv:443/Transcoding/v1/hls/Xc6_hy8YwfrjTIGvPrGhitIWgVL9ENV4LttBlWH7TAeXs32UWlR-wkCHTEeFTifq-Gt-Ghuk50t2iClYy4bkqA/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/dynamic_highlatency.m3u8?type\\u003dlive\"}]",
+    "logo": "https://k.top4top.io/p_3381z7jut1.jpg",
+    "nameen": "Real Madrid",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "Arena Sport 1",
+    "servers": "[{\"license\":\"c43c83acda60593d8e3607efd5010d7d:526f4a760ef52ab85056fbc10ea27584 712090aae2065c21951b170bc3002330:a97774e4175b80205c3cf104e9574208\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena1_n/default/index.mpd\"}]",
+    "logo": "https://file.rafalnht.com/0e6b99bc86f2b5bcb85d9b04266ba92a.photo.jpg",
+    "nameen": "Arena Sport 1",
+    "position": "25",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "Arena Sport 4",
+    "servers": "[{\"license\":\"c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://webtvstream.bhtelecom.ba/hls6/arena4.mpd\"}]",
+    "logo": "https://file.rafalnht.com/c34d5be44a87424c26081ddf26df41f9.photo.jpg",
+    "nameen": "Arena Sport 4",
+    "position": "28",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "ESPN SPORT 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://embed.shikeaben.site/trending/media1_720.html|user-agent|Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36|origin|https://embed.shikeaben.site\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://embed.shikeaben.site\",\"isWeb\":\"false\",\"name\":\"HD\",\"Referer\":\"https://embed.shikeaben.site/trending/media1_720.html\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36\",\"position\":\"1\",\"url\":\"https://sonic4mo.koora999.live/trending/media1_high/index.m3u8\"},{\"license\":\"\",\"headers\":\"Referer|https://embed.shikeaben.site/trending/media1_360.html|user-agent|Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36|origin|https://embed.shikeaben.site\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://embed.shikeaben.site\",\"isWeb\":\"false\",\"name\":\"SD\",\"Referer\":\"https://embed.shikeaben.site/trending/media1_360.html\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36\",\"position\":\"2\",\"url\":\"https://sonic4mo.koora999.live/trending/media1_low/index.m3u8\"},{\"license\":\"\",\"headers\":\"Referer|https://embed.shikeaben.site/trending/media1_360.html|user-agent|Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36|origin|https://embed.shikeaben.site\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://embed.shikeaben.site\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"https://embed.shikeaben.site/trending/media1_360.html\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36\",\"position\":\"0\",\"url\":\"https://sonic4mo.koora999.live/trending/media1.m3u8\"}]",
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASsAAACoCAMAAACPKThEAAAAeFBMVEXNJC7////NJjDGAADNHSfTSlH89PT34eL01tfcfYD65+jLABPJAADMHinNIizMFSLLCRry0NH67e3++vrKAAvab3T129znpqntvb/moaTora/VUFbRP0bcd3vWV13PMjrkmZzPPj7rtbjfh4vXY2bwx8jhkZHYaG0tA/BgAAAGN0lEQVR4nO2ca3uiOhRGkYuAhCQI4g3BKur//4cHnJ6ZyqbCphPb85x3fS2RZJPLYifU8sBYLBeMxQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP7n2Cy+UJT986N//1WhioXDQf1uh6UEr+gIhNDyd8vtbHQp1d+2vx2qKvDHs0hW+lc55Tj744ZTdgT5ZX370/DsOu7n88uxcDJpPlZuMePg1/eWuKLYsMoxSDwR36smGLdIry/oW+6e1ZC8aP+3iI5PzACw2Lptu20n4RRa2qaDJd2a1YxEN3092vusQmzWVfNEpGDFajarDAdLyjOrPoljW1G54DWCz7l5JG4R8Arl0uz/05H2mlWfjbBVceG1YQJ5qSzF7r2r2OgEH9usOTrdCUvxeuI0Qm3pA7f7XuzYaKwqVkdfXjO1Z04jk1hXcXZecktVRgehW7EqtAh1dOC2YAoXzxXrObeUZzZWb6zK+LW2rtwWTCHZK7FLuaVKoxMWU0XzQhU7bgum0MaKv4TUJmMlY6ZeKeWZXwVn7RhUmj8vlibHoIxDVmUSoUqm9UzjVCjeqnOnMLkOcvXqIlTNXp2msK10yX85MLoOxvZpNh/Pcp2p25JRYCqzs9QrP+UVSoPKqF9JXgoqs9tkzAuI5IQbCaOhspi5TXaBqUy7keFQgfHwn9ukZzylgzz/xTEX/FWk5k0IbUZ05KUiiv9kzjUzM5/FPTOpfhRNl5QyO7PLlR+MJ99p1zvlo65NdqF0ovf76DBh3CYI/G3h2t0bLVbyY7BUmXQu8I0ug9LesvwlcVTNSJT4q/ckuOBZ3Gy269OrlfoYq+hMXq3fTOsVg3THVdFL1W77yIj7DtnqFXko9UOOWGy7sVqYVVHee8T8mHG1PSkU+5E0HHREslfz8jFWp24aIjE6Bt2KlXpchpo1BltOqs2cczfIDpp2G997iBXd5TlZRmP1xmqBf9PsrOjynLXTMLNQ3ZO9Sh5jJch8trVNZq9ij9WE3HNjdvpqF0l1y3llNoXrkNTPqfg4HcWKdPDQMprpK1lNCJpOrnlJnHsmKgqZAzfUFt0cXD9MRz3Th9GsqJTc7FWjNdwdr/ymepb3pzQ9KLbJqnN+6DaaLjJGlUFaR1YbLk5TKKp5DfcPOuNZXL7XttqTYdvRq/Bn69VJ3GvJ23b2DxFPrzatk03Qq6VhvWKtT+n6Hisr0keGZPmrKGbE6rK/uz6d4rp6RdfJF+tVelmFn3L4d/stFo4qD/3XXLtjJ6g11atNb+lDXTni1/kucSR6tf8YK5vu8myM7jq7VbdC89CJPkV/6OOx6r9GEJW6eBHVq2v/bZo7vOcmfpxeURVd3vSXskA2PYTQTD9Er9Jz9Pw2NtWrzYNeSRqrszQaK3JObfHVXW66PO2i6NBt1/Kgn/+MzIb0qqBz/4v1aiHl82TlUEIzIjv4a0H1yl8NxMrt0St7QK+MHmaQkjQsf5qsbI8eD2U0uz+ZHjOHWFxSDhzBc71BvXqtivboVeovPsVfZ6oMPv/7L4j1hBHN9F28gVjpG5mO6oeuSNdJw3pls15X5luh+eeJGr1SRK92Qyo0Qa9yo3oVV6xd8OU5U9wX53a49ejV1h2YhjPSbRblD9OrpyxWEZ3gBmmUYU/adYwGqjakV7ZDHvPabKzeWK3297rivQS37CJ1665p6TkbihU1/W/WK2b2qlL8jyXm10xTvQoH+xVfr25mz6mtWM0O9IRzar3Zq0G9koq+FT3qVfntevWU9pwaMxfcDMGsWd67c09Q//f0ipVWSk8TzqkFpbazv6JXt0dl+Pl6xRu0rWYIW0rySE5DKqSJXqX1N+sVa0RN0KtlKGwrfqN6pYb06trtwF292nRjZVqvWOfHF4co5n1dEnhNqCzVo1eDykC6TdDRK/KYd0ZjFTO/smTqVV47qk1NqJro1fXLepW9Vq8kU6/88XqV+puDct69QJMlKz0P6hXJyDy+Qcb0yxjD33i5gkVsxeMudBzn40E1RS4YsKt2PuqSPY4wWhPTH6V+/Vji04s/u8+UqvEvAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABf5B/PLaJq1cDcBAAAAABJRU5ErkJggg==",
+    "nameen": "ESPN SPORT 1",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "MU TV",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8\"}]",
+    "logo": "https://file.rafalnht.com/ca6b55ae2dcd9d8a2c233ba0c2a46198.photo.jpg",
+    "nameen": "MU TV",
+    "position": "501",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "ELEVEN SPORT 1",
+    "servers": "[{\"license\":\"8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769\",\"headers\":\"user-agent|Roku/DVP-12.0|\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"Roku/DVP-12.0\",\"position\":\"\",\"url\":\"https://dcf-ac-live.cdn.indazn.com/dash/dazn-linear-054/stream.mpd\"}]",
+    "logo": "https://file.rafalnht.com/1ac33bf56fcf30bb8098c98cd65bd6c7.photo.jpg",
+    "nameen": "ELEVEN SPORT 1",
+    "position": "2008",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "TNT Sport 2",
+    "servers": "[{\"license\":\"6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd\"}]",
+    "logo": "https://file.rafalnht.com/14a268c1479233beb3d7dae03b8c5c4f.photo.jpg",
+    "nameen": "TNT Sport 2",
+    "position": "41",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "SKY SPORT 1",
+    "servers": "[{\"license\":\"335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://aka-live1-ott.izzigo.tv/3/out/u/dash/SKY-SPORTS-HD/default.mpd\"}]",
+    "logo": "https://play-lh.googleusercontent.com/-kP0io9_T-LULzdpmtb4E-nFYFwDIKW7cwBhOSRwjn6T2ri0hKhz112s-ksI26NFCKOg",
+    "nameen": "SKY SPORT 1",
+    "position": "10",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "Arena Sport 6",
+    "servers": "[{\"license\":\"c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://webtvstream.bhtelecom.ba/hls6/arena6.mpd\"}]",
+    "logo": "https://file.rafalnht.com/a95ab9792fe64336bc42c9de1722b5f0.photo.jpg",
+    "nameen": "Arena Sport 6",
+    "position": "29",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "SKY LIVE 7",
+    "servers": "[{\"license\":\"d9e3024854648dd01714f781c1492c4c:9404541975d298f6787c591d2cc871b1\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-7-HD/manifest.mpd\"}]",
+    "logo": "https://play-lh.googleusercontent.com/-kP0io9_T-LULzdpmtb4E-nFYFwDIKW7cwBhOSRwjn6T2ri0hKhz112s-ksI26NFCKOg",
+    "nameen": "SKY LIVE 7",
+    "position": "20",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "SPORTS TV 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"Cookie|ㅤㅤㅤ|ㅤㅤㅤ|token|live\",\"scheme\":\"\",\"otherHeaders\":\"Cookie|ㅤㅤㅤ|ㅤㅤㅤ|token|live\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://prod-fastly-eu-central-1-ak.akamaized.live/sport-tv-1-HD/playlist.m3u8\"}]",
+    "logo": "data:image/png;base64,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",
+    "nameen": "SPORTS TV 1",
+    "position": "7",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "SKY SPORT 2",
+    "servers": "[{\"license\":\"99909032389c6ee41c3d2f3ec829f804:41fbc575c8ef1cdac1dca990c9a0df9d\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://aka-live1-ott.izzigo.tv/3/out/u/dash/SKY-SPORTS-21-HD/default.mpd\"}]",
+    "logo": "https://play-lh.googleusercontent.com/-kP0io9_T-LULzdpmtb4E-nFYFwDIKW7cwBhOSRwjn6T2ri0hKhz112s-ksI26NFCKOg",
+    "nameen": "SKY SPORT 2",
+    "position": "11",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "TyC Sport Play 10",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU",
+    "nameen": "TyC Sport Play 10",
+    "position": "53",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "ELEVEN SPORT 2",
+    "servers": "[{\"license\":\"8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769\",\"headers\":\"user-agent|Roku/DVP-12.0|\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"Roku/DVP-12.0\",\"position\":\"\",\"url\":\"https://dcf-ac-live.cdn.indazn.com/dash/dazn-linear-055/stream.mpd\"}]",
+    "logo": "https://file.rafalnht.com/1ac33bf56fcf30bb8098c98cd65bd6c7.photo.jpg",
+    "nameen": "ELEVEN SPORT 2",
+    "position": "2009",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "DAZN 4",
+    "servers": "[{\"license\":\"00f9f3c0783536b832a8f0326fbdc02e:ade0533ba667bb7e9847d8f215f03076\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manifest.mpd\"}]",
+    "logo": "https://i.imgur.com/0vvP4SE.png",
+    "nameen": "DAZN 4",
+    "position": "23",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "TyC Sport Play 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU",
+    "nameen": "TyC Sport Play 1",
+    "position": "47",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "ESPN SPORT 2",
+    "servers": "[{\"license\":\"a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd\"}]",
+    "logo": "data:image/png;base64,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",
+    "nameen": "ESPN SPORT 2",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "sky bondsliga",
+    "servers": "[{\"license\":\"d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd\"}]",
+    "logo": "https://play-lh.googleusercontent.com/-kP0io9_T-LULzdpmtb4E-nFYFwDIKW7cwBhOSRwjn6T2ri0hKhz112s-ksI26NFCKOg",
+    "nameen": "sky bondsliga",
+    "position": "16",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "LIVE 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8\"}]",
+    "logo": "https://i.ibb.co/KXhYwm0/lequipe.png",
+    "nameen": "LIVE 2",
+    "position": "92",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "ELEVEN SPORT 4",
+    "servers": "[{\"license\":\"8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769\",\"headers\":\"user-agent|Roku/DVP-12.0|\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"Roku/DVP-12.0\",\"position\":\"\",\"url\":\"https://dcf-ac-live.cdn.indazn.com/dash/dazn-linear-057/stream.mpd\"}]",
+    "logo": "https://file.rafalnht.com/1ac33bf56fcf30bb8098c98cd65bd6c7.photo.jpg",
+    "nameen": "ELEVEN SPORT 4",
+    "position": "2011",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "SKY LIVE 6",
+    "servers": "[{\"license\":\"ec7229067cde06e0bedaa0d71ec0c974:da03b65d333e74aaae446211a83c7595\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-6-HD/manifest.mpd\"}]",
+    "logo": "https://play-lh.googleusercontent.com/-kP0io9_T-LULzdpmtb4E-nFYFwDIKW7cwBhOSRwjn6T2ri0hKhz112s-ksI26NFCKOg",
+    "nameen": "SKY LIVE 6",
+    "position": "19",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "Arena Sport 5",
+    "servers": "[{\"license\":\"c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://webtvstream.bhtelecom.ba/hls6/arena5.mpd\"}]",
+    "logo": "https://file.rafalnht.com/b7516a16e1f5654c0c1e82177ff90966.photo.jpg",
+    "nameen": "Arena Sport 5",
+    "position": "29",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "SKY LIVE 2",
+    "servers": "[{\"license\":\"7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-2-HD/manifest.mpd\"}]",
+    "logo": "https://play-lh.googleusercontent.com/-kP0io9_T-LULzdpmtb4E-nFYFwDIKW7cwBhOSRwjn6T2ri0hKhz112s-ksI26NFCKOg",
+    "nameen": "SKY LIVE 2",
+    "position": "13",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "TyC Sport Play 11",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU",
+    "nameen": "TyC Sport Play 11",
+    "position": "54",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "ELEVEN SPORT 3",
+    "servers": "[{\"license\":\"8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769\",\"headers\":\"user-agent|Roku/DVP-12.0|\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"Roku/DVP-12.0\",\"position\":\"\",\"url\":\"https://dcf-ac-live.cdn.indazn.com/dash/dazn-linear-056/stream.mpd\"}]",
+    "logo": "https://file.rafalnht.com/1ac33bf56fcf30bb8098c98cd65bd6c7.photo.jpg",
+    "nameen": "ELEVEN SPORT 3",
+    "position": "2010",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "SKY LIVE 1",
+    "servers": "[{\"license\":\"a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-1-HD/manifest.mpd\"}]",
+    "logo": "https://play-lh.googleusercontent.com/-kP0io9_T-LULzdpmtb4E-nFYFwDIKW7cwBhOSRwjn6T2ri0hKhz112s-ksI26NFCKOg",
+    "nameen": "SKY LIVE 1",
+    "position": "12",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "TyC Sport Play 7",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU",
+    "nameen": "TyC Sport Play 7",
+    "position": "51",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "TyC Sport Play 9",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU",
+    "nameen": "TyC Sport Play 9",
+    "position": "52",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "ESPN SPORT 7",
+    "servers": "[{\"license\":\"98ea1e32227adcd3618baac2bbf36814:72a03a09d33e412f14a9bfa4ef24b542\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(5ab5db84-2235-4c10-9066-be9bc2ee087a)/master.mpd\"}]",
+    "logo": "data:image/png;base64,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",
+    "nameen": "ESPN SPORT 7",
+    "position": "6",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "TyC Sport Play 3",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU",
+    "nameen": "TyC Sport Play 3",
+    "position": "47",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "ESPN SPORT 3",
+    "servers": "[{\"license\":\"8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd\"}]",
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASsAAACoCAMAAACPKThEAAAAeFBMVEXNJC7////NJjDGAADNHSfTSlH89PT34eL01tfcfYD65+jLABPJAADMHinNIizMFSLLCRry0NH67e3++vrKAAvab3T129znpqntvb/moaTora/VUFbRP0bcd3vWV13PMjrkmZzPPj7rtbjfh4vXY2bwx8jhkZHYaG0tA/BgAAAGN0lEQVR4nO2ca3uiOhRGkYuAhCQI4g3BKur//4cHnJ6ZyqbCphPb85x3fS2RZJPLYifU8sBYLBeMxQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP7n2Cy+UJT986N//1WhioXDQf1uh6UEr+gIhNDyd8vtbHQp1d+2vx2qKvDHs0hW+lc55Tj744ZTdgT5ZX370/DsOu7n88uxcDJpPlZuMePg1/eWuKLYsMoxSDwR36smGLdIry/oW+6e1ZC8aP+3iI5PzACw2Lptu20n4RRa2qaDJd2a1YxEN3092vusQmzWVfNEpGDFajarDAdLyjOrPoljW1G54DWCz7l5JG4R8Arl0uz/05H2mlWfjbBVceG1YQJ5qSzF7r2r2OgEH9usOTrdCUvxeuI0Qm3pA7f7XuzYaKwqVkdfXjO1Z04jk1hXcXZecktVRgehW7EqtAh1dOC2YAoXzxXrObeUZzZWb6zK+LW2rtwWTCHZK7FLuaVKoxMWU0XzQhU7bgum0MaKv4TUJmMlY6ZeKeWZXwVn7RhUmj8vlibHoIxDVmUSoUqm9UzjVCjeqnOnMLkOcvXqIlTNXp2msK10yX85MLoOxvZpNh/Pcp2p25JRYCqzs9QrP+UVSoPKqF9JXgoqs9tkzAuI5IQbCaOhspi5TXaBqUy7keFQgfHwn9ukZzylgzz/xTEX/FWk5k0IbUZ05KUiiv9kzjUzM5/FPTOpfhRNl5QyO7PLlR+MJ99p1zvlo65NdqF0ovf76DBh3CYI/G3h2t0bLVbyY7BUmXQu8I0ug9LesvwlcVTNSJT4q/ckuOBZ3Gy269OrlfoYq+hMXq3fTOsVg3THVdFL1W77yIj7DtnqFXko9UOOWGy7sVqYVVHee8T8mHG1PSkU+5E0HHREslfz8jFWp24aIjE6Bt2KlXpchpo1BltOqs2cczfIDpp2G997iBXd5TlZRmP1xmqBf9PsrOjynLXTMLNQ3ZO9Sh5jJch8trVNZq9ij9WE3HNjdvpqF0l1y3llNoXrkNTPqfg4HcWKdPDQMprpK1lNCJpOrnlJnHsmKgqZAzfUFt0cXD9MRz3Th9GsqJTc7FWjNdwdr/ymepb3pzQ9KLbJqnN+6DaaLjJGlUFaR1YbLk5TKKp5DfcPOuNZXL7XttqTYdvRq/Bn69VJ3GvJ23b2DxFPrzatk03Qq6VhvWKtT+n6Hisr0keGZPmrKGbE6rK/uz6d4rp6RdfJF+tVelmFn3L4d/stFo4qD/3XXLtjJ6g11atNb+lDXTni1/kucSR6tf8YK5vu8myM7jq7VbdC89CJPkV/6OOx6r9GEJW6eBHVq2v/bZo7vOcmfpxeURVd3vSXskA2PYTQTD9Er9Jz9Pw2NtWrzYNeSRqrszQaK3JObfHVXW66PO2i6NBt1/Kgn/+MzIb0qqBz/4v1aiHl82TlUEIzIjv4a0H1yl8NxMrt0St7QK+MHmaQkjQsf5qsbI8eD2U0uz+ZHjOHWFxSDhzBc71BvXqtivboVeovPsVfZ6oMPv/7L4j1hBHN9F28gVjpG5mO6oeuSNdJw3pls15X5luh+eeJGr1SRK92Qyo0Qa9yo3oVV6xd8OU5U9wX53a49ejV1h2YhjPSbRblD9OrpyxWEZ3gBmmUYU/adYwGqjakV7ZDHvPabKzeWK3297rivQS37CJ1665p6TkbihU1/W/WK2b2qlL8jyXm10xTvQoH+xVfr25mz6mtWM0O9IRzar3Zq0G9koq+FT3qVfntevWU9pwaMxfcDMGsWd67c09Q//f0ipVWSk8TzqkFpbazv6JXt0dl+Pl6xRu0rWYIW0rySE5DKqSJXqX1N+sVa0RN0KtlKGwrfqN6pYb06trtwF292nRjZVqvWOfHF4co5n1dEnhNqCzVo1eDykC6TdDRK/KYd0ZjFTO/smTqVV47qk1NqJro1fXLepW9Vq8kU6/88XqV+puDct69QJMlKz0P6hXJyDy+Qcb0yxjD33i5gkVsxeMudBzn40E1RS4YsKt2PuqSPY4wWhPTH6V+/Vji04s/u8+UqvEvAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABf5B/PLaJq1cDcBAAAAABJRU5ErkJggg==",
+    "nameen": "ESPN SPORT 3",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "Red Bull Sport",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8\"}]",
+    "logo": "https://file.rafalnht.com/4c1262657de2a3edc6ac9204f38cf820.photo.jpg",
+    "nameen": "Red Bull Sport",
+    "position": "58",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "ESPN SPORT 6",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"\"}]",
+    "logo": "data:image/png;base64,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",
+    "nameen": "ESPN SPORT 6",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "TyC Sport Play 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU",
+    "nameen": "TyC Sport Play 2",
+    "position": "47",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "Wired2Fish",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8\"}]",
+    "logo": "https://file.rafalnht.com/f9f1e61906312ed486b114aedad3a641.photo.jpg",
+    "nameen": "Wired2Fish",
+    "position": "59",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "TNT Sport 3",
+    "servers": "[{\"license\":\"4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd\"}]",
+    "logo": "https://file.rafalnht.com/14a268c1479233beb3d7dae03b8c5c4f.photo.jpg",
+    "nameen": "TNT Sport 3",
+    "position": "42",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "TyC Sport Play 5",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU",
+    "nameen": "TyC Sport Play 5",
+    "position": "49",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "SKY LIVE 3",
+    "servers": "[{\"license\":\"7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-3-HD/manifest.mpd\"}]",
+    "logo": "https://play-lh.googleusercontent.com/-kP0io9_T-LULzdpmtb4E-nFYFwDIKW7cwBhOSRwjn6T2ri0hKhz112s-ksI26NFCKOg",
+    "nameen": "SKY LIVE 3",
+    "position": "15",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "EURO SPORT",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"A\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"http://iptv-hls.idc.md:8200/hls/260/live1.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://gcp-dash.ngslbs.com/TVD014/index.mpd\"}]",
+    "logo": "https://file.rafalnht.com/586dcbc85d6853561f62b5637b07d165.photo.jpg",
+    "nameen": "EURO SPORT",
+    "position": "59",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "Go3 Sport 2",
+    "servers": "[{\"license\":\"3fc5ce88ae24460bafa447b53ab5f548:476a55ef72c5e27e310668b1667da615\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport2_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport2_HD_HVC.mpd\"}]",
+    "logo": "https://static3.go3.tv/file/go3/resources/logos/OM.png",
+    "nameen": "Go3 Sport 2",
+    "position": "1406",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "SKY LIVE 5",
+    "servers": "[{\"license\":\"6c89e84c52eae0428b7d2c8e887a48ec:758a1484f920a0f1aa73e95d5f2be225\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-LIVE-EVENT-5-HD/manifest.mpd\"}]",
+    "logo": "https://play-lh.googleusercontent.com/-kP0io9_T-LULzdpmtb4E-nFYFwDIKW7cwBhOSRwjn6T2ri0hKhz112s-ksI26NFCKOg",
+    "nameen": "SKY LIVE 5",
+    "position": "18",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "ELEVEN SPORT 5",
+    "servers": "[{\"license\":\"8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769\",\"headers\":\"user-agent|Roku/DVP-12.0|\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"Roku/DVP-12.0\",\"position\":\"\",\"url\":\"https://dcf-ac-live.cdn.indazn.com/dash/dazn-linear-058/stream.mpd\"}]",
+    "logo": "https://file.rafalnht.com/1ac33bf56fcf30bb8098c98cd65bd6c7.photo.jpg",
+    "nameen": "ELEVEN SPORT 5",
+    "position": "2012",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "Sport TV 5 Portugal",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://aesport.tv/|user-agent|Mozilla/5.0 (Linux; Android 15; BRP-NX1 Build/HONORBRP-N21; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"https://aesport.tv/\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 15; BRP-NX1 Build/HONORBRP-N21; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36\",\"position\":\"\",\"url\":\"https://s4.news-api-gen.lol//sport_tv5/index.m3u8\"}]",
+    "logo": "gggk",
+    "nameen": "Sport TV 5 Portugal",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "Go3 Sport 3",
+    "servers": "[{\"license\":\"a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd\"}]",
+    "logo": "https://static3.go3.tv/file/go3/resources/logos/OM.png",
+    "nameen": "Go3 Sport 3",
+    "position": "1407",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "Arena Sport 3",
+    "servers": "[{\"license\":\"c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://webtvstream.bhtelecom.ba/hls6/arena3.mpd\"}]",
+    "logo": "https://file.rafalnht.com/b7bac78199eced1263ad01f770cc27d5.photo.jpg",
+    "nameen": "Arena Sport 3",
+    "position": "27",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "XSPORT TV",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://de.kineskop.club/site2/371/1009756_4d769fafe4ae9f48_0_0_fs2.m3u8\"}]",
+    "logo": "https://file.rafalnht.com/3dcfedde77b2c1471cdc6c3a7ee4f1c2.photo.jpg",
+    "nameen": "XSPORT TV",
+    "position": "2808588",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "TNT Sport 4",
+    "servers": "[{\"license\":\"e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd\"}]",
+    "logo": "https://file.rafalnht.com/14a268c1479233beb3d7dae03b8c5c4f.photo.jpg",
+    "nameen": "TNT Sport 4",
+    "position": "43",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "ELEVEN SPORT 6",
+    "servers": "[{\"license\":\"8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769\",\"headers\":\"user-agent|Roku/DVP-12.0|\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"Roku/DVP-12.0\",\"position\":\"\",\"url\":\"https://dcf-ac-live.cdn.indazn.com/dash/dazn-linear-059/stream.mpd\"}]",
+    "logo": "https://file.rafalnht.com/1ac33bf56fcf30bb8098c98cd65bd6c7.photo.jpg",
+    "nameen": "ELEVEN SPORT 6",
+    "position": "2013",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "TR Sport",
+    "servers": "[{\"license\":\"\",\"headers\":\"find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://ar.trefoil.tv/2856-teleromagna-sport.html\"}]",
+    "logo": "ggi",
+    "nameen": "TR Sport",
+    "position": "73",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "LIVE 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8\"}]",
+    "logo": "https://i.ibb.co/KXhYwm0/lequipe.png",
+    "nameen": "LIVE 1",
+    "position": "91",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "TNT Sport 1",
+    "servers": "[{\"license\":\"ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"tnt1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd\"}]",
+    "logo": "https://file.rafalnht.com/14a268c1479233beb3d7dae03b8c5c4f.photo.jpg",
+    "nameen": "TNT Sport 1",
+    "position": "40",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "ESPN SPORT 4",
+    "servers": "[{\"license\":\"54a2c11085c315ed6ff85c340a86095d:5f0d10cf4a5c7e22e286b7e8cb4e79f4\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd\"}]",
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASsAAACoCAMAAACPKThEAAAAeFBMVEXNJC7////NJjDGAADNHSfTSlH89PT34eL01tfcfYD65+jLABPJAADMHinNIizMFSLLCRry0NH67e3++vrKAAvab3T129znpqntvb/moaTora/VUFbRP0bcd3vWV13PMjrkmZzPPj7rtbjfh4vXY2bwx8jhkZHYaG0tA/BgAAAGN0lEQVR4nO2ca3uiOhRGkYuAhCQI4g3BKur//4cHnJ6ZyqbCphPb85x3fS2RZJPLYifU8sBYLBeMxQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP7n2Cy+UJT986N//1WhioXDQf1uh6UEr+gIhNDyd8vtbHQp1d+2vx2qKvDHs0hW+lc55Tj744ZTdgT5ZX370/DsOu7n88uxcDJpPlZuMePg1/eWuKLYsMoxSDwR36smGLdIry/oW+6e1ZC8aP+3iI5PzACw2Lptu20n4RRa2qaDJd2a1YxEN3092vusQmzWVfNEpGDFajarDAdLyjOrPoljW1G54DWCz7l5JG4R8Arl0uz/05H2mlWfjbBVceG1YQJ5qSzF7r2r2OgEH9usOTrdCUvxeuI0Qm3pA7f7XuzYaKwqVkdfXjO1Z04jk1hXcXZecktVRgehW7EqtAh1dOC2YAoXzxXrObeUZzZWb6zK+LW2rtwWTCHZK7FLuaVKoxMWU0XzQhU7bgum0MaKv4TUJmMlY6ZeKeWZXwVn7RhUmj8vlibHoIxDVmUSoUqm9UzjVCjeqnOnMLkOcvXqIlTNXp2msK10yX85MLoOxvZpNh/Pcp2p25JRYCqzs9QrP+UVSoPKqF9JXgoqs9tkzAuI5IQbCaOhspi5TXaBqUy7keFQgfHwn9ukZzylgzz/xTEX/FWk5k0IbUZ05KUiiv9kzjUzM5/FPTOpfhRNl5QyO7PLlR+MJ99p1zvlo65NdqF0ovf76DBh3CYI/G3h2t0bLVbyY7BUmXQu8I0ug9LesvwlcVTNSJT4q/ckuOBZ3Gy269OrlfoYq+hMXq3fTOsVg3THVdFL1W77yIj7DtnqFXko9UOOWGy7sVqYVVHee8T8mHG1PSkU+5E0HHREslfz8jFWp24aIjE6Bt2KlXpchpo1BltOqs2cczfIDpp2G997iBXd5TlZRmP1xmqBf9PsrOjynLXTMLNQ3ZO9Sh5jJch8trVNZq9ij9WE3HNjdvpqF0l1y3llNoXrkNTPqfg4HcWKdPDQMprpK1lNCJpOrnlJnHsmKgqZAzfUFt0cXD9MRz3Th9GsqJTc7FWjNdwdr/ymepb3pzQ9KLbJqnN+6DaaLjJGlUFaR1YbLk5TKKp5DfcPOuNZXL7XttqTYdvRq/Bn69VJ3GvJ23b2DxFPrzatk03Qq6VhvWKtT+n6Hisr0keGZPmrKGbE6rK/uz6d4rp6RdfJF+tVelmFn3L4d/stFo4qD/3XXLtjJ6g11atNb+lDXTni1/kucSR6tf8YK5vu8myM7jq7VbdC89CJPkV/6OOx6r9GEJW6eBHVq2v/bZo7vOcmfpxeURVd3vSXskA2PYTQTD9Er9Jz9Pw2NtWrzYNeSRqrszQaK3JObfHVXW66PO2i6NBt1/Kgn/+MzIb0qqBz/4v1aiHl82TlUEIzIjv4a0H1yl8NxMrt0St7QK+MHmaQkjQsf5qsbI8eD2U0uz+ZHjOHWFxSDhzBc71BvXqtivboVeovPsVfZ6oMPv/7L4j1hBHN9F28gVjpG5mO6oeuSNdJw3pls15X5luh+eeJGr1SRK92Qyo0Qa9yo3oVV6xd8OU5U9wX53a49ejV1h2YhjPSbRblD9OrpyxWEZ3gBmmUYU/adYwGqjakV7ZDHvPabKzeWK3297rivQS37CJ1665p6TkbihU1/W/WK2b2qlL8jyXm10xTvQoH+xVfr25mz6mtWM0O9IRzar3Zq0G9koq+FT3qVfntevWU9pwaMxfcDMGsWd67c09Q//f0ipVWSk8TzqkFpbazv6JXt0dl+Pl6xRu0rWYIW0rySE5DKqSJXqX1N+sVa0RN0KtlKGwrfqN6pYb06trtwF292nRjZVqvWOfHF4co5n1dEnhNqCzVo1eDykC6TdDRK/KYd0ZjFTO/smTqVV47qk1NqJro1fXLepW9Vq8kU6/88XqV+puDct69QJMlKz0P6hXJyDy+Qcb0yxjD33i5gkVsxeMudBzn40E1RS4YsKt2PuqSPY4wWhPTH6V+/Vji04s/u8+UqvEvAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABf5B/PLaJq1cDcBAAAAABJRU5ErkJggg==",
+    "nameen": "ESPN SPORT 4",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "SPORTS TV 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://alldownplay.xyz/|origin|https://alldownplay.xyz\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://alldownplay.xyz\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"https://alldownplay.xyz/\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium74/mono.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1CsvrBWOnxLr0x9BJoCN2WhWbj80QxHqSmg&s",
+    "nameen": "SPORTS TV 2",
+    "position": "8",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "TV85 SPORTS",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1080\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://hw1.jemtv.com/app/tv85/chunks.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Stream\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app\\u003dtv8bucuk_web\\u0026ce\\u003d3\"}]",
+    "logo": "https://file.rafalnht.com/32186ae452217d1d7df8a7f148322c83.photo.jpg",
+    "nameen": "TV85 SPORTS",
+    "position": "47",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "SPORTS TV 3",
+    "servers": "[{\"license\":\"cfc3fe9d7b2212db44dffc59521e2ea5:2a623cac1a605a9315cf441dd67f2032\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hdjoqksgtf/out/v1/f3e3b9eeb94e4b96ad3f214603ff261b/cenc-sd.mpd\"}]",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/fjy5d31700902671.png",
+    "nameen": "SPORTS TV 3",
+    "position": "9",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "Stenta Sport 2",
+    "servers": "[{\"license\":\"1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://cdnlb.tvplayhome.lt/live/eds/Setanta17_HD_HVC/GO3_LIVE_DASH_HVC/Setanta17_HD_HVC.mpd\"}]",
+    "logo": "https://file.rafalnht.com/f240949bc496a146dd6379fa1da887f7.photo.jpg",
+    "nameen": "Stenta Sport 2",
+    "position": "57",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "DAZN LALIGA",
+    "servers": "[{\"license\":\"43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd\"}]",
+    "logo": "https://i.imgur.com/srx5bGb.png",
+    "nameen": "DAZN LALIGA",
+    "position": "25",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "SKY LALIGA",
+    "servers": "[{\"license\":\"c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi ENG\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"23\",\"url\":\"https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd\"}]",
+    "logo": "https://play-lh.googleusercontent.com/-kP0io9_T-LULzdpmtb4E-nFYFwDIKW7cwBhOSRwjn6T2ri0hKhz112s-ksI26NFCKOg",
+    "nameen": "SKY LALIGA",
+    "position": "14",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "Go3 Sport 4",
+    "servers": "[{\"license\":\"e4515ae969cb46ae89997c8308b70e4d:bdc640533aac8955a6293158210e0a7d\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport4_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport4_HD_HVC.mpd\"}]",
+    "logo": "https://static3.go3.tv/file/go3/resources/logos/OM.png",
+    "nameen": "Go3 Sport 4",
+    "position": "1407",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "SPORTS TV",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"0\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8\"}]",
+    "logo": "https://file.rafalnht.com/7d9bbbca0d98fbd191bdf9fe2de963ba.photo.jpg",
+    "nameen": "SPORTS TV",
+    "position": "2008",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "TyC Sport Play 6",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU",
+    "nameen": "TyC Sport Play 6",
+    "position": "50",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "TyC Sport Play 8",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU",
+    "nameen": "TyC Sport Play 8",
+    "position": "51",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "Arena Sport 2",
+    "servers": "[{\"license\":\"c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://webtvstream.bhtelecom.ba/hls6/arena2.mpd\"}]",
+    "logo": "https://file.rafalnht.com/5730ec36d4d4c229762051cc473d6cc5.photo.jpg",
+    "nameen": "Arena Sport 2",
+    "position": "26",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "TyC Sport Play 4",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU",
+    "nameen": "TyC Sport Play 4",
+    "position": "48",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "DAZN 3",
+    "servers": "[{\"license\":\"00f9f3c0783536b832a8f0326fbdc02e:ade0533ba667bb7e9847d8f215f03076\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manifest.mpd\"}]",
+    "logo": "https://i.imgur.com/RHORZXz.png",
+    "nameen": "DAZN 3",
+    "position": "22",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "TyC Sport Play 12",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU",
+    "nameen": "TyC Sport Play 12",
+    "position": "55",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  },
+  {
+    "namear": "Go3 Sport 1",
+    "servers": "[{\"license\":\"610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd\"}]",
+    "logo": "https://static3.go3.tv/file/go3/resources/logos/OM.png",
+    "nameen": "Go3 Sport 1",
+    "position": "1405",
+    "type": "channel",
+    "key": "aya_cx_tvرياضة_اجنبية_(صيانة)"
+  }
+]

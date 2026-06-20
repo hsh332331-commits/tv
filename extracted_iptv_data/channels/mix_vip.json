@@ -1,0 +1,56 @@
+[
+  {
+    "namear": "MixONE",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MixONE\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ml-pull-hwc.myco.io/MixONE/hls/index.m3u8\"}]",
+    "logo": "https://media0087.elcinema.com/tvguide/1373_1.png",
+    "nameen": "MixONE",
+    "position": "3",
+    "type": "channel",
+    "key": "mix_vip"
+  },
+  {
+    "namear": "MixBelAraby",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MixBelAraby\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ml-pull-hwc.myco.io/MixBelAraby/hls/index.m3u8\"}]",
+    "logo": "https://media0087.elcinema.com/tvguide/1371_1.png",
+    "nameen": "MixBelAraby",
+    "position": "4",
+    "type": "channel",
+    "key": "mix_vip"
+  },
+  {
+    "namear": "MixTV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MixTV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8\"}]",
+    "logo": "https://media0087.elcinema.com/tvguide/1371_1.png",
+    "nameen": "MixTV",
+    "position": "5",
+    "type": "channel",
+    "key": "mix_vip"
+  },
+  {
+    "namear": "MBC Bollywood",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC Bollywood\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8\"}]",
+    "logo": "https://i.imgur.com/fMjhK06.png",
+    "nameen": "MBC Bollywood",
+    "position": "6",
+    "type": "channel",
+    "key": "mix_vip"
+  },
+  {
+    "namear": "Hala London TV Production",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Hala London TV Production\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8\"}]",
+    "logo": "http://halalondon.com/images/Production2.png",
+    "nameen": "Hala London TV Production",
+    "position": "7",
+    "type": "channel",
+    "key": "mix_vip"
+  },
+  {
+    "namear": "VOD CINEMA SD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"VOD CINEMA SD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://iptv.icsnleb.com:25461/ST/ST/59\"}]",
+    "logo": "https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",
+    "nameen": "VOD CINEMA SD",
+    "position": "8",
+    "type": "channel",
+    "key": "mix_vip"
+  }
+]

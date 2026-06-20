@@ -1,0 +1,18 @@
+[
+  {
+    "namear": "MBC MAX",
+    "servers": "[{\"headers\":\"user-Agent|\",\"otherHeaders\":\"\",\"name\":\"MBC MAX\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.182.82.104/MBC_Max/mono.m3u8 ?token\\u003dtest\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12908421_ico.png",
+    "nameen": "MBC MAX",
+    "position": "177",
+    "key": "supermax"
+  },
+  {
+    "namear": "MBC MAX (low)",
+    "servers": "[{\"headers\":\"user-Agent|ricotv\",\"otherHeaders\":\"\",\"name\":\"MBC MAX (low)\",\"Referer\":\"\",\"userAgent\":\"ricotv\",\"position\":\"0\",\"url\":\"http://212.102.58.251:8080/osn-test/v9JCnrnqF3/5156\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/22109478_ico.png",
+    "nameen": "MBC MAX (low)",
+    "position": "1279",
+    "key": "supermax"
+  }
+]

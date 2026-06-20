@@ -1,0 +1,20 @@
+[
+  {
+    "namear": "TV 1",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://webudit.salamus1.lol/lb/premium758/mono.m3u8 \"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/7a/Fifa_worldcup_u20_trophy.png",
+    "nameen": "TV 1",
+    "position": "0",
+    "type": "channel",
+    "key": "u20_world_cup"
+  },
+  {
+    "namear": "TV 2",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://webudit.salamus1.lol/lb/premium756/mono.m3u8 \"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/7a/Fifa_worldcup_u20_trophy.png",
+    "nameen": "TV 2",
+    "position": "1",
+    "type": "channel",
+    "key": "u20_world_cup"
+  }
+]

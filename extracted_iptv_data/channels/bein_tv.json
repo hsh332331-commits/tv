@@ -1,0 +1,272 @@
+[
+  {
+    "namear": "AR: beIN MOVIES 4K 1",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"AR: beIN MOVIES 4K 1\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/67355.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: beIN MOVIES 4K 1",
+    "position": "1",
+    "type": "channel",
+    "key": "bein_tv"
+  },
+  {
+    "namear": "AR: beIN MOVIES 4K 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: beIN MOVIES 4K 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/67356.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: beIN MOVIES 4K 2",
+    "position": "2",
+    "type": "channel",
+    "key": "bein_tv"
+  },
+  {
+    "namear": "AR: beIN MOVIES 4K 3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: beIN MOVIES 4K 3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/67357.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: beIN MOVIES 4K 3",
+    "position": "3",
+    "type": "channel",
+    "key": "bein_tv"
+  },
+  {
+    "namear": "AR: beIN MOVIES 4K 4",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: beIN MOVIES 4K 4\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/67358.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: beIN MOVIES 4K 4",
+    "position": "4",
+    "type": "channel",
+    "key": "bein_tv"
+  },
+  {
+    "namear": "AR: beIN SERIES 4K 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: beIN SERIES 4K 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/67359.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: beIN SERIES 4K 1",
+    "position": "5",
+    "type": "channel",
+    "key": "bein_tv"
+  },
+  {
+    "namear": "AR: beIN SERIES 4K 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: beIN SERIES 4K 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/67360.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: beIN SERIES 4K 2",
+    "position": "6",
+    "type": "channel",
+    "key": "bein_tv"
+  },
+  {
+    "namear": "AR: AR: Bein BBC EARTH 4K",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: AR: Bein BBC EARTH 4K\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/67364.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: AR: Bein BBC EARTH 4K",
+    "position": "7",
+    "type": "channel",
+    "key": "bein_tv"
+  },
+  {
+    "namear": "AR: Bein FOX LIFE 4K",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: Bein FOX LIFE 4K\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/67367.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: Bein FOX LIFE 4K",
+    "position": "8",
+    "type": "channel",
+    "key": "bein_tv"
+  },
+  {
+    "namear": "AR: Bein FOX MOV ACTION 4K",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: Bein FOX MOV ACTION 4K\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/67368.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: Bein FOX MOV ACTION 4K",
+    "position": "9",
+    "type": "channel",
+    "key": "bein_tv"
+  },
+  {
+    "namear": "AR: Bein FOX MOVIES 4K",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: Bein FOX MOVIES 4K\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/67369.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: Bein FOX MOVIES 4K",
+    "position": "10",
+    "type": "channel",
+    "key": "bein_tv"
+  },
+  {
+    "namear": "AR: Bein GORMENT 4K",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: Bein GORMENT 4K\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/67371.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: Bein GORMENT 4K",
+    "position": "11",
+    "type": "channel",
+    "key": "bein_tv"
+  },
+  {
+    "namear": "AR: Bein FATAFEAT 4K",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: Bein FATAFEAT 4K\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/67365.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: Bein FATAFEAT 4K",
+    "position": "12",
+    "type": "channel",
+    "key": "bein_tv"
+  },
+  {
+    "namear": "AR: beIN DRAMA 4K",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: beIN DRAMA 4K\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/67372.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: beIN DRAMA 4K",
+    "position": "13",
+    "type": "channel",
+    "key": "bein_tv"
+  },
+  {
+    "namear": "AR: Bein Fatafeat",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: Bein Fatafeat\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/67429.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: Bein Fatafeat",
+    "position": "14",
+    "type": "channel",
+    "key": "bein_tv"
+  },
+  {
+    "namear": "AR: Bein Gourmet HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: Bein Gourmet HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/67428.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: Bein Gourmet HD",
+    "position": "15",
+    "type": "channel",
+    "key": "bein_tv"
+  },
+  {
+    "namear": "AR: Bein Movies HD1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: Bein Movies HD1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/67412.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: Bein Movies HD1",
+    "position": "16",
+    "type": "channel",
+    "key": "bein_tv"
+  },
+  {
+    "namear": "AR: Bein Movies HD2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: Bein Movies HD2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/67413.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: Bein Movies HD2",
+    "position": "17",
+    "type": "channel",
+    "key": "bein_tv"
+  },
+  {
+    "namear": "AR: Bein Movies HD3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: Bein Movies HD3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/67414.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: Bein Movies HD3",
+    "position": "18",
+    "type": "channel",
+    "key": "bein_tv"
+  },
+  {
+    "namear": "AR: Bein Movies HD4",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: Bein Movies HD4\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/67415.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: Bein Movies HD4",
+    "position": "19",
+    "type": "channel",
+    "key": "bein_tv"
+  },
+  {
+    "namear": "AR: Bein Drama HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: Bein Drama HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/67416.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: Bein Drama HD",
+    "position": "20",
+    "type": "channel",
+    "key": "bein_tv"
+  },
+  {
+    "namear": "AR: Bein Series HD1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: Bein Series HD1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/67417.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: Bein Series HD1",
+    "position": "21",
+    "type": "channel",
+    "key": "bein_tv"
+  },
+  {
+    "namear": "AR: Bein Series HD2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: Bein Series HD2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/67418.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: Bein Series HD2",
+    "position": "22",
+    "type": "channel",
+    "key": "bein_tv"
+  },
+  {
+    "namear": "AR: Bein Fox Life HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: Bein Fox Life HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/67419.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: Bein Fox Life HD",
+    "position": "23",
+    "type": "channel",
+    "key": "bein_tv"
+  },
+  {
+    "namear": "AR: Bein Fox Movies HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: Bein Fox Movies HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/67422.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: Bein Fox Movies HD",
+    "position": "24",
+    "type": "channel",
+    "key": "bein_tv"
+  },
+  {
+    "namear": "AR: Bein Fox Action Movies HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: Bein Fox Action Movies HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/67423.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: Bein Fox Action Movies HD",
+    "position": "25",
+    "type": "channel",
+    "key": "bein_tv"
+  },
+  {
+    "namear": "AR: Bein Star World HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: Bein Star World HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/67424.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: Bein Star World HD",
+    "position": "26",
+    "type": "channel",
+    "key": "bein_tv"
+  },
+  {
+    "namear": "AR: Bein Star Movies HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: Bein Star Movies HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/67425.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: Bein Star Movies HD",
+    "position": "27",
+    "type": "channel",
+    "key": "bein_tv"
+  },
+  {
+    "namear": "AR: Bein BBC Earth HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: Bein BBC Earth HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/67433.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: Bein BBC Earth HD",
+    "position": "28",
+    "type": "channel",
+    "key": "bein_tv"
+  },
+  {
+    "namear": "AR: Bein Nat geo Wild HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: Bein Nat geo Wild HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/116400.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: Bein Nat geo Wild HD",
+    "position": "29",
+    "type": "channel",
+    "key": "bein_tv"
+  },
+  {
+    "namear": "AR: Bein Nat Geo HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR: Bein Nat Geo HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/116401.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR: Bein Nat Geo HD",
+    "position": "30",
+    "type": "channel",
+    "key": "bein_tv"
+  }
+]

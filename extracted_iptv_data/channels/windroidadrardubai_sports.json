@@ -1,0 +1,29 @@
+[
+  {
+    "namear": "Dubai Sports 1",
+    "servers": "[{\"headers\":\"vvuser-Agent|vvuser-Agent|vvuser-Agent|vv\",\"otherHeaders\":\"\",\"name\":\"Dubai Sports 1\",\"Referer\":\"\",\"userAgent\":\"vvuser-Agent|vv\",\"position\":\"0\",\"url\":\"https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12140095_ico.png",
+    "nameen": "Dubai Sports 1",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrardubai_sports"
+  },
+  {
+    "namear": "Dubai Sports 2",
+    "servers": "[{\"headers\":\"ffuser-Agent|ffuser-Agent|ffuser-Agent|ff\",\"otherHeaders\":\"\",\"name\":\"Dubai Sports 2\",\"Referer\":\"\",\"userAgent\":\"ffuser-Agent|ff\",\"position\":\"0\",\"url\":\"https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12140098_ico.png",
+    "nameen": "Dubai Sports 2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrardubai_sports"
+  },
+  {
+    "namear": "Dubai Sports 3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Dubai Sports 3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12140104_ico.png",
+    "nameen": "Dubai Sports 3",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrardubai_sports"
+  }
+]

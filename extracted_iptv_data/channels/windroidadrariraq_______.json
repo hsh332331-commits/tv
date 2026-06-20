@@ -1,0 +1,335 @@
+[
+  {
+    "namear": "Aletejah TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Aletejah TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://95.216.180.111:1935/live/33/chunklist.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14131748_ico.png",
+    "nameen": "Aletejah TV",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrariraq_العراق"
+  },
+  {
+    "namear": "Al Iraqiya",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Iraqiya\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12132376_ico.png",
+    "nameen": "Al Iraqiya",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrariraq_العراق"
+  },
+  {
+    "namear": "Al Iraqiya News",
+    "servers": "[{\"headers\":\"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36user-Agent|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36user-Agent|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36user-Agent|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36\",\"otherHeaders\":\"\",\"name\":\"Al Iraqiya News\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36user-Agent|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36\",\"position\":\"0\",\"url\":\"https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12132370_ico.png",
+    "nameen": "Al Iraqiya News",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrariraq_العراق"
+  },
+  {
+    "namear": "Iraqia Sport",
+    "servers": "[{\"headers\":\"REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89\",\"otherHeaders\":\"\",\"name\":\"Iraqia Sport\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89\",\"position\":\"0\",\"url\":\"http://pro.xviptv.com:25443/live/hAYTcwYOYv/Laila@1974/151310.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14751591_ico.png",
+    "nameen": "Iraqia Sport",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrariraq_العراق"
+  },
+  {
+    "namear": "Shabab Sport",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Shabab Sport\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://212.224.84.254:2200/TR/alshababsporthd-ar/mono.m3u8 ?token\\u003degBlCndpe3ZiDXBgN3JjewVhf3FmenNhfnAXeHItenVmc3Nje3Ngfg\\u003d\\u003d\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7624139_ico.png",
+    "nameen": "Shabab Sport",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrariraq_العراق"
+  },
+  {
+    "namear": "Rabia Sport+",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Rabia Sport+\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://212.224.84.254:2200/TR/alrabiaasporthd-ar/mono.m3u8 ?token\\u003degBlCndpe3ZiDXBgN3JjewVhf3FmenNhfnAXeHItenVmc3Nje3Ngfg\\u003d\\u003d\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/19750159_ico.png",
+    "nameen": "Rabia Sport+",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrariraq_العراق"
+  },
+  {
+    "namear": "Alrabiaa Sport",
+    "servers": "[{\"headers\":\"REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89\",\"otherHeaders\":\"\",\"name\":\"Alrabiaa Sport\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89\",\"position\":\"0\",\"url\":\"https://cllive.itworkscdn.net/alrabiaatvnewslive/token\\u003dnva\\u003d1683533823~dirs\\u003d1~hash\\u003d0a84dffd1b2ed82482896/alrabiaatv2.smil/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21647283_ico.png",
+    "nameen": "Alrabiaa Sport",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrariraq_العراق"
+  },
+  {
+    "namear": "Al Rabiaa Iraq",
+    "servers": "[{\"headers\":\"REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89\",\"otherHeaders\":\"\",\"name\":\"Al Rabiaa Iraq\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89\",\"position\":\"0\",\"url\":\"https://cllive.itworkscdn.net/alrabiaatvnewslive/token\\u003dnva\\u003d1683534000~dirs\\u003d1~hash\\u003d0fa14ae4bf268c93724c8/alrabiaatv.smil/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/16037098_ico.png",
+    "nameen": "Al Rabiaa Iraq",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrariraq_العراق"
+  },
+  {
+    "namear": "Al Hurra",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Hurra\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12166014_ico.png",
+    "nameen": "Al Hurra",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrariraq_العراق"
+  },
+  {
+    "namear": "Al Hurra Iraq",
+    "servers": "[{\"headers\":\"FFuser-Agent|FFuser-Agent|FFuser-Agent|FF\",\"otherHeaders\":\"\",\"name\":\"Al Hurra Iraq\",\"Referer\":\"\",\"userAgent\":\"FFuser-Agent|FF\",\"position\":\"0\",\"url\":\"https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12132381_ico.png",
+    "nameen": "Al Hurra Iraq",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadrariraq_العراق"
+  },
+  {
+    "namear": "Al Sharqiya",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Sharqiya\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://ns8.indexforce.com:1935/home/mystream/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12132391_ico.png",
+    "nameen": "Al Sharqiya",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidadrariraq_العراق"
+  },
+  {
+    "namear": "Al Sharqiya News",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Sharqiya News\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://ns8.indexforce.com:1935/alsharqiyalive/mystream/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12165995_ico.png",
+    "nameen": "Al Sharqiya News",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidadrariraq_العراق"
+  },
+  {
+    "namear": "Al Rasheed",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Rasheed\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://media1.livaat.com/AL-RASHEED-HD/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12132398_ico.png",
+    "nameen": "Al Rasheed",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidadrariraq_العراق"
+  },
+  {
+    "namear": "Al Sumaria",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Al Sumaria\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://ns8.indexforce.com:1935/home/mystream/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12165998_ico.png",
+    "nameen": "Al Sumaria",
+    "position": "13",
+    "type": "channel",
+    "key": "windroidadrariraq_العراق"
+  },
+  {
+    "namear": "Al forat",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"Al forat\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://95.216.180.111:1935/live/10/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7623955_ico.png",
+    "nameen": "Al forat",
+    "position": "14",
+    "type": "channel",
+    "key": "windroidadrariraq_العراق"
+  },
+  {
+    "namear": "Al-Rafidain",
+    "servers": "[{\"headers\":\"GGuser-Agent|GGuser-Agent|GGuser-Agent|GG\",\"otherHeaders\":\"\",\"name\":\"Al-Rafidain\",\"Referer\":\"\",\"userAgent\":\"GGuser-Agent|GG\",\"position\":\"0\",\"url\":\"http://51.255.84.28:8081/arrafidaintv/source2/chunks.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12132430_ico.png",
+    "nameen": "Al-Rafidain",
+    "position": "15",
+    "type": "channel",
+    "key": "windroidadrariraq_العراق"
+  },
+  {
+    "namear": "Al Mawsleya",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"Al Mawsleya\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://95.216.180.111:1935/live/3/chunklist.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/15308338_ico.png",
+    "nameen": "Al Mawsleya",
+    "position": "16",
+    "type": "channel",
+    "key": "windroidadrariraq_العراق"
+  },
+  {
+    "namear": "Iraq Future",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"Iraq Future\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"https://webstreaming-3.viewmedia.tv/web_040/Stream/live40_1/low/chunks.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/15307630_ico.png",
+    "nameen": "Iraq Future",
+    "position": "17",
+    "type": "channel",
+    "key": "windroidadrariraq_العراق"
+  },
+  {
+    "namear": "Asil TV",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"Asil TV\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://212.86.76.85/live/asil.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/15307666_ico.png",
+    "nameen": "Asil TV",
+    "position": "18",
+    "type": "channel",
+    "key": "windroidadrariraq_العراق"
+  },
+  {
+    "namear": "Biladi",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"Biladi\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://95.216.180.111:1935/live/68/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/15308483_ico.png",
+    "nameen": "Biladi",
+    "position": "19",
+    "type": "channel",
+    "key": "windroidadrariraq_العراق"
+  },
+  {
+    "namear": "iNEWS",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"iNEWS\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/15308465_ico.png",
+    "nameen": "iNEWS",
+    "position": "20",
+    "type": "channel",
+    "key": "windroidadrariraq_العراق"
+  },
+  {
+    "namear": "AL Ayam",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"AL Ayam\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://95.216.180.111:1935/live/6/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/15308411_ico.png",
+    "nameen": "AL Ayam",
+    "position": "21",
+    "type": "channel",
+    "key": "windroidadrariraq_العراق"
+  },
+  {
+    "namear": "Al Janob",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"Al Janob\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://95.216.180.111:1935/live/18/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/15308454_ico.png",
+    "nameen": "Al Janob",
+    "position": "22",
+    "type": "channel",
+    "key": "windroidadrariraq_العراق"
+  },
+  {
+    "namear": "AL GHADEER",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"AL GHADEER\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://95.216.180.111:1935/live/2/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14131398_ico.png",
+    "nameen": "AL GHADEER",
+    "position": "23",
+    "type": "channel",
+    "key": "windroidadrariraq_العراق"
+  },
+  {
+    "namear": "Al Ahd",
+    "servers": "[{\"headers\":\"Yyuser-Agent|Yyuser-Agent|Yyuser-Agent|Yy\",\"otherHeaders\":\"\",\"name\":\"Al Ahd\",\"Referer\":\"\",\"userAgent\":\"Yyuser-Agent|Yy\",\"position\":\"0\",\"url\":\"http://95.216.180.111:1935/live/7/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14751449_ico.png",
+    "nameen": "Al Ahd",
+    "position": "24",
+    "type": "channel",
+    "key": "windroidadrariraq_العراق"
+  },
+  {
+    "namear": "Al Taghier",
+    "servers": "[{\"headers\":\"Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9; SM-J610F Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/87.0.4280.101 Mobile Safari/537.36 Vinebreuser-Agent|Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9; SM-J610F Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/87.0.4280.101 Mobile Safari/537.36 Vinebreuser-Agent|Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9; SM-J610F Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/87.0.4280.101 Mobile Safari/537.36 Vinebreuser-Agent|Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9; SM-J610F Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/87.0.4280.101 Mobile Safari/537.36 Vinebre\",\"otherHeaders\":\"\",\"name\":\"Al Taghier\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9; SM-J610F Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/87.0.4280.101 Mobile Safari/537.36 Vinebreuser-Agent|Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9; SM-J610F Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/87.0.4280.101 Mobile Safari/537.36 Vinebre\",\"position\":\"0\",\"url\":\"https://www.dailymotion.com/embed/video/x7wkoiv?autoplay\\u003d1\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14131664_ico.png",
+    "nameen": "Al Taghier",
+    "position": "25",
+    "type": "channel",
+    "key": "windroidadrariraq_العراق"
+  },
+  {
+    "namear": "Dijlah",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Dijlah\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ghaasiflu.online/Dijlah/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12132506_ico.png",
+    "nameen": "Dijlah",
+    "position": "26",
+    "type": "channel",
+    "key": "windroidadrariraq_العراق"
+  },
+  {
+    "namear": "Dijlah Tarab",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Dijlah Tarab\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ghaasiflu.online/tarab/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12166002_ico.png",
+    "nameen": "Dijlah Tarab",
+    "position": "27",
+    "type": "channel",
+    "key": "windroidadrariraq_العراق"
+  },
+  {
+    "namear": "Afaq TV",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"Afaq TV\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://95.216.180.111:1935/live/1/chunklist.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4959872_ico.png",
+    "nameen": "Afaq TV",
+    "position": "28",
+    "type": "channel",
+    "key": "windroidadrariraq_العراق"
+  },
+  {
+    "namear": "Qarbalaa",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"Qarbalaa\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://95.216.180.111:1935/live/45/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12132461_ico.png",
+    "nameen": "Qarbalaa",
+    "position": "29",
+    "type": "channel",
+    "key": "windroidadrariraq_العراق"
+  },
+  {
+    "namear": "ABN Sat",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ABN Sat\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://rtmp1.abnsat.com/hls/arabic.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12132405_ico.png",
+    "nameen": "ABN Sat",
+    "position": "30",
+    "type": "channel",
+    "key": "windroidadrariraq_العراق"
+  },
+  {
+    "namear": "Imam Hussein TV 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Imam Hussein TV 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://fa.imamhusseintv.com/live/ih1.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12132130_ico.png",
+    "nameen": "Imam Hussein TV 1",
+    "position": "31",
+    "type": "channel",
+    "key": "windroidadrariraq_العراق"
+  },
+  {
+    "namear": "Imam Hussein TV 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Imam Hussein TV 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ar.imamhusseintv.com/live/ih2.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12132139_ico.png",
+    "nameen": "Imam Hussein TV 2",
+    "position": "32",
+    "type": "channel",
+    "key": "windroidadrariraq_العراق"
+  },
+  {
+    "namear": "Imam Hussein TV 3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Imam Hussein TV 3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://en.imamhusseintv.com/live/ih3.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12132144_ico.png",
+    "nameen": "Imam Hussein TV 3",
+    "position": "33",
+    "type": "channel",
+    "key": "windroidadrariraq_العراق"
+  },
+  {
+    "namear": "Imam Hussein TV 4",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Imam Hussein TV 4\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live.imamhossaintv.com/live/ih4.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12166004_ico.png",
+    "nameen": "Imam Hussein TV 4",
+    "position": "34",
+    "type": "channel",
+    "key": "windroidadrariraq_العراق"
+  },
+  {
+    "namear": "Al Maaref",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"Al Maaref\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12134568_ico.png",
+    "nameen": "Al Maaref",
+    "position": "35",
+    "type": "channel",
+    "key": "windroidadrariraq_العراق"
+  },
+  {
+    "namear": "MBC Iraq",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC Iraq\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12139923_ico.png",
+    "nameen": "MBC Iraq",
+    "position": "36",
+    "type": "channel",
+    "key": "windroidadrariraq_العراق"
+  }
+]

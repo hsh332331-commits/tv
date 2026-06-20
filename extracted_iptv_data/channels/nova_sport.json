@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "Sporty TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sporty TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.112.249.46:9981/stream/channelid/1940136002?profile\\u003dpass\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Sporty TV",
+    "position": "8",
+    "type": "channel",
+    "key": "nova_sport"
+  },
+  {
+    "namear": "ONEPLAY 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ONEPLAY 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.112.249.46:9981/stream/channelid/177253733?profile\\u003dpass\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ONEPLAY 1",
+    "position": "9",
+    "type": "channel",
+    "key": "nova_sport"
+  },
+  {
+    "namear": "NOVA1",
+    "servers": "[{\"headers\":\"\",\"license\":\"11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNm9NZOkus41mAMNclFTluy7L2OU19O3nPzaqdCgbtxw&s=10",
+    "nameen": "NOVA1",
+    "position": "9",
+    "type": "channel",
+    "key": "nova_sport"
+  },
+  {
+    "namear": "ONEPLAY 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ONEPLAY 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.112.249.46:9981/stream/channelid/1716506983?profile\\u003dpass\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ONEPLAY 2",
+    "position": "10",
+    "type": "channel",
+    "key": "nova_sport"
+  },
+  {
+    "namear": "NOVA2",
+    "servers": "[{\"headers\":\"\",\"license\":\"11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNm9NZOkus41mAMNclFTluy7L2OU19O3nPzaqdCgbtxw&s=10",
+    "nameen": "NOVA2",
+    "position": "10",
+    "type": "channel",
+    "key": "nova_sport"
+  }
+]

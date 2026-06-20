@@ -1,0 +1,38 @@
+[
+  {
+    "namear": "ZIGGO Voetbal",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"ZIGGO Voetbal\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://line.team-tv.link:80/mutant007/UzskkVQyjP/3066\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18718963_ico.png",
+    "nameen": "ZIGGO Voetbal",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarziggo"
+  },
+  {
+    "namear": "ZIGGO Select",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"ZIGGO Select\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://line.team-tv.link:80/mutant007/UzskkVQyjP/3065\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18719230_ico.png",
+    "nameen": "ZIGGO Select",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarziggo"
+  },
+  {
+    "namear": "ZIGGO Racing",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"ZIGGO Racing\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://iptvtree.net:8080/F11682/82ca5fbd/4515\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/22266547_ico.png",
+    "nameen": "ZIGGO Racing",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarziggo"
+  },
+  {
+    "namear": "ZIGGO Golf",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"ZIGGO Golf\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://line.team-tv.link:80/mutant007/UzskkVQyjP/3067\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/22266607_ico.png",
+    "nameen": "ZIGGO Golf",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarziggo"
+  }
+]

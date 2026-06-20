@@ -1,0 +1,83 @@
+[
+  {
+    "namear": "HBO ES",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"HBO ES\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/167.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4746353_ico.png",
+    "nameen": "HBO ES",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarhbo_group"
+  },
+  {
+    "namear": "HBO 2 ES",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"HBO 2 ES\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/168.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4746364_ico.png",
+    "nameen": "HBO 2 ES",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarhbo_group"
+  },
+  {
+    "namear": "HBO Family ES",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"HBO Family ES\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/169.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4746377_ico.png",
+    "nameen": "HBO Family ES",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarhbo_group"
+  },
+  {
+    "namear": "HBO Signa ES",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"HBO Signa ES\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/171.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4746401_ico.png",
+    "nameen": "HBO Signa ES",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarhbo_group"
+  },
+  {
+    "namear": "HBO Plus ES",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"HBO Plus ES\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/170.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4746408_ico.png",
+    "nameen": "HBO Plus ES",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarhbo_group"
+  },
+  {
+    "namear": "HBO Mundi",
+    "servers": "[{\"headers\":\"elplayeruser-Agent|elplayeruser-Agent|elplayeruser-Agent|elplayer\",\"otherHeaders\":\"\",\"name\":\"HBO Mundi\",\"Referer\":\"\",\"userAgent\":\"elplayeruser-Agent|elplayer\",\"position\":\"0\",\"url\":\"https://xxxmain.cinedecalidad.xyz:443/elplayer/QWXcqM4gJQ/133\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4746425_ico.png",
+    "nameen": "HBO Mundi",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarhbo_group"
+  },
+  {
+    "namear": "HBO Xtreme",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"HBO Xtreme\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/91.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4746437_ico.png",
+    "nameen": "HBO Xtreme",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarhbo_group"
+  },
+  {
+    "namear": "HBO Pop",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"HBO Pop\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/61.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4746443_ico.png",
+    "nameen": "HBO Pop",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarhbo_group"
+  },
+  {
+    "namear": "A HBO",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"A HBO\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://ott-cdn.ucom.am/s64/04.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4828991_ico.png",
+    "nameen": "A HBO",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarhbo_group"
+  }
+]

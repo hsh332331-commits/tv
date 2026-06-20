@@ -1,0 +1,110 @@
+[
+  {
+    "namear": "|MR| AL MOURABITOUNE",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|MR| AL MOURABITOUNE\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2306\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MR| AL MOURABITOUNE",
+    "position": "1",
+    "type": "channel",
+    "key": "mauritanietv"
+  },
+  {
+    "namear": "|MR| EL WATANIA TV",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|MR| EL WATANIA TV\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2305\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MR| EL WATANIA TV",
+    "position": "2",
+    "type": "channel",
+    "key": "mauritanietv"
+  },
+  {
+    "namear": "|MR| SAHEL TV",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|MR| SAHEL TV\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2304\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MR| SAHEL TV",
+    "position": "3",
+    "type": "channel",
+    "key": "mauritanietv"
+  },
+  {
+    "namear": "|MR| Arriadia MOURITANIA",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|MR| Arriadia MOURITANIA\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2303\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MR| Arriadia MOURITANIA",
+    "position": "4",
+    "type": "channel",
+    "key": "mauritanietv"
+  },
+  {
+    "namear": "|MR| EL MOURITANIA 2",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|MR| EL MOURITANIA 2\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2302\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MR| EL MOURITANIA 2",
+    "position": "5",
+    "type": "channel",
+    "key": "mauritanietv"
+  },
+  {
+    "namear": "|MR| Athagavia MOURITANIA",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|MR| Athagavia MOURITANIA\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2301\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MR| Athagavia MOURITANIA",
+    "position": "6",
+    "type": "channel",
+    "key": "mauritanietv"
+  },
+  {
+    "namear": "|MR| ELMAHDRA",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|MR| ELMAHDRA\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2300\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MR| ELMAHDRA",
+    "position": "7",
+    "type": "channel",
+    "key": "mauritanietv"
+  },
+  {
+    "namear": "|MR| EL MOURITANIA",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|MR| EL MOURITANIA\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2299\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MR| EL MOURITANIA",
+    "position": "8",
+    "type": "channel",
+    "key": "mauritanietv"
+  },
+  {
+    "namear": "|MR| EL MAHADRA Mauritania",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|MR| EL MAHADRA Mauritania\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2298\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MR| EL MAHADRA Mauritania",
+    "position": "9",
+    "type": "channel",
+    "key": "mauritanietv"
+  },
+  {
+    "namear": "|MR| AL BARLEMANIA",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|MR| AL BARLEMANIA\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2297\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MR| AL BARLEMANIA",
+    "position": "10",
+    "type": "channel",
+    "key": "mauritanietv"
+  },
+  {
+    "namear": "|MR| CHINGUIT TV",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|MR| CHINGUIT TV\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2296\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MR| CHINGUIT TV",
+    "position": "11",
+    "type": "channel",
+    "key": "mauritanietv"
+  },
+  {
+    "namear": "|MR| AL_MOURITANIYA_HD",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|MR| AL_MOURITANIYA_HD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2295\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MR| AL_MOURITANIYA_HD",
+    "position": "12",
+    "type": "channel",
+    "key": "mauritanietv"
+  }
+]

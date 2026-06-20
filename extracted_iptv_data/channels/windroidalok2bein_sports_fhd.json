@@ -1,0 +1,65 @@
+[
+  {
+    "namear": "beIN Sports 1 FHD",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 1 FHD\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/527.ts\"}]",
+    "logo": "https://i.ibb.co/Dfv3xLH/1k.png",
+    "nameen": "beIN Sports 1 FHD",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidalok2bein_sports_fhd"
+  },
+  {
+    "namear": "beIN Sports 2 FHD",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 2 FHD\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/528.ts\"}]",
+    "logo": "https://i.ibb.co/rGCGS6Y/2k.png",
+    "nameen": "beIN Sports 2 FHD",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidalok2bein_sports_fhd"
+  },
+  {
+    "namear": "beIN Sports 3 FHD",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 3 FHD\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/529.ts\"}]",
+    "logo": "https://i.ibb.co/zPWFmCH/3k.png",
+    "nameen": "beIN Sports 3 FHD",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidalok2bein_sports_fhd"
+  },
+  {
+    "namear": "beIN Sports 4 FHD",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 4 FHD\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/530.ts\"}]",
+    "logo": "https://i.ibb.co/ypQq51X/4k.png",
+    "nameen": "beIN Sports 4 FHD",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidalok2bein_sports_fhd"
+  },
+  {
+    "namear": "beIN Sports 5 FHD",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 5 FHD\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/531.ts\"}]",
+    "logo": "https://i.ibb.co/s5NmDrv/5k.png",
+    "nameen": "beIN Sports 5 FHD",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidalok2bein_sports_fhd"
+  },
+  {
+    "namear": "beIN Sports 6 FHD",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 6 FHD\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/532.ts\"}]",
+    "logo": "https://i.ibb.co/mzt0Tf6/6k.png",
+    "nameen": "beIN Sports 6 FHD",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidalok2bein_sports_fhd"
+  },
+  {
+    "namear": "beIN Sports 7 FHD",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 7 FHD\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/533.ts\"}]",
+    "logo": "https://i.ibb.co/gdZQf2K/7k.png",
+    "nameen": "beIN Sports 7 FHD",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidalok2bein_sports_fhd"
+  }
+]

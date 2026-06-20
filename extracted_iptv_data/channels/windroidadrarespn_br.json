@@ -1,0 +1,38 @@
+[
+  {
+    "namear": "ESPN 1 BR",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"ESPN 1 BR\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://superblazertop.com.br.global.prod.fastly.net/live2/espn/play2.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/27568030_ico.png",
+    "nameen": "ESPN 1 BR",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarespn_br"
+  },
+  {
+    "namear": "ESPN 2 BR",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"ESPN 2 BR\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://superblazertop.com.br.global.prod.fastly.net/live2/espn2/play2.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/27568038_ico.png",
+    "nameen": "ESPN 2 BR",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarespn_br"
+  },
+  {
+    "namear": "ESPN 3 BR",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"ESPN 3 BR\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://superblazertop.com.br.global.prod.fastly.net/live2/espn3/play2.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/27568042_ico.png",
+    "nameen": "ESPN 3 BR",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarespn_br"
+  },
+  {
+    "namear": "ESPN 4 BR",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"ESPN 4 BR\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://superblazertop.com.br.global.prod.fastly.net/live2/espn4/play2.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/27568044_ico.png",
+    "nameen": "ESPN 4 BR",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarespn_br"
+  }
+]

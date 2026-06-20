@@ -1,0 +1,2153 @@
+[
+  {
+    "namear": "beIN 1 Premium FHD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN 1 Premium FHD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/405\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "beIN 1 Premium FHD",
+    "position": "1",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "beIN 3 Premium FHD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN 3 Premium FHD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/407\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "beIN 3 Premium FHD",
+    "position": "2",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "beIN 4 FHD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN 4 FHD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/408\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "beIN 4 FHD",
+    "position": "3",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "beIN 5 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN 5 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/409\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "beIN 5 HD",
+    "position": "4",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "beIN 2 Premium HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN 2 Premium HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/406\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "beIN 2 Premium HD",
+    "position": "5",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "beIN 6 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN 6 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/410\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "beIN 6 HD",
+    "position": "6",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "beIN Sports 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/877\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "beIN Sports 1",
+    "position": "7",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "beIN Sports 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/878\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "beIN Sports 2",
+    "position": "8",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "beIN Sports 3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/879\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "beIN Sports 3",
+    "position": "9",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "BeIN Sports 7 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BeIN Sports 7 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/884\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "BeIN Sports 7 HD",
+    "position": "10",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "SSC 1 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SSC 1 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/733\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "SSC 1 HD",
+    "position": "11",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "SSC 2 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SSC 2 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/734\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "SSC 2 HD",
+    "position": "12",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "SSC 3 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SSC 3 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/735\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "SSC 3 HD",
+    "position": "13",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "SSC 5 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SSC 5 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/737\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "SSC 5 HD",
+    "position": "14",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "beIN 4 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN 4 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/732\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "beIN 4 HD",
+    "position": "15",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "SSC-EXTRA 1 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SSC-EXTRA 1 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/882\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "SSC-EXTRA 1 HD",
+    "position": "16",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "SSC-EXTRA 2 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SSC-EXTRA 2 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/883\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "SSC-EXTRA 2 HD",
+    "position": "17",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "AD | SPORT PREMIUM 1 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AD | SPORT PREMIUM 1 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/880\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "AD | SPORT PREMIUM 1 HD",
+    "position": "18",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "AD | SPORT PREMIUM 2 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AD | SPORT PREMIUM 2 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/881\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "AD | SPORT PREMIUM 2 HD",
+    "position": "19",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "2M Monde",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"2M Monde\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/411\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "2M Monde",
+    "position": "20",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "AL AOULA HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AL AOULA HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/412\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "AL AOULA HD",
+    "position": "21",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "A One TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"A One TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/426\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "A One TV",
+    "position": "22",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Abu Dhabi Aloula",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Abu Dhabi Aloula\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/428\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Abu Dhabi Aloula",
+    "position": "23",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Abu Dhabi Emirates",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Abu Dhabi Emirates\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/429\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Abu Dhabi Emirates",
+    "position": "24",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Abu Dhabi Sports 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Abu Dhabi Sports 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/430\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Abu Dhabi Sports 1",
+    "position": "25",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Abu Dhabi Sports 2 (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Abu Dhabi Sports 2 (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/431\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Abu Dhabi Sports 2 (1080p)",
+    "position": "26",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Africa TV 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Africa TV 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/433\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Africa TV 1",
+    "position": "27",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Africa TV 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Africa TV 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/434\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Africa TV 2",
+    "position": "28",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Ajman TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Ajman TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/437\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Ajman TV",
+    "position": "29",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Aan TV (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Aan TV (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/438\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Aan TV (720p)",
+    "position": "30",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Alam (360p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Alam (360p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/439\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Alam (360p) [Not 24/7]",
+    "position": "31",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Alamiya 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Alamiya 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/440\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Alamiya 2",
+    "position": "32",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Aoula International (360p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Aoula International (360p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/441\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Aoula International (360p)",
+    "position": "33",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Aqsa Channel (416p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Aqsa Channel (416p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/442\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Aqsa Channel (416p) [Not 24/7]",
+    "position": "34",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Arabiya (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Arabiya (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/443\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Arabiya (1080p)",
+    "position": "35",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Arabiya Al Hadath (1080p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Arabiya Al Hadath (1080p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/444\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Arabiya Al Hadath (1080p) [Not 24/7]",
+    "position": "36",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Ekhbariya (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Ekhbariya (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/445\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Ekhbariya (1080p)",
+    "position": "37",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Hurra (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Hurra (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/449\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Hurra (720p)",
+    "position": "38",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Iraqia",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Iraqia\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/450\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Iraqia",
+    "position": "39",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Iraqia News",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Iraqia News\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/451\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Iraqia News",
+    "position": "40",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Iraqia Sport (1080p) [Geo-blocked]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Iraqia Sport (1080p) [Geo-blocked]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/452\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Iraqia Sport (1080p) [Geo-blocked]",
+    "position": "41",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Istiqama TV (576p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Istiqama TV (576p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/453\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Istiqama TV (576p)",
+    "position": "42",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Ittihad (552p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Ittihad (552p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/454\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Ittihad (552p) [Not 24/7]",
+    "position": "43",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Jazeera Arabic (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Jazeera Arabic (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/455\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Jazeera Arabic (1080p)",
+    "position": "44",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Jazeera Balkans (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Jazeera Balkans (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/456\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Jazeera Balkans (1080p)",
+    "position": "45",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Jazeera Documentary (270p) [Geo-blocked]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Jazeera Documentary (270p) [Geo-blocked]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/457\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Jazeera Documentary (270p) [Geo-blocked]",
+    "position": "46",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Jazeera Mubasher (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Jazeera Mubasher (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/458\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Jazeera Mubasher (1080p)",
+    "position": "47",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Khalij (720p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Khalij (720p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/459\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Khalij (720p) [Not 24/7]",
+    "position": "48",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Maaref (350p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Maaref (350p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/460\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Maaref (350p)",
+    "position": "49",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Maghribia (360p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Maghribia (360p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/461\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Maghribia (360p)",
+    "position": "50",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Mamlaka TV (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Mamlaka TV (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/462\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Mamlaka TV (1080p)",
+    "position": "51",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Masirah (720p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Masirah (720p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/464\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Masirah (720p) [Not 24/7]",
+    "position": "52",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Masirah Mubacher (642p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Masirah Mubacher (642p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/465\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Masirah Mubacher (642p) [Not 24/7]",
+    "position": "53",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Mayadeen (576p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Mayadeen (576p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/466\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Mayadeen (576p)",
+    "position": "54",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Quran Al Kareem TV (Mecca) (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Quran Al Kareem TV (Mecca) (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/468\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Quran Al Kareem TV (Mecca) (720p)",
+    "position": "55",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Rafidain (1024p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Rafidain (1024p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/469\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Rafidain (1024p) [Not 24/7]",
+    "position": "56",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Rasheed (408p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Rasheed (408p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/470\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Rasheed (408p) [Not 24/7]",
+    "position": "57",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Rayyan (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Rayyan (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/471\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Rayyan (1080p)",
+    "position": "58",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Rayyan Al Qadeem (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Rayyan Al Qadeem (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/472\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Rayyan Al Qadeem (1080p)",
+    "position": "59",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Sabah (360p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Sabah (360p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/473\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Sabah (360p) [Not 24/7]",
+    "position": "60",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Saudiya (1080p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Saudiya (1080p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/474\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Saudiya (1080p) [Not 24/7]",
+    "position": "61",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Sharqiya (1080p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Sharqiya (1080p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/475\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Sharqiya (1080p) [Not 24/7]",
+    "position": "62",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Sharqiya Min Kabla (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Sharqiya Min Kabla (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/476\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Sharqiya Min Kabla (1080p)",
+    "position": "63",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Sharqiya News (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Sharqiya News (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/477\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Sharqiya News (1080p)",
+    "position": "64",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Sunnah Al Nabawiyah TV (Medina) (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Sunnah Al Nabawiyah TV (Medina) (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/478\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Sunnah Al Nabawiyah TV (Medina) (720p)",
+    "position": "65",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Wousta TV (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Wousta TV (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/480\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Wousta TV (1080p)",
+    "position": "66",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al Yaum TV (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Yaum TV (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/481\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Yaum TV (720p)",
+    "position": "67",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al-Bawadi (360p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al-Bawadi (360p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/483\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al-Bawadi (360p)",
+    "position": "68",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al-Etejah (576p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al-Etejah (576p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/484\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al-Etejah (576p) [Not 24/7]",
+    "position": "69",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al-Majd Holy Quran (576p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al-Majd Holy Quran (576p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/487\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al-Majd Holy Quran (576p)",
+    "position": "70",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Al-Majd Scientific (576p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al-Majd Scientific (576p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/488\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al-Majd Scientific (576p)",
+    "position": "71",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Alerth Alnabawi (576p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Alerth Alnabawi (576p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/489\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Alerth Alnabawi (576p) [Not 24/7]",
+    "position": "72",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Alfath Sonnah TV (576p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Alfath Sonnah TV (576p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/490\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Alfath Sonnah TV (576p)",
+    "position": "73",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Alfath TV (576p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Alfath TV (576p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/491\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Alfath TV (576p)",
+    "position": "74",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Alghad Almushreq (576p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Alghad Almushreq (576p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/494\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Alghad Almushreq (576p)",
+    "position": "75",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Alhaqeqa Aldawlia (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Alhaqeqa Aldawlia (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/496\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Alhaqeqa Aldawlia (1080p)",
+    "position": "76",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Almagd TV Middle East (1080p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Almagd TV Middle East (1080p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/507\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Almagd TV Middle East (1080p) [Not 24/7]",
+    "position": "77",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Alwasat TV (1080p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Alwasat TV (1080p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/510\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Alwasat TV (1080p) [Not 24/7]",
+    "position": "78",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Alyaman Shabab (1080p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Alyaman Shabab (1080p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/511\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Alyaman Shabab (1080p) [Not 24/7]",
+    "position": "79",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Amman TV (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Amman TV (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/512\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Amman TV (720p)",
+    "position": "80",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Arabica TV (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Arabica TV (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/513\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Arabica TV (720p)",
+    "position": "81",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Arrabiaa (360p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Arrabiaa (360p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/514\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Arrabiaa (360p)",
+    "position": "82",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Arriadia (360p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Arriadia (360p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/515\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Arriadia (360p)",
+    "position": "83",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Asharq (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Asharq (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/516\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Asharq (1080p)",
+    "position": "84",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Asharq (Portrait) (1280p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Asharq (Portrait) (1280p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/517\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Asharq (Portrait) (1280p)",
+    "position": "85",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Assadissa (360p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Assadissa (360p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/518\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Assadissa (360p)",
+    "position": "86",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Audeh (480p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Audeh (480p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/522\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Audeh (480p)",
+    "position": "87",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Ayaat (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Ayaat (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/523\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Ayaat (720p)",
+    "position": "88",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Bahrain International (720p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Bahrain International (720p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/524\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Bahrain International (720p) [Not 24/7]",
+    "position": "89",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Bahrain Sports 1 (720p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Bahrain Sports 1 (720p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/525\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Bahrain Sports 1 (720p) [Not 24/7]",
+    "position": "90",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Bahrain Sports 2 (720p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Bahrain Sports 2 (720p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/526\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Bahrain Sports 2 (720p) [Not 24/7]",
+    "position": "91",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Bahrain TV (720p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Bahrain TV (720p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/527\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Bahrain TV (720p) [Not 24/7]",
+    "position": "92",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "BBC Arabic (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BBC Arabic (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/528\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "BBC Arabic (720p)",
+    "position": "93",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Cartoon Network Arabia (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Cartoon Network Arabia (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/532\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Cartoon Network Arabia (1080p)",
+    "position": "94",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "CGTN Arabic (576p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CGTN Arabic (576p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/533\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "CGTN Arabic (576p) [Not 24/7]",
+    "position": "95",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "CharityTV (1080p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CharityTV (1080p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/534\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "CharityTV (1080p) [Not 24/7]",
+    "position": "96",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "CNA (Chaîne Nord Africaine) (360p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CNA (Chaîne Nord Africaine) (360p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/536\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "CNA (Chaîne Nord Africaine) (360p) [Not 24/7]",
+    "position": "97",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Dijlah (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Dijlah (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/538\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Dijlah (1080p)",
+    "position": "98",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Dubai Racing 2 (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Dubai Racing 2 (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/540\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Dubai Racing 2 (1080p)",
+    "position": "99",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Dubai Racing 3 (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Dubai Racing 3 (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/541\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Dubai Racing 3 (1080p)",
+    "position": "100",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Dubai Racing (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Dubai Racing (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/542\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Dubai Racing (1080p)",
+    "position": "101",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Dubai Sports 1 (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Dubai Sports 1 (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/543\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Dubai Sports 1 (1080p)",
+    "position": "102",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Dubai Sports 2 (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Dubai Sports 2 (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/544\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Dubai Sports 2 (720p)",
+    "position": "103",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Dubai Sports 3 (1080p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Dubai Sports 3 (1080p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/545\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Dubai Sports 3 (1080p) [Not 24/7]",
+    "position": "104",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Dubai TV (576p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Dubai TV (576p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/546\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Dubai TV (576p)",
+    "position": "105",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Dubai Zaman (1080p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Dubai Zaman (1080p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/547\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Dubai Zaman (1080p) [Not 24/7]",
+    "position": "106",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "DW Arabic (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"DW Arabic (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/548\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "DW Arabic (1080p)",
+    "position": "107",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "El Radio 9090 FM (480p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"El Radio 9090 FM (480p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/557\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "El Radio 9090 FM (480p)",
+    "position": "108",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Elsharq TV (1080p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Elsharq TV (1080p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/559\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Elsharq TV (1080p) [Not 24/7]",
+    "position": "109",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Falastini (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Falastini (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/563\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Falastini (720p)",
+    "position": "110",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "February TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"February TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/564\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "February TV",
+    "position": "111",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "France 24 Arabic (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"France 24 Arabic (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/565\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "France 24 Arabic (720p)",
+    "position": "112",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Funoon (360p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Funoon (360p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/566\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Funoon (360p)",
+    "position": "113",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Gulli Bil Arabi (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Gulli Bil Arabi (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/567\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Gulli Bil Arabi (1080p)",
+    "position": "114",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Hadramout",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Hadramout\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/568\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Hadramout",
+    "position": "115",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Hala Control Studio (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Hala Control Studio (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/569\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Hala Control Studio (720p)",
+    "position": "116",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Hala London (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Hala London (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/570\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Hala London (1080p)",
+    "position": "117",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Hala TV (576p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Hala TV (576p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/571\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Hala TV (576p) [Not 24/7]",
+    "position": "118",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Halab Today TV (480p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Halab Today TV (480p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/572\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Halab Today TV (480p) [Not 24/7]",
+    "position": "119",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Hawas TV (480p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Hawas TV (480p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/573\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Hawas TV (480p)",
+    "position": "120",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Hekaya TV (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Hekaya TV (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/574\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Hekaya TV (720p)",
+    "position": "121",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "I24 News Arabic (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"I24 News Arabic (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/575\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "I24 News Arabic (720p)",
+    "position": "122",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "iNEWS (1080p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"iNEWS (1080p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/576\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "iNEWS (1080p) [Not 24/7]",
+    "position": "123",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Iqraa (576p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Iqraa (576p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/577\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Iqraa (576p) [Not 24/7]",
+    "position": "124",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Ismaoona TV (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Ismaoona TV (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/578\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Ismaoona TV (720p)",
+    "position": "125",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Jawhara FM (720p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Jawhara FM (720p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/580\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Jawhara FM (720p) [Not 24/7]",
+    "position": "126",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "JAWHARA TV (720p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"JAWHARA TV (720p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/581\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "JAWHARA TV (720p) [Not 24/7]",
+    "position": "127",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Jeddah Radio (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Jeddah Radio (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/582\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Jeddah Radio (720p)",
+    "position": "128",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Jordan Satellite Channel (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Jordan Satellite Channel (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/583\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Jordan Satellite Channel (1080p)",
+    "position": "129",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Jordan Sport",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Jordan Sport\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/584\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Jordan Sport",
+    "position": "130",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Kaif TV (576p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Kaif TV (576p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/585\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Kaif TV (576p) [Not 24/7]",
+    "position": "131",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Koogi TV (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Koogi TV (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/586\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Koogi TV (1080p)",
+    "position": "132",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "KSA Sports 1 (1080p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"KSA Sports 1 (1080p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/587\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "KSA Sports 1 (1080p) [Not 24/7]",
+    "position": "133",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "KSA Sports 2 (1080p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"KSA Sports 2 (1080p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/588\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "KSA Sports 2 (1080p) [Not 24/7]",
+    "position": "134",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "KSA Sports 3 (1080p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"KSA Sports 3 (1080p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/589\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "KSA Sports 3 (1080p) [Not 24/7]",
+    "position": "135",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "KSA Sports 4 (1080p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"KSA Sports 4 (1080p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/590\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "KSA Sports 4 (1080p) [Not 24/7]",
+    "position": "136",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "KTV Ethraa (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"KTV Ethraa (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/591\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "KTV Ethraa (1080p)",
+    "position": "137",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "LBC (1080p) [Geo-blocked]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"LBC (1080p) [Geo-blocked]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/594\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "LBC (1080p) [Geo-blocked]",
+    "position": "138",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Libya Al Ahrar TV (720p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Libya Al Ahrar TV (720p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/596\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Libya Al Ahrar TV (720p) [Not 24/7]",
+    "position": "139",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Libya Al Hadath (576p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Libya Al Hadath (576p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/597\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Libya Al Hadath (576p) [Not 24/7]",
+    "position": "140",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "M24 TV (720p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"M24 TV (720p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/600\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "M24 TV (720p) [Not 24/7]",
+    "position": "141",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Majid TV (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Majid TV (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/601\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Majid TV (1080p)",
+    "position": "142",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Makkah TV (576p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Makkah TV (576p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/602\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Makkah TV (576p)",
+    "position": "143",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Marah FM (720p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Marah FM (720p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/603\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Marah FM (720p) [Not 24/7]",
+    "position": "144",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Mawwal (720p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Mawwal (720p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/604\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Mawwal (720p) [Not 24/7]",
+    "position": "145",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "MBC 1 (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC 1 (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/605\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "MBC 1 (1080p)",
+    "position": "146",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "MBC 1 USA (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC 1 USA (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/606\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "MBC 1 USA (1080p)",
+    "position": "147",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "MBC 3 EUR (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC 3 EUR (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/607\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "MBC 3 EUR (1080p)",
+    "position": "148",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "MBC 3 USA (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC 3 USA (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/608\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "MBC 3 USA (1080p)",
+    "position": "149",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "MBC 4 (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC 4 (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/609\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "MBC 4 (1080p)",
+    "position": "150",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "MBC 5 (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC 5 (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/610\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "MBC 5 (1080p)",
+    "position": "151",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "MBC Action (1080p) [Geo-blocked]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC Action (1080p) [Geo-blocked]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/611\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "MBC Action (1080p) [Geo-blocked]",
+    "position": "152",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "MBC Bollywood (1080p) [Geo-blocked]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC Bollywood (1080p) [Geo-blocked]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/612\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "MBC Bollywood (1080p) [Geo-blocked]",
+    "position": "153",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "MBC Drama KSA (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC Drama KSA (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/613\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "MBC Drama KSA (1080p)",
+    "position": "154",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "MBC Drama USA (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC Drama USA (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/614\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "MBC Drama USA (1080p)",
+    "position": "155",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "MBC FM (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC FM (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/615\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "MBC FM (1080p)",
+    "position": "156",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "MBC Iraq (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC Iraq (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/616\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "MBC Iraq (1080p)",
+    "position": "157",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "MBC Masr 1 (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC Masr 1 (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/617\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "MBC Masr 1 (1080p)",
+    "position": "158",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "MBC Masr 1 USA (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC Masr 1 USA (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/618\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "MBC Masr 1 USA (1080p)",
+    "position": "159",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "MBC Masr 2 (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC Masr 2 (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/619\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "MBC Masr 2 (1080p)",
+    "position": "160",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "MBC Plus Drama (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC Plus Drama (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/620\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "MBC Plus Drama (1080p)",
+    "position": "161",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Medi 1 TV Arabic (1080p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Medi 1 TV Arabic (1080p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/621\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Medi 1 TV Arabic (1080p) [Not 24/7]",
+    "position": "162",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Medi 1 TV Maghreb (1080p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Medi 1 TV Maghreb (1080p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/622\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Medi 1 TV Maghreb (1080p) [Not 24/7]",
+    "position": "163",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Mekameleen TV (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Mekameleen TV (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/623\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Mekameleen TV (1080p)",
+    "position": "164",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Melody FM Jordan (720p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Melody FM Jordan (720p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/624\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Melody FM Jordan (720p) [Not 24/7]",
+    "position": "165",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Mosaïque FM (480p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Mosaïque FM (480p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/626\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Mosaïque FM (480p) [Not 24/7]",
+    "position": "166",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "MTA1 World (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MTA1 World (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/627\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "MTA1 World (720p)",
+    "position": "167",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "MTA2 Europe (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MTA2 Europe (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/628\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "MTA2 Europe (720p)",
+    "position": "168",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "MTA3 Al-Arabia (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MTA3 Al-Arabia (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/629\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "MTA3 Al-Arabia (1080p)",
+    "position": "169",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "MTA6 Asia (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MTA6 Asia (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/630\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "MTA6 Asia (1080p)",
+    "position": "170",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "MTA7 Asia (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MTA7 Asia (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/631\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "MTA7 Asia (1080p)",
+    "position": "171",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "MTV Lebanon (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MTV Lebanon (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/632\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "MTV Lebanon (1080p)",
+    "position": "172",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Nabaa TV (720p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Nabaa TV (720p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/634\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Nabaa TV (720p) [Not 24/7]",
+    "position": "173",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Nablus TV (720p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Nablus TV (720p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/635\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Nablus TV (720p) [Not 24/7]",
+    "position": "174",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "National Geographic Abu Dhabi (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"National Geographic Abu Dhabi (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/636\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "National Geographic Abu Dhabi (1080p)",
+    "position": "175",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Nidae AlIslam Radio (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Nidae AlIslam Radio (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/637\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Nidae AlIslam Radio (720p)",
+    "position": "176",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Noor Dubai (576p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Noor Dubai (576p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/638\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Noor Dubai (576p)",
+    "position": "177",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Palestine Mubasher (404p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Palestine Mubasher (404p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/646\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Palestine Mubasher (404p)",
+    "position": "178",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Palestine Satellite Channel (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Palestine Satellite Channel (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/647\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Palestine Satellite Channel (1080p)",
+    "position": "179",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Palestine Today (480p) [Geo-blocked]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Palestine Today (480p) [Geo-blocked]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/648\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Palestine Today (480p) [Geo-blocked]",
+    "position": "180",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Panorama FM (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Panorama FM (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/649\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Panorama FM (1080p)",
+    "position": "181",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Qatar TV (360p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Qatar TV (360p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/652\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Qatar TV (360p)",
+    "position": "182",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Quran Radio (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Quran Radio (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/653\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Quran Radio (720p)",
+    "position": "183",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Radio Fann Jordan: City View (180p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Fann Jordan: City View (180p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/654\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Radio Fann Jordan: City View (180p) [Not 24/7]",
+    "position": "184",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Radio Fann Jordan: Control Studio (220p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Fann Jordan: Control Studio (220p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/655\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Radio Fann Jordan: Control Studio (220p) [Not 24/7]",
+    "position": "185",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Radio Fann Jordan: Studio (180p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Fann Jordan: Studio (180p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/656\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Radio Fann Jordan: Studio (180p) [Not 24/7]",
+    "position": "186",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Radio Yaqeen Jordan: City View (180p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Yaqeen Jordan: City View (180p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/657\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Radio Yaqeen Jordan: City View (180p) [Not 24/7]",
+    "position": "187",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Radio Yaqeen Jordan: Control Studio (180p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Yaqeen Jordan: Control Studio (180p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/658\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Radio Yaqeen Jordan: Control Studio (180p) [Not 24/7]",
+    "position": "188",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Radio Yaqeen Jordan: Studio (180p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Yaqeen Jordan: Studio (180p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/659\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Radio Yaqeen Jordan: Studio (180p) [Not 24/7]",
+    "position": "189",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Rajeen TV (1080p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rajeen TV (1080p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/660\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Rajeen TV (1080p) [Not 24/7]",
+    "position": "190",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "RASD TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"RASD TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/661\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "RASD TV",
+    "position": "191",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Rotana Cinema (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rotana Cinema (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/662\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Rotana Cinema (1080p)",
+    "position": "192",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Rotana Cinema KSA (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rotana Cinema KSA (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/663\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Rotana Cinema KSA (1080p)",
+    "position": "193",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Rotana Classic (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rotana Classic (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/664\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Rotana Classic (1080p)",
+    "position": "194",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Rotana Clip (1080p) [Geo-blocked]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rotana Clip (1080p) [Geo-blocked]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/665\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Rotana Clip (1080p) [Geo-blocked]",
+    "position": "195",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Rotana Comedy (1080p) [Geo-blocked]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rotana Comedy (1080p) [Geo-blocked]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/666\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Rotana Comedy (1080p) [Geo-blocked]",
+    "position": "196",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Rotana Drama (1080p) [Geo-blocked]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rotana Drama (1080p) [Geo-blocked]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/667\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Rotana Drama (1080p) [Geo-blocked]",
+    "position": "197",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Rotana Khalijia (1080p) [Geo-blocked]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rotana Khalijia (1080p) [Geo-blocked]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/668\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Rotana Khalijia (1080p) [Geo-blocked]",
+    "position": "198",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Rotana Kids (1080p) [Geo-blocked]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rotana Kids (1080p) [Geo-blocked]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/669\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Rotana Kids (1080p) [Geo-blocked]",
+    "position": "199",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Rotana Music (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rotana Music (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/670\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Rotana Music (1080p)",
+    "position": "200",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Rotana Radio Jordan: City View (180p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rotana Radio Jordan: City View (180p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/671\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Rotana Radio Jordan: City View (180p) [Not 24/7]",
+    "position": "201",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Rotana Radio Jordan: Control Studio (180p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rotana Radio Jordan: Control Studio (180p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/672\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Rotana Radio Jordan: Control Studio (180p)",
+    "position": "202",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Rotana Radio Jordan: Studio (180p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rotana Radio Jordan: Studio (180p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/673\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Rotana Radio Jordan: Studio (180p) [Not 24/7]",
+    "position": "203",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Rotana Tarab Jordan: City View (180p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rotana Tarab Jordan: City View (180p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/674\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Rotana Tarab Jordan: City View (180p) [Not 24/7]",
+    "position": "204",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Rotana Tarab Jordan: Control Studio (180p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rotana Tarab Jordan: Control Studio (180p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/675\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Rotana Tarab Jordan: Control Studio (180p) [Not 24/7]",
+    "position": "205",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Rotana+ (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rotana+ (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/676\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Rotana+ (1080p)",
+    "position": "206",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Roya TV (720p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Roya TV (720p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/677\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Roya TV (720p) [Not 24/7]",
+    "position": "207",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "RT Arabic (1080p) [Geo-blocked]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"RT Arabic (1080p) [Geo-blocked]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/678\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "RT Arabic (1080p) [Geo-blocked]",
+    "position": "208",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Sama Dubai (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sama Dubai (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/680\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Sama Dubai (1080p)",
+    "position": "209",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Sama TV (578p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sama TV (578p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/681\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Sama TV (578p) [Not 24/7]",
+    "position": "210",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Saudia Radio (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Saudia Radio (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/685\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Saudia Radio (720p)",
+    "position": "211",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Seraj TV (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Seraj TV (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/687\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Seraj TV (1080p)",
+    "position": "212",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Shabab FM (720p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Shabab FM (720p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/688\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Shabab FM (720p) [Not 24/7]",
+    "position": "213",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Sharjah 2 (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sharjah 2 (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/689\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Sharjah 2 (1080p)",
+    "position": "214",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Sharjah Sports TV (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sharjah Sports TV (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/690\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Sharjah Sports TV (1080p)",
+    "position": "215",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Sharjah TV (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sharjah TV (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/691\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Sharjah TV (1080p)",
+    "position": "216",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Sky News Arabia (720p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sky News Arabia (720p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/692\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Sky News Arabia (720p) [Not 24/7]",
+    "position": "217",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Sky News Arabia (Portrait) (1280p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sky News Arabia (Portrait) (1280p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/693\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Sky News Arabia (Portrait) (1280p) [Not 24/7]",
+    "position": "218",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Spacetoon (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Spacetoon (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/695\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Spacetoon (1080p)",
+    "position": "219",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "SSC Action Waleed (1080p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SSC Action Waleed (1080p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/696\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "SSC Action Waleed (1080p) [Not 24/7]",
+    "position": "220",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "SSC Action Waleed Extra (1080p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SSC Action Waleed Extra (1080p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/697\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "SSC Action Waleed Extra (1080p) [Not 24/7]",
+    "position": "221",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Sudan TV (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sudan TV (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/698\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Sudan TV (720p)",
+    "position": "222",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Suhail TV (576p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Suhail TV (576p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/699\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Suhail TV (576p)",
+    "position": "223",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Syria Drama (360p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Syria Drama (360p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/700\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Syria Drama (360p) [Not 24/7]",
+    "position": "224",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Syria Satellite Channel (360p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Syria Satellite Channel (360p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/701\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Syria Satellite Channel (360p) [Not 24/7]",
+    "position": "225",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Syria TV (1080p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Syria TV (1080p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/702\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Syria TV (1080p) [Not 24/7]",
+    "position": "226",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Taha TV (360p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Taha TV (360p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/703\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Taha TV (360p) [Not 24/7]",
+    "position": "227",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Takbeer TV (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Takbeer TV (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/704\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Takbeer TV (1080p)",
+    "position": "228",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Tamazight (360p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Tamazight (360p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/705\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Tamazight (360p)",
+    "position": "229",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Tele Liban (720p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Tele Liban (720p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/706\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Tele Liban (720p) [Not 24/7]",
+    "position": "230",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Télé Maroc (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Télé Maroc (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/707\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Télé Maroc (1080p)",
+    "position": "231",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "TRT Arabi (720p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TRT Arabi (720p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/711\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "TRT Arabi (720p) [Not 24/7]",
+    "position": "232",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Tunisie Immobilier TV (720p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Tunisie Immobilier TV (720p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/712\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Tunisie Immobilier TV (720p) [Not 24/7]",
+    "position": "233",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Wanasah (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Wanasah (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/717\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Wanasah (1080p)",
+    "position": "234",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Watan TV (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Watan TV (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/718\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Watan TV (1080p)",
+    "position": "235",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Watania 2 (400p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Watania 2 (400p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/719\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Watania 2 (400p) [Not 24/7]",
+    "position": "236",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Watar TV (720p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Watar TV (720p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/720\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Watar TV (720p) [Not 24/7]",
+    "position": "237",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Wattan TV (720p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Wattan TV (720p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/721\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Wattan TV (720p) [Not 24/7]",
+    "position": "238",
+    "type": "channel",
+    "key": "sport_server"
+  },
+  {
+    "namear": "Yas (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Yas (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://173.212.193.243:8080/mo3ad/mo3ad/727\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Yas (1080p)",
+    "position": "239",
+    "type": "channel",
+    "key": "sport_server"
+  }
+]

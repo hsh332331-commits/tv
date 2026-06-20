@@ -1,0 +1,56 @@
+[
+  {
+    "namear": "EMCI TV Montreal",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"EMCI TV Montreal\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://emci-td-hls.akamaized.net/hls/live/2007264/emcitdhls/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12352165_ico.png",
+    "nameen": "EMCI TV Montreal",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarcanada_كندا"
+  },
+  {
+    "namear": "Ici RDI",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Ici RDI\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12352180_ico.png",
+    "nameen": "Ici RDI",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarcanada_كندا"
+  },
+  {
+    "namear": "Amazing Discoveries",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Amazing Discoveries\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/447864_ico.png",
+    "nameen": "Amazing Discoveries",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarcanada_كندا"
+  },
+  {
+    "namear": "Prime Asia TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Prime Asia TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://primeasia.dyndns.tv:8080/Tv_web_250/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/448125_ico.png",
+    "nameen": "Prime Asia TV",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarcanada_كندا"
+  },
+  {
+    "namear": "QVTV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"QVTV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://qvmstream.tulix.tv/720p/720p/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/449190_ico.png",
+    "nameen": "QVTV",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarcanada_كندا"
+  },
+  {
+    "namear": "CP 24",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CP 24\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://we.caughtyousnooping.club:80/Famtv/JKM120611/1439\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14768738_ico.png",
+    "nameen": "CP 24",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarcanada_كندا"
+  }
+]

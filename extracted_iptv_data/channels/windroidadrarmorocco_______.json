@@ -1,0 +1,164 @@
+[
+  {
+    "namear": "Al Oula",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Oula\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000\\u003d4-mp4a_130400_qad\\u003d1.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9553282_ico.png",
+    "nameen": "Al Oula",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarmorocco_المغرب"
+  },
+  {
+    "namear": "Al Oula L",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Oula L\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_1500000\\u003d4-mp4a_130400_qad\\u003d1.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9553287_ico.png",
+    "nameen": "Al Oula L",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarmorocco_المغرب"
+  },
+  {
+    "namear": "2M Maroc",
+    "servers": "[{\"headers\":\"VLC/3.0.12.1 LibVLC/3.0.12.1user-Agent|VLC/3.0.12.1 LibVLC/3.0.12.1user-Agent|VLC/3.0.12.1 LibVLC/3.0.12.1user-Agent|VLC/3.0.12.1 LibVLC/3.0.12.1\",\"otherHeaders\":\"\",\"name\":\"2M Maroc\",\"Referer\":\"\",\"userAgent\":\"VLC/3.0.12.1 LibVLC/3.0.12.1user-Agent|VLC/3.0.12.1 LibVLC/3.0.12.1\",\"position\":\"0\",\"url\":\"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9553290_ico.png",
+    "nameen": "2M Maroc",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarmorocco_المغرب"
+  },
+  {
+    "namear": "Arriadia",
+    "servers": "[{\"headers\":\"SSuser-Agent|SSuser-Agent|SSuser-Agent|SS\",\"otherHeaders\":\"\",\"name\":\"Arriadia\",\"Referer\":\"\",\"userAgent\":\"SSuser-Agent|SS\",\"position\":\"0\",\"url\":\"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000\\u003d4-mp4a_130400_qad\\u003d1.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9553295_ico.png",
+    "nameen": "Arriadia",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarmorocco_المغرب"
+  },
+  {
+    "namear": "Arriadia Low",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Arriadia Low\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_400000\\u003d2-mp4a_130400_qad\\u003d1.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/13852038_ico.png",
+    "nameen": "Arriadia Low",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarmorocco_المغرب"
+  },
+  {
+    "namear": "Arrabia",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Arrabia\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1500000\\u003d4-mp4a_130400_qad\\u003d1.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9553299_ico.png",
+    "nameen": "Arrabia",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarmorocco_المغرب"
+  },
+  {
+    "namear": "Al Maghribia",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Maghribia\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1500000\\u003d4-mp4a_130400_qad\\u003d1.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9553303_ico.png",
+    "nameen": "Al Maghribia",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarmorocco_المغرب"
+  },
+  {
+    "namear": "Assadissa",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Assadissa\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_1500000\\u003d4-mp4a_130400_qad\\u003d1.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9553306_ico.png",
+    "nameen": "Assadissa",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarmorocco_المغرب"
+  },
+  {
+    "namear": "Assabiaa",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"Assabiaa\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://w.bs-share.com:8000/247179867825237/23141543216575/422442\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2696847_ico.png",
+    "nameen": "Assabiaa",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarmorocco_المغرب"
+  },
+  {
+    "namear": "Tamazight",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Tamazight\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt-avc1_1500000\\u003d4-mp4a_130400_qad\\u003d1.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9553313_ico.png",
+    "nameen": "Tamazight",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadrarmorocco_المغرب"
+  },
+  {
+    "namear": "Medi 1 MG",
+    "servers": "[{\"headers\":\"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36user-Agent|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36user-Agent|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36user-Agent|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36\",\"otherHeaders\":\"\",\"name\":\"Medi 1 MG\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36user-Agent|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36\",\"position\":\"0\",\"url\":\"http://streaming1.medi1tv.com/live/smil:medi1tv.smil/chunklist_b978000_DVR_slar.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9553314_ico.png",
+    "nameen": "Medi 1 MG",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidadrarmorocco_المغرب"
+  },
+  {
+    "namear": "Medi 1 AR",
+    "servers": "[{\"headers\":\"ozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36user-Agent|ozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36user-Agent|ozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36user-Agent|ozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36\",\"otherHeaders\":\"\",\"name\":\"Medi 1 AR\",\"Referer\":\"\",\"userAgent\":\"ozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36user-Agent|ozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36\",\"position\":\"0\",\"url\":\"http://streaming1.medi1tv.com/live/smil:medi1ar.smil/chunklist_b978000_DVR_slar.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12011423_ico.png",
+    "nameen": "Medi 1 AR",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidadrarmorocco_المغرب"
+  },
+  {
+    "namear": "Medi 1 FR",
+    "servers": "[{\"headers\":\"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.37user-Agent|Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.37user-Agent|Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.37user-Agent|Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.37\",\"otherHeaders\":\"\",\"name\":\"Medi 1 FR\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.37user-Agent|Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.37\",\"position\":\"0\",\"url\":\"http://streaming1.medi1tv.com/live/smil:medi1fr.smil/chunklist_b978000_DVR_slar.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12119613_ico.png",
+    "nameen": "Medi 1 FR",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidadrarmorocco_المغرب"
+  },
+  {
+    "namear": "Télé Maroc",
+    "servers": "[{\"headers\":\"oqnvnvbxeuys21rtuser-Agent|oqnvnvbxeuys21rtuser-Agent|oqnvnvbxeuys21rtuser-Agent|oqnvnvbxeuys21rt\",\"otherHeaders\":\"\",\"name\":\"Télé Maroc\",\"Referer\":\"\",\"userAgent\":\"oqnvnvbxeuys21rtuser-Agent|oqnvnvbxeuys21rt\",\"position\":\"0\",\"url\":\"https://api.new.livestream.com/accounts/27130247/events/8196478/live.secure.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9553319_ico.png",
+    "nameen": "Télé Maroc",
+    "position": "13",
+    "type": "channel",
+    "key": "windroidadrarmorocco_المغرب"
+  },
+  {
+    "namear": "Chada TV",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Chada TV\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"https://chadatv.vedge.infomaniak.com/livecast/chadatv/chunklist.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9553323_ico.png",
+    "nameen": "Chada TV",
+    "position": "14",
+    "type": "channel",
+    "key": "windroidadrarmorocco_المغرب"
+  },
+  {
+    "namear": "M 24",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"M 24\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://63df3191463ce.streamlock.net/live/ngrp:Tv2.stream_all/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9553324_ico.png",
+    "nameen": "M 24",
+    "position": "15",
+    "type": "channel",
+    "key": "windroidadrarmorocco_المغرب"
+  },
+  {
+    "namear": "Canal Atlas",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Canal Atlas\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://w.bs-share.com:8000/247179867825237/23141543216575/454376\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/15415367_ico.png",
+    "nameen": "Canal Atlas",
+    "position": "16",
+    "type": "channel",
+    "key": "windroidadrarmorocco_المغرب"
+  },
+  {
+    "namear": "MBC 5",
+    "servers": "[{\"headers\":\"yacineapp.tvuser-Agent|yacineapp.tvuser-Agent|yacineapp.tvuser-Agent|yacineapp.tv\",\"otherHeaders\":\"\",\"name\":\"MBC 5\",\"Referer\":\"\",\"userAgent\":\"yacineapp.tvuser-Agent|yacineapp.tv\",\"position\":\"0\",\"url\":\"https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_3.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12139877_ico.png",
+    "nameen": "MBC 5",
+    "position": "17",
+    "type": "channel",
+    "key": "windroidadrarmorocco_المغرب"
+  }
+]

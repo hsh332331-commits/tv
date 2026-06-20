@@ -1,0 +1,110 @@
+[
+  {
+    "namear": "beIN Movies 3",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://a502.variety-buy.store/api/channel/70\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/MOVIES3_DRAMA_DIGITAL_Mono.png",
+    "nameen": "beIN Movies 3",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvbein_الترفيهية"
+  },
+  {
+    "namear": "beIN Movies 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://a502.variety-buy.store/api/channel/68\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/MOVIES1_PREMIERE_DIGITAL_Mono.png",
+    "nameen": "beIN Movies 1",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvbein_الترفيهية"
+  },
+  {
+    "namear": "beIN Series 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://a502.variety-buy.store/api/channel/66\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/SERIES1_DIGITAL_Mono.png",
+    "nameen": "beIN Series 1",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvbein_الترفيهية"
+  },
+  {
+    "namear": "beIN Gourmet",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://a502.variety-buy.store/api/channel/65\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/GOURMET_DIGITAL_Mono.png",
+    "nameen": "beIN Gourmet",
+    "position": "8",
+    "type": "channel",
+    "key": "aya_cx_tvbein_الترفيهية"
+  },
+  {
+    "namear": "beIN Jeem",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://a502.variety-buy.store/api/channel/61\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2020/06/Jeem-HD-1-01.png",
+    "nameen": "beIN Jeem",
+    "position": "10",
+    "type": "channel",
+    "key": "aya_cx_tvbein_الترفيهية"
+  },
+  {
+    "namear": "beIN Fatafet",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://a502.variety-buy.store/api/channel/63\"}]",
+    "logo": "https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/FATAFEAT-1.png",
+    "nameen": "beIN Fatafet",
+    "position": "6",
+    "type": "channel",
+    "key": "aya_cx_tvbein_الترفيهية"
+  },
+  {
+    "namear": "beIN Movies 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://a502.variety-buy.store/api/channel/69\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/MOVIES2_ACTION_DIGITAL_Mono.png",
+    "nameen": "beIN Movies 2",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvbein_الترفيهية"
+  },
+  {
+    "namear": "beIN Boomerang",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://a502.variety-buy.store/api/channel/60\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/0000_Boomerang_tv_logo.png",
+    "nameen": "beIN Boomerang",
+    "position": "9",
+    "type": "channel",
+    "key": "aya_cx_tvbein_الترفيهية"
+  },
+  {
+    "namear": "beIN Series 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://a502.variety-buy.store/api/channel/67\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/SERIES2_DIGITAL_Mono.png",
+    "nameen": "beIN Series 2",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_cx_tvbein_الترفيهية"
+  },
+  {
+    "namear": "beIN Movies 4",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://a502.variety-buy.store/api/channel/71\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/MOVIES4_FAMILY_DIGITAL_Mono.png",
+    "nameen": "beIN Movies 4",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvbein_الترفيهية"
+  },
+  {
+    "namear": "beIN Baraem",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://a502.variety-buy.store/api/channel/62\"}]",
+    "logo": "https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/Bara3em-1.png",
+    "nameen": "beIN Baraem",
+    "position": "11",
+    "type": "channel",
+    "key": "aya_cx_tvbein_الترفيهية"
+  },
+  {
+    "namear": "beIN Drama",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://a502.variety-buy.store/api/channel/64\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/DRAMA_DIGITAL_Mono.png",
+    "nameen": "beIN Drama",
+    "position": "7",
+    "type": "channel",
+    "key": "aya_cx_tvbein_الترفيهية"
+  }
+]

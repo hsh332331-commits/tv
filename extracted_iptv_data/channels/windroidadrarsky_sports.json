@@ -1,0 +1,200 @@
+[
+  {
+    "namear": "SKY MAIN EVENT",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"SKY MAIN EVENT\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/31133.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/5612757_ico.png",
+    "nameen": "SKY MAIN EVENT",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarsky_sports"
+  },
+  {
+    "namear": "SKY FOOTBALL",
+    "servers": "[{\"headers\":\"@10086liveuser-Agent|@10086liveuser-Agent|@10086liveuser-Agent|@10086live\",\"otherHeaders\":\"\",\"name\":\"SKY FOOTBALL\",\"Referer\":\"\",\"userAgent\":\"@10086liveuser-Agent|@10086live\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/31131.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/5608353_ico.png",
+    "nameen": "SKY FOOTBALL",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarsky_sports"
+  },
+  {
+    "namear": "Sky Action",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Sky Action\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/31136.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/5608313_ico.png",
+    "nameen": "Sky Action",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarsky_sports"
+  },
+  {
+    "namear": "SKY MIX",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"SKY MIX\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/31134.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/5612778_ico.png",
+    "nameen": "SKY MIX",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarsky_sports"
+  },
+  {
+    "namear": "SKY CRICKET",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"SKY CRICKET\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/31129.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/5608294_ico.png",
+    "nameen": "SKY CRICKET",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarsky_sports"
+  },
+  {
+    "namear": "SKY GOLF",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"SKY GOLF\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/264\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/5608370_ico.png",
+    "nameen": "SKY GOLF",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarsky_sports"
+  },
+  {
+    "namear": "SKY F1",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"SKY F1\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/31130.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/5608330_ico.png",
+    "nameen": "SKY F1",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarsky_sports"
+  },
+  {
+    "namear": "SKY S NEWS",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"SKY S NEWS\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/31135.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/5612814_ico.png",
+    "nameen": "SKY S NEWS",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarsky_sports"
+  },
+  {
+    "namear": "Sky Racing",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Sky Racing\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/31138.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7582494_ico.png",
+    "nameen": "Sky Racing",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarsky_sports"
+  },
+  {
+    "namear": "SKY PL",
+    "servers": "[{\"headers\":\"@10086liveuser-Agent|@10086liveuser-Agent|@10086liveuser-Agent|@10086live\",\"otherHeaders\":\"\",\"name\":\"SKY PL\",\"Referer\":\"\",\"userAgent\":\"@10086liveuser-Agent|@10086live\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/31137.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7582412_ico.png",
+    "nameen": "SKY PL",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadrarsky_sports"
+  },
+  {
+    "namear": "SKY ARENA",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"SKY ARENA\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/31126.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7582736_ico.png",
+    "nameen": "SKY ARENA",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidadrarsky_sports"
+  },
+  {
+    "namear": "SKY FOOT+",
+    "servers": "[{\"headers\":\"@10086liveuser-Agent|@10086liveuser-Agent|@10086liveuser-Agent|@10086live\",\"otherHeaders\":\"\",\"name\":\"SKY FOOT+\",\"Referer\":\"\",\"userAgent\":\"@10086liveuser-Agent|@10086live\",\"position\":\"0\",\"url\":\"http://pizztv.xyz:8000/ASTRO@SSRT/htY2WvkRnzgB/296\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24593078_ico.png",
+    "nameen": "SKY FOOT+",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidadrarsky_sports"
+  },
+  {
+    "namear": "SKY PL+",
+    "servers": "[{\"headers\":\"@10086liveuser-Agent|@10086liveuser-Agent|@10086liveuser-Agent|@10086live\",\"otherHeaders\":\"\",\"name\":\"SKY PL+\",\"Referer\":\"\",\"userAgent\":\"@10086liveuser-Agent|@10086live\",\"position\":\"0\",\"url\":\"http://pizztv.xyz:8000/ASTRO@SSRT/htY2WvkRnzgB/298\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24593082_ico.png",
+    "nameen": "SKY PL+",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidadrarsky_sports"
+  },
+  {
+    "namear": "SKY SERIE A",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"SKY SERIE A\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://185.205.201.141:80/gooldstv.com/PbmDzbnBiM/13144\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24593649_ico.png",
+    "nameen": "SKY SERIE A",
+    "position": "13",
+    "type": "channel",
+    "key": "windroidadrarsky_sports"
+  },
+  {
+    "namear": "SKY F1 IT",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"SKY F1 IT\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://185.205.201.141:80/gooldstv.com/PbmDzbnBiM/13145\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24593658_ico.png",
+    "nameen": "SKY F1 IT",
+    "position": "14",
+    "type": "channel",
+    "key": "windroidadrarsky_sports"
+  },
+  {
+    "namear": "SKY Fotbal IT",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"SKY Fotbal IT\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://185.205.201.141:80/gooldstv.com/PbmDzbnBiM/13141\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24593710_ico.png",
+    "nameen": "SKY Fotbal IT",
+    "position": "15",
+    "type": "channel",
+    "key": "windroidadrarsky_sports"
+  },
+  {
+    "namear": "SKY Sports 24",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"SKY Sports 24\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://185.205.201.141:80/gooldstv.com/PbmDzbnBiM/13142\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24593724_ico.png",
+    "nameen": "SKY Sports 24",
+    "position": "16",
+    "type": "channel",
+    "key": "windroidadrarsky_sports"
+  },
+  {
+    "namear": "BUNDESLIGA 1",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"BUNDESLIGA 1\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://212.224.84.254:2200/NL-N/Sky_Sport_1_HD-de/mono.m3u8 ?token\\u003degBlCndpe3ZiDXBgN3JjewVhf3FmenNhfnAXeHItenVmc3Nje3Ngfg\\u003d\\u003d\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24594293_ico.png",
+    "nameen": "BUNDESLIGA 1",
+    "position": "17",
+    "type": "channel",
+    "key": "windroidadrarsky_sports"
+  },
+  {
+    "namear": "BUNDESLIGA 2",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"BUNDESLIGA 2\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://212.224.84.254:2200/NL-N/Sky_Sport_2_HD-de/mono.m3u8 ?token\\u003degBlCndpe3ZiDXBgN3JjewVhf3FmenNhfnAXeHItenVmc3Nje3Ngfg\\u003d\\u003d\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24594302_ico.png",
+    "nameen": "BUNDESLIGA 2",
+    "position": "18",
+    "type": "channel",
+    "key": "windroidadrarsky_sports"
+  },
+  {
+    "namear": "BUNDESLIGA 3",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"BUNDESLIGA 3\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://212.224.84.254:2200/NL-N/Sky_Sport_3_HD_Deutschland-de/mono.m3u8 ?token\\u003degBlCndpe3ZiDXBgN3JjewVhf3FmenNhfnAXeHItenVmc3Nje3Ngfg\\u003d\\u003d\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24594310_ico.png",
+    "nameen": "BUNDESLIGA 3",
+    "position": "19",
+    "type": "channel",
+    "key": "windroidadrarsky_sports"
+  },
+  {
+    "namear": "BUNDESLIGA 4",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"BUNDESLIGA 4\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://212.224.84.254:2200/NL-N/Sky_Sport_4_HD_Deutschland-de/mono.m3u8 ?token\\u003degBlCndpe3ZiDXBgN3JjewVhf3FmenNhfnAXeHItenVmc3Nje3Ngfg\\u003d\\u003d\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24594325_ico.png",
+    "nameen": "BUNDESLIGA 4",
+    "position": "20",
+    "type": "channel",
+    "key": "windroidadrarsky_sports"
+  },
+  {
+    "namear": "SKY Austria",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"SKY Austria\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://212.224.84.254:2200/NL-N/Sky_Sport_Austria_1_HD-de/mono.m3u8 ?token\\u003degBlCndpe3ZiDXBgN3JjewVhf3FmenNhfnAXeHItenVmc3Nje3Ngfg\\u003d\\u003d\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24594334_ico.png",
+    "nameen": "SKY Austria",
+    "position": "21",
+    "type": "channel",
+    "key": "windroidadrarsky_sports"
+  }
+]

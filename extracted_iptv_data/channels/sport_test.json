@@ -1,0 +1,1685 @@
+[
+  {
+    "namear": "BEIN SPORTS ENGLISH 1 HD",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"BEIN SPORTS ENGLISH 1 HD\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/1\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "BEIN SPORTS ENGLISH 1 HD",
+    "position": "1",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "BEIN SPORTS ENGLISH 2 HD",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"BEIN SPORTS ENGLISH 2 HD\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/2\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "BEIN SPORTS ENGLISH 2 HD",
+    "position": "2",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "BEIN: BEIN SPORTS ENGLISH 3 HD",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"BEIN: BEIN SPORTS ENGLISH 3 HD\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/3\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "BEIN: BEIN SPORTS ENGLISH 3 HD",
+    "position": "3",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "BEIN SPORTS PREMIUM 1 HD",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"BEIN SPORTS PREMIUM 1 HD\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/4\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "BEIN SPORTS PREMIUM 1 HD",
+    "position": "4",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "BEIN SPORTS PREMIUM 2 HD",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"BEIN SPORTS PREMIUM 2 HD\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/5\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "BEIN SPORTS PREMIUM 2 HD",
+    "position": "5",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "BEIN SPORTS PREMIUM 3 HD",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"BEIN SPORTS PREMIUM 3 HD\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/6\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "BEIN SPORTS PREMIUM 3 HD",
+    "position": "6",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "ZAF: SUPERSPORT ACTION",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"ZAF: SUPERSPORT ACTION\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/7\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ZAF: SUPERSPORT ACTION",
+    "position": "7",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "ZAF: SUPERSPORT BLITZ",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"ZAF: SUPERSPORT BLITZ\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ZAF: SUPERSPORT BLITZ",
+    "position": "8",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "ZAF: SUPERSPORT CRICKET",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"ZAF: SUPERSPORT CRICKET\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/9\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ZAF: SUPERSPORT CRICKET",
+    "position": "9",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "ZAF: SUPERSPORT FOOTBALL",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"ZAF: SUPERSPORT FOOTBALL\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/10\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ZAF: SUPERSPORT FOOTBALL",
+    "position": "10",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "ZAF: SUPERSPORT GOLF",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"ZAF: SUPERSPORT GOLF\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/11\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ZAF: SUPERSPORT GOLF",
+    "position": "11",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "ZAF: SUPERSPORT GRANDSTAND",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"ZAF: SUPERSPORT GRANDSTAND\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/12\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ZAF: SUPERSPORT GRANDSTAND",
+    "position": "12",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "ZAF: SUPERSPORT LALIGA",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"ZAF: SUPERSPORT LALIGA\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/13\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ZAF: SUPERSPORT LALIGA",
+    "position": "13",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "ZAF: SUPERSPORT MAXIMO 1",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"ZAF: SUPERSPORT MAXIMO 1\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/14\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ZAF: SUPERSPORT MAXIMO 1",
+    "position": "14",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "ZAF: SUPERSPORT MOTORSPORT",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"ZAF: SUPERSPORT MOTORSPORT\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/15\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ZAF: SUPERSPORT MOTORSPORT",
+    "position": "15",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "ZAF: SUPERSPORT PREMIER LEAGUE",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"ZAF: SUPERSPORT PREMIER LEAGUE\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/16\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ZAF: SUPERSPORT PREMIER LEAGUE",
+    "position": "16",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "ZAF: SUPERSPORT PSL",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"ZAF: SUPERSPORT PSL\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/17\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ZAF: SUPERSPORT PSL",
+    "position": "17",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "ZAF: SUPERSPORT RUGBY",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"ZAF: SUPERSPORT RUGBY\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/18\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ZAF: SUPERSPORT RUGBY",
+    "position": "18",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "ZAF: SUPERSPORT TENNIS",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"ZAF: SUPERSPORT TENNIS\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/19\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ZAF: SUPERSPORT TENNIS",
+    "position": "19",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "ZAF: SUPERSPORT VARIETY 1",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"ZAF: SUPERSPORT VARIETY 1\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/20\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ZAF: SUPERSPORT VARIETY 1",
+    "position": "20",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "ZAF: SUPERSPORT VARIETY 2",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"ZAF: SUPERSPORT VARIETY 2\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/21\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ZAF: SUPERSPORT VARIETY 2",
+    "position": "21",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "ZAF: SUPERSPORT VARIETY 3",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"ZAF: SUPERSPORT VARIETY 3\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/22\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ZAF: SUPERSPORT VARIETY 3",
+    "position": "22",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "ZAF: SUPERSPORT VARIETY 4",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"ZAF: SUPERSPORT VARIETY 4\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/23\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ZAF: SUPERSPORT VARIETY 4",
+    "position": "23",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Sky Sport Main Even HD",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Sky Sport Main Even HD\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/24\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Sky Sport Main Even HD",
+    "position": "24",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Sky Sports Premier Leageu HD",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Sky Sports Premier Leageu HD\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/25\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Sky Sports Premier Leageu HD",
+    "position": "25",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Sky Sports Football",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Sky Sports Football\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/26\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Sky Sports Football",
+    "position": "26",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Sky Sports Golf",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Sky Sports Golf\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/27\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Sky Sports Golf",
+    "position": "27",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Sky Sports Tennis",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Sky Sports Tennis\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/28\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Sky Sports Tennis",
+    "position": "28",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Sky Sports F1",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Sky Sports F1\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/29\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Sky Sports F1",
+    "position": "29",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "DAZN 2",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"DAZN 2\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/31\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "DAZN 2",
+    "position": "30",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "DAZN 1",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"DAZN 1\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/30\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "DAZN 1",
+    "position": "31",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "USA Network HD",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"USA Network HD\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/32\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "USA Network HD",
+    "position": "32",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "USA Network FHD",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"USA Network FHD\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/33\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "USA Network FHD",
+    "position": "33",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "BT SPORT 1 (HD)",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"BT SPORT 1 (HD)\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/34\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "BT SPORT 1 (HD)",
+    "position": "34",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "BT SPORT 2 (HD)",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"BT SPORT 2 (HD)\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/35\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "BT SPORT 2 (HD)",
+    "position": "35",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "BT SPORT 3 (HD)",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"BT SPORT 3 (HD)\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/36\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "BT SPORT 3 (HD)",
+    "position": "36",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "BT SPORT 4 (HD)",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"BT SPORT 4 (HD)\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/37\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "BT SPORT 4 (HD)",
+    "position": "37",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "BEIN: 1 QA",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"BEIN: 1 QA\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/39\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "BEIN: 1 QA",
+    "position": "38",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "BEIN: 2 QA",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"BEIN: 2 QA\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/40\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "BEIN: 2 QA",
+    "position": "39",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "BEIN: 3",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"BEIN: 3\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/41\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "BEIN: 3",
+    "position": "40",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "BEIN: 4",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"BEIN: 4\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/42\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "BEIN: 4",
+    "position": "41",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "BEIN: 5",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"BEIN: 5\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/43\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "BEIN: 5",
+    "position": "42",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "BEIN: 6 QA",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"BEIN: 6 QA\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/44\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "BEIN: 6 QA",
+    "position": "43",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "BEIN: 7 QA",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"BEIN: 7 QA\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/45\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "BEIN: 7 QA",
+    "position": "44",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "ASTRO SUPERSPORT 1 FHD QA",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"ASTRO SUPERSPORT 1 FHD QA\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/46\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ASTRO SUPERSPORT 1 FHD QA",
+    "position": "45",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "ASTRO SUPERSPORT 2 FHD",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"ASTRO SUPERSPORT 2 FHD\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/47\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ASTRO SUPERSPORT 2 FHD",
+    "position": "46",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "ASTRO SUPERSPORT 3 FHD",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"ASTRO SUPERSPORT 3 FHD\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/48\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ASTRO SUPERSPORT 3 FHD",
+    "position": "47",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "ASTRO SUPERSPORT 4 FHD",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"ASTRO SUPERSPORT 4 FHD\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/49\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ASTRO SUPERSPORT 4 FHD",
+    "position": "48",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "ASTRO SUPERSPORT 5 FHD",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"ASTRO SUPERSPORT 5 FHD\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/50\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ASTRO SUPERSPORT 5 FHD",
+    "position": "49",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Astro Arena 1",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Astro Arena 1\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/51\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Astro Arena 1",
+    "position": "50",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "TR | TIVIBU SPOR",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"TR | TIVIBU SPOR\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/52\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "TR | TIVIBU SPOR",
+    "position": "51",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "TR | TIVIBU SPOR 2",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"TR | TIVIBU SPOR 2\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/53\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "TR | TIVIBU SPOR 2",
+    "position": "52",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "TR | TIVIBU SPOR 3",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"TR | TIVIBU SPOR 3\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/54\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "TR | TIVIBU SPOR 3",
+    "position": "53",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "TR | TIVIBU SPOR 4",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"TR | TIVIBU SPOR 4\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/55\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "TR | TIVIBU SPOR 4",
+    "position": "54",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "AR- BeIN-Sports Premium HD1",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"AR- BeIN-Sports Premium HD1\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/56\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "AR- BeIN-Sports Premium HD1",
+    "position": "55",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "AR- BeIN-Sports Premium HD2",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"AR- BeIN-Sports Premium HD2\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/57\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "AR- BeIN-Sports Premium HD2",
+    "position": "56",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "AR- BeIN-Sports Premium HD3",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"AR- BeIN-Sports Premium HD3\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/58\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "AR- BeIN-Sports Premium HD3",
+    "position": "57",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "US: Supersport Premier League",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"US: Supersport Premier League\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/59\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "US: Supersport Premier League",
+    "position": "58",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "US: Supersport Premier Leagues",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"US: Supersport Premier Leagues\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/60\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "US: Supersport Premier Leagues",
+    "position": "59",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "BEIN SPORT 1 ENGLISH",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"BEIN SPORT 1 ENGLISH\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/61\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "BEIN SPORT 1 ENGLISH",
+    "position": "60",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "BEIN SPORT 2 ENGLISH",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"BEIN SPORT 2 ENGLISH\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/62\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "BEIN SPORT 2 ENGLISH",
+    "position": "61",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "BEIN SPORT 3 ENGLISH",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"BEIN SPORT 3 ENGLISH\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/63\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "BEIN SPORT 3 ENGLISH",
+    "position": "62",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "USA Network HDs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"USA Network HDs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/64\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "USA Network HDs",
+    "position": "63",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "STAR SPORTS SELECT 1 HD",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"STAR SPORTS SELECT 1 HD\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/65\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "STAR SPORTS SELECT 1 HD",
+    "position": "64",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "STAR SPORTS SELECT 2 HD",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"STAR SPORTS SELECT 2 HD\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/66\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "STAR SPORTS SELECT 2 HD",
+    "position": "65",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "beIN Sports English 1 HD QA",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"beIN Sports English 1 HD QA\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/67\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "beIN Sports English 1 HD QA",
+    "position": "66",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "beIN Sports English 2 HD QA",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"beIN Sports English 2 HD QA\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/68\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "beIN Sports English 2 HD QA",
+    "position": "67",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "beIN Sports English 3 HD QA",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"beIN Sports English 3 HD QA\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/69\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "beIN Sports English 3 HD QA",
+    "position": "68",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "beIN Sports Premium 1 HD QA",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"beIN Sports Premium 1 HD QA\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/70\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "beIN Sports Premium 1 HD QA",
+    "position": "69",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "beIN Sports Premium 1 FHD QA",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"beIN Sports Premium 1 FHD QA\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/71\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "beIN Sports Premium 1 FHD QA",
+    "position": "70",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "beIN Sports Premium 2 HD QA",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"beIN Sports Premium 2 HD QA\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/72\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "beIN Sports Premium 2 HD QA",
+    "position": "71",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "beIN Sports Premium 3 HD QA",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"beIN Sports Premium 3 HD QA\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/73\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "beIN Sports Premium 3 HD QA",
+    "position": "72",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Super Sport Premier League QA",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Super Sport Premier League QA\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/74\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Super Sport Premier League QA",
+    "position": "73",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Sky Sport Premier League QA",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Sky Sport Premier League QA\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/75\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Sky Sport Premier League QA",
+    "position": "74",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Movistar LaLiga 4K+ QA",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Movistar LaLiga 4K+ QA\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/77\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Movistar LaLiga 4K+ QA",
+    "position": "75",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Ziggo Sport Golf QA",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Ziggo Sport Golf QA\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/78\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Ziggo Sport Golf QA",
+    "position": "76",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Movistar Golf FHD",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Movistar Golf FHD\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/79\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Movistar Golf FHD",
+    "position": "77",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "bEIN Sport ENG 1 HD HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"bEIN Sport ENG 1 HD HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/80\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "bEIN Sport ENG 1 HD HLPs",
+    "position": "78",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Super Sport Premier League HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Super Sport Premier League HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/81\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Super Sport Premier League HLPs",
+    "position": "79",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Sky Sports Premier League HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Sky Sports Premier League HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/82\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Sky Sports Premier League HLPs",
+    "position": "80",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Sky Sports Main Even HD HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Sky Sports Main Even HD HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/83\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Sky Sports Main Even HD HLPs",
+    "position": "81",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "USA Network HD HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"USA Network HD HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/84\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "USA Network HD HLPs",
+    "position": "82",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "bEIN Sport Premium 1 FHD HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"bEIN Sport Premium 1 FHD HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/85\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "bEIN Sport Premium 1 FHD HLPs",
+    "position": "83",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "bEIN Sport Premium 1 HD HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"bEIN Sport Premium 1 HD HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/86\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "bEIN Sport Premium 1 HD HLPs",
+    "position": "84",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "bEIN Sport Premium 2 HD HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"bEIN Sport Premium 2 HD HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/87\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "bEIN Sport Premium 2 HD HLPs",
+    "position": "85",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "bEIN Sport Premium 3 HD HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"bEIN Sport Premium 3 HD HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/88\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "bEIN Sport Premium 3 HD HLPs",
+    "position": "86",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "BT Sports 1 FHD HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"BT Sports 1 FHD HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/89\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "BT Sports 1 FHD HLPs",
+    "position": "87",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "ZAF: SUPERSPORT MAXIMO 2",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"ZAF: SUPERSPORT MAXIMO 2\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/90\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ZAF: SUPERSPORT MAXIMO 2",
+    "position": "88",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "bEIN Sport ENG 2 HD HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"bEIN Sport ENG 2 HD HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/91\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "bEIN Sport ENG 2 HD HLPs",
+    "position": "89",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "bEIN Sport ENG 3 HD HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"bEIN Sport ENG 3 HD HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/92\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "bEIN Sport ENG 3 HD HLPs",
+    "position": "90",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Astro Supersport 1 HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Astro Supersport 1 HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/93\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Astro Supersport 1 HLPs",
+    "position": "91",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Astro Supersport 2 HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Astro Supersport 2 HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/94\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Astro Supersport 2 HLPs",
+    "position": "92",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Astro Supersport 3 HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Astro Supersport 3 HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/95\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Astro Supersport 3 HLPs",
+    "position": "93",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Astro Supersport 4 HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Astro Supersport 4 HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/96\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Astro Supersport 4 HLPs",
+    "position": "94",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "GR | Eurosport 1 HD QA",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"GR | Eurosport 1 HD QA\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/97\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "GR | Eurosport 1 HD QA",
+    "position": "95",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "GR | Eurosport 2 HD QA",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"GR | Eurosport 2 HD QA\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/98\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "GR | Eurosport 2 HD QA",
+    "position": "96",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Eurosport 1 HD HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Eurosport 1 HD HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/99\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Eurosport 1 HD HLPs",
+    "position": "97",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Eurosport 2 HD HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Eurosport 2 HD HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/100\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Eurosport 2 HD HLPs",
+    "position": "98",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Astro Arena 1 HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Astro Arena 1 HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/101\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Astro Arena 1 HLPs",
+    "position": "99",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Super Sport Premier League HLPsf",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Super Sport Premier League HLPsf\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/102\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Super Sport Premier League HLPsf",
+    "position": "100",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Arena Sport 1",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Arena Sport 1\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/103\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Arena Sport 1",
+    "position": "101",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Arena Sport 2",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Arena Sport 2\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/104\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Arena Sport 2",
+    "position": "102",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Sony Ten 1 HD",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Sony Ten 1 HD\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/105\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Sony Ten 1 HD",
+    "position": "103",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Sony Ten 2 HD",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Sony Ten 2 HD\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/106\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Sony Ten 2 HD",
+    "position": "104",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Sony Ten 3 HD",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Sony Ten 3 HD\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/107\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Sony Ten 3 HD",
+    "position": "105",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Hubpremier Sports 1 FHD",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Hubpremier Sports 1 FHD\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/108\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Hubpremier Sports 1 FHD",
+    "position": "106",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Super Sport Variety 3 HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Super Sport Variety 3 HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/109\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Super Sport Variety 3 HLPs",
+    "position": "107",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Hubpremier Sports 1 FHD HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Hubpremier Sports 1 FHD HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/110\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Hubpremier Sports 1 FHD HLPs",
+    "position": "108",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Arena Sport FHD 1",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Arena Sport FHD 1\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/111\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Arena Sport FHD 1",
+    "position": "109",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Arena Sport FHD 2",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Arena Sport FHD 2\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/112\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Arena Sport FHD 2",
+    "position": "110",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Arena Sport FHD 3",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Arena Sport FHD 3\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/113\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Arena Sport FHD 3",
+    "position": "111",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Hubpremier Sports 2 FHD",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Hubpremier Sports 2 FHD\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/114\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Hubpremier Sports 2 FHD",
+    "position": "112",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Super Sport Variety 2 HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Super Sport Variety 2 HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/115\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Super Sport Variety 2 HLPs",
+    "position": "113",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "[PT] ELEVEN SPORTS 1 FHD",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"[PT] ELEVEN SPORTS 1 FHD\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/116\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[PT] ELEVEN SPORTS 1 FHD",
+    "position": "114",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "[PT] ELEVEN SPORTS 2 FHD",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"[PT] ELEVEN SPORTS 2 FHD\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/117\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[PT] ELEVEN SPORTS 2 FHD",
+    "position": "115",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "[PT] ELEVEN SPORTS 3 FHD",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"[PT] ELEVEN SPORTS 3 FHD\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/118\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[PT] ELEVEN SPORTS 3 FHD",
+    "position": "116",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "[PT] ELEVEN SPORTS 4 FHD",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"[PT] ELEVEN SPORTS 4 FHD\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/119\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[PT] ELEVEN SPORTS 4 FHD",
+    "position": "117",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "[PT] ELEVEN SPORTS 5 FHD",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"[PT] ELEVEN SPORTS 5 FHD\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/120\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[PT] ELEVEN SPORTS 5 FHD",
+    "position": "118",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "[PT] ELEVEN SPORTS 6 FHD",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"[PT] ELEVEN SPORTS 6 FHD\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/121\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[PT] ELEVEN SPORTS 6 FHD",
+    "position": "119",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "ELEVEN SPORTS 1 FHD HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"ELEVEN SPORTS 1 FHD HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/122\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ELEVEN SPORTS 1 FHD HLPs",
+    "position": "120",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "ELEVEN SPORTS 2 FHD HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"ELEVEN SPORTS 2 FHD HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/123\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ELEVEN SPORTS 2 FHD HLPs",
+    "position": "121",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "ELEVEN SPORTS 3 FHD HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"ELEVEN SPORTS 3 FHD HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/124\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ELEVEN SPORTS 3 FHD HLPs",
+    "position": "122",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "ELEVEN SPORTS 4 FHD HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"ELEVEN SPORTS 4 FHD HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/125\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ELEVEN SPORTS 4 FHD HLPs",
+    "position": "123",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "ELEVEN SPORTS 5 FHD HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"ELEVEN SPORTS 5 FHD HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/126\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ELEVEN SPORTS 5 FHD HLPs",
+    "position": "124",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "ELEVEN SPORTS 6 FHD HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"ELEVEN SPORTS 6 FHD HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/127\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ELEVEN SPORTS 6 FHD HLPs",
+    "position": "125",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Super Sport Football HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Super Sport Football HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/128\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Super Sport Football HLPs",
+    "position": "126",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Sony Ten 1HD HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Sony Ten 1HD HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/130\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Sony Ten 1HD HLPs",
+    "position": "127",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Sony Ten 2HD HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Sony Ten 2HD HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/131\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Sony Ten 2HD HLPs",
+    "position": "128",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Sony Ten 3HD HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Sony Ten 3HD HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/132\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Sony Ten 3HD HLPs",
+    "position": "129",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Sony Ten 4 HD",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Sony Ten 4 HD\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/133\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Sony Ten 4 HD",
+    "position": "130",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Sony Ten 4HD HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Sony Ten 4HD HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/134\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Sony Ten 4HD HLPs",
+    "position": "131",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Sony Six",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Sony Six\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/136\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Sony Six",
+    "position": "132",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Sony Six HD",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Sony Six HD\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/137\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Sony Six HD",
+    "position": "133",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "PT: SPORT TV1 FHD",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"PT: SPORT TV1 FHD\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/138\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "PT: SPORT TV1 FHD",
+    "position": "134",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "PT: SPORT TV2 FHD",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"PT: SPORT TV2 FHD\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/139\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "PT: SPORT TV2 FHD",
+    "position": "135",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "PT: SPORT TV3 FHD",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"PT: SPORT TV3 FHD\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/140\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "PT: SPORT TV3 FHD",
+    "position": "136",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "PT: SPORT TV4 FHD",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"PT: SPORT TV4 FHD\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/141\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "PT: SPORT TV4 FHD",
+    "position": "137",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "PT: SPORT TV5 FHD",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"PT: SPORT TV5 FHD\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/142\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "PT: SPORT TV5 FHD",
+    "position": "138",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "beIN Sports 1 HD HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 1 HD HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/143\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "beIN Sports 1 HD HLPs",
+    "position": "139",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "beIN Sports 2 HD HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 2 HD HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/144\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "beIN Sports 2 HD HLPs",
+    "position": "140",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "beIN Sports 3 HD HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 3 HD HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/145\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "beIN Sports 3 HD HLPs",
+    "position": "141",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "beIN Sports 4 HD HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 4 HD HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/146\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "beIN Sports 4 HD HLPs",
+    "position": "142",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "beIN Sports 5 HD HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 5 HD HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/147\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "beIN Sports 5 HD HLPs",
+    "position": "143",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "beIN Sports 6 HD HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 6 HD HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/148\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "beIN Sports 6 HD HLPs",
+    "position": "144",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "beIN Sports 7 HD HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 7 HD HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/149\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "beIN Sports 7 HD HLPs",
+    "position": "145",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "SUPERSPORT GRANDSTAND HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"SUPERSPORT GRANDSTAND HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/150\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "SUPERSPORT GRANDSTAND HLPs",
+    "position": "146",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "SUPERSPORT Action HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"SUPERSPORT Action HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/151\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "SUPERSPORT Action HLPs",
+    "position": "147",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "SUPERSPORT TENNIS HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"SUPERSPORT TENNIS HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/152\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "SUPERSPORT TENNIS HLPs",
+    "position": "148",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "SUPERSPORT Maximo HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"SUPERSPORT Maximo HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/153\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "SUPERSPORT Maximo HLPs",
+    "position": "149",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "SUPERSPORT Golf HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"SUPERSPORT Golf HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/154\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "SUPERSPORT Golf HLPs",
+    "position": "150",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "SUPERSPORT PSL HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"SUPERSPORT PSL HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/155\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "SUPERSPORT PSL HLPs",
+    "position": "151",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "SUPERSPORT MOTORSPORT HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"SUPERSPORT MOTORSPORT HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/156\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "SUPERSPORT MOTORSPORT HLPs",
+    "position": "152",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "SUPERSPORT LALIGA HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"SUPERSPORT LALIGA HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/157\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "SUPERSPORT LALIGA HLPs",
+    "position": "153",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "SUPERSPORT MAXIMO 2 HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"SUPERSPORT MAXIMO 2 HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/158\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "SUPERSPORT MAXIMO 2 HLPs",
+    "position": "154",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "BT Sports 2 FHD HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"BT Sports 2 FHD HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/159\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "BT Sports 2 FHD HLPs",
+    "position": "155",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "BT Sports 3 FHD HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"BT Sports 3 FHD HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/160\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "BT Sports 3 FHD HLPs",
+    "position": "156",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "BT Sports 4 FHD HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"BT Sports 4 FHD HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/161\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "BT Sports 4 FHD HLPs",
+    "position": "157",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Movistar LaLiga 4K+ HLPs",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Movistar LaLiga 4K+ HLPs\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/162\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Movistar LaLiga 4K+ HLPs",
+    "position": "158",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Arena Sport FHD 4",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Arena Sport FHD 4\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/163\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Arena Sport FHD 4",
+    "position": "159",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Arena Sport FHD 5",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Arena Sport FHD 5\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/164\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Arena Sport FHD 5",
+    "position": "160",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Arena Sport FHD 6",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Arena Sport FHD 6\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/165\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Arena Sport FHD 6",
+    "position": "161",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "RO: DIGI SPORT 1",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"RO: DIGI SPORT 1\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/166\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "RO: DIGI SPORT 1",
+    "position": "162",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "RO: DIGI SPORT 2",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"RO: DIGI SPORT 2\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/167\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "RO: DIGI SPORT 2",
+    "position": "163",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "RO: DIGI SPORT 3",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"RO: DIGI SPORT 3\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/168\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "RO: DIGI SPORT 3",
+    "position": "164",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "RO: DIGI SPORT 4",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"RO: DIGI SPORT 4\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/169\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "RO: DIGI SPORT 4",
+    "position": "165",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "NL: ZIGGO Docu",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"NL: ZIGGO Docu\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/174\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "NL: ZIGGO Docu",
+    "position": "166",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "NL: ZIGGO Voetbal",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"NL: ZIGGO Voetbal\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/173\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "NL: ZIGGO Voetbal",
+    "position": "167",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "NL: ZIGGO Racing",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"NL: ZIGGO Racing\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/170\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "NL: ZIGGO Racing",
+    "position": "168",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "NL: ZIGGO Select",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"NL: ZIGGO Select\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/171\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "NL: ZIGGO Select",
+    "position": "169",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "NL: ZIGGO Tennis",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"NL: ZIGGO Tennis\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/172\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "NL: ZIGGO Tennis",
+    "position": "170",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "BBC New",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"BBC New\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/175\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "BBC New",
+    "position": "171",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "ASS FHD1",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"ASS FHD1\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/176\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ASS FHD1",
+    "position": "172",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "ASS FHD2",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"ASS FHD2\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/177\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ASS FHD2",
+    "position": "173",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "ASS FHD3",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"ASS FHD3\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/178\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ASS FHD3",
+    "position": "174",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "ASS FHD4",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"ASS FHD4\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/179\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ASS FHD4",
+    "position": "175",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "FR: RMC SPORT 1",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"FR: RMC SPORT 1\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/180\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "FR: RMC SPORT 1",
+    "position": "176",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "FR: RMC SPORT 2",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"FR: RMC SPORT 2\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/181\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "FR: RMC SPORT 2",
+    "position": "177",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "FR: RMC SPORT 3",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"FR: RMC SPORT 3\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/182\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "FR: RMC SPORT 3",
+    "position": "178",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "FR: RMC SPORT 4",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"FR: RMC SPORT 4\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/183\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "FR: RMC SPORT 4",
+    "position": "179",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "PPTV",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"PPTV\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/184\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "PPTV",
+    "position": "180",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "HK Now Premier Sports FHD1",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"HK Now Premier Sports FHD1\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/185\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "HK Now Premier Sports FHD1",
+    "position": "181",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "HK Now Premier Sports FHD1 QA",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"HK Now Premier Sports FHD1 QA\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/186\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "HK Now Premier Sports FHD1 QA",
+    "position": "182",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Optus Sport HD1",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Optus Sport HD1\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/187\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Optus Sport HD1",
+    "position": "183",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Peacock PremierLeague",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Peacock PremierLeague\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/188\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Peacock PremierLeague",
+    "position": "184",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Super Sport Premier League From Telegram",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Super Sport Premier League From Telegram\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/189\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Super Sport Premier League From Telegram",
+    "position": "185",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "beIN Sport Eng FHD1",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"beIN Sport Eng FHD1\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/190\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "beIN Sport Eng FHD1",
+    "position": "186",
+    "type": "channel",
+    "key": "sport_test"
+  },
+  {
+    "namear": "Setanta Sports FHD",
+    "servers": "[{\"headers\":\"user-agent;Easyth1n76oc5e70d9p1pc3sr4;\",\"otherHeaders\":\"\",\"name\":\"Setanta Sports FHD\",\"Referer\":\"\",\"userAgent\":\"Easyth1n76oc5e70d9p1pc3sr4\",\"position\":\"0\",\"url\":\"http://185.132.177.145:80/WrDQStCYbWRg/wgDBe4aQXgP9/191\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Setanta Sports FHD",
+    "position": "187",
+    "type": "channel",
+    "key": "sport_test"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "namear": "AD PREMIUM 1 HD",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"AD PREMIUM 1 HD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/60.m3u8\"}]",
+    "logo": "https://starzplay-img-prod-ssl.akamaized.net/600w/seriea/ABUDHABIPREMIUMSPORTS1Y2022M/ABUDHABIPREMIUMSPORTS1Y2022M-landscape-poster-v1.jpg",
+    "nameen": "AD PREMIUM 1 HD",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidalokseria_a"
+  },
+  {
+    "namear": "AD PREMIUM 2 HD",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"AD PREMIUM 2 HD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/61.m3u8\"}]",
+    "logo": "https://starzplay-img-prod-ssl.akamaized.net/600w/seriea/ABUDHABIPREMIUMSPORTS1Y2022M/ABUDHABIPREMIUMSPORTS1Y2022M-landscape-poster-v1.jpg",
+    "nameen": "AD PREMIUM 2 HD",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidalokseria_a"
+  },
+  {
+    "namear": "AD PREMIUM 1 SD",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"AD PREMIUM 1 SD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/62.m3u8\"}]",
+    "logo": "https://starzplay-img-prod-ssl.akamaized.net/600w/seriea/ABUDHABIPREMIUMSPORTS1Y2022M/ABUDHABIPREMIUMSPORTS1Y2022M-landscape-poster-v1.jpg",
+    "nameen": "AD PREMIUM 1 SD",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidalokseria_a"
+  }
+]

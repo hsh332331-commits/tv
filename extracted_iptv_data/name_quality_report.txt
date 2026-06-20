@@ -1,0 +1,35 @@
+Total items: 15019
+Good names: 14933
+Bad names: 86
+  Fixable: 86
+  Unfixable: 0
+
+Type distribution:
+  channel: 14724
+  movie-api: 168
+  unknown: 127
+
+--- Sample items with bad names (max 20) ---
+  [1000_channels] en='http://cdn.hqth.me/vthanhmovies_schedule.xml" billed-msg="Th' ar='http://cdn.hqth.me/vthanhmovies_schedule.xml" billed-msg="Th' -> Kubelh130"
+  [1000_channels] en='' ar='' -> 1000 Channels
+  [1000_channels] en='' ar='' -> 1000 Channels
+  [1000_channels] en='' ar='' -> 1000 Channels
+  [1000_channels] en='' ar='' -> 1000 Channels
+  [1000_channels] en='+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.4' ar='+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.4' -> 1000 Channels
+  [1000_channels] en='+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.4' ar='+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.4' -> 1000 Channels
+  [1000_channels] en='+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.4' ar='+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.4' -> 1000 Channels
+  [1000_channels] en='+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.4' ar='+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.4' -> 1000 Channels
+  [1000_channels] en='+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.4' ar='+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.4' -> 1000 Channels
+  [1000_channels] en='' ar='' -> 1000 Channels
+  [ad_sports_1_hd] en='' ar='' -> AD Sports 1 HD
+  [aya_tv_pro] en='' ar='' -> Aya Tv Pro
+  [aya_tv_pro] en='' ar='' -> Aya Tv Pro
+  [aya_tv_pro] en='' ar='' -> Aya Tv Pro
+  [aya_tv_pro] en='' ar='' -> 115408
+  [aya_tv_pro] en='' ar='' -> 115660
+  [aya_tv_pro] en='' ar='' -> 115660
+  [aya_tv_pro] en='like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43' ar='like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43' -> Aya Tv Pro
+  [hh] en='' ar='' -> Hh
+
+--- Category names ---
+  arabic_tv                           names=["{'password': '', 'namear': 'NI", "{'password': '', 'namear': 'ال", "{'password': '', 'namear': 'ال", "{'password': '', 'namear': 'ال", "{'password': '', 'namear': 'مص"]

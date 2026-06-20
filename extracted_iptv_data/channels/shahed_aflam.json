@@ -1,0 +1,106 @@
+[
+  {
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"شاهد الأسطورة\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://163.172.57.41:8000/play/a00n\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "شاهد الأسطورة",
+    "position": "1",
+    "type": "channel",
+    "key": "shahed_aflam"
+  },
+  {
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"شاهد الأولى\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://163.172.57.41:8000/play/a00o\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "شاهد الأولى",
+    "position": "2",
+    "type": "channel",
+    "key": "shahed_aflam"
+  },
+  {
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"شاهد الزعيم\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://163.172.57.41:8000/play/a00p\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "شاهد الزعيم",
+    "position": "3",
+    "type": "channel",
+    "key": "shahed_aflam"
+  },
+  {
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"شاهد بوليوود\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://163.172.57.41:8000/play/a00t\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "شاهد بوليوود",
+    "position": "4",
+    "type": "channel",
+    "key": "shahed_aflam"
+  },
+  {
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"شاهد تاريخي\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://163.172.57.41:8000/play/a00u\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "شاهد تاريخي",
+    "position": "5",
+    "type": "channel",
+    "key": "shahed_aflam"
+  },
+  {
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"شاهد تركي\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://163.172.57.41:8000/play/a00v\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "شاهد تركي",
+    "position": "6",
+    "type": "channel",
+    "key": "shahed_aflam"
+  },
+  {
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"شاهد خليجي\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://163.172.57.41:8000/play/a00x\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "شاهد خليجي",
+    "position": "7",
+    "type": "channel",
+    "key": "shahed_aflam"
+  },
+  {
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"شاهد ستايل\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://163.172.57.41:8000/play/a00y\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "شاهد ستايل",
+    "position": "8",
+    "type": "channel",
+    "key": "shahed_aflam"
+  },
+  {
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"شاهد كوري\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://163.172.57.41:8000/play/a012\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "شاهد كوري",
+    "position": "9",
+    "type": "channel",
+    "key": "shahed_aflam"
+  },
+  {
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"شاهد كوميدي\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://163.172.57.41:8000/play/a013\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "شاهد كوميدي",
+    "position": "10",
+    "type": "channel",
+    "key": "shahed_aflam"
+  },
+  {
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"شاهد ليفانت\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://163.172.57.41:8000/play/a014\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "شاهد ليفانت",
+    "position": "11",
+    "type": "channel",
+    "key": "shahed_aflam"
+  },
+  {
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"شاهد مصر\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://163.172.57.41:8000/play/a015\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "شاهد مصر",
+    "position": "12",
+    "type": "channel",
+    "key": "shahed_aflam"
+  },
+  {
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"شاهد نجوم\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://163.172.57.41:8000/play/a018\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "شاهد نجوم",
+    "position": "13",
+    "type": "channel",
+    "key": "shahed_aflam"
+  }
+]

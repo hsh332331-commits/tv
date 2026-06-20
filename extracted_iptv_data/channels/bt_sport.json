@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "BT SPORT 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BT SPORT\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://h5.sportstreams.link/m3u81\"},{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BT\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"http://93.152.174.144:4000/play/btsport1/mono.m3u8 \"}]",
+    "logo": "https://www.mcvuk.com/wp-content/uploads/bts_outlined_master_black_rgb.jpg",
+    "nameen": "BT SPORT 1",
+    "position": "0",
+    "type": "channel",
+    "key": "bt_sport"
+  },
+  {
+    "namear": "BT SPORT 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BT SPORT\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://h5.sportstreams.link/m3u82\"},{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BT\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"http://93.152.174.144:4000/play/btsport2/mono.m3u8 \"}]",
+    "logo": "https://www.mcvuk.com/wp-content/uploads/bts_outlined_master_black_rgb.jpg",
+    "nameen": "BT SPORT 2",
+    "position": "1",
+    "type": "channel",
+    "key": "bt_sport"
+  },
+  {
+    "namear": "BT SPORT 3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BT SPORT\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://h5.sportstreams.link/m3u83\"},{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BT\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"http://93.152.174.144:4000/play/btsport3/mono.m3u8 \"}]",
+    "logo": "https://www.mcvuk.com/wp-content/uploads/bts_outlined_master_black_rgb.jpg",
+    "nameen": "BT SPORT 3",
+    "position": "2",
+    "type": "channel",
+    "key": "bt_sport"
+  },
+  {
+    "namear": "BT SPORT 4",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BT SPORT\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://h5.sportstreams.link/m3u84\"}]",
+    "logo": "https://www.mcvuk.com/wp-content/uploads/bts_outlined_master_black_rgb.jpg",
+    "nameen": "BT SPORT 4",
+    "position": "3",
+    "type": "channel",
+    "key": "bt_sport"
+  },
+  {
+    "namear": "BT SPORT 5",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BT SPORT 5\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://h5.sportstreams.link/m3u85\"}]",
+    "logo": "https://www.mcvuk.com/wp-content/uploads/bts_outlined_master_black_rgb.jpg",
+    "nameen": "BT SPORT 5",
+    "position": "4",
+    "type": "channel",
+    "key": "bt_sport"
+  }
+]

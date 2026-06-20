@@ -1,0 +1,20 @@
+[
+  {
+    "namear": "Setanta1",
+    "servers": "[{\"headers\":\"\",\"license\":\"8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561002/index.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuOuNOvPkw0ifxNdEd3xy-T7y36NsfW_wggJIBwqFNcQ&s=10",
+    "nameen": "Setanta1",
+    "position": "0",
+    "type": "channel",
+    "key": "setanta_sport"
+  },
+  {
+    "namear": "Setanta2",
+    "servers": "[{\"headers\":\"\",\"license\":\"9552bcbabfbd4ac19744422143bfb875:e6daacaced7eba147d2b667441060a4f\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://v4-kun-nk16-cdn-01.live.cdn.cgates.lt/live/dash/561504/index.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuOuNOvPkw0ifxNdEd3xy-T7y36NsfW_wggJIBwqFNcQ&s=10",
+    "nameen": "Setanta2",
+    "position": "1",
+    "type": "channel",
+    "key": "setanta_sport"
+  }
+]

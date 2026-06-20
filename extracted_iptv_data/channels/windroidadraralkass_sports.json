@@ -1,0 +1,92 @@
+[
+  {
+    "namear": "Alkass Web",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Alkass Web\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://www.alkass.net/alkass/live.aspx?ch\\u003done\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/17474743_ico.png",
+    "nameen": "Alkass Web",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadraralkass_sports"
+  },
+  {
+    "namear": "AlKass Sport 1",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"AlKass Sport 1\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1qawiv/master.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14164640_ico.png",
+    "nameen": "AlKass Sport 1",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadraralkass_sports"
+  },
+  {
+    "namear": "AlKass Sport 2",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"AlKass Sport 2\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2uyichg/master.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14164659_ico.png",
+    "nameen": "AlKass Sport 2",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadraralkass_sports"
+  },
+  {
+    "namear": "AlKass Sport 3",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"AlKass Sport 3\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3idfs/master.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14164692_ico.png",
+    "nameen": "AlKass Sport 3",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadraralkass_sports"
+  },
+  {
+    "namear": "AlKass Sport 4",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"AlKass Sport 4\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh2.smil/chunklist.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14164709_ico.png",
+    "nameen": "AlKass Sport 4",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadraralkass_sports"
+  },
+  {
+    "namear": "AlKass Sport 5",
+    "servers": "[{\"headers\":\"REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89\",\"otherHeaders\":\"\",\"name\":\"AlKass Sport 5\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89\",\"position\":\"0\",\"url\":\"https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh3.smil/chunklist.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14164724_ico.png",
+    "nameen": "AlKass Sport 5",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadraralkass_sports"
+  },
+  {
+    "namear": "Al Kass One",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Al Kass One\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/670\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26187839_ico.png",
+    "nameen": "Al Kass One",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadraralkass_sports"
+  },
+  {
+    "namear": "Al Kass Two",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Al Kass Two\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/671\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26187845_ico.png",
+    "nameen": "Al Kass Two",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadraralkass_sports"
+  },
+  {
+    "namear": "Al Kass Three",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Al Kass Three\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/672\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26187861_ico.png",
+    "nameen": "Al Kass Three",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadraralkass_sports"
+  },
+  {
+    "namear": "Al Kass Four",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Al Kass Four\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/673\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26187871_ico.png",
+    "nameen": "Al Kass Four",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadraralkass_sports"
+  }
+]

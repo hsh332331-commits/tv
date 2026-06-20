@@ -1,0 +1,191 @@
+[
+  {
+    "namear": "DAZN LALIGA 2 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"DAZN LALIGA 2 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://176.65.146.100:8005/play/a06s/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "DAZN LALIGA 2 HD",
+    "position": "1",
+    "type": "channel",
+    "key": "spain_sport"
+  },
+  {
+    "namear": "LALIGA TV HYPERMOTION HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"LALIGA TV HYPERMOTION HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://176.65.146.100:8005/play/a06v/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "LALIGA TV HYPERMOTION HD",
+    "position": "2",
+    "type": "channel",
+    "key": "spain_sport"
+  },
+  {
+    "namear": "M+ LALIGA TV 3 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"M+ LALIGA TV 3 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://176.65.146.100:8005/play/a06r/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "M+ LALIGA TV 3 HD",
+    "position": "3",
+    "type": "channel",
+    "key": "spain_sport"
+  },
+  {
+    "namear": "M+LCAMPEONES 2 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"M+LCAMPEONES 2 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://176.65.146.100:8005/play/a06u/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "M+LCAMPEONES 2 HD",
+    "position": "4",
+    "type": "channel",
+    "key": "spain_sport"
+  },
+  {
+    "namear": "M+LCAMPEONES 3 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"M+LCAMPEONES 3 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://176.65.146.100:8005/play/a06x/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "M+LCAMPEONES 3 HD",
+    "position": "5",
+    "type": "channel",
+    "key": "spain_sport"
+  },
+  {
+    "namear": "Movistar Plus+ HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Movistar Plus+ HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://176.65.146.100:8005/play/a06t/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Movistar Plus+ HD",
+    "position": "6",
+    "type": "channel",
+    "key": "spain_sport"
+  },
+  {
+    "namear": "Movistar Plus+2 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Movistar Plus+2 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://176.65.146.100:8005/play/a06w/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Movistar Plus+2 HD",
+    "position": "7",
+    "type": "channel",
+    "key": "spain_sport"
+  },
+  {
+    "namear": "M+ DEPORTES SD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"M+ DEPORTES SD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://176.65.146.100:8002/play/a0dr/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "M+ DEPORTES SD",
+    "position": "8",
+    "type": "channel",
+    "key": "spain_sport"
+  },
+  {
+    "namear": "M+ GOLF 2 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"M+ GOLF 2 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://176.65.146.100:8002/play/a0ed/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "M+ GOLF 2 HD",
+    "position": "9",
+    "type": "channel",
+    "key": "spain_sport"
+  },
+  {
+    "namear": "M+ GOLF SD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"M+ GOLF SD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://176.65.146.100:8002/play/a0do/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "M+ GOLF SD",
+    "position": "10",
+    "type": "channel",
+    "key": "spain_sport"
+  },
+  {
+    "namear": "M+ Indie HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"M+ Indie HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://176.65.146.100:8002/play/a0e1/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "M+ Indie HD",
+    "position": "11",
+    "type": "channel",
+    "key": "spain_sport"
+  },
+  {
+    "namear": "M+ LALIGA TV 3 SD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"M+ LALIGA TV 3 SD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://176.65.146.100:8002/play/a0eg/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "M+ LALIGA TV 3 SD",
+    "position": "12",
+    "type": "channel",
+    "key": "spain_sport"
+  },
+  {
+    "namear": "M+ LALIGA TV SD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"M+ LALIGA TV SD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://176.65.146.100:8002/play/a0dw/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "M+ LALIGA TV SD",
+    "position": "13",
+    "type": "channel",
+    "key": "spain_sport"
+  },
+  {
+    "namear": "M+DEPORTES 3 SD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"M+DEPORTES 3 SD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://176.65.146.100:8002/play/a0el/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "M+DEPORTES 3 SD",
+    "position": "14",
+    "type": "channel",
+    "key": "spain_sport"
+  },
+  {
+    "namear": "M+DEPORTES 4 SD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"M+DEPORTES 4 SD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://176.65.146.100:8002/play/a0ei/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "M+DEPORTES 4 SD",
+    "position": "15",
+    "type": "channel",
+    "key": "spain_sport"
+  },
+  {
+    "namear": "M+DEPORTES 5 SD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"M+DEPORTES 5 SD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://176.65.146.100:8002/play/a0eq/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "M+DEPORTES 5 SD",
+    "position": "16",
+    "type": "channel",
+    "key": "spain_sport"
+  },
+  {
+    "namear": "M+DEPORTES2HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"M+DEPORTES2HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://176.65.146.100:8002/play/a0e0/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "M+DEPORTES2HD",
+    "position": "17",
+    "type": "channel",
+    "key": "spain_sport"
+  },
+  {
+    "namear": "M+DEPORTESHD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"M+DEPORTESHD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://176.65.146.100:8002/play/a0eb/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "M+DEPORTESHD",
+    "position": "18",
+    "type": "channel",
+    "key": "spain_sport"
+  },
+  {
+    "namear": "M+LCAMPEONES 2 SD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"M+LCAMPEONES 2 SD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://176.65.146.100:8002/play/a0em/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "M+LCAMPEONES 2 SD",
+    "position": "19",
+    "type": "channel",
+    "key": "spain_sport"
+  },
+  {
+    "namear": "M+LCAMPEONES 4 SD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"M+LCAMPEONES 4 SD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://176.65.146.100:8002/play/a0er/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "M+LCAMPEONES 4 SD",
+    "position": "20",
+    "type": "channel",
+    "key": "spain_sport"
+  },
+  {
+    "namear": "M+LCAMPEONES 5 SD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"M+LCAMPEONES 5 SD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://176.65.146.100:8002/play/a0en/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "M+LCAMPEONES 5 SD",
+    "position": "21",
+    "type": "channel",
+    "key": "spain_sport"
+  }
+]

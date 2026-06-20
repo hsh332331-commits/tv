@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "Canal+ AF1",
+    "servers": "[{\"headers\":\"Referer|https://lovetier.bz/|user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36|find|m3u8\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"name\":\"Canal+ AF1\",\"Referer\":\"https://lovetier.bz/\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://lovetier.bz/player/CNPLSP1AF\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkycV-W4qf0MIrzIrDLgWPDFwZbJpuT8Lfbg&s",
+    "nameen": "Canal+ AF1",
+    "position": "1",
+    "type": "channel",
+    "key": "canal+_afrique"
+  },
+  {
+    "namear": "Canal+ AF2",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36|find|m3u8\",\"otherHeaders\":\"find|m3u8\",\"name\":\"Canal+ AF2\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://lovetier.bz/player/CNPLSP2AF\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkycV-W4qf0MIrzIrDLgWPDFwZbJpuT8Lfbg&s",
+    "nameen": "Canal+ AF2",
+    "position": "2",
+    "type": "channel",
+    "key": "canal+_afrique"
+  },
+  {
+    "namear": "Canal+ AF3",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36|find|m3u8\",\"otherHeaders\":\"find|m3u8\",\"name\":\"Canal+ AF3\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://lovetier.bz/player/CNPLSP3AF\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkycV-W4qf0MIrzIrDLgWPDFwZbJpuT8Lfbg&s",
+    "nameen": "Canal+ AF3",
+    "position": "3",
+    "type": "channel",
+    "key": "canal+_afrique"
+  },
+  {
+    "namear": "Canal+ AF4",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36|find|m3u8\",\"otherHeaders\":\"find|m3u8\",\"name\":\"Canal+ AF4\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://lovetier.bz/player/CNPLSP4AF\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkycV-W4qf0MIrzIrDLgWPDFwZbJpuT8Lfbg&s",
+    "nameen": "Canal+ AF4",
+    "position": "4",
+    "type": "channel",
+    "key": "canal+_afrique"
+  },
+  {
+    "namear": "Canal+ AF5",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36|find|m3u8\",\"otherHeaders\":\"find|m3u8\",\"name\":\"Canal+ AF5\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://lovetier.bz/player/CNPLSP5AF\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkycV-W4qf0MIrzIrDLgWPDFwZbJpuT8Lfbg&s",
+    "nameen": "Canal+ AF5",
+    "position": "5",
+    "type": "channel",
+    "key": "canal+_afrique"
+  }
+]

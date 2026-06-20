@@ -1,0 +1,182 @@
+[
+  {
+    "namear": "AD SPORTS 1",
+    "servers": "[{\"headers\":\"user-agent|aloka|\",\"otherHeaders\":\"\",\"name\":\"AD SPORTS 1\",\"Referer\":\"\",\"userAgent\":\"aloka\",\"position\":\"0\",\"url\":\"https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/mono.m3u8\"}]",
+    "logo": "http://bl3rbe.net/up/O0fLc2JH.png",
+    "nameen": "AD SPORTS 1",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidalokarabic_sports"
+  },
+  {
+    "namear": "AD SPORTS 2",
+    "servers": "[{\"headers\":\"user-agent|aloka|\",\"otherHeaders\":\"\",\"name\":\"AD SPORTS 2\",\"Referer\":\"\",\"userAgent\":\"aloka\",\"position\":\"0\",\"url\":\"https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/mono.m3u8\"}]",
+    "logo": "http://bl3rbe.net/up/gxxgGn9.png",
+    "nameen": "AD SPORTS 2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidalokarabic_sports"
+  },
+  {
+    "namear": "AD SPORTS 3",
+    "servers": "[{\"headers\":\"user-agent|aloka|\",\"otherHeaders\":\"\",\"name\":\"AD SPORTS 3\",\"Referer\":\"\",\"userAgent\":\"aloka\",\"position\":\"0\",\"url\":\"https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/mono.m3u8\"}]",
+    "logo": "http://bl3rbe.net/up/403GcHIxOR.png",
+    "nameen": "AD SPORTS 3",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidalokarabic_sports"
+  },
+  {
+    "namear": "AD SPORTS 4",
+    "servers": "[{\"headers\":\"user-agent|aloka|\",\"otherHeaders\":\"\",\"name\":\"AD SPORTS 4\",\"Referer\":\"\",\"userAgent\":\"aloka\",\"position\":\"0\",\"url\":\"https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/mono.m3u8\"}]",
+    "logo": "http://bl3rbe.net/up/NeoF35wy5eh.png",
+    "nameen": "AD SPORTS 4",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidalokarabic_sports"
+  },
+  {
+    "namear": "AL-KASS 1",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"AL-KASS 1\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/arena0303/7878/38.m3u8\"}]",
+    "logo": "http://bl3rbe.net/up/qm1jY2AI.png",
+    "nameen": "AL-KASS 1",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidalokarabic_sports"
+  },
+  {
+    "namear": "AL-KASS 2",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"AL-KASS 2\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/arena0303/7878/28.m3u8\"}]",
+    "logo": "http://bl3rbe.net/up/zOmHtJC.png",
+    "nameen": "AL-KASS 2",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidalokarabic_sports"
+  },
+  {
+    "namear": "AL-KASS 4",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"AL-KASS 4\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/arena0303/7878/29.m3u8\"}]",
+    "logo": "http://bl3rbe.net/up/C19Nmxl.png",
+    "nameen": "AL-KASS 4",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidalokarabic_sports"
+  },
+  {
+    "namear": "DUBAI SPORTS 1",
+    "servers": "[{\"headers\":\"user-agent|aloka|\",\"otherHeaders\":\"\",\"name\":\"DUBAI SPORTS 1\",\"Referer\":\"\",\"userAgent\":\"aloka\",\"position\":\"0\",\"url\":\"https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/mono.m3u8 \"}]",
+    "logo": "https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png",
+    "nameen": "DUBAI SPORTS 1",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidalokarabic_sports"
+  },
+  {
+    "namear": "DUBAI SPORTS 2",
+    "servers": "[{\"headers\":\"user-agent|aloka|\",\"otherHeaders\":\"\",\"name\":\"DUBAI SPORTS 2\",\"Referer\":\"\",\"userAgent\":\"aloka\",\"position\":\"0\",\"url\":\"https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/mono.m3u8 \"}]",
+    "logo": "https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png",
+    "nameen": "DUBAI SPORTS 2",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidalokarabic_sports"
+  },
+  {
+    "namear": "DUBAI SPORTS 3",
+    "servers": "[{\"headers\":\"user-agent|aloka|\",\"otherHeaders\":\"\",\"name\":\"DUBAI SPORTS 3\",\"Referer\":\"\",\"userAgent\":\"aloka\",\"position\":\"0\",\"url\":\"https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/mono.m3u8 \"}]",
+    "logo": "https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png",
+    "nameen": "DUBAI SPORTS 3",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidalokarabic_sports"
+  },
+  {
+    "namear": "ON SPORTS 1",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"ON SPORTS 1\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/arena0303/7878/263.m3u8\"}]",
+    "logo": "https://www.lyngsat.com/logo/tv/oo/ontime-sports-eg.png",
+    "nameen": "ON SPORTS 1",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidalokarabic_sports"
+  },
+  {
+    "namear": "ON SPORTS 2",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"ON SPORTS 2\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/arena0303/7878/31.m3u8\"}]",
+    "logo": "https://www.lyngsat.com/logo/tv/oo/ontime-sports-3-eg.png",
+    "nameen": "ON SPORTS 2",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidalokarabic_sports"
+  },
+  {
+    "namear": "JORDAN SPORTS",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"JORDAN SPORTS\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/arena0303/7878/37.m3u8\"}]",
+    "logo": "http://bl3rbe.net/up/kkT5FOcNPjeA.png",
+    "nameen": "JORDAN SPORTS",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidalokarabic_sports"
+  },
+  {
+    "namear": "AL BAHRAIN SPORTS",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"AL BAHRAIN SPORTS\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v\\u003d690885242\"}]",
+    "logo": "http://bl3rbe.net/up/N0cRxLqoVOw.png",
+    "nameen": "AL BAHRAIN SPORTS",
+    "position": "13",
+    "type": "channel",
+    "key": "windroidalokarabic_sports"
+  },
+  {
+    "namear": "MAROOC SPORTS",
+    "servers": "[{\"headers\":\"user-agent|aloka|\",\"otherHeaders\":\"\",\"name\":\"MAROOC SPORTS\",\"Referer\":\"\",\"userAgent\":\"aloka\",\"position\":\"0\",\"url\":\"http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000\\u003d4-mp4a_130400_qad\\u003d1.m3u8\"}]",
+    "logo": "https://www.lyngsat.com/logo/tv/ss/snrt_3_arriadya.png",
+    "nameen": "MAROOC SPORTS",
+    "position": "14",
+    "type": "channel",
+    "key": "windroidalokarabic_sports"
+  },
+  {
+    "namear": "KTV SPORTS",
+    "servers": "[{\"headers\":\"user-agent|aloka|\",\"otherHeaders\":\"\",\"name\":\"KTV SPORTS\",\"Referer\":\"\",\"userAgent\":\"aloka\",\"position\":\"0\",\"url\":\"https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8?checkedby:iptvcat.com\"}]",
+    "logo": "https://www.lyngsat-stream.com/logo/tv/kk/ktv-sport-plus-kw.png",
+    "nameen": "KTV SPORTS",
+    "position": "15",
+    "type": "channel",
+    "key": "windroidalokarabic_sports"
+  },
+  {
+    "namear": "OMAN SPORTS",
+    "servers": "[{\"headers\":\"user-agent|aloka|\",\"otherHeaders\":\"\",\"name\":\"OMAN SPORTS\",\"Referer\":\"\",\"userAgent\":\"aloka\",\"position\":\"0\",\"url\":\"https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/mono.m3u8?checkedby:iptvcat.com\"}]",
+    "logo": "http://bl3rbe.net/up/53BXj1kFafd9.png",
+    "nameen": "OMAN SPORTS",
+    "position": "16",
+    "type": "channel",
+    "key": "windroidalokarabic_sports"
+  },
+  {
+    "namear": "SHARJAH SPORTS",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"SHARJAH SPORTS\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/arena0303/7878/218.m3u8\"}]",
+    "logo": "http://bl3rbe.net/up/C8prYos.png",
+    "nameen": "SHARJAH SPORTS",
+    "position": "17",
+    "type": "channel",
+    "key": "windroidalokarabic_sports"
+  },
+  {
+    "namear": "YAS SPORT",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"YAS SPORT\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/arena0303/7878/222.m3u8\"}]",
+    "logo": "q",
+    "nameen": "YAS SPORT",
+    "position": "18",
+    "type": "channel",
+    "key": "windroidalokarabic_sports"
+  },
+  {
+    "namear": "RABIAA SPORTS",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"RABIAA SPORTS\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/arena0303/7878/39.m3u8\"}]",
+    "logo": "https://pbs.twimg.com/profile_images/1449793703585910793/ltjLXlSr_400x400.jpg",
+    "nameen": "RABIAA SPORTS",
+    "position": "19",
+    "type": "channel",
+    "key": "windroidalokarabic_sports"
+  }
+]

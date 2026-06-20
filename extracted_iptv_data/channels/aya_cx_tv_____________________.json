@@ -1,0 +1,128 @@
+[
+  {
+    "namear": "قناة الإتحاد",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://95.216.180.111:1935/live/30/chunklist.m3u8\"}]",
+    "logo": "https://bit.ly/3YI6iGv",
+    "nameen": "قناة الإتحاد",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_لــــبـــنـــان"
+  },
+  {
+    "namear": "Al-Jadeed",
+    "servers": "[{\"license\":\"5ce4f571bc4e4811a092f339be8cec01:d31f3d3bf040a2f504b88d77afb37973\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Al-Jadeed\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://neacdnpop3-edge02.aws.playco.com/live/eds/Al_Jadeed/DASH/Al_Jadeed.mpd\"}]",
+    "logo": "http://www.azrotv.com/iphone/images/ar_jpg/Aljadeed_live.jpg",
+    "nameen": "Al-Jadeed",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_لــــبـــنـــان"
+  },
+  {
+    "namear": "قناة المنار",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://manar.live/iptv/playlist.m3u8\"}]",
+    "logo": "https://i.imgur.com/dmDzNQO.png",
+    "nameen": "قناة المنار",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_لــــبـــنـــان"
+  },
+  {
+    "namear": "قناة الوفاق",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://alwifaklive.info:1935/live/myStream/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3HvKNl6",
+    "nameen": "قناة الوفاق",
+    "position": "10",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_لــــبـــنـــان"
+  },
+  {
+    "namear": "قناة نبأ",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://31.14.40.237:1935/live/Nabaa/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3G6lSTW",
+    "nameen": "قناة نبأ",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_لــــبـــنـــان"
+  },
+  {
+    "namear": "NBN TV",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://154.58.202.185:8000/play/a00u\"}]",
+    "logo": "https://i.imgur.com/8vSNskY.png",
+    "nameen": "NBN TV",
+    "position": "13",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_لــــبـــنـــان"
+  },
+  {
+    "namear": "LBC TV",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"مصدر اول\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://hogeahai.xyz/AR_LBC2HD/index.m3u8\"}]",
+    "logo": "https://file.rafalnht.com/d63b370903a42ffa56d9ae0ae9f7c3bb.photo.jpg",
+    "nameen": "LBC TV",
+    "position": "6",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_لــــبـــنـــان"
+  },
+  {
+    "namear": "قناة الإيمان",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3DKF5up",
+    "nameen": "قناة الإيمان",
+    "position": "7",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_لــــبـــنـــان"
+  },
+  {
+    "namear": "IFILIM TV",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://95.216.180.111:1935/live/15/chunklist.m3u8\"}]",
+    "logo": "https://bit.ly/3zq6UWh",
+    "nameen": "IFILIM TV",
+    "position": "11",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_لــــبـــنـــان"
+  },
+  {
+    "namear": "قناة العالم",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://live2.alalam.ir/live/Alalam_high/index.m3u8\"}]",
+    "logo": "https://bit.ly/3Nv4rim",
+    "nameen": "قناة العالم",
+    "position": "6",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_لــــبـــنـــان"
+  },
+  {
+    "namear": "قناة الميادين",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8\"}]",
+    "logo": "https://i.imgur.com/8vSNskY.png",
+    "nameen": "قناة الميادين",
+    "position": "40",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_لــــبـــنـــان"
+  },
+  {
+    "namear": "MTV",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://hogeahai.xyz/AR_MTVLebanon/index.m3u8\"}]",
+    "logo": "http://www.azrotv.com/iphone/images/ar_jpg/mtv.jpg",
+    "nameen": "MTV",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_لــــبـــنـــان"
+  },
+  {
+    "namear": "قناة صوت لبنان",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3K6JafH",
+    "nameen": "قناة صوت لبنان",
+    "position": "9",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_لــــبـــنـــان"
+  },
+  {
+    "namear": "ONE TV",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://live.3cd.io/v1/broadcast/one/playlist.m3u8\"}]",
+    "logo": "https://i.ibb.co/vJj1gdb/onetvlb.jpg",
+    "nameen": "ONE TV",
+    "position": "8",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_لــــبـــنـــان"
+  }
+]

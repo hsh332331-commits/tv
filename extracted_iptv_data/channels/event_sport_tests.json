@@ -1,0 +1,74 @@
+[
+  {
+    "namear": "Hala Ramallah",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Hala Ramallah (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://halaramallahtv.com:2053/HRamallah-Tv/HalaRamallah/playlist.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ0Dm5wQR8Ow4Sl-UBCvSTw3IIKxlJ_1efxu6NXXL2UQ&s=10",
+    "nameen": "Hala Ramallah",
+    "position": "1",
+    "type": "channel",
+    "key": "event_sport_tests"
+  },
+  {
+    "namear": "Ajyal TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Ajyal TV (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://htvmada.mada.ps:8888/ajyal/index.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ0Dm5wQR8Ow4Sl-UBCvSTw3IIKxlJ_1efxu6NXXL2UQ&s=10",
+    "nameen": "Ajyal TV",
+    "position": "2",
+    "type": "channel",
+    "key": "event_sport_tests"
+  },
+  {
+    "namear": "მყმ",
+    "servers": "[{\"headers\":\"Referer|https://www.cdn291.info/images/dunga37/index.m3u8|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://www.cdn291.info/images/dunga37/index.m3u8\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://www.cdn291.info/images/dunga37/index.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ0Dm5wQR8Ow4Sl-UBCvSTw3IIKxlJ_1efxu6NXXL2UQ&s=10",
+    "nameen": "მყმ",
+    "position": "6",
+    "type": "channel",
+    "key": "event_sport_tests"
+  },
+  {
+    "namear": "SIR",
+    "servers": "[{\"headers\":\"Referer|https://b6aca56b75057806272908c7d4425d8735070aed30cc09a.yallashot.us/hard/0137263e.html?match\\u003d6|user-agent|Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://b6aca56b75057806272908c7d4425d8735070aed30cc09a.yallashot.us/hard/0137263e.html?match\\u003d6\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36\",\"position\":\"0\",\"url\":\"https://1rxolmirvosixpyfy.azeytronivex.sbs/kooora/CJhbGciOiJIsdsdNi222?ts\\u003d1769716170\\u0026nonce\\u003dD9Sich6\\u0026token\\u003d1555939435\\u0026sid\\u003dd75ba8df002c9bfb2fde19379f32dd48\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ0Dm5wQR8Ow4Sl-UBCvSTw3IIKxlJ_1efxu6NXXL2UQ&s=10",
+    "nameen": "SIR",
+    "position": "7",
+    "type": "channel",
+    "key": "event_sport_tests"
+  },
+  {
+    "namear": "TAP",
+    "servers": "[{\"headers\":\"\",\"license\":\"eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd\"}]",
+    "logo": "",
+    "nameen": "TAP",
+    "position": "7",
+    "type": "channel",
+    "key": "event_sport_tests"
+  },
+  {
+    "namear": "Buz1",
+    "servers": "[{\"headers\":\"Referer|https://live.baranewssumsel.online/bein3/|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"BN1\",\"Referer\":\"https://live.baranewssumsel.online/bein3/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://s3.eu-north-1.amazonaws.com/196.44/hls/0/stream.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ0Dm5wQR8Ow4Sl-UBCvSTw3IIKxlJ_1efxu6NXXL2UQ&s=10",
+    "nameen": "Buz1",
+    "position": "8",
+    "type": "channel",
+    "key": "event_sport_tests"
+  },
+  {
+    "namear": "ᴀʏᴀ4ᴋ",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://smarthard.click/hls/CHbUiaHmZky/index.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ0Dm5wQR8Ow4Sl-UBCvSTw3IIKxlJ_1efxu6NXXL2UQ&s=10",
+    "nameen": "ᴀʏᴀ4ᴋ",
+    "position": "8",
+    "type": "channel",
+    "key": "event_sport_tests"
+  },
+  {
+    "namear": "Batifa",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://6476e46b58f91.streamlock.net/liveTrans/batifa/chunklist_w632227207.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ0Dm5wQR8Ow4Sl-UBCvSTw3IIKxlJ_1efxu6NXXL2UQ&s=10",
+    "nameen": "Batifa",
+    "position": "12",
+    "type": "channel",
+    "key": "event_sport_tests"
+  }
+]

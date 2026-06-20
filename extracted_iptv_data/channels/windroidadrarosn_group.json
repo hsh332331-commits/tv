@@ -1,0 +1,380 @@
+[
+  {
+    "namear": "National Geo AD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"National Geo AD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12137510_ico.png",
+    "nameen": "National Geo AD",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "OSN Ya Hala",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"OSN Ya Hala\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/66.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12161532_ico.png",
+    "nameen": "OSN Ya Hala",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "OSN Ya Hala Aloula",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"OSN Ya Hala Aloula\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/67.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12161538_ico.png",
+    "nameen": "OSN Ya Hala Aloula",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "OSN Ya Hala Cine",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"OSN Ya Hala Cine\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/68.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12161540_ico.png",
+    "nameen": "OSN Ya Hala Cine",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "OSN Action",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"OSN Action\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/69.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12161546_ico.png",
+    "nameen": "OSN Action",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "OSN Movies",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"OSN Movies\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/70.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12161632_ico.png",
+    "nameen": "OSN Movies",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "OSN Movies First",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"OSN Movies First\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/181\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12161662_ico.png",
+    "nameen": "OSN Movies First",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "OSN Comedy",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"OSN Comedy\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/173\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12161551_ico.png",
+    "nameen": "OSN Comedy",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "OSN Series",
+    "servers": "[{\"headers\":\"Lololouser-Agent|Lololouser-Agent|Lololouser-Agent|Lololo\",\"otherHeaders\":\"\",\"name\":\"OSN Series\",\"Referer\":\"\",\"userAgent\":\"Lololouser-Agent|Lololo\",\"position\":\"0\",\"url\":\"http://212.102.58.251:8080/osn-test/v9JCnrnqF3/5054\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12161681_ico.png",
+    "nameen": "OSN Series",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "OSN Series First",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"OSN Series First\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/179\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12161648_ico.png",
+    "nameen": "OSN Series First",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "OSN Kids Zone",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"OSN Kids Zone\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/188\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12161928_ico.png",
+    "nameen": "OSN Kids Zone",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "OSN Mezze",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"OSN Mezze\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/180\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4267873_ico.png",
+    "nameen": "OSN Mezze",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "OSN Living",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"OSN Living\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/181\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18473131_ico.png",
+    "nameen": "OSN Living",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "Star World",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"Star World\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/179\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12161644_ico.png",
+    "nameen": "Star World",
+    "position": "13",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "Star Movies",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"Star Movies\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/180\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12161637_ico.png",
+    "nameen": "Star Movies",
+    "position": "14",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "Star Gold",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Star Gold\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/174\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26523212_ico.png",
+    "nameen": "Star Gold",
+    "position": "15",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "Nat Geo AR",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Nat Geo AR\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/209\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/1933727_ico.png",
+    "nameen": "Nat Geo AR",
+    "position": "16",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "Nat Geo Wild",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Nat Geo Wild\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/65.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/403907_ico.png",
+    "nameen": "Nat Geo Wild",
+    "position": "17",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "Discovery AR",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Discovery AR\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/72.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12161704_ico.png",
+    "nameen": "Discovery AR",
+    "position": "18",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "Discovery Sci AR*",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"Discovery Sci AR*\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/189\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12161835_ico.png",
+    "nameen": "Discovery Sci AR*",
+    "position": "19",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "Animal Planet",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Animal Planet\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/223\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/1999779_ico.png",
+    "nameen": "Animal Planet",
+    "position": "20",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "History AR",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"History AR\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/176\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2322704_ico.png",
+    "nameen": "History AR",
+    "position": "21",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "OSN H2",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"OSN H2\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/177\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18473164_ico.png",
+    "nameen": "OSN H2",
+    "position": "22",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "OSN E!",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"OSN E!\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/190\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18473123_ico.png",
+    "nameen": "OSN E!",
+    "position": "23",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "OSN ID",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"OSN ID\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/208\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18473443_ico.png",
+    "nameen": "OSN ID",
+    "position": "24",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "OSN TLC",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"OSN TLC\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/193\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26523301_ico.png",
+    "nameen": "OSN TLC",
+    "position": "25",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "OSN WWE",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"OSN WWE\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/216\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4267965_ico.png",
+    "nameen": "OSN WWE",
+    "position": "26",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "OSN Mix",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"OSN Mix\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/169\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4267996_ico.png",
+    "nameen": "OSN Mix",
+    "position": "27",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "Nickelodeon AR",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Nickelodeon AR\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/228\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/404105_ico.png",
+    "nameen": "Nickelodeon AR",
+    "position": "28",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "Nick JR AR",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"Nick JR AR\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/241\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4724603_ico.png",
+    "nameen": "Nick JR AR",
+    "position": "29",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "Disney Ch. AR",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Disney Ch. AR\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/297\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2001545_ico.png",
+    "nameen": "Disney Ch. AR",
+    "position": "30",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "Disney Jr AR",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Disney Jr AR\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/75.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4724579_ico.png",
+    "nameen": "Disney Jr AR",
+    "position": "31",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "Baby TV AR",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"Baby TV AR\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/243\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26523681_ico.png",
+    "nameen": "Baby TV AR",
+    "position": "32",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "Yahala*",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Yahala*\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/165\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/6589077_ico.png",
+    "nameen": "Yahala*",
+    "position": "33",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "Yahala 1*",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Yahala 1*\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/165\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/6589464_ico.png",
+    "nameen": "Yahala 1*",
+    "position": "34",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "Yahala Cinema*",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Yahala Cinema*\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/166\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/6589485_ico.png",
+    "nameen": "Yahala Cinema*",
+    "position": "35",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "OSN Action*",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"OSN Action*\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/184\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/6641004_ico.png",
+    "nameen": "OSN Action*",
+    "position": "36",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "OSN  Movies*",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"OSN  Movies*\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/174\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/6640985_ico.png",
+    "nameen": "OSN  Movies*",
+    "position": "37",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "Star World*",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Star World*\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/173\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/6641432_ico.png",
+    "nameen": "Star World*",
+    "position": "38",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "Star Movies*",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Star Movies*\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/172\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/6641439_ico.png",
+    "nameen": "Star Movies*",
+    "position": "39",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "OSN Discovery*",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"OSN Discovery*\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/187\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/6641278_ico.png",
+    "nameen": "OSN Discovery*",
+    "position": "40",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  },
+  {
+    "namear": "OSN History*",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"OSN History*\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/195\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/6641284_ico.png",
+    "nameen": "OSN History*",
+    "position": "41",
+    "type": "channel",
+    "key": "windroidadrarosn_group"
+  }
+]

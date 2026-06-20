@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "FAJER 1",
+    "servers": "[{\"headers\":\"Referer|https://mejarserver.site|user-agent|Mejar Server Local|origin|mejarserverlocal\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"origin|mejarserverlocal\",\"name\":\"الفجر FHD\",\"Referer\":\"https://mejarserver.site\",\"userAgent\":\"Mejar Server Local\",\"position\":\"2\",\"url\":\"https://mejarhosting.cfd/alfajer1080p/ch01/master.m3u8\"},{\"headers\":\"Referer|https://mejarserver.site|user-agent|Mejar Server Local|origin|mejarserverlocal\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"origin|mejarserverlocal\",\"name\":\"الفجر HD\",\"Referer\":\"https://mejarserver.site\",\"userAgent\":\"Mejar Server Local\",\"position\":\"2\",\"url\":\"https://mejarhosting.cfd/alfajer720p/ch01/master.m3u8\"}]",
+    "logo": "https://i.ibb.co/0cY46br/AL-FAJER-1.jpg",
+    "nameen": "FAJER 1",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tval_fajer_ميجر_سيرفر"
+  },
+  {
+    "namear": "FAJER 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://mejarserver.site|user-agent|Mejar Server Local|origin|mejarserverlocal\",\"scheme\":\"\",\"otherHeaders\":\"origin|mejarserverlocal\",\"isWeb\":\"false\",\"name\":\"الفجر FHD\",\"Referer\":\"https://mejarserver.site\",\"userAgent\":\"Mejar Server Local\",\"position\":\"\",\"url\":\"https://cdnfest.com/ftv2-1080p/rewind-86400.m3u8\"},{\"license\":\"\",\"headers\":\"Referer|https://mejarserver.site|user-agent|Mejar Server Local|origin|mejarserverlocal\",\"scheme\":\"\",\"otherHeaders\":\"origin|mejarserverlocal\",\"isWeb\":\"false\",\"name\":\"الفجر HD\",\"Referer\":\"https://mejarserver.site\",\"userAgent\":\"Mejar Server Local\",\"position\":\"\",\"url\":\"https://cdnfest.com/ftv2-720p/rewind-86400.m3u8\"}]",
+    "logo": "https://i.ibb.co/P4CR80X/AL-FAJER-2.jpg",
+    "nameen": "FAJER 2",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tval_fajer_ميجر_سيرفر"
+  },
+  {
+    "namear": "FAJER 3",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://mejarserver.site|user-agent|Mejar Server Local|origin|mejarserverlocal\",\"scheme\":\"\",\"otherHeaders\":\"origin|mejarserverlocal\",\"isWeb\":\"false\",\"name\":\"الفجر FHD\",\"Referer\":\"https://mejarserver.site\",\"userAgent\":\"Mejar Server Local\",\"position\":\"\",\"url\":\"https://cdnfest.com/ftv3-1080p/rewind-86400.m3u8\"},{\"license\":\"\",\"headers\":\"Referer|https://mejarserver.site|user-agent|Mejar Server Local|origin|mejarserverlocal\",\"scheme\":\"\",\"otherHeaders\":\"origin|mejarserverlocal\",\"isWeb\":\"false\",\"name\":\"الفجر HD\",\"Referer\":\"https://mejarserver.site\",\"userAgent\":\"Mejar Server Local\",\"position\":\"\",\"url\":\"https://cdnfest.com/ftv3-720p/rewind-86400.m3u8\"}]",
+    "logo": "https://i.ibb.co/yXf7bTT/AL-FAJER-3.jpg",
+    "nameen": "FAJER 3",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tval_fajer_ميجر_سيرفر"
+  },
+  {
+    "namear": "FAJER 4",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://mejarserver.site|user-agent|Mejar Server Local|origin|mejarserverlocal\",\"scheme\":\"\",\"otherHeaders\":\"origin|mejarserverlocal\",\"isWeb\":\"false\",\"name\":\"الفجر FHD\",\"Referer\":\"https://mejarserver.site\",\"userAgent\":\"Mejar Server Local\",\"position\":\"\",\"url\":\"https://cdnfest.com/ftv4-1080p/rewind-86400.m3u8\"},{\"license\":\"\",\"headers\":\"Referer|https://mejarserver.site|user-agent|Mejar Server Local|origin|mejarserverlocal\",\"scheme\":\"\",\"otherHeaders\":\"origin|mejarserverlocal\",\"isWeb\":\"false\",\"name\":\"الفجر HD\",\"Referer\":\"https://mejarserver.site\",\"userAgent\":\"Mejar Server Local\",\"position\":\"\",\"url\":\"https://cdnfest.com/ftv4-720p/rewind-86400.m3u8\"}]",
+    "logo": "https://i.ibb.co/sFfdsqc/AL-FAJER-4.jpg",
+    "nameen": "FAJER 4",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tval_fajer_ميجر_سيرفر"
+  },
+  {
+    "namear": "FAJER 5",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://mejarserver.site|user-agent|Mejar Server Local|origin|mejarserverlocal\",\"scheme\":\"\",\"otherHeaders\":\"origin|mejarserverlocal\",\"isWeb\":\"false\",\"name\":\"الفجر HD\",\"Referer\":\"https://mejarserver.site\",\"userAgent\":\"Mejar Server Local\",\"position\":\"\",\"url\":\"https://cdnfest.com/ftv5-720p/rewind-86400.m3u8\"},{\"license\":\"\",\"headers\":\"Referer|https://mejarserver.site|user-agent|Mejar Server Local|origin|mejarserverlocal\",\"scheme\":\"\",\"otherHeaders\":\"origin|mejarserverlocal\",\"isWeb\":\"false\",\"name\":\"الفجر FHD\",\"Referer\":\"https://mejarserver.site\",\"userAgent\":\"Mejar Server Local\",\"position\":\"\",\"url\":\"https://cdnfest.com/ftv5-1080p/rewind-86400.m3u8\"}]",
+    "logo": "https://i.ibb.co/W6VV956/AL-FAJER-5.jpg",
+    "nameen": "FAJER 5",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tval_fajer_ميجر_سيرفر"
+  }
+]

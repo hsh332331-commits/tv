@@ -1,0 +1,83 @@
+[
+  {
+    "namear": "BeIN FHD 7",
+    "servers": "[{\"headers\":\"CHANNEL4_34user-Agent|CHANNEL4_34user-Agent|CHANNEL4_34user-Agent|CHANNEL4_34\",\"otherHeaders\":\"\",\"name\":\"BeIN FHD 7\",\"Referer\":\"\",\"userAgent\":\"CHANNEL4_34user-Agent|CHANNEL4_34\",\"position\":\"0\",\"url\":\"http://w.bs-share.com:8000/247179867825237/23141543216575/393749\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9543829_ico.png",
+    "nameen": "BeIN FHD 7",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarbein_7"
+  },
+  {
+    "namear": "BeIN 7 SD",
+    "servers": "[{\"headers\":\"Tres15user-Agent|Tres15user-Agent|Tres15user-Agent|Tres15\",\"otherHeaders\":\"\",\"name\":\"BeIN 7 SD\",\"Referer\":\"\",\"userAgent\":\"Tres15user-Agent|Tres15\",\"position\":\"0\",\"url\":\"http://chimeratv.live:25461/live/Beinvip45/uIkc8nTCXt/20.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9219331_ico.png",
+    "nameen": "BeIN 7 SD",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarbein_7"
+  },
+  {
+    "namear": "Bein 7 FHD",
+    "servers": "[{\"headers\":\"ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Bein 7 FHD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"http://pizztv.xyz:8000/RUSH-81404004/VLstCMcXNtBL/7\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9543764_ico.png",
+    "nameen": "Bein 7 FHD",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarbein_7"
+  },
+  {
+    "namear": "Bein SD 7",
+    "servers": "[{\"headers\":\"airmaxtvpro1user-Agent|airmaxtvpro1user-Agent|airmaxtvpro1user-Agent|airmaxtvpro1\",\"otherHeaders\":\"\",\"name\":\"Bein SD 7\",\"Referer\":\"\",\"userAgent\":\"airmaxtvpro1user-Agent|airmaxtvpro1\",\"position\":\"0\",\"url\":\"https://airmaxtv.online:25463/airmaxtvbein936/8uEw8a9Rw262/19\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9544064_ico.png",
+    "nameen": "Bein SD 7",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarbein_7"
+  },
+  {
+    "namear": "Bein 7 HD",
+    "servers": "[{\"headers\":\"ㅤㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Bein 7 HD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/106\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/444464_ico.png",
+    "nameen": "Bein 7 HD",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarbein_7"
+  },
+  {
+    "namear": "beIN 7 FHD",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"beIN 7 FHD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/10.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4607757_ico.png",
+    "nameen": "beIN 7 FHD",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarbein_7"
+  },
+  {
+    "namear": "bein 7HD",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"bein 7HD\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1210\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4632529_ico.png",
+    "nameen": "bein 7HD",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarbein_7"
+  },
+  {
+    "namear": "beIN SD7",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"beIN SD7\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/81\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14766207_ico.png",
+    "nameen": "beIN SD7",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarbein_7"
+  },
+  {
+    "namear": "bein 7 HD",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"bein 7 HD\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://ultra-pro.live:8080/kokylive/jcxOeskEpp/153246\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/6670743_ico.png",
+    "nameen": "bein 7 HD",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarbein_7"
+  }
+]

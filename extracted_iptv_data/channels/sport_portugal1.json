@@ -1,0 +1,56 @@
+[
+  {
+    "namear": "SPORT TV1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SPORT TV1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://216.227.145.114:8000/SPORT_TV1_ALTERNATIVE/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "SPORT TV1",
+    "position": "1",
+    "type": "channel",
+    "key": "sport_portugal1"
+  },
+  {
+    "namear": "SPORT TV2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SPORT TV2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://216.227.145.114:8000/SPORT_TV2_ALTERNATIVE/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "SPORT TV2",
+    "position": "2",
+    "type": "channel",
+    "key": "sport_portugal1"
+  },
+  {
+    "namear": "Sport tv 6",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sport tv 6\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://216.227.145.114:8000/SPORT_TV6/mono.m3u8 ?token\\u003dtest\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Sport tv 6",
+    "position": "3",
+    "type": "channel",
+    "key": "sport_portugal1"
+  },
+  {
+    "namear": "Sport tv 3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sport tv 3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://216.227.145.114:8000/SPORT_TV3/mono.m3u8 ?token\\u003dtest\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Sport tv 3",
+    "position": "4",
+    "type": "channel",
+    "key": "sport_portugal1"
+  },
+  {
+    "namear": "Sport tv 4",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sport tv 4\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://216.227.145.114:8000/SPORT_TV4/mono.m3u8 ?token\\u003dtest\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Sport tv 4",
+    "position": "5",
+    "type": "channel",
+    "key": "sport_portugal1"
+  },
+  {
+    "namear": "Sport tv 5",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sport tv 5\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://216.227.145.114:8000/SPORT_TV5/mono.m3u8 ?token\\u003dtest\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Sport tv 5",
+    "position": "6",
+    "type": "channel",
+    "key": "sport_portugal1"
+  }
+]

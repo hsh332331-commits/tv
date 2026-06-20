@@ -1,0 +1,29 @@
+[
+  {
+    "namear": "Live1",
+    "servers": "[{\"headers\":\"\",\"license\":\"eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd\"}]",
+    "logo": "",
+    "nameen": "Live1",
+    "position": "0",
+    "type": "channel",
+    "key": "wwe_box"
+  },
+  {
+    "namear": "Live2",
+    "servers": "[{\"headers\":\"Referer|https://android-database1.firebase-api.com/|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://android-database1.firebase-api.com/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://android-database1.firebase-api.com/AccessLog2/108085_SD/apache.m3u8\"}]",
+    "logo": "",
+    "nameen": "Live2",
+    "position": "1",
+    "type": "channel",
+    "key": "wwe_box"
+  },
+  {
+    "namear": "Live3",
+    "servers": "[{\"headers\":\"Referer|https://roxiestreams.info/|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://roxiestreams.info/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://601.lifesharper.com/wwe.m3u8\"}]",
+    "logo": "",
+    "nameen": "Live3",
+    "position": "2",
+    "type": "channel",
+    "key": "wwe_box"
+  }
+]

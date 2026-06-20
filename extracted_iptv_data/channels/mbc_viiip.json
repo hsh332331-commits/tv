@@ -1,0 +1,442 @@
+[
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"MBC ZOOM QHD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1883\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "MBC ZOOM QHD",
+    "position": "1",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"MBC TOW\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1882\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "MBC TOW",
+    "position": "2",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"MBC TEN QHD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1881\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "MBC TEN QHD",
+    "position": "3",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"MBC SEVEN QHD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1880\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "MBC SEVEN QHD",
+    "position": "4",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"MBC premium QHD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1879\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "MBC premium QHD",
+    "position": "5",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"MBC POWER QHD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1878\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "MBC POWER QHD",
+    "position": "6",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"MBC PLUS QHD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1877\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "MBC PLUS QHD",
+    "position": "7",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"MBC ONE QHD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1876\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "MBC ONE QHD",
+    "position": "8",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"MBC NINE QHD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1875\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "MBC NINE QHD",
+    "position": "9",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"MBC MOVIES QHD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1874\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "MBC MOVIES QHD",
+    "position": "10",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"MBC MARIC QHD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1873\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "MBC MARIC QHD",
+    "position": "11",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"MBC EIGHT QHD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1872\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "MBC EIGHT QHD",
+    "position": "12",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"MBC ANIME QHD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1871\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "MBC ANIME QHD",
+    "position": "13",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"|MBC| MBC BOLLYWOOD HD H265\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1870\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MBC| MBC BOLLYWOOD HD H265",
+    "position": "14",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"|MBC| MBC VARIETY H265\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1869\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MBC| MBC VARIETY H265",
+    "position": "15",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"|MBC| MBC DRAMA HD H265\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1868\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MBC| MBC DRAMA HD H265",
+    "position": "16",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"|MBC| MBC DRAMA + H265\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1867\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MBC| MBC DRAMA + H265",
+    "position": "17",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"|MBC| MBC MAX HD H265\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1866\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MBC| MBC MAX HD H265",
+    "position": "18",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"|MBC| MBC ACTION HD H265\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1865\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MBC| MBC ACTION HD H265",
+    "position": "19",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"|MBC| MBC 5 FHD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1864\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MBC| MBC 5 FHD",
+    "position": "20",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"|MBC| MBC4 HD H265\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1863\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MBC| MBC4 HD H265",
+    "position": "21",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"|MBC| MBC3 HD H265\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1862\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MBC| MBC3 HD H265",
+    "position": "22",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"|MBC| MBC2 HD H265\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1861\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MBC| MBC2 HD H265",
+    "position": "23",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"|MBC| MBC1 HD H265\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1860\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MBC| MBC1 HD H265",
+    "position": "24",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"Zee Aflam\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1859\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Zee Aflam",
+    "position": "25",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"Zee Alwan\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1858\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Zee Alwan",
+    "position": "26",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"[MBC] MBC Variety HD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1857\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[MBC] MBC Variety HD",
+    "position": "27",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"[MBC] MBC Action HD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1856\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[MBC] MBC Action HD",
+    "position": "28",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"[MBC] MBC ACTION\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1855\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[MBC] MBC ACTION",
+    "position": "29",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"[MBC] MBC MAX\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1854\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[MBC] MBC MAX",
+    "position": "30",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"[MBC] MBC Bollywood\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1853\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[MBC] MBC Bollywood",
+    "position": "31",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"[MBC] MBC Masr 2\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1852\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[MBC] MBC Masr 2",
+    "position": "32",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"[MBC] MBC Masr\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1851\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[MBC] MBC Masr",
+    "position": "33",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"[MBC] MBC + DRAMA HD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1850\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[MBC] MBC + DRAMA HD",
+    "position": "34",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"|MBC| MBC IRAQ HD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1849\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MBC| MBC IRAQ HD",
+    "position": "35",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"[MBC] MBC Drama\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1848\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[MBC] MBC Drama",
+    "position": "36",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"|MBC| MBC 5\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1847\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MBC| MBC 5",
+    "position": "37",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"[MBC] MBC 4\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1846\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[MBC] MBC 4",
+    "position": "38",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"[MBC] MBC 2\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1845\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[MBC] MBC 2",
+    "position": "39",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"[MBC] MBC 1\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1844\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[MBC] MBC 1",
+    "position": "40",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"|MBC| MBC Variety FHD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1843\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MBC| MBC Variety FHD",
+    "position": "41",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"|MBC| MBC PLUS DRAMA FHD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1842\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MBC| MBC PLUS DRAMA FHD",
+    "position": "42",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"|MBC| MBC Bollywood FHD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1841\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MBC| MBC Bollywood FHD",
+    "position": "43",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"|MBC| MBC Masr 2 FHD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1840\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MBC| MBC Masr 2 FHD",
+    "position": "44",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"|MBC| MBC Masr 1 FHD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1839\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MBC| MBC Masr 1 FHD",
+    "position": "45",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"|MBC| MBC DRAMA FHD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1838\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MBC| MBC DRAMA FHD",
+    "position": "46",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"|MBC| MBC ACTION FHD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1837\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MBC| MBC ACTION FHD",
+    "position": "47",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"|MBC| MBC IRAQ FHD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1836\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MBC| MBC IRAQ FHD",
+    "position": "48",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"|MBC| MBC MAX FHD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1835\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MBC| MBC MAX FHD",
+    "position": "49",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"|MBC| MBC 5 HD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1834\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MBC| MBC 5 HD",
+    "position": "50",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"|MBC| MBC 5 FHD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1833\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MBC| MBC 5 FHD",
+    "position": "51",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"|MBC| MBC 4 FHD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1832\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MBC| MBC 4 FHD",
+    "position": "52",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"|MBC| MBC 3 FHD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1831\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MBC| MBC 3 FHD",
+    "position": "53",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"|MBC| MBC 2 FHD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1830\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MBC| MBC 2 FHD",
+    "position": "54",
+    "type": "channel",
+    "key": "mbc_viiip"
+  },
+  {
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02;\",\"otherHeaders\":\"\",\"name\":\"|MBC| MBC 1 FHD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1829\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|MBC| MBC 1 FHD",
+    "position": "55",
+    "type": "channel",
+    "key": "mbc_viiip"
+  }
+]

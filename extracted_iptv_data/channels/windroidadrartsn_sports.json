@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "TSN Sport 1",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"TSN Sport 1\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"https://sky.hlsjs.ru/sky/premium111/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18694583_ico.png",
+    "nameen": "TSN Sport 1",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrartsn_sports"
+  },
+  {
+    "namear": "TSN Sport 2",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"TSN Sport 2\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"https://sky.hlsjs.ru/sky/premium112/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18697408_ico.png",
+    "nameen": "TSN Sport 2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrartsn_sports"
+  },
+  {
+    "namear": "TSN Sport 3",
+    "servers": "[{\"headers\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36user-Agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36user-Agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36user-Agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"otherHeaders\":\"\",\"name\":\"TSN Sport 3\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36user-Agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://sky.hlsjs.ru/sky/premium113/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18697413_ico.png",
+    "nameen": "TSN Sport 3",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrartsn_sports"
+  },
+  {
+    "namear": "TSN Sport 4",
+    "servers": "[{\"headers\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36user-Agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36user-Agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36user-Agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"otherHeaders\":\"\",\"name\":\"TSN Sport 4\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36user-Agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://sky.hlsjs.ru/sky/premium114/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18697414_ico.png",
+    "nameen": "TSN Sport 4",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrartsn_sports"
+  },
+  {
+    "namear": "TSN Sport 5",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"TSN Sport 5\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"https://sky.hlsjs.ru/sky/premium115/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18697417_ico.png",
+    "nameen": "TSN Sport 5",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrartsn_sports"
+  }
+]

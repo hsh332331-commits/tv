@@ -1,0 +1,353 @@
+[
+  {
+    "namear": "CBC",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"CBC\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/481\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12124575_ico.png",
+    "nameen": "CBC",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "CBC Drama",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"CBC Drama\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/479\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12124974_ico.png",
+    "nameen": "CBC Drama",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "CBC Sofra",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"CBC Sofra\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/480\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12123008_ico.png",
+    "nameen": "CBC Sofra",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "DMC",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"DMC\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/482\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7621332_ico.png",
+    "nameen": "DMC",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "DMC Drama",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"DMC Drama\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/478\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7621335_ico.png",
+    "nameen": "DMC Drama",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "Elsharq TV",
+    "servers": "[{\"headers\":\"Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36user-Agent|Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36user-Agent|Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36user-Agent|Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36\",\"otherHeaders\":\"\",\"name\":\"Elsharq TV\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36user-Agent|Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36\",\"position\":\"0\",\"url\":\"http://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12123058_ico.png",
+    "nameen": "Elsharq TV",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "Mekameleen News",
+    "servers": "[{\"headers\":\"Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36user-Agent|Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36user-Agent|Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36user-Agent|Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36\",\"otherHeaders\":\"\",\"name\":\"Mekameleen News\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36user-Agent|Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36\",\"position\":\"0\",\"url\":\"http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12123070_ico.png",
+    "nameen": "Mekameleen News",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "Watan TV",
+    "servers": "[{\"headers\":\"Ddduser-Agent|Ddduser-Agent|Ddduser-Agent|Ddd\",\"otherHeaders\":\"\",\"name\":\"Watan TV\",\"Referer\":\"\",\"userAgent\":\"Ddduser-Agent|Ddd\",\"position\":\"0\",\"url\":\"https://cdg8.edge.technocdn.com/watantv/live/chunks.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12123163_ico.png",
+    "nameen": "Watan TV",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "Al Oula Egypt",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Al Oula Egypt\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/473\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12125148_ico.png",
+    "nameen": "Al Oula Egypt",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "Sada AlBalad",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Sada AlBalad\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/474\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9219971_ico.png",
+    "nameen": "Sada AlBalad",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "Sada AlBalad2",
+    "servers": "[{\"headers\":\"airmaxtvprouser-Agent|airmaxtvprouser-Agent|airmaxtvprouser-Agent|airmaxtvpro\",\"otherHeaders\":\"\",\"name\":\"Sada AlBalad2\",\"Referer\":\"\",\"userAgent\":\"airmaxtvprouser-Agent|airmaxtvpro\",\"position\":\"0\",\"url\":\"https://airmaxtv.online:443/airmaxtvall4/khzVcf2T6Qry/515\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14186951_ico.png",
+    "nameen": "Sada AlBalad2",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "Sada Drama",
+    "servers": "[{\"headers\":\"airmaxtvprouser-Agent|airmaxtvprouser-Agent|airmaxtvprouser-Agent|airmaxtvpro\",\"otherHeaders\":\"\",\"name\":\"Sada Drama\",\"Referer\":\"\",\"userAgent\":\"airmaxtvprouser-Agent|airmaxtvpro\",\"position\":\"0\",\"url\":\"https://airmaxtv.online:443/airmaxtvall4/khzVcf2T6Qry/516\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14186961_ico.png",
+    "nameen": "Sada Drama",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "Al Nahar",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Al Nahar\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/483\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12122978_ico.png",
+    "nameen": "Al Nahar",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "Al Nahar Drama",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Al Nahar Drama\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/484\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12122971_ico.png",
+    "nameen": "Al Nahar Drama",
+    "position": "13",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "Hayat Eg",
+    "servers": "[{\"headers\":\"airmaxtvprouser-Agent|airmaxtvprouser-Agent|airmaxtvprouser-Agent|airmaxtvpro\",\"otherHeaders\":\"\",\"name\":\"Hayat Eg\",\"Referer\":\"\",\"userAgent\":\"airmaxtvprouser-Agent|airmaxtvpro\",\"position\":\"0\",\"url\":\"https://airmaxtv.online:443/airmaxtvall4/khzVcf2T6Qry/508\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9220048_ico.png",
+    "nameen": "Hayat Eg",
+    "position": "14",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "Hayat Drama",
+    "servers": "[{\"headers\":\"airmaxtvprouser-Agent|airmaxtvprouser-Agent|airmaxtvprouser-Agent|airmaxtvpro\",\"otherHeaders\":\"\",\"name\":\"Hayat Drama\",\"Referer\":\"\",\"userAgent\":\"airmaxtvprouser-Agent|airmaxtvpro\",\"position\":\"0\",\"url\":\"https://airmaxtv.online:443/airmaxtvall4/khzVcf2T6Qry/509\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14185658_ico.png",
+    "nameen": "Hayat Drama",
+    "position": "15",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "Maspero Zaman",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Maspero Zaman\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/488\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14186924_ico.png",
+    "nameen": "Maspero Zaman",
+    "position": "16",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "OMG TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"OMG TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://media6.smc-host.com:1935/omgchannel.net/omgtv/chunklist.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14184316_ico.png",
+    "nameen": "OMG TV",
+    "position": "17",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "On E",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"On E\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/486\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/3875519_ico.png",
+    "nameen": "On E",
+    "position": "18",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "ON Drama",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"ON Drama\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/485\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/3875466_ico.png",
+    "nameen": "ON Drama",
+    "position": "19",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "Al Ahly TV",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Al Ahly TV\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/471\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2100161_ico.png",
+    "nameen": "Al Ahly TV",
+    "position": "20",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "Zamalek TV",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Zamalek TV\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/472\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2100184_ico.png",
+    "nameen": "Zamalek TV",
+    "position": "21",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "Nile Sport",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Nile Sport\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/475\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12123105_ico.png",
+    "nameen": "Nile Sport",
+    "position": "22",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "Nile Cinema",
+    "servers": "[{\"headers\":\"airmaxtvprouser-Agent|airmaxtvprouser-Agent|airmaxtvprouser-Agent|airmaxtvpro\",\"otherHeaders\":\"\",\"name\":\"Nile Cinema\",\"Referer\":\"\",\"userAgent\":\"airmaxtvprouser-Agent|airmaxtvpro\",\"position\":\"0\",\"url\":\"https://airmaxtv.online:443/airmaxtvall4/khzVcf2T6Qry/532\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12123078_ico.png",
+    "nameen": "Nile Cinema",
+    "position": "23",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "Nile Drama",
+    "servers": "[{\"headers\":\"airmaxtvprouser-Agent|airmaxtvprouser-Agent|airmaxtvprouser-Agent|airmaxtvpro\",\"otherHeaders\":\"\",\"name\":\"Nile Drama\",\"Referer\":\"\",\"userAgent\":\"airmaxtvprouser-Agent|airmaxtvpro\",\"position\":\"0\",\"url\":\"https://airmaxtv.online:443/airmaxtvall4/khzVcf2T6Qry/533\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12123086_ico.png",
+    "nameen": "Nile Drama",
+    "position": "24",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "Nile Comedy",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Nile Comedy\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/476\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12123080_ico.png",
+    "nameen": "Nile Comedy",
+    "position": "25",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "Nile News",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Nile News\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/477\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14186231_ico.png",
+    "nameen": "Nile News",
+    "position": "26",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "AlKahera WNas",
+    "servers": "[{\"headers\":\"airmaxtvprouser-Agent|airmaxtvprouser-Agent|airmaxtvprouser-Agent|airmaxtvpro\",\"otherHeaders\":\"\",\"name\":\"AlKahera WNas\",\"Referer\":\"\",\"userAgent\":\"airmaxtvprouser-Agent|airmaxtvpro\",\"position\":\"0\",\"url\":\"https://airmaxtv.online:443/airmaxtvall4/khzVcf2T6Qry/512\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14186896_ico.png",
+    "nameen": "AlKahera WNas",
+    "position": "27",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "AlKahera WNas 2",
+    "servers": "[{\"headers\":\"airmaxtvprouser-Agent|airmaxtvprouser-Agent|airmaxtvprouser-Agent|airmaxtvpro\",\"otherHeaders\":\"\",\"name\":\"AlKahera WNas 2\",\"Referer\":\"\",\"userAgent\":\"airmaxtvprouser-Agent|airmaxtvpro\",\"position\":\"0\",\"url\":\"https://airmaxtv.online:443/airmaxtvall4/khzVcf2T6Qry/513\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12123299_ico.png",
+    "nameen": "AlKahera WNas 2",
+    "position": "28",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "Panorama Drama",
+    "servers": "[{\"headers\":\"airmaxtvprouser-Agent|airmaxtvprouser-Agent|airmaxtvprouser-Agent|airmaxtvpro\",\"otherHeaders\":\"\",\"name\":\"Panorama Drama\",\"Referer\":\"\",\"userAgent\":\"airmaxtvprouser-Agent|airmaxtvpro\",\"position\":\"0\",\"url\":\"https://airmaxtv.online:443/airmaxtvall4/khzVcf2T6Qry/517\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12123121_ico.png",
+    "nameen": "Panorama Drama",
+    "position": "29",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "Panorama Film",
+    "servers": "[{\"headers\":\"airmaxtvprouser-Agent|airmaxtvprouser-Agent|airmaxtvprouser-Agent|airmaxtvpro\",\"otherHeaders\":\"\",\"name\":\"Panorama Film\",\"Referer\":\"\",\"userAgent\":\"airmaxtvprouser-Agent|airmaxtvpro\",\"position\":\"0\",\"url\":\"https://airmaxtv.online:443/airmaxtvall4/khzVcf2T6Qry/519\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14692048_ico.png",
+    "nameen": "Panorama Film",
+    "position": "30",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "Al Mehwar",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Al Mehwar\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/489\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14692056_ico.png",
+    "nameen": "Al Mehwar",
+    "position": "31",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "TEN Egy",
+    "servers": "[{\"headers\":\"ttuser-Agent|ttuser-Agent|ttuser-Agent|tt\",\"otherHeaders\":\"\",\"name\":\"TEN Egy\",\"Referer\":\"\",\"userAgent\":\"ttuser-Agent|tt\",\"position\":\"0\",\"url\":\"https://weyyak-live.akamaized.net/weyyak_ten_tv/tracks-v2a1/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14692019_ico.png",
+    "nameen": "TEN Egy",
+    "position": "32",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "Sat7 Kids",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sat7 Kids\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/sat7kidspublish/sat7kids_360p/chunks_dvr.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7059313_ico.png",
+    "nameen": "Sat7 Kids",
+    "position": "33",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "Al Hayat",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Hayat\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12122928_ico.png",
+    "nameen": "Al Hayat",
+    "position": "34",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "Al Horreya",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Horreya\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12122938_ico.png",
+    "nameen": "Al Horreya",
+    "position": "35",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "Nogoum TV",
+    "servers": "[{\"headers\":\"com.sacaps.toolitv/2.12.1 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 7.1.2) ExoPlayerLib/2.15.0user-Agent|com.sacaps.toolitv/2.12.1 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 7.1.2) ExoPlayerLib/2.15.0user-Agent|com.sacaps.toolitv/2.12.1 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 7.1.2) ExoPlayerLib/2.15.0user-Agent|com.sacaps.toolitv/2.12.1 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 7.1.2) ExoPlayerLib/2.15.0\",\"otherHeaders\":\"\",\"name\":\"Nogoum TV\",\"Referer\":\"\",\"userAgent\":\"com.sacaps.toolitv/2.12.1 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 7.1.2) ExoPlayerLib/2.15.0user-Agent|com.sacaps.toolitv/2.12.1 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 7.1.2) ExoPlayerLib/2.15.0\",\"position\":\"0\",\"url\":\"https://nogoumtv.nrpstream.com/hls/0/stream.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/16041264_ico.png",
+    "nameen": "Nogoum TV",
+    "position": "36",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "MBC Masr",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC Masr\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12139928_ico.png",
+    "nameen": "MBC Masr",
+    "position": "37",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  },
+  {
+    "namear": "MBC Masr 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC Masr 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12139942_ico.png",
+    "nameen": "MBC Masr 2",
+    "position": "38",
+    "type": "channel",
+    "key": "windroidadraregypt_مصر"
+  }
+]

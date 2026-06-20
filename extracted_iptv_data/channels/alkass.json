@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "Al Kass Sports 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://liveb.alkassdigital.net:443/hls/live/2094545/Alkass1wfe/hdntl\\u003dexp\\u003d1666968353~acl\\u003d%2f*~data\\u003dhdntl~hmac\\u003d7bbb49dba135c0742f7c3e0489886f1ebc32c58487eb06239c7172c94d02013b/master1080.m3u8\"}]",
+    "logo": "https://3.bp.blogspot.com/-CmzZh1wchtU/VFrDR9NIHnI/AAAAAAAACMk/Z-Lc8_cu2Do/s1600/alkass1.png",
+    "nameen": "Al Kass Sports 1",
+    "position": "1",
+    "type": "channel",
+    "key": "alkass"
+  },
+  {
+    "namear": "Al Kass Sports 2",
+    "servers": "[{\"headers\":\"user-agent;ㅤ;\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"http://liveb.alkassdigital.net/hls/live/2094545/Alkass2wazq/master.m3u8\"}]",
+    "logo": "https://3.bp.blogspot.com/-CmzZh1wchtU/VFrDR9NIHnI/AAAAAAAACMk/Z-Lc8_cu2Do/s1600/alkass.png",
+    "nameen": "Al Kass Sports 2",
+    "position": "2",
+    "type": "channel",
+    "key": "alkass"
+  },
+  {
+    "namear": "Al Kass Sports 3",
+    "servers": "[{\"headers\":\"user-agent;ㅤ;\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh3.smil/mono.m3u8\"}]",
+    "logo": "https://3.bp.blogspot.com/-CmzZh1wchtU/VFrDR9NIHnI/AAAAAAAACMk/Z-Lc8_cu2Do/s1600/alkass.png",
+    "nameen": "Al Kass Sports 3",
+    "position": "3",
+    "type": "channel",
+    "key": "alkass"
+  },
+  {
+    "namear": "Al Kass Sports 4",
+    "servers": "[{\"headers\":\"user-agent;ㅤ;\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh4.smil/mono.m3u8\"}]",
+    "logo": "https://3.bp.blogspot.com/-CmzZh1wchtU/VFrDR9NIHnI/AAAAAAAACMk/Z-Lc8_cu2Do/s1600/alkass.png",
+    "nameen": "Al Kass Sports 4",
+    "position": "4",
+    "type": "channel",
+    "key": "alkass"
+  },
+  {
+    "namear": "Al Kass Sports 5",
+    "servers": "[{\"headers\":\"user-agent;ㅤ;\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://liveb.alkassdigital.net/hls/live/2094545/Alkass1awzq/master.m3u8\"}]",
+    "logo": "https://3.bp.blogspot.com/-CmzZh1wchtU/VFrDR9NIHnI/AAAAAAAACMk/Z-Lc8_cu2Do/s1600/alkass.png",
+    "nameen": "Al Kass Sports 5",
+    "position": "5",
+    "type": "channel",
+    "key": "alkass"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "namear": "Tring1",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36|find|.m3u8\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"find|.m3u8\",\"name\":\"Tring1\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://lovetier.bz/player/Tring1\"}]",
+    "logo": "https://i5.satexpat.com/cha/al/tring-468x144.png",
+    "nameen": "Tring1",
+    "position": "1",
+    "type": "channel",
+    "key": "tring_sport"
+  },
+  {
+    "namear": "Tring2",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36|find|m3u8\",\"otherHeaders\":\"find|m3u8\",\"name\":\"Tring2\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://lovetier.bz/player/Tring2\"}]",
+    "logo": "https://i5.satexpat.com/cha/al/tring-468x144.png",
+    "nameen": "Tring2",
+    "position": "2",
+    "type": "channel",
+    "key": "tring_sport"
+  },
+  {
+    "namear": "Tring3",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36|find|m3u8\",\"otherHeaders\":\"find|m3u8\",\"name\":\"Tring3\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://lovetier.bz/player/Tring3\"}]",
+    "logo": "https://i5.satexpat.com/cha/al/tring-468x144.png",
+    "nameen": "Tring3",
+    "position": "3",
+    "type": "channel",
+    "key": "tring_sport"
+  },
+  {
+    "namear": "Tring4",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36|find|m3u8\",\"otherHeaders\":\"find|m3u8\",\"name\":\"Tring4\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://lovetier.bz/player/Tring4\"}]",
+    "logo": "https://i5.satexpat.com/cha/al/tring-468x144.png",
+    "nameen": "Tring4",
+    "position": "4",
+    "type": "channel",
+    "key": "tring_sport"
+  },
+  {
+    "namear": "Tring5",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36|find|m3u8\",\"otherHeaders\":\"find|m3u8\",\"name\":\"Tring5\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://lovetier.bz/player/Tring5\"}]",
+    "logo": "https://i5.satexpat.com/cha/al/tring-468x144.png",
+    "nameen": "Tring5",
+    "position": "5",
+    "type": "channel",
+    "key": "tring_sport"
+  },
+  {
+    "namear": "Tring6",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36|find|m3u8\",\"otherHeaders\":\"find|m3u8\",\"name\":\"Tring6\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://lovetier.bz/player/Tring6\"}]",
+    "logo": "https://i5.satexpat.com/cha/al/tring-468x144.png",
+    "nameen": "Tring6",
+    "position": "6",
+    "type": "channel",
+    "key": "tring_sport"
+  }
+]

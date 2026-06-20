@@ -1,0 +1,146 @@
+[
+  {
+    "namear": "NRT SPORT",
+    "servers": "[{\"license\":\"\",\"headers\":\"Cookie|ㅤㅤㅤ|ㅤㅤㅤ|token|live\",\"scheme\":\"\",\"otherHeaders\":\"Cookie|ㅤㅤㅤ|ㅤㅤㅤ|token|live\",\"isWeb\":\"false\",\"name\":\"NRT SPORT\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://hls-cdn-mejarserver.tigan.pro/NRT-Sport/playlist.m3u8?dvr\\u003dtrue\"}]",
+    "logo": "data:image/jpeg;base64,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",
+    "nameen": "NRT SPORT",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_كردستان"
+  },
+  {
+    "namear": "Kurdistan TV",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8\"}]",
+    "logo": "https://i.imgur.com/GLfhYSH.png",
+    "nameen": "Kurdistan TV",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_كردستان"
+  },
+  {
+    "namear": "Kurdistan TV +",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://84.244.187.150:1935/live/smil:myStream.smil/chunklist.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://84.244.187.150:1935/live/smil:myStream.smil/chunklist.m3u8\"}]",
+    "logo": "https://i.imgur.com/GLfhYSH.png",
+    "nameen": "Kurdistan TV +",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_كردستان"
+  },
+  {
+    "namear": "Ronahi TV",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://ronahi-tv.akamaized.net/hls/ronahi-tv.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://ronahi-tv.akamaized.net/hls/ronahi-tv.m3u8\"}]",
+    "logo": "https://bit.ly/3mph0Uu",
+    "nameen": "Ronahi TV",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_كردستان"
+  },
+  {
+    "namear": "Ronahi TV",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://rojava-tv.akamaized.net/hls/rojava-tv.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://rojava-tv.akamaized.net/hls/rojava-tv.m3u8\"}]",
+    "logo": "https://bit.ly/3wPebBl",
+    "nameen": "Ronahi TV",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_كردستان"
+  },
+  {
+    "namear": "Ronahi TV",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://ca-rt.onetv.app/Ronahi/index-0.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://ca-rt.onetv.app/Ronahi/index-0.m3u8\"}]",
+    "logo": "https://bit.ly/3mph0Uu",
+    "nameen": "Ronahi TV",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_كردستان"
+  },
+  {
+    "namear": "Kurd MAX Show",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxBadine0!/playlist.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxBadine0!/playlist.m3u8\"}]",
+    "logo": "https://i.imgur.com/gNCSYvG.png",
+    "nameen": "Kurd MAX Show",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_كردستان"
+  },
+  {
+    "namear": "Kurd MAX HD Kur",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/chunklist.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/chunklist.m3u8\"}]",
+    "logo": "https://i.imgur.com/MojrqNd.png",
+    "nameen": "Kurd MAX HD Kur",
+    "position": "6",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_كردستان"
+  },
+  {
+    "namear": "Rudaw TV",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8\"}]",
+    "logo": "https://i.imgur.com/5ZQ4GTu.jpg",
+    "nameen": "Rudaw TV",
+    "position": "7",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_كردستان"
+  },
+  {
+    "namear": "Kurdestan 24",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://d1x82nydcxndze.cloudfront.net/live/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://d1x82nydcxndze.cloudfront.net/live/index.m3u8\"}]",
+    "logo": "https://i.imgur.com/p7eAbYD.png",
+    "nameen": "Kurdestan 24",
+    "position": "8",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_كردستان"
+  },
+  {
+    "namear": "Kircuk TV",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://5ab29cc78f681.streamlock.net/IHTV/livestream/playlist.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://5ab29cc78f681.streamlock.net/IHTV/livestream/playlist.m3u8\"}]",
+    "logo": "https://i.imgur.com/5ZQ4GTu.jpg",
+    "nameen": "Kircuk TV",
+    "position": "9",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_كردستان"
+  },
+  {
+    "namear": "Kurd sat news",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/manifest.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/manifest.m3u8\"}]",
+    "logo": "https://bit.ly/3mlWAvB",
+    "nameen": "Kurd sat news",
+    "position": "10",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_كردستان"
+  },
+  {
+    "namear": "Strek TV",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://muzkurd.com/sterktv/sterk/playlist.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://muzkurd.com/sterktv/sterk/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3Gq8lrH",
+    "nameen": "Strek TV",
+    "position": "11",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_كردستان"
+  },
+  {
+    "namear": "NRT TV 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://media.streambrothers.com:1936/8226/8226/playlist.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://media.streambrothers.com:1936/8226/8226/playlist.m3u8\"}]",
+    "logo": "https://i.imgur.com/R0uhPwR.png",
+    "nameen": "NRT TV 1",
+    "position": "12",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_كردستان"
+  },
+  {
+    "namear": "NRT TV 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://198.100.158.231:1935/live/nrt2/playlist.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://198.100.158.231:1935/live/nrt2/playlist.m3u8\"}]",
+    "logo": "https://i.imgur.com/YAuVPS3.png",
+    "nameen": "NRT TV 2",
+    "position": "13",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_كردستان"
+  },
+  {
+    "namear": "Payam TV",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8\"}]",
+    "logo": "https://i.imgur.com/KUk7o2T.png",
+    "nameen": "Payam TV",
+    "position": "14",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_كردستان"
+  }
+]

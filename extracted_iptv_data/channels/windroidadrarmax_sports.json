@@ -1,0 +1,38 @@
+[
+  {
+    "namear": "Max Sport 1",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Max Sport 1\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://93.155.227.38:90/m3u8/webmtelsport_web.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/25033486_ico.png",
+    "nameen": "Max Sport 1",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarmax_sports"
+  },
+  {
+    "namear": "Max Sport 2",
+    "servers": "[{\"headers\":\"iosapp2user-Agent|iosapp2user-Agent|iosapp2user-Agent|iosapp2\",\"otherHeaders\":\"\",\"name\":\"Max Sport 2\",\"Referer\":\"\",\"userAgent\":\"iosapp2user-Agent|iosapp2\",\"position\":\"0\",\"url\":\"http://93.155.227.38:90/m3u8/webmtelsport2_web.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/25033496_ico.png",
+    "nameen": "Max Sport 2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarmax_sports"
+  },
+  {
+    "namear": "Max Sport 3",
+    "servers": "[{\"headers\":\"iosapp2user-Agent|iosapp2user-Agent|iosapp2user-Agent|iosapp2\",\"otherHeaders\":\"\",\"name\":\"Max Sport 3\",\"Referer\":\"\",\"userAgent\":\"iosapp2user-Agent|iosapp2\",\"position\":\"0\",\"url\":\"http://93.155.227.38:90/m3u8/webmtelsport3_web.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/25033502_ico.png",
+    "nameen": "Max Sport 3",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarmax_sports"
+  },
+  {
+    "namear": "Max Sport 4",
+    "servers": "[{\"headers\":\"iosapp2user-Agent|iosapp2user-Agent|iosapp2user-Agent|iosapp2\",\"otherHeaders\":\"\",\"name\":\"Max Sport 4\",\"Referer\":\"\",\"userAgent\":\"iosapp2user-Agent|iosapp2\",\"position\":\"0\",\"url\":\"http://93.155.227.38:90/m3u8/webmtelsport4_web.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/25033510_ico.png",
+    "nameen": "Max Sport 4",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarmax_sports"
+  }
+]

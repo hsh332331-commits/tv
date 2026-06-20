@@ -1,0 +1,65 @@
+[
+  {
+    "namear": "Sky Premiere",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Sky Premiere\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://w.bs-share.com:8000/247179867825237/23141543216575/431925\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24595076_ico.png",
+    "nameen": "Sky Premiere",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarsky_cinema"
+  },
+  {
+    "namear": "Sky Action",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Sky Action\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://w.bs-share.com:8000/247179867825237/23141543216575/431930\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24594635_ico.png",
+    "nameen": "Sky Action",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarsky_cinema"
+  },
+  {
+    "namear": "Sky Drama",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Sky Drama\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://w.bs-share.com:8000/247179867825237/23141543216575/431928\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24594667_ico.png",
+    "nameen": "Sky Drama",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarsky_cinema"
+  },
+  {
+    "namear": "Sky Greats",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Sky Greats\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://w.bs-share.com:8000/247179867825237/23141543216575/431926\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24595083_ico.png",
+    "nameen": "Sky Greats",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarsky_cinema"
+  },
+  {
+    "namear": "Sky Select",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Sky Select\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://w.bs-share.com:8000/247179867825237/23141543216575/431924\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24594640_ico.png",
+    "nameen": "Sky Select",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarsky_cinema"
+  },
+  {
+    "namear": "Sky Comedy",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Sky Comedy\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://w.bs-share.com:8000/247179867825237/23141543216575/431929\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24594646_ico.png",
+    "nameen": "Sky Comedy",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarsky_cinema"
+  },
+  {
+    "namear": "Sky Family",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Sky Family\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://w.bs-share.com:8000/247179867825237/23141543216575/431927\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24594657_ico.png",
+    "nameen": "Sky Family",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarsky_cinema"
+  }
+]

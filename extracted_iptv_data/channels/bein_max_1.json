@@ -1,0 +1,56 @@
+[
+  {
+    "namear": "BeIN Max 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Max 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://ugeen.live:8080/Kaicer_VIPwZT9kx/59Em9b/4064\"},{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Max 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"http://ugeen.live:8080/Kaicer_VIPwZT9kx/59Em9b/4063\"},{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Max 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"http://ugeen.live:8080/Kaicer_VIPwZT9kx/59Em9b/4065\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Logo_beIN_SPORTS_MAX.png/1200px-Logo_beIN_SPORTS_MAX.png",
+    "nameen": "BeIN Max 1",
+    "position": "0",
+    "type": "channel",
+    "key": "bein_max_1"
+  },
+  {
+    "namear": "BeIN MAX 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Max 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://ugeen.live:8080/Kaicer_VIPwZT9kx/59Em9b/4066\"},{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Max 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"http://ugeen.live:8080/Kaicer_VIPwZT9kx/59Em9b/4067\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Logo_beIN_SPORTS_MAX.png/1200px-Logo_beIN_SPORTS_MAX.png",
+    "nameen": "BeIN MAX 2",
+    "position": "1",
+    "type": "channel",
+    "key": "bein_max_1"
+  },
+  {
+    "namear": "BeIN MAX 3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Max 3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://ugeen.live:8080/Kaicer_VIPwZT9kx/59Em9b/4069\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Logo_beIN_SPORTS_MAX.png/1200px-Logo_beIN_SPORTS_MAX.png",
+    "nameen": "BeIN MAX 3",
+    "position": "2",
+    "type": "channel",
+    "key": "bein_max_1"
+  },
+  {
+    "namear": "BeIN MAX 4",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Max 4\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://ugeen.live:8080/Kaicer_VIPwZT9kx/59Em9b/4070\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Logo_beIN_SPORTS_MAX.png/1200px-Logo_beIN_SPORTS_MAX.png",
+    "nameen": "BeIN MAX 4",
+    "position": "3",
+    "type": "channel",
+    "key": "bein_max_1"
+  },
+  {
+    "namear": "BeIN MAX 5",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Max 5\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://ugeen.live:8080/Kaicer_VIPwZT9kx/59Em9b/4071\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Logo_beIN_SPORTS_MAX.png/1200px-Logo_beIN_SPORTS_MAX.png",
+    "nameen": "BeIN MAX 5",
+    "position": "4",
+    "type": "channel",
+    "key": "bein_max_1"
+  },
+  {
+    "namear": "BeIN MAX 6",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Max 6\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://ugeen.live:8080/Kaicer_VIPwZT9kx/59Em9b/4072\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Logo_beIN_SPORTS_MAX.png/1200px-Logo_beIN_SPORTS_MAX.png",
+    "nameen": "BeIN MAX 6",
+    "position": "5",
+    "type": "channel",
+    "key": "bein_max_1"
+  }
+]

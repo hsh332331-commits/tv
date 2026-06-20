@@ -1,0 +1,110 @@
+[
+  {
+    "namear": "QazSport (480p) [Geo-blocked]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"QazSport (480p) [Geo-blocked]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8\"}]",
+    "logo": "https://i.imgur.com/UDJ0P5Q.png",
+    "nameen": "QazSport (480p) [Geo-blocked]",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_sports_vip"
+  },
+  {
+    "namear": "ITV Deportes",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ITV Deportes\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://thm-it-roku.otteravision.com/thm/it/it.m3u8\"}]",
+    "logo": "https://iili.io/J1kV1Bn.png",
+    "nameen": "ITV Deportes",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_sports_vip"
+  },
+  {
+    "namear": "REAL MADRID",
+    "servers": "[{\"headers\":\"\",\"license\":\"65b6395665d92c16e12f202c9480c425:eda358f71a474029f1580327ae6766e1\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://nog-live1-ott.izzigo.tv/14/out/u/dash/REAL-MADRID-HD/default.mpd\"}]",
+    "logo": "",
+    "nameen": "REAL MADRID",
+    "position": "11",
+    "type": "channel",
+    "key": "aya_sports_vip"
+  },
+  {
+    "namear": "Barca TV",
+    "servers": "[{\"headers\":\"Referer|http://azrogo.com/pyr/?id\\u003dhttps://open.http.mp.streamamg.com/p/3000707/sp/300070700/playManifest/entryId/0_pjiblx6q/format/applehttp/protocol/https/uiConfId/30017794/a.m3u8|find|m3u8\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"name\":\"\",\"Referer\":\"http://azrogo.com/pyr/?id\\u003dhttps://open.http.mp.streamamg.com/p/3000707/sp/300070700/playManifest/entryId/0_pjiblx6q/format/applehttp/protocol/https/uiConfId/30017794/a.m3u8\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://azrogo.com/iphone/spain/ch/barca_en.php\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3tLZzMIx0vNn0UVQ23wYjpcK-dVC2Wt4jZctua3UnIA&s=10",
+    "nameen": "Barca TV",
+    "position": "12",
+    "type": "channel",
+    "key": "aya_sports_vip"
+  },
+  {
+    "namear": "Inter Tv",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8\"}]",
+    "logo": "https://i.imgur.com/FUTqh2L.png",
+    "nameen": "Inter Tv",
+    "position": "13",
+    "type": "channel",
+    "key": "aya_sports_vip"
+  },
+  {
+    "namear": "MU TV",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"Ser1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-dash.mpd\"},{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"Serv2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-dash.mpd|70cf374624be2c54d8277825e834f6ce:70cf374624be2c54d8277825e834f6ce\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQojSeHjJD41ASc6mpy6DxhtAKRXwE2-K1BtPYeqWNxEQ&s=10",
+    "nameen": "MU TV",
+    "position": "14",
+    "type": "channel",
+    "key": "aya_sports_vip"
+  },
+  {
+    "namear": "Tennis Channel 2",
+    "servers": "[{\"headers\":\"\",\"license\":\"59F50679C9E60963BD0CB6640992AAAA:8685817c4d31f322e08940feeae2855a\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd\"}]",
+    "logo": "https://fast.planetecsat.com/wp-content/uploads/2025/01/1730911105436.jpg",
+    "nameen": "Tennis Channel 2",
+    "position": "16",
+    "type": "channel",
+    "key": "aya_sports_vip"
+  },
+  {
+    "namear": "Tennis Channel 1",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://daiconnect.com/live/hls/tvup/tvfy-tennischannel/.m3u8\"}]",
+    "logo": "https://fast.planetecsat.com/wp-content/uploads/2025/01/1730911105436.jpg",
+    "nameen": "Tennis Channel 1",
+    "position": "17",
+    "type": "channel",
+    "key": "aya_sports_vip"
+  },
+  {
+    "namear": "Eurosport 1",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0|\",\"license\":\"11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"Eurosport 1 #KID:  #EXT-X-LOGO:\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"position\":\"0\",\"url\":\"https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyCkTZERY-xt19RvOy4fnrVuH-wjjLPzFCGglCPLsp6g&s=10",
+    "nameen": "Eurosport 1",
+    "position": "20",
+    "type": "channel",
+    "key": "aya_sports_vip"
+  },
+  {
+    "namear": "BEIN SPORTS EXTRA Ñ",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BEIN SPORTS EXTRA Ñ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8\"}]",
+    "logo": "https://i.postimg.cc/MHsyq36G/descarga-6.jpg",
+    "nameen": "BEIN SPORTS EXTRA Ñ",
+    "position": "38",
+    "type": "channel",
+    "key": "aya_sports_vip"
+  },
+  {
+    "namear": "UFC",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"UFC\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId\\u003d99951134\"}]",
+    "logo": "https://i.ibb.co/k31DCf4/Do0-qz-Jj-Xw-GBUbh-K7n-CQi-Vro2-YT51-DHh-Bw7-On-Tv-Jr35-PEACSqaqhxf-Hdmed-SZr-Ei-LTiuq-ERb-s900-c-k.webp",
+    "nameen": "UFC",
+    "position": "46",
+    "type": "channel",
+    "key": "aya_sports_vip"
+  },
+  {
+    "namear": "PRO Sport International",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"PRO Sport International\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://proshls.wns.live/hls/stream.m3u8\"}]",
+    "logo": "https://i.postimg.cc/7hjCP4mf/PROSport-International.png",
+    "nameen": "PRO Sport International",
+    "position": "155",
+    "type": "channel",
+    "key": "aya_sports_vip"
+  }
+]

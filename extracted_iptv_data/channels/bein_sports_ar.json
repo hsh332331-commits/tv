@@ -1,0 +1,11 @@
+[
+  {
+    "namear": "BeIN 1",
+    "servers": "[{\"headers\":\"user-agent|damx|\",\"otherHeaders\":\"\",\"name\":\"BeIN\",\"Referer\":\"\",\"userAgent\":\"damx\",\"position\":\"0\",\"url\":\"http://warkop.cf/89/bein/08.m3u8\"},{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"BeIN\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://sky.hlsjs.ru/sky/premium98/mono.m3u8 \"}]",
+    "logo": "https://images.footballfanatics.com/uefa-merchandise/euro-2024-logo-pin_ss5_p-200889474+pv-1+u-bhwegccseocritmizebv+v-n1dq3irnikcxrcz2wedi.jpg?_hv=2&w=900",
+    "nameen": "BeIN 1",
+    "position": "05",
+    "type": "channel",
+    "key": "bein_sports_ar"
+  }
+]

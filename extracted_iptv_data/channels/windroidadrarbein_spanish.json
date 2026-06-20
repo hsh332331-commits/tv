@@ -1,0 +1,29 @@
+[
+  {
+    "namear": "BeIN Sport Ñ",
+    "servers": "[{\"headers\":\"m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6Ruser-Agent|m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6Ruser-Agent|m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6Ruser-Agent|m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6R\",\"otherHeaders\":\"\",\"name\":\"BeIN Sport Ñ\",\"Referer\":\"\",\"userAgent\":\"m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6Ruser-Agent|m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6R\",\"position\":\"0\",\"url\":\"https://nffthex0kzt.xyz/rk/tGRY347Ph1/sFHHhdwS53/866.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7057499_ico.png",
+    "nameen": "BeIN Sport Ñ",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarbein_spanish"
+  },
+  {
+    "namear": "Bein Sport Ñ SD",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"Bein Sport Ñ SD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/1242\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7739980_ico.png",
+    "nameen": "Bein Sport Ñ SD",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarbein_spanish"
+  },
+  {
+    "namear": "BeIN Xtra Ñ",
+    "servers": "[{\"headers\":\"ZZZZZZZZZZZZuser-Agent|ZZZZZZZZZZZZuser-Agent|ZZZZZZZZZZZZuser-Agent|ZZZZZZZZZZZZ\",\"otherHeaders\":\"\",\"name\":\"BeIN Xtra Ñ\",\"Referer\":\"\",\"userAgent\":\"ZZZZZZZZZZZZuser-Agent|ZZZZZZZZZZZZ\",\"position\":\"0\",\"url\":\"https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/16756814_ico.png",
+    "nameen": "BeIN Xtra Ñ",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarbein_spanish"
+  }
+]

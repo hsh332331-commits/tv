@@ -1,0 +1,119 @@
+[
+  {
+    "namear": "Libya's Channel",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Libya\\u0027s Channel\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://master.starmena-cloud.com/hls/libyas.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9877207_ico.png",
+    "nameen": "Libya's Channel",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarlibya_ليبيا"
+  },
+  {
+    "namear": "Libya Alhadath",
+    "servers": "[{\"headers\":\"Gguser-Agent|Gguser-Agent|Gguser-Agent|Gg\",\"otherHeaders\":\"\",\"name\":\"Libya Alhadath\",\"Referer\":\"\",\"userAgent\":\"Gguser-Agent|Gg\",\"position\":\"0\",\"url\":\"http://82.212.74.100:8000/live/hls/8103.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9877212_ico.png",
+    "nameen": "Libya Alhadath",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarlibya_ليبيا"
+  },
+  {
+    "namear": "Mostaqbal",
+    "servers": "[{\"headers\":\"Ttuser-Agent|Ttuser-Agent|Ttuser-Agent|Tt\",\"otherHeaders\":\"\",\"name\":\"Mostaqbal\",\"Referer\":\"\",\"userAgent\":\"Ttuser-Agent|Tt\",\"position\":\"0\",\"url\":\"https://media2.livaat.com/Libyah-Mostaqbal-New/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9877241_ico.png",
+    "nameen": "Mostaqbal",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarlibya_ليبيا"
+  },
+  {
+    "namear": "February ch.",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"February ch.\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/chunklist.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14175626_ico.png",
+    "nameen": "February ch.",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarlibya_ليبيا"
+  },
+  {
+    "namear": "Libya Alwataniya",
+    "servers": "[{\"headers\":\"Buser-Agent|Buser-Agent|Buser-Agent|B\",\"otherHeaders\":\"\",\"name\":\"Libya Alwataniya\",\"Referer\":\"\",\"userAgent\":\"Buser-Agent|B\",\"position\":\"0\",\"url\":\"https://bozztv.com/inim03/live1/giniko_libya/chunks.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26261178_ico.png",
+    "nameen": "Libya Alwataniya",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarlibya_ليبيا"
+  },
+  {
+    "namear": "Alwasat",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Alwasat\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/alwasattv/alwasat_480p/chunks.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14175636_ico.png",
+    "nameen": "Alwasat",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarlibya_ليبيا"
+  },
+  {
+    "namear": "Salam TV",
+    "servers": "[{\"headers\":\"gguser-Agent|gguser-Agent|gguser-Agent|gg\",\"otherHeaders\":\"\",\"name\":\"Salam TV\",\"Referer\":\"\",\"userAgent\":\"gguser-Agent|gg\",\"position\":\"0\",\"url\":\"https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b0969c3188.smil/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14837714_ico.png",
+    "nameen": "Salam TV",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarlibya_ليبيا"
+  },
+  {
+    "namear": "AL Jamahirya",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AL Jamahirya\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://master.starmena-cloud.com/hls/jam.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9877246_ico.png",
+    "nameen": "AL Jamahirya",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarlibya_ليبيا"
+  },
+  {
+    "namear": "Libya Alahrar",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Libya Alahrar\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://video.zidivo.com/live983/GrtjM_FNGC/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12121076_ico.png",
+    "nameen": "Libya Alahrar",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarlibya_ليبيا"
+  },
+  {
+    "namear": "Libya Business",
+    "servers": "[{\"headers\":\"Ghuser-Agent|Ghuser-Agent|Ghuser-Agent|Gh\",\"otherHeaders\":\"\",\"name\":\"Libya Business\",\"Referer\":\"\",\"userAgent\":\"Ghuser-Agent|Gh\",\"position\":\"0\",\"url\":\"https://media1.livaat.com/live/Libya-bussness/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12121083_ico.png",
+    "nameen": "Libya Business",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadrarlibya_ليبيا"
+  },
+  {
+    "namear": "Libya Sport",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Libya Sport\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://212.224.84.254:2200/TR-N/Libya_Sport_1_HD-ar/mono.m3u8 ?token\\u003degBlCndpe3ZiDXBgN3JjewVhf3FmenNhfnAXeHItenVmc3Nje3Ngfg\\u003d\\u003d\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/6903904_ico.png",
+    "nameen": "Libya Sport",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidadrarlibya_ليبيا"
+  },
+  {
+    "namear": "Libya Al Masar",
+    "servers": "[{\"headers\":\"Jjuser-Agent|Jjuser-Agent|Jjuser-Agent|Jj\",\"otherHeaders\":\"\",\"name\":\"Libya Al Masar\",\"Referer\":\"\",\"userAgent\":\"Jjuser-Agent|Jj\",\"position\":\"0\",\"url\":\"https://master.starmena-cloud.com/hls/almasar.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/25249307_ico.png",
+    "nameen": "Libya Al Masar",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidadrarlibya_ليبيا"
+  },
+  {
+    "namear": "Libya Tanasuh",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Libya Tanasuh\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ythls.onrender.com/channel/UCRaoHR6b3zViY9QxfgFNntQ.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/25649175_ico.png",
+    "nameen": "Libya Tanasuh",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidadrarlibya_ليبيا"
+  }
+]

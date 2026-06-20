@@ -1,0 +1,38 @@
+[
+  {
+    "namear": "AlKass three HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AlKass three HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://41.227.11.14:4004/play/a04h/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "AlKass three HD",
+    "position": "1",
+    "type": "channel",
+    "key": "alkass_tv"
+  },
+  {
+    "namear": "Alkass four HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Alkass four HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://41.227.11.14:4004/play/a04i/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Alkass four HD",
+    "position": "2",
+    "type": "channel",
+    "key": "alkass_tv"
+  },
+  {
+    "namear": "Alkass one HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Alkass one HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://41.227.11.14:4004/play/a04f/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Alkass one HD",
+    "position": "3",
+    "type": "channel",
+    "key": "alkass_tv"
+  },
+  {
+    "namear": "Alkass two HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Alkass two HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://41.227.11.14:4004/play/a04g/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Alkass two HD",
+    "position": "4",
+    "type": "channel",
+    "key": "alkass_tv"
+  }
+]

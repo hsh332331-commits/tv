@@ -1,0 +1,1109 @@
+[
+  {
+    "namear": "90210",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"90210\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67dd13af63d0008257f17/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84abe160-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d33a2585b-a5ca-4d3b-a8ca-bea4dff25f97\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "90210",
+    "position": "1",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "AKIBA PASS TV Anime: Sport",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AKIBA PASS TV Anime: Sport\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/659e598ab9adc4000843c574/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ac0871-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d1aca10c2-09e3-4dba-9e0e-6d174d5eb77f\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AKIBA PASS TV Anime: Sport",
+    "position": "2",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Alle hassen Chris",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Alle hassen Chris\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/622f6e1e2792150007e0b2ff/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ac0872-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d7ea668b9-4d7e-42c7-b818-8ea4b444d1c9\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Alle hassen Chris",
+    "position": "3",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Anger Management",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Anger Management\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655ca57e4261ca00080b3a04/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ac0873-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dba8090e5-75c3-49e1-b27f-57399848d7ed\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Anger Management",
+    "position": "4",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Assassination Classroom",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Assassination Classroom\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a7d99f4a10d800086083a9/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ac0874-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d8cf3451c-2f6e-495e-93bc-62d48d70c6bc\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Assassination Classroom",
+    "position": "5",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Auction Hunters",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Auction Hunters\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ede45d077746000072be0fe/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ac2f80-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003db4e4d851-50d8-4e9c-9824-31d78816509e\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Auction Hunters",
+    "position": "6",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Auf Achse",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Auf Achse\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61fbf91afb1b10000880dd08/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ac2f81-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d601f4d3b-4861-4283-9b4f-d09024aaa219\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Auf Achse",
+    "position": "7",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Auto Motor Sport",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Auto Motor Sport\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ac2f82-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dbd6f9149-f825-44a8-988e-28acbcdc798e\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Auto Motor Sport",
+    "position": "8",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Avatar",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Avatar\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/600adbdf8c554e00072125c9/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ac5690-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003df0f2f9f0-a766-421f-b28e-f13232bf4b9f\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Avatar",
+    "position": "9",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Awkward",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Awkward\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bc1784120ba80007935aaa/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ac5692-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dc2c2d7cc-7d4d-4255-a842-24443e529840\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Awkward",
+    "position": "10",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Baywatch",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Baywatch\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65819e62b228b70008570e9f/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ac5693-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dd16fb6c5-9a46-423c-ad6d-ed7c38457c0d\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Baywatch",
+    "position": "11",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "BBC Travel",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BBC Travel\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ac5694-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d6c128a45-6314-4183-a002-254731ea91a6\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "BBC Travel",
+    "position": "12",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Becker",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Becker\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/630348a54c48ce00077eb6c7/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ac5695-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003db1b31f04-864d-413e-8fc3-19d800ee7569\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Becker",
+    "position": "13",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Beverly Hills 90210",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Beverly Hills 90210\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60afb576053df900076fa2f0/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ac7da0-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dc388ec54-e705-453e-8f4f-45a71cebb28d\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Beverly Hills 90210",
+    "position": "14",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Big Time Rush",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Big Time Rush\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/663385cd06839f0008e00e93/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ac7da3-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d4b885ec0-86a3-4a1e-b3cb-90a1f041ddf9\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Big Time Rush",
+    "position": "15",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Billiard TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Billiard TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df0cff66eec8000897b3a4/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ac7da4-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003da6a5c7ba-51fa-40bf-ba59-05a9daef6fd5\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Billiard TV",
+    "position": "16",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "CBS News 24/7",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CBS News 24/7\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62441d6ded1827000763dcda/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84aca4b2-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003ddccc0e7c-5b78-4526-90f9-401f7ca29bc9\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "CBS News 24/7",
+    "position": "17",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "CC Pluto TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CC Pluto TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d4947590ba40f75dc29c26b/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84aca4b4-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dc4adaaf6-09fa-43e6-a254-c92d6891db35\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "CC Pluto TV",
+    "position": "18",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Chaos City",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Chaos City\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60afbad343e3840007164348/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84aca4b5-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dac925887-52f7-4055-a15c-ef63b5a406a8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Chaos City",
+    "position": "19",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Cheers",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Cheers\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e7f224676bf00076a4d8d/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84aca4b6-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d0d96d22d-3148-4e7e-b0e9-67b35648c724\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Cheers",
+    "position": "20",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Comedy Central South Park",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Comedy Central South Park\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c716084d842c00085f6e64/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84acf2d0-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d97acadcb-fbad-44de-8539-290d36c83227\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Comedy Central South Park",
+    "position": "21",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "DAZN Darts x Pluto TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"DAZN Darts x Pluto TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b67f0424ade50008a3be17/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84acf2d5-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d9e449819-d189-42df-8e7a-17486c6d68aa\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "DAZN Darts x Pluto TV",
+    "position": "22",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "DAZN Heldinnen x Pluto TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"DAZN Heldinnen x Pluto TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64afe50c5dc16600087f3227/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84acf2d7-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d0334507c-ce21-4017-8651-7c2bf9912782\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "DAZN Heldinnen x Pluto TV",
+    "position": "23",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Der Denver-Clan",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Der Denver-Clan\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cebd7302478b00073a6b71/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ad19e1-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d90febea4-cfd6-4ae3-909d-07bf5e002eda\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Der Denver-Clan",
+    "position": "24",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Die Thundermans",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Die Thundermans\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6447df8cd3fdde0008f1f627/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ad19e6-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d072707cc-c1e4-4fea-8582-e3b6779c864c\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Die Thundermans",
+    "position": "25",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Drake & Josh",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Drake \\u0026 Josh\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67c494a10d800085cab06/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ad40f0-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d8d07619e-6f1c-4551-b814-afb62e97b485\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Drake & Josh",
+    "position": "26",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Ein Engel auf Erden",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Ein Engel auf Erden\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/622f487722d9d400075f74dd/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ad40f1-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003ddc257dd1-b888-4d09-bd2d-9a97fb61b7ed\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Ein Engel auf Erden",
+    "position": "27",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Euronews",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Euronews\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6639d7d4b18d700008da5316/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ad40f3-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d3e4b88ec-5984-4688-a30a-030ab8602e7c\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Euronews",
+    "position": "28",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "F.B.I. Files",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"F.B.I. Files\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64eddce19001910008df22b8/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ad40f4-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d4f14a19a-0066-4a45-be41-279347754e05\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "F.B.I. Files",
+    "position": "29",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Familie Dr. Kleist",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Familie Dr. Kleist\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65819f14b9adc4000813ee39/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ad40f6-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d40b7900e-6657-42b2-afd3-3bf51708cfce\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Familie Dr. Kleist",
+    "position": "30",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Filmgold",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Filmgold\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6305ca798bd95300072d2f93/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ad40f8-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d266c2f61-4ff7-423e-9af5-2d4f8e57bd34\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Filmgold",
+    "position": "31",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Fluss-Monster",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Fluss-Monster\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62a0b2aff4cf470007e47e29/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ad40f9-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d1bf2399a-9762-4f2b-8e0b-daf1db4fac6e\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Fluss-Monster",
+    "position": "32",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Frasier",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Frasier\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cebf042ffc6d0007c4e59a/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ad6800-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003df552b359-8c8e-4816-8106-6f91f060d965\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Frasier",
+    "position": "33",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Fury",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Fury\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6270ea4345f5bc0007823048/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ad6802-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d59b98e79-5c91-4b90-b21b-df3ab3630476\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Fury",
+    "position": "34",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Germany Shore",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Germany Shore\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6447dea7e94c380008dba94c/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ad6805-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d5c4dcd23-a017-4d7e-a0f1-ce0220928f16\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Germany Shore",
+    "position": "35",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Goldstar TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Goldstar TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6192396135f3910007fc5fc7/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ad6806-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d9ec1275e-0641-49e2-81e6-6d37a37b7bd3\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Goldstar TV",
+    "position": "36",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Hausmeister Krause",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Hausmeister Krause\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/622f6faf65be650007f57aab/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ad6807-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003de7001824-448d-4432-b0f6-f73039f34e53\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Hausmeister Krause",
+    "position": "37",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Hell's Kitchen",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Hell\\u0027s Kitchen\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/644257fe7cb4b100081ed874/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ad8f10-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d02a68eb1-ac6e-4f61-b4fb-4c740e614b6b\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Hell's Kitchen",
+    "position": "38",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Hours to Kill Zeitachse des Todes",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Hours to Kill Zeitachse des Todes\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656064e74261ca00081812a9/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ad8f12-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d57f69955-40a5-48e8-9937-db609244fdd4\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Hours to Kill Zeitachse des Todes",
+    "position": "39",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "iCarly",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"iCarly\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8b580a233dc90007f0cb9d/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ad8f13-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d016798d3-d8a9-4683-81ba-9d514289474b\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "iCarly",
+    "position": "40",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Ice Pilots",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Ice Pilots\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ce40f42ba7f7f5ea9518fe1/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ad8f14-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d9e3f7479-1434-4263-91dc-309a9e66bfbe\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Ice Pilots",
+    "position": "41",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Just.fishing",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Just.fishing\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b33085897b9d000702b72e/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ad8f17-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dd06cb634-30f9-492b-b1b6-c1c3af23164b\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Just.fishing",
+    "position": "42",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "KultKrimi",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"KultKrimi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb5cfe5caf83414128f209e/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ad8f18-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d834d5c49-37ba-4a4c-84d2-e2c8886e2eb3\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "KultKrimi",
+    "position": "43",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "KultKrimi: Der Alte",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"KultKrimi: Der Alte\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65dde5ef28730900089af7cf/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84adb620-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dbdf10162-454c-4d22-9119-88e3b32d25fc\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "KultKrimi: Der Alte",
+    "position": "44",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "KultKrimi: Der Kommissar",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"KultKrimi: Der Kommissar\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65dde626ec9fda0008b3dc89/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84adb621-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d9c78ff4e-ffa9-4d79-8dde-f3834e4924b9\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "KultKrimi: Der Kommissar",
+    "position": "45",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Kultkrimi: Derrick",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Kultkrimi: Derrick\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65dde5848145cb00083277f6/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84adb622-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d06a44c4a-5d6f-4b01-a53c-91e48d9ed4f6\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Kultkrimi: Derrick",
+    "position": "46",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Love Boat",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Love Boat\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655ca3d1fbc15b00081f1186/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84adb623-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d1e0f04ba-5d44-4497-a76d-5e853cd252c7\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Love Boat",
+    "position": "47",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Melrose Place",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Melrose Place\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64be745340962900080b55e7/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84adb625-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d9c899887-c596-406b-8385-e0b91067adf2\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Melrose Place",
+    "position": "48",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Mission Impossible",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Mission Impossible\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634fe5afece2e60007c9d8b8/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84adb626-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d0105bf0a-9d01-41f4-88ef-c646d21554f0\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Mission Impossible",
+    "position": "49",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "MOVIEDOME",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MOVIEDOME\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/615c1e5ce3039400070a0547/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84addd31-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d5bdf8fde-2533-4c16-b518-58e9777e93ca\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MOVIEDOME",
+    "position": "50",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Moviepilot TV mit Pluto TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Moviepilot TV mit Pluto TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67d572fac9c000835eb3a/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84addd32-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dfcc33217-17d7-4dc5-9361-70dd91fef90e\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Moviepilot TV mit Pluto TV",
+    "position": "51",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "MTV Catfish TV Show",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MTV Catfish TV Show\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db6a697d5f34a000934cd13/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84addd34-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dd88db7fd-9049-4209-8a4a-b6fb695742ed\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MTV Catfish TV Show",
+    "position": "52",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "MTV Music",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MTV Music\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ae0440-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d64060fde-9aa0-457f-ba59-1d8c28109d33\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MTV Music",
+    "position": "53",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "MTV Pluto TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MTV Pluto TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5caf325764025859afdd6c4d/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ae0445-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d46816ea6-8434-4e99-9589-496d1e6cd098\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MTV Pluto TV",
+    "position": "54",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "MTV Ridiculousness",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MTV Ridiculousness\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f9847fd513250000728a9a5/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ae0447-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d12cb5d0b-2c4f-4b1b-8610-d3689603c938\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MTV Ridiculousness",
+    "position": "55",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "MTV Teen Mom",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MTV Teen Mom\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cffcf5686dfe15595fb3f56/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ae044a-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d1702995c-e680-43a7-aab2-8ad161900add\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MTV Teen Mom",
+    "position": "56",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "MTV The Shores",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MTV The Shores\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5caf32c2a5068259a32320fc/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ae2b52-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dea57af13-cdf9-4796-a6ce-aa2f1ce34fcf\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MTV The Shores",
+    "position": "57",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "N24 Doku",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"N24 Doku\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ae2b55-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d39199e43-689e-4f83-9f74-b89605373bf0\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "N24 Doku",
+    "position": "58",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Naruto",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Naruto\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65d5fc39a25d5e00082895c4/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ae2b56-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d624d6e59-b964-41c4-8e12-4ec9c07d66e8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Naruto",
+    "position": "59",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Nick Pluto TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Nick Pluto TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ede448d3d50590007a4419e/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ae2b58-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dd3f62f1d-7d8d-4d3f-a141-db9f502deb6b\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Nick Pluto TV",
+    "position": "60",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Pensacola Flügel aus Stahl",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pensacola Flügel aus Stahl\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655ca4b94261ca00080b38d2/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ae5265-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d304ed6dd-b782-4fee-9de3-30ab786437a1\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pensacola Flügel aus Stahl",
+    "position": "61",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Perry Mason",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Perry Mason\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64eddc3485efec00085b0369/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ae5266-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d7ab3292e-7fc5-4103-8872-a104548d3ffe\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Perry Mason",
+    "position": "62",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Pluto TV Animals",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Animals\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ae5268-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003df4297955-3ff8-4299-b8e4-ca974cec3c7a\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Animals",
+    "position": "63",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Pluto TV Anime",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Anime\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608181d420fc8500075f612a/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ae7970-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d042724a5-f12e-43ab-9538-dac62e47d082\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Anime",
+    "position": "64",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Pluto TV Crime",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Crime\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e7b6c60fd20c50007910bf5/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ae7973-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d69be320f-69fa-4e89-9e79-4dce587a0151\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Crime",
+    "position": "65",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Pluto TV Explore",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Explore\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad9b8551b95267e225e59c1/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ae7978-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d48b4a91c-514f-44ce-b5b2-0f355a642d0e\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Explore",
+    "position": "66",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Pluto TV Food",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Food\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc280c9aa218c0009724b4b/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84ae7979-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d6afece0b-4e3f-4de4-935d-3288b6200e01\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Food",
+    "position": "67",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Pluto TV heiße Nächte",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV heiße Nächte\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64526a145a0cd50008632bfa/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84aea080-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d8f9d11a2-637a-40fd-aae8-8ad9bf48a0e2\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV heiße Nächte",
+    "position": "68",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Pluto TV History",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV History\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767b1c126c65d0a307355f/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84aea081-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d8d66523d-c59b-4354-aedb-17d13edf0d26\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV History",
+    "position": "69",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Pluto TV Horror",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Horror\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f4f4b88157cf00075c22db/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84aea083-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d67746cb2-93c1-4a0a-874d-a4043328cb08\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Horror",
+    "position": "70",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Pluto TV Knallhart",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Knallhart\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65004605110545000842035d/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84aea087-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dafe5c1f5-e3c6-453b-a231-7baa7ac86ba1\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Knallhart",
+    "position": "71",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Pluto TV Kultfilme",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Kultfilme\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dde47b63585b500099f74ec/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84aea088-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d3418c444-a5b9-456d-9d11-e4e9c7b5eec0\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Kultfilme",
+    "position": "72",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Pluto TV Movies",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Movies\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84aec791-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d5500aa67-c527-4db6-868b-d37341c34286\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Movies",
+    "position": "73",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Pluto TV Mystery",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Mystery\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/617aad99b68ef100072608cd/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84aec792-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d2b2bcb00-9a00-402e-b731-873dc95db9fc\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Mystery",
+    "position": "74",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Pluto TV Nature",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Nature\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5be1c3f9851dd5632e2c91b2/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84aec793-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003ddd5077d7-0ac1-491c-87dc-536ab13c0313\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Nature",
+    "position": "75",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Pluto TV Paranormal",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Paranormal\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f98487036af340008da1e37/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84aec794-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d0d13891a-ff55-4504-afee-87e1e9ecdbd6\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Paranormal",
+    "position": "76",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Pluto TV Polar+",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Polar+\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ffebbeabd18520007b37709/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84aec795-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d41cfa3c9-a6dd-4995-91ad-c950b8d1004e\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Polar+",
+    "position": "77",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Pluto TV Polizeiserien",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Polizeiserien\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64be64445dc166000899ce75/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84aec796-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d813b79c7-b5ab-4408-ae58-2c80c52c7f3a\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Polizeiserien",
+    "position": "78",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Pluto TV Sci-Fi",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Sci-Fi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60ed498c4248a400077c0b9d/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84aeeea0-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d91571e99-b22e-454e-9622-6abd1ff79fd1\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Sci-Fi",
+    "position": "79",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Pluto TV Science",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Science\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767b4889bca2ce7b73ef2e/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84aeeea1-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d823a3c37-13b3-4ca9-b978-d98c2630c834\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Science",
+    "position": "80",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Pluto TV Serie",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Serie\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc190f7bfed110009d934c3/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84aeeea2-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dc39f6559-678d-4811-85d3-2aeecd09668a\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Serie",
+    "position": "81",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Pluto TV Serie+",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Serie+\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ddbf866b1862a0009a0648e/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84aeeea3-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d2e0c3c1a-9aa2-46b3-994f-ab3a1c929f78\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Serie+",
+    "position": "82",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Pluto TV Sitcoms",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Sitcoms\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767ab2b456c8cf265ce921/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84aeeea4-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d280db36d-ffba-4223-8a7d-77e6a96d3758\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Sitcoms",
+    "position": "83",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Pluto TV Sitcoms+",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Sitcoms+\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cd149f021cb6c55e258bbe8/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84aeeea5-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d57a04ab4-08c0-4114-8c90-0153ccf85d53\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Sitcoms+",
+    "position": "84",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Pluto TV Space",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Space\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61409f8d6feb30000766b675/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84aeeea6-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003daee0c343-6689-49c1-9090-319522e3c837\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Space",
+    "position": "85",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Pluto TV Star Trek",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Star Trek\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6152ee71bf99590007893a11/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84aeeea7-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d3329cc1b-d91f-4194-b516-92fbd807049b\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Star Trek",
+    "position": "86",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Pluto TV True Crime",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV True Crime\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/615333098185f00008715a56/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84aeeea8-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d96f45124-9486-4038-a177-6f5206a39041\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV True Crime",
+    "position": "87",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Pluto TV Western",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Western\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/630dd3b2605f140007e002f5/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84aeeea9-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d0f9be2fb-9bfd-4c1e-8963-ba4370795ff3\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Western",
+    "position": "88",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Rauchende Colts",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rauchende Colts\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/638f2bc7bc363100072f02dd/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84af15b3-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dd764a599-229d-4f63-afae-f8dff18c8389\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Rauchende Colts",
+    "position": "89",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Rawhide Tausend Meilen Staub",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rawhide Tausend Meilen Staub\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/638f2983dcd9100008c2374d/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84af15b4-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d1ad98b92-b141-4c24-8811-e6b2de3021dc\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Rawhide Tausend Meilen Staub",
+    "position": "90",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Realmadrid TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Realmadrid TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65f9b2dc0d45610008505eac/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84af15b5-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d5e2301f4-ffeb-490d-8c59-8dc7f123b78a\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Realmadrid TV",
+    "position": "91",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Red Shoe Diaries",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Red Shoe Diaries\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/645a0ddfe1979c00086d83ff/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84af15b6-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d0fc7fe13-009d-4208-b8bc-5f75abdfecb5\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Red Shoe Diaries",
+    "position": "92",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "RoboCop",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"RoboCop\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6628e513cee0d90008639b46/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84af15b9-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003db31d1fa6-f169-481e-a79c-8a778111e034\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "RoboCop",
+    "position": "93",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Rules of Engagement",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rules of Engagement\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64be635a40962900080aaca5/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84af3cc0-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dcdb91578-90c7-424e-baec-62c86af7b3f7\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Rules of Engagement",
+    "position": "94",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Sabrina Total verhext!",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sabrina Total verhext!\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/622f40c901d4b70007ad7609/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84af3cc1-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d1ddb15fc-284f-40a3-b608-5152c320aa22\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Sabrina Total verhext!",
+    "position": "95",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "South Park: Butters Collection",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"South Park: Butters Collection\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646b14a0e94c3800082a8d3a/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84af3cc8-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dc33f5b82-5c79-40fb-b393-4882708946ac\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "South Park: Butters Collection",
+    "position": "96",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "South Park: Cartman Collection",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"South Park: Cartman Collection\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646b14747cb4b1000875724d/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84af3cc9-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003de444da25-6dad-4895-9653-bc36313c7b82\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "South Park: Cartman Collection",
+    "position": "97",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "South Park: Kenny Collection",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"South Park: Kenny Collection\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646b1404ee6a2f00082b5d66/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84af3cca-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003db245b871-bd63-464a-9a06-f92544ac1a7b\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "South Park: Kenny Collection",
+    "position": "98",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "South Park: Kyle Collection",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"South Park: Kyle Collection\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646b14d0e1979c0008915a09/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84af63d1-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d8b21de13-cb73-4216-9568-5d5e11888255\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "South Park: Kyle Collection",
+    "position": "99",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "South Park: Original Version",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"South Park: Original Version\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646b150a15939400089e2702/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84af63d2-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d99d46a94-438c-4a65-9e24-c9a6db15f909\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "South Park: Original Version",
+    "position": "100",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "South Park: Stan Collection",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"South Park: Stan Collection\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646b1438e94c3800082a8cff/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84af63d3-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dcee52308-1290-4003-a38c-3954380947a1\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "South Park: Stan Collection",
+    "position": "101",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "SPIEGEL TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SPIEGEL TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6576c20fb3801200084786c9/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84af63d4-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d879d9a17-8e2f-4ed6-9a87-97f7c7c48485\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "SPIEGEL TV",
+    "position": "102",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "SPIEGEL TV Konflikte",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SPIEGEL TV Konflikte\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65b9268fc798e800085add89/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84af63d5-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dc6fa519e-8e21-4b06-a396-dae1b93125d1\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "SPIEGEL TV Konflikte",
+    "position": "103",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "SpongeBob Schwammkopf",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SpongeBob Schwammkopf\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d00e8adaab96b5635b2a005/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84af63d8-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d3e6bdc7a-78a0-4fdd-8f37-ea9905c5e422\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "SpongeBob Schwammkopf",
+    "position": "104",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Star Trek: Deep Space Nine",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Star Trek: Deep Space Nine\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67d200c7ff50008cb131a/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84af63d9-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d2bc71210-8348-497e-9c67-114c5ae83332\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Star Trek: Deep Space Nine",
+    "position": "105",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Takeshi's Castle",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Takeshi\\u0027s Castle\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6054a9f4bc8a5f000771504c/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84af8ae2-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d98bea881-8ec4-4d3c-ad12-0a142e47ffe1\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Takeshi's Castle",
+    "position": "106",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Täterjagd",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Täterjagd\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642abea1283aa4000805bb5b/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84af8ae3-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dd360d3bc-0ba5-40c0-9de5-ad6e1b602f0f\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Täterjagd",
+    "position": "107",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Teen Nick",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Teen Nick\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f0d668b872e4400073acc68/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84af8ae4-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d5a971f40-be5f-4406-a0a6-b014ec38a8ce\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Teen Nick",
+    "position": "108",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Telenovela ZDF",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Telenovela ZDF\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb5d043a461406ffe3fb2de/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84af8ae5-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d2110f9dc-f7e7-417c-84ec-63f379b710b9\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Telenovela ZDF",
+    "position": "109",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Terra Mater WILD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Terra Mater WILD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65b923f90cb1a100088a03ab/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84af8ae6-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003ddb5e74b2-3349-4aae-8044-4b85f113beb4\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Terra Mater WILD",
+    "position": "110",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Top Gear",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Top Gear\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c109735dc1660008a4a2dc/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84af8ae9-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dfa4b8f71-6f6a-4851-b8e9-716771846afc\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Top Gear",
+    "position": "111",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Totally Turtles",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Totally Turtles\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84af8aea-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d1d3e241b-d6cf-44c2-bfcd-45ca4d693881\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Totally Turtles",
+    "position": "112",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Transformers TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Transformers TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/643683519b32b400094e0a40/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84afb1f1-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003daeb85f53-a136-4d6f-8952-43fda8f5ce47\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Transformers TV",
+    "position": "113",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Unentdeckt Mörder unter uns",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Unentdeckt Mörder unter uns\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/650adc3198020f000862eed4/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84afb1f3-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003de4e2413c-4529-473f-854c-6aa3c0528da8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Unentdeckt Mörder unter uns",
+    "position": "114",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Unforgettable",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Unforgettable\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/650adb92a1217e00091a3eff/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84afb1f5-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d38e01fae-e485-4ddb-93c0-891443b0d887\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Unforgettable",
+    "position": "115",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Victorious",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Victorious\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8b5e43f294f8000793c3d7/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84afb1f7-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003db8f594b9-41be-4385-aa1a-9f9f0de6f06b\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Victorious",
+    "position": "116",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Wicked Tuna",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Wicked Tuna\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65253d66c52b3600083d8dd2/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84afd902-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003dbd575e73-c062-40e3-827c-7cac678c25af\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Wicked Tuna",
+    "position": "117",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Willkommen bei den Louds",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Willkommen bei den Louds\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/627d2d1d05e09f00073ccdff/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84afd904-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003de0111a68-96dd-4929-aea5-e18528a1add5\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Willkommen bei den Louds",
+    "position": "118",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Wings Die Überflieger",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Wings Die Überflieger\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65b38e310d9ab400082bdec2/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84afd905-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d7925cf55-0cda-4685-beb7-5d7be25d1556\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Wings Die Überflieger",
+    "position": "119",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "World Poker Tour",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"World Poker Tour\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84b00010-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d74cccc9f-4a89-4a77-9d46-ad68b9e23890\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "World Poker Tour",
+    "position": "120",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "X-Factor: Das Unfassbare",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"X-Factor: Das Unfassbare\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642d7e029189ce0008958af5/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84b00011-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003db0a16fea-9491-49e8-8a50-ca6716fb7976\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "X-Factor: Das Unfassbare",
+    "position": "121",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Yu-Gi-Oh!",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Yu-Gi-Oh!\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642d4493aa2d690008f0a03f/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84b00012-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d7978130e-8cf9-40ac-8973-675ca743190d\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Yu-Gi-Oh!",
+    "position": "122",
+    "type": "channel",
+    "key": "deutchland"
+  },
+  {
+    "namear": "Zoey 101",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Zoey 101\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63c69e6c4207be0007f73c22/master.m3u8?appName\\u003dweb\\u0026appVersion\\u003dunknown\\u0026clientTime\\u003d0\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d84b00014-4b92-11ef-aece-533610f1ea34\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dunknown\\u0026includeExtendedEvents\\u003dfalse\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d392a5639-b4b6-405b-9ff9-cdc9a573bf62\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Zoey 101",
+    "position": "123",
+    "type": "channel",
+    "key": "deutchland"
+  }
+]

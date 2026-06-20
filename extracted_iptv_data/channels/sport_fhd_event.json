@@ -1,0 +1,200 @@
+[
+  {
+    "namear": "BeIN 1",
+    "servers": "[{\"headers\":\"Referer|https://www.yariga.live/|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|https://www.yariga.live\",\"otherHeaders\":\"https://www.yariga.live\",\"name\":\"Bein2\",\"Referer\":\"https://www.yariga.live/\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://4char.site/upload/images/logo1.m3u8\"},{\"headers\":\"Referer|http://188.34.177.46/set/x.html?1|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"BeIN1\",\"Referer\":\"http://188.34.177.46/set/x.html?1\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://188.34.177.46:80/upload/images/logo1.m3u8\"},{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|https://forcedtoplay.xyz\",\"otherHeaders\":\"https://forcedtoplay.xyz\",\"name\":\"BeINTv\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"00\",\"url\":\"https://ddy2.onlinehdhls.ru/ddy2/premium91/mono.m3u8 \"},{\"headers\":\"Referer|https://rib.degof.com/|\",\"otherHeaders\":\"\",\"name\":\"Eng\",\"Referer\":\"https://rib.degof.com/\",\"userAgent\":\"\",\"position\":\"5\",\"url\":\"https://yesszet1x3cdn24.egylive.io/liveb1e/b1e/mono.m3u8\"}]",
+    "logo": "https://i.postimg.cc/qB2YxSdW/Picsart-22-09-23-11-07-04-725.png",
+    "nameen": "BeIN 1",
+    "position": "1",
+    "type": "channel",
+    "key": "sport_fhd_event"
+  },
+  {
+    "namear": "BeIN 2",
+    "servers": "[{\"headers\":\"Referer|https://www.yariga.live/|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|https://www.yariga.live\",\"otherHeaders\":\"https://www.yariga.live\",\"name\":\"Bein2\",\"Referer\":\"https://www.yariga.live/\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://4char.site/upload/images/logo2.m3u8\"},{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|https://forcedtoplay.xyz\",\"otherHeaders\":\"https://forcedtoplay.xyz\",\"name\":\"BeIN\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://ddy2.onlinehdhls.ru/ddy2/premium92/mono.m3u8 \"},{\"headers\":\"Referer|http://188.34.177.46/set/x.html?1|\",\"otherHeaders\":\"\",\"name\":\"Beint\",\"Referer\":\"http://188.34.177.46/set/x.html?1\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://188.34.177.46:80/upload/images/logo2.m3u8\"}]",
+    "logo": "https://i.postimg.cc/qB2YxSdW/Picsart-22-09-23-11-07-04-725.png",
+    "nameen": "BeIN 2",
+    "position": "2",
+    "type": "channel",
+    "key": "sport_fhd_event"
+  },
+  {
+    "namear": "BeIN 3",
+    "servers": "[{\"headers\":\"Referer|https://www.yariga.live/|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|https://www.yariga.live\",\"otherHeaders\":\"https://www.yariga.live\",\"name\":\"Bein2\",\"Referer\":\"https://www.yariga.live/\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://4char.site/upload/images/logo3.m3u8\"},{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|https://forcedtoplay.xyz\",\"otherHeaders\":\"https://forcedtoplay.xyz\",\"name\":\"Bein\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://ddy2.onlinehdhls.ru/ddy2/premium93/mono.m3u8 \"},{\"headers\":\"Referer|http://188.34.177.46/set/x.html?1|\",\"otherHeaders\":\"\",\"name\":\"Beintv\",\"Referer\":\"http://188.34.177.46/set/x.html?1\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://188.34.177.46:80/upload/images/logo3.m3u8\"}]",
+    "logo": "https://i.postimg.cc/qB2YxSdW/Picsart-22-09-23-11-07-04-725.png",
+    "nameen": "BeIN 3",
+    "position": "3",
+    "type": "channel",
+    "key": "sport_fhd_event"
+  },
+  {
+    "namear": "BeIN 4",
+    "servers": "[{\"headers\":\"Referer|https://www.yariga.live/|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|https://www.yariga.live\",\"otherHeaders\":\"https://www.yariga.live\",\"name\":\"Bein\",\"Referer\":\"https://www.yariga.live/\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://4char.site/upload/images/logo4.m3u8\"},{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|https://forcedtoplay.xyz\",\"otherHeaders\":\"https://forcedtoplay.xyz\",\"name\":\"BeIN\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://ddy2.onlinehdhls.ru/ddy2/premium94/mono.m3u8 \"},{\"headers\":\"Referer|http://188.34.177.46/set/x.html?1|\",\"otherHeaders\":\"\",\"name\":\"Beintv\",\"Referer\":\"http://188.34.177.46/set/x.html?1\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://188.34.177.46:80/upload/images/logo4.m3u8\"}]",
+    "logo": "https://i.postimg.cc/qB2YxSdW/Picsart-22-09-23-11-07-04-725.png",
+    "nameen": "BeIN 4",
+    "position": "4",
+    "type": "channel",
+    "key": "sport_fhd_event"
+  },
+  {
+    "namear": "BeIN 5",
+    "servers": "[{\"headers\":\"Referer|https://www.yariga.live/|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|https://www.yariga.live\",\"otherHeaders\":\"https://www.yariga.live\",\"name\":\"BeIN\",\"Referer\":\"https://www.yariga.live/\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://4char.site/upload/images/logo5.m3u8\"},{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|https://forcedtoplay.xyz\",\"otherHeaders\":\"https://forcedtoplay.xyz\",\"name\":\"BeIN\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://ddy2.onlinehdhls.ru/ddy2/premium95/mono.m3u8 \"},{\"headers\":\"Referer|http://188.34.177.46/set/x.html?1|\",\"otherHeaders\":\"\",\"name\":\"Bein1\",\"Referer\":\"http://188.34.177.46/set/x.html?1\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://188.34.177.46:80/upload/images/logo5.m3u8\"},{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|https://forcedtoplay.xyz\",\"otherHeaders\":\"https://forcedtoplay.xyz\",\"name\":\"Liga\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"3\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium435/mono.m3u8\"}]",
+    "logo": "https://i.postimg.cc/qB2YxSdW/Picsart-22-09-23-11-07-04-725.png",
+    "nameen": "BeIN 5",
+    "position": "5",
+    "type": "channel",
+    "key": "sport_fhd_event"
+  },
+  {
+    "namear": "BeIN 6",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|https://forcedtoplay.xyz\",\"otherHeaders\":\"https://forcedtoplay.xyz\",\"name\":\"BeIN\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"1\",\"url\":\"https://ddy2.onlinehdhls.ru/ddy2/premium96/mono.m3u8 \"},{\"headers\":\"Referer|https://www.yariga.live/|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|https://www.yariga.live\",\"otherHeaders\":\"https://www.yariga.live\",\"name\":\"BeIN\",\"Referer\":\"https://www.yariga.live/\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"1\",\"url\":\"https://4char.site/upload/images/logo6.m3u8\"},{\"headers\":\"Referer|http://188.34.177.46/set/x.html?1|\",\"otherHeaders\":\"\",\"name\":\"Beintv\",\"Referer\":\"http://188.34.177.46/set/x.html?1\",\"userAgent\":\"\",\"position\":\"3\",\"url\":\"http://188.34.177.46:80/upload/images/logo6.m3u8\"}]",
+    "logo": "https://i.postimg.cc/qB2YxSdW/Picsart-22-09-23-11-07-04-725.png",
+    "nameen": "BeIN 6",
+    "position": "6",
+    "type": "channel",
+    "key": "sport_fhd_event"
+  },
+  {
+    "namear": "LIVE",
+    "servers": "[{\"headers\":\"Referer|https://https://play2.gomoon.live/|\",\"otherHeaders\":\"\",\"name\":\"LIVE pt\",\"Referer\":\"https://https://play2.gomoon.live/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ussec.score806.cc/DnoME4bdokSsRWvrcrf6sLstCFZ6JbBMAy06KDR6CxM\\u003d/1712424145772/pt_sporttv1/mono.m3u8 \"}]",
+    "logo": "https://logowik.com/content/uploads/images/sport-tv-new-202336469.logowik.com.webp",
+    "nameen": "LIVE P1",
+    "position": "10",
+    "type": "channel",
+    "key": "sport_fhd_event"
+  },
+  {
+    "namear": "LIVE",
+    "servers": "[{\"headers\":\"Referer|https://https://play2.gomoon.live/|\",\"otherHeaders\":\"\",\"name\":\"LIVE\",\"Referer\":\"https://https://play2.gomoon.live/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ussec.score806.cc/DnoME4bdokSsRWvrcrf6sLstCFZ6JbBMAy06KDR6CxM=/1712424145772/pt_sporttv2/mono.m3u8 \"}]",
+    "logo": "https://logowik.com/content/uploads/images/sport-tv-new-202336469.logowik.com.webp",
+    "nameen": "LIVE P2",
+    "position": "11",
+    "type": "channel",
+    "key": "sport_fhd_event"
+  },
+  {
+    "namear": "LIVE",
+    "servers": "[{\"headers\":\"Referer|https://https://play2.gomoon.live/|\",\"otherHeaders\":\"\",\"name\":\"LIVE\",\"Referer\":\"https://https://play2.gomoon.live/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ussec.score806.cc/DnoME4bdokSsRWvrcrf6sLstCFZ6JbBMAy06KDR6CxM=/1712424145772/pt_sporttv3/mono.m3u8 \"}]",
+    "logo": "https://logowik.com/content/uploads/images/sport-tv-new-202336469.logowik.com.webp",
+    "nameen": "LIVE P3",
+    "position": "12",
+    "type": "channel",
+    "key": "sport_fhd_event"
+  },
+  {
+    "namear": "ESPN1",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://asdfasfd.onlinehdhls.ru/lb/eplayerespn_dep/mono.m3u8\"}]",
+    "logo": "https://store-images.s-microsoft.com/image/apps.21746.14451497582323275.23bd9a9e-bf26-42dd-9201-3fdb8d39b41c.e7c729b1-74f9-43be-b62f-41c5486018ff?h=464",
+    "nameen": "ESPN1",
+    "position": "13",
+    "type": "channel",
+    "key": "sport_fhd_event"
+  },
+  {
+    "namear": "Astro1",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|https://forcedtoplay.xyz\",\"otherHeaders\":\"https://forcedtoplay.xyz\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium444/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&usqp=CAU",
+    "nameen": "Astro1",
+    "position": "20",
+    "type": "channel",
+    "key": "sport_fhd_event"
+  },
+  {
+    "namear": "Astro2",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|https://forcedtoplay.xyz\",\"otherHeaders\":\"https://forcedtoplay.xyz\",\"name\":\"LIVE\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium445/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&usqp=CAU",
+    "nameen": "Astro2",
+    "position": "21",
+    "type": "channel",
+    "key": "sport_fhd_event"
+  },
+  {
+    "namear": "Astro3",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|https://forcedtoplay.xyz\",\"otherHeaders\":\"https://forcedtoplay.xyz\",\"name\":\"LIVE\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium446/mono.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&usqp=CAU",
+    "nameen": "Astro3",
+    "position": "22",
+    "type": "channel",
+    "key": "sport_fhd_event"
+  },
+  {
+    "namear": "Astro4",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|https://forcedtoplay.xyz\",\"otherHeaders\":\"https://forcedtoplay.xyz\",\"name\":\"LIVE\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium447/mono.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&usqp=CAU",
+    "nameen": "Astro4",
+    "position": "23",
+    "type": "channel",
+    "key": "sport_fhd_event"
+  },
+  {
+    "namear": "Eleven 1",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"LIVE\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://asdfasfd.onlinehdhls.ru/lb/eplayereleven1/mono.m3u8\"}]",
+    "logo": "https://img.freepik.com/vecteurs-premium/centre-sportif-logo-vector-illustration-gym-fitness_675292-67.jpg",
+    "nameen": "Eleven 1",
+    "position": "24",
+    "type": "channel",
+    "key": "sport_fhd_event"
+  },
+  {
+    "namear": "Eleven 2",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"LIVE\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://asdfasfd.onlinehdhls.ru/lb/eplayereleven2/mono.m3u8\"}]",
+    "logo": "https://img.freepik.com/vecteurs-premium/centre-sportif-logo-vector-illustration-gym-fitness_675292-67.jpg",
+    "nameen": "Eleven 2",
+    "position": "25",
+    "type": "channel",
+    "key": "sport_fhd_event"
+  },
+  {
+    "namear": "Eleven 3",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://asdfasfd.onlinehdhls.ru/lb/eplayereleven3/mono.m3u8\"}]",
+    "logo": "https://img.freepik.com/vecteurs-premium/centre-sportif-logo-vector-illustration-gym-fitness_675292-67.jpg",
+    "nameen": "Eleven 3",
+    "position": "25",
+    "type": "channel",
+    "key": "sport_fhd_event"
+  },
+  {
+    "namear": "Nova",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|https://forcedtoplay.xyz\",\"otherHeaders\":\"https://forcedtoplay.xyz\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium599/mono.m3u8 \"}]",
+    "logo": "https://img.freepik.com/vecteurs-premium/centre-sportif-logo-vector-illustration-gym-fitness_675292-67.jpg",
+    "nameen": "Nova",
+    "position": "26",
+    "type": "channel",
+    "key": "sport_fhd_event"
+  },
+  {
+    "namear": "Nova 1",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://websuit.onlinehdhls.ru/est1/cdn/mono71/mono.m3u8\"}]",
+    "logo": "https://img.freepik.com/vecteurs-premium/centre-sportif-logo-vector-illustration-gym-fitness_675292-67.jpg",
+    "nameen": "Nova 1",
+    "position": "28",
+    "type": "channel",
+    "key": "sport_fhd_event"
+  },
+  {
+    "namear": "Nova 2",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium72/mono.m3u8 \"}]",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIf8zZQDJyHbKGlRrJmaGZZ2YTY47xJSTHr5c56e101F=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "Nova 2",
+    "position": "28",
+    "type": "channel",
+    "key": "sport_fhd_event"
+  },
+  {
+    "namear": "Sky",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|https://forcedtoplay.xyz\",\"otherHeaders\":\"https://forcedtoplay.xyz\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium125/mono.m3u8\"}]",
+    "logo": "https://img.freepik.com/vecteurs-premium/centre-sportif-logo-vector-illustration-gym-fitness_675292-67.jpg",
+    "nameen": "Sky",
+    "position": "29",
+    "type": "channel",
+    "key": "sport_fhd_event"
+  },
+  {
+    "namear": "Spordigital",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|https://forcedtoplay.xyz\",\"otherHeaders\":\"https://forcedtoplay.xyz\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium571/mono.m3u8 \"}]",
+    "logo": "https://img.freepik.com/vecteurs-premium/centre-sportif-logo-vector-illustration-gym-fitness_675292-67.jpg",
+    "nameen": "Spordigital",
+    "position": "268",
+    "type": "channel",
+    "key": "sport_fhd_event"
+  }
+]

@@ -1,0 +1,64 @@
+Loaded 26 categories with entries
+  arabic_tv                 22 entries (m3u=20 api=0 cat=1 ch_ref=2 vis=0 hid=0)
+  arabic_vip                14 entries (m3u=0 api=0 cat=14 ch_ref=14 vis=0 hid=0)
+  aya_pro_tv                11 entries (m3u=11 api=0 cat=0 ch_ref=0 vis=0 hid=0)
+  aya_tv_pro                 4 entries (m3u=0 api=4 cat=0 ch_ref=0 vis=0 hid=0)
+  aya_tv_radio              10 entries (m3u=10 api=0 cat=0 ch_ref=0 vis=0 hid=0)
+  aya_vip                    2 entries (m3u=0 api=0 cat=2 ch_ref=2 vis=0 hid=0)
+  bein_group                 9 entries (m3u=0 api=4 cat=5 ch_ref=5 vis=2 hid=0)
+  club_world_cup             1 entries (m3u=0 api=0 cat=1 ch_ref=1 vis=0 hid=0)
+  cup_world_2026            19 entries (m3u=0 api=8 cat=11 ch_ref=11 vis=1 hid=4)
+  documentary_               2 entries (m3u=1 api=0 cat=1 ch_ref=1 vis=0 hid=0)
+  euro_2024                  3 entries (m3u=0 api=0 cat=3 ch_ref=3 vis=0 hid=0)
+  event_stream              13 entries (m3u=0 api=0 cat=13 ch_ref=13 vis=2 hid=4)
+  highlights_football        3 entries (m3u=0 api=3 cat=0 ch_ref=0 vis=0 hid=0)
+  iptv                       4 entries (m3u=3 api=0 cat=1 ch_ref=1 vis=0 hid=0)
+  iptv_free                  9 entries (m3u=9 api=0 cat=0 ch_ref=0 vis=0 hid=0)
+  iptv_live_                10 entries (m3u=9 api=0 cat=1 ch_ref=1 vis=0 hid=0)
+  islam_tv                   5 entries (m3u=0 api=1 cat=4 ch_ref=4 vis=0 hid=0)
+  kids_tv                    4 entries (m3u=1 api=0 cat=3 ch_ref=3 vis=0 hid=0)
+  live_match                10 entries (m3u=0 api=10 cat=0 ch_ref=0 vis=2 hid=0)
+  match_time                36 entries (m3u=1 api=1 cat=34 ch_ref=34 vis=4 hid=5)
+  news                       3 entries (m3u=1 api=0 cat=2 ch_ref=2 vis=0 hid=0)
+  pluto_tv                   6 entries (m3u=0 api=0 cat=6 ch_ref=6 vis=0 hid=0)
+  smart_tv                   4 entries (m3u=1 api=0 cat=3 ch_ref=3 vis=0 hid=0)
+  sport_                    10 entries (m3u=0 api=0 cat=10 ch_ref=10 vis=0 hid=2)
+  sports_live                1 entries (m3u=0 api=0 cat=1 ch_ref=1 vis=0 hid=0)
+  world_tv                  22 entries (m3u=22 api=0 cat=0 ch_ref=0 vis=0 hid=0)
+
+Mapped 152 channel docs to categories
+
+Organized into 24 categories with channels
+  Uncategorized                  11309 items, 12120 URLs
+  arabic_tv                       584 items,   584 URLs
+  arabic_vip                      465 items,   465 URLs
+  aya_pro_tv                       11 items,    11 URLs
+  aya_tv_pro                        4 items,     4 URLs
+  aya_tv_radio                     10 items,    10 URLs
+  bein_group                      734 items,   788 URLs
+  club_world_cup                   15 items,    15 URLs
+  cup_world_2026                  156 items,   182 URLs
+  documentary_                     10 items,    10 URLs
+  event_stream                     79 items,    80 URLs
+  highlights_football               3 items,     3 URLs
+  iptv                            201 items,   201 URLs
+  iptv_free                        36 items,    36 URLs
+  iptv_live_                       48 items,    48 URLs
+  islam_tv                        181 items,   181 URLs
+  kids_tv                         184 items,   184 URLs
+  live_match                       10 items,    10 URLs
+  match_time                      223 items,   228 URLs
+  news                             59 items,    59 URLs
+  pluto_tv                        503 items,   503 URLs
+  smart_tv                         40 items,    40 URLs
+  sport_                           61 items,    79 URLs
+  world_tv                        443 items,   443 URLs
+
+=== Stats ===
+Categories: 24
+Total entries: 15369
+HLS: 9128
+DASH: 499
+DRM: 376
+M3U lines: 50079
+M3U saved: E:\aya_tv_final_package\extracted_iptv_data\aya_tv_organized.m3u

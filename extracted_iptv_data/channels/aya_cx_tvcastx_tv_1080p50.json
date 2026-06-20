@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "CH 01 SPO",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"جودة تلقائية | CASTX 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/O_4AUvQuFxLlS_d3tjTHp3cq0zQJ0SWjP06ID1vlJfQthgzL3jHS0_5hVL7tZzc2ruJ8rHQoT_CDreD1IOBcmw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type\\u003dlive\"},{\"license\":\"\",\"headers\":\"Referer|https://mejarserver.site|user-agent|Mejar Server Local|origin|mejarserverlocal\",\"scheme\":\"\",\"otherHeaders\":\"origin|mejarserverlocal\",\"isWeb\":\"false\",\"name\":\"CASTX TV 1 | 1080p50\",\"Referer\":\"https://mejarserver.site\",\"userAgent\":\"Mejar Server Local\",\"position\":\"0\",\"url\":\"https://cdnfest.com/castx-spo-01/index.mpd\"}]",
+    "logo": "https://i.ibb.co/dwZYt0QK/20251207-141545.png",
+    "nameen": "CH 01 SPO",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvcastx_tv_1080p50"
+  },
+  {
+    "namear": "CH 02 SPO",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://mejarserver.site|user-agent|Mejar Server Local|origin|mejarserverlocal\",\"scheme\":\"\",\"otherHeaders\":\"origin|mejarserverlocal\",\"isWeb\":\"false\",\"name\":\"CASTX TV 2 | 1080p50\",\"Referer\":\"https://mejarserver.site\",\"userAgent\":\"Mejar Server Local\",\"position\":\"0\",\"url\":\"https://cdnfest.com/castx-tv-2-hd/rewind-20.m3u8\"}]",
+    "logo": "https://i.ibb.co/RkVzQ53F/20251207-141714.png",
+    "nameen": "CH 02 SPO",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvcastx_tv_1080p50"
+  },
+  {
+    "namear": "CH 03 SPO",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://mejarserver.site|user-agent|Mejar Server Local|origin|mejarserverlocal\",\"scheme\":\"\",\"otherHeaders\":\"origin|mejarserverlocal\",\"isWeb\":\"false\",\"name\":\"CASTX TV 3 | 1080p50\",\"Referer\":\"https://mejarserver.site\",\"userAgent\":\"Mejar Server Local\",\"position\":\"0\",\"url\":\"https://cdnfest.com/castx-tv-3-hd/rewind-20.m3u8\"}]",
+    "logo": "https://i.ibb.co/h1CbdjpD/20251207-141935.png",
+    "nameen": "CH 03 SPO",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvcastx_tv_1080p50"
+  },
+  {
+    "namear": "CH 04 ENT",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://mejarserver.site|user-agent|Mejar Server Local|origin|mejarserverlocal\",\"scheme\":\"\",\"otherHeaders\":\"origin|mejarserverlocal\",\"isWeb\":\"false\",\"name\":\"CASTX TV 4 | 1080p50\",\"Referer\":\"https://mejarserver.site\",\"userAgent\":\"Mejar Server Local\",\"position\":\"0\",\"url\":\"https://cdnfest.com/castx-tv-4-hd/rewind-20.m3u8\"}]",
+    "logo": "https://i.ibb.co/PsZQTGp9/20251207-142245.png",
+    "nameen": "CH 04 ENT",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvcastx_tv_1080p50"
+  },
+  {
+    "namear": "CH 05 ENT",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://mejarserver.site|user-agent|Mejar Server Local|origin|mejarserverlocal\",\"scheme\":\"\",\"otherHeaders\":\"origin|mejarserverlocal\",\"isWeb\":\"false\",\"name\":\"CASTX TV 5 | 1080p50\",\"Referer\":\"https://mejarserver.site\",\"userAgent\":\"Mejar Server Local\",\"position\":\"0\",\"url\":\"https://cdnfest.com/castx-tv-5-hd/rewind-20.m3u8\"}]",
+    "logo": "https://i.ibb.co/DDPqrSM5/20251207-142353.png",
+    "nameen": "CH 05 ENT",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvcastx_tv_1080p50"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "Duhok",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://vsd90.mycdn.me/hls/4949067434675.m3u8/sig/gcQ3z1kC7Xk/expires/1691827955495/srcIp/93.23.14.119/urls/45.136.22.64/clientType/0/srcAg/CHROME_ANDROID/mid/5684438572723/video.m3u8?p\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRR-SBugiNXdgAHksKPieT7y6C3oLqSYVklw&usqp=CAU",
+    "nameen": "Duhok",
+    "position": "0",
+    "type": "channel",
+    "key": "alfajer_sport"
+  },
+  {
+    "namear": "Fajr 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.alfajertv.com:2052/hls2/ftv2/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRR-SBugiNXdgAHksKPieT7y6C3oLqSYVklw&usqp=CAU",
+    "nameen": "Fajr 2",
+    "position": "1",
+    "type": "channel",
+    "key": "alfajer_sport"
+  },
+  {
+    "namear": "Fajr 3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.alfajertv.com:2052/hls3/ftv3/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRR-SBugiNXdgAHksKPieT7y6C3oLqSYVklw&usqp=CAU",
+    "nameen": "Fajr 3",
+    "position": "2",
+    "type": "channel",
+    "key": "alfajer_sport"
+  },
+  {
+    "namear": "Fajr 4",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.alfajertv.com:2052/hls4/ftv4/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRR-SBugiNXdgAHksKPieT7y6C3oLqSYVklw&usqp=CAU",
+    "nameen": "Fajr 4",
+    "position": "3",
+    "type": "channel",
+    "key": "alfajer_sport"
+  },
+  {
+    "namear": "Fajr 5",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.alfajertv.com:2052/hls5/ftv5/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRR-SBugiNXdgAHksKPieT7y6C3oLqSYVklw&usqp=CAU",
+    "nameen": "Fajr 5",
+    "position": "4",
+    "type": "channel",
+    "key": "alfajer_sport"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "namear": "UHD1",
+    "servers": "[{\"headers\":\"\",\"license\":\"1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd\"}]",
+    "logo": "",
+    "nameen": "UHD1",
+    "position": "0",
+    "type": "channel",
+    "key": "fussbal_sport_uhd"
+  },
+  {
+    "namear": "UHD2",
+    "servers": "[{\"headers\":\"\",\"license\":\"1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd\"}]",
+    "logo": "",
+    "nameen": "UHD2",
+    "position": "1",
+    "type": "channel",
+    "key": "fussbal_sport_uhd"
+  },
+  {
+    "namear": "UHD3",
+    "servers": "[{\"headers\":\"\",\"license\":\"1e7d99c0433399f6149e33860a755824:58defdfcb6ec5473905cbae6a7e6752c\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://svc45.main.sl.t-online.de/bpk-tv/KID01065_FUSSBALLTV3_uhd/DASH/index.mpd\"}]",
+    "logo": "",
+    "nameen": "UHD3",
+    "position": "2",
+    "type": "channel",
+    "key": "fussbal_sport_uhd"
+  }
+]

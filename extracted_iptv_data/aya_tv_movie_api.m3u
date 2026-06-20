@@ -1,0 +1,423 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="parser_sport_1" tvg-name="beIN MAX 1 4K" tvg-logo="https://up6.cc/2026/05/177929485997331.png" group-title="Movie API",beIN MAX 1 4K
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://23370wa.xyz/
+#EXTVLCOPT:http-referrer=http://23370wa.xyz/
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15
+http://195.182.16.46:8080/live/omar777/01103978590/460861.ts?token=yafHbHd.ydyfz.X.adUXc.ydzdHbfHUb.X.y.EG.ts.ff5745f1bc4df49108ab5650a30e83c8c7fc1ec7a3c8d965feabdb0fe7373d6e.37069.T3JhbmdlIEVneXB0.b25lZ2F6YWwyLnh5eg==
+#EXTINF:-1 tvg-id="parser_sport_1" tvg-name="beIN MAX 2 4K" tvg-logo="https://up6.cc/2026/05/177929492239961.png" group-title="Movie API",beIN MAX 2 4K
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=http://be-ice.com:8080/live/omar777/01103978590/462212.ts
+#EXTVLCOPT:http-user-agent=http://be-ice.com:8080/live/omar777/01103978590/462212.ts
+http://172.110.216.171:2095/live/omar777/01103978590/460864.ts?token=yafHbHd.azXzf.X.aUbXz.ydzdHzXHca.X.y.EG.ts.1ff2867e8238680fd862ac09d0ffb8a6f4e4f0d3295613c1281d4e0494f4f18f.8452.VGVsZWNvbSBFZ3lwdA==.b25lZ2F6YWwyLnh5eg==
+#EXTINF:-1 tvg-id="parser_sport_1" tvg-name="beIN MAX 3 4K" tvg-logo="https://up6.cc/2026/05/177929498885651.png" group-title="Movie API",beIN MAX 3 4K
+http://195.182.16.44:8080/live/omar777/01103978590/460867.ts?token=yafHbHd.cyXbU.X.ayUbX.ydzdHbfzdX.X.y.EG.ts.e7b55c03065ced69687837344fcf752dccd12a2c7afd3b8af00a215c227bb253.37069.T3JhbmdlIEVneXB0.b25lZ2F6YWwyLnh5eg==
+#EXTINF:-1 tvg-id="parser_sport_1" tvg-name="beIN MAX 1 HD" tvg-logo="https://up6.cc/2026/05/177929485997331.png" group-title="Movie API",beIN MAX 1 HD
+http://195.182.16.45:8080/live/omar777/01103978590/460862.ts?token=yafHbHd.fcyfa.X.cbbXX.ydzdHdzdfH.X.y.EG.ts.9179f44c7ba637ff8fd887c31a3b8395e992d7c7a2f25a994b1c5ad644fc24a7.8452.VGVsZWNvbSBFZ3lwdA==.b25lZ2F6YWwyLnh5eg==
+#EXTINF:-1 tvg-id="parser_sport_1" tvg-name="beIN MAX 2 HD" tvg-logo="https://up6.cc/2026/05/177929492239961.png" group-title="Movie API",beIN MAX 2 HD
+http://195.182.16.45:8080/live/omar777/01103978590/460865.ts?token=yafHbHd.fcXdy.X.cbdXd.ydzdHzXHzX.X.y.EG.ts.e2dab7af0afdcae1678ed4df481dc2792e6822ae0ba840b990e7d0e4e3161d46.8452.VGVsZWNvbSBFZ3lwdA==.b25lZ2F6YWwyLnh5eg==
+#EXTINF:-1 tvg-id="parser_sport_1" tvg-name="beIN MAX 3 HD" tvg-logo="https://up6.cc/2026/05/177929498885651.png" group-title="Movie API",beIN MAX 3 HD
+http://185.160.192.14/live/anes34/87msit89svtu/255238.m3u8
+#EXTINF:-1 tvg-id="parser_sport_1" tvg-name="beIN MAX 1 SD" tvg-logo="https://up6.cc/2026/05/177929485997331.png" group-title="Movie API",beIN MAX 1 SD
+http://onegazal2.xyz:8080/live//omar777/01103978590/460863.ts
+#EXTINF:-1 tvg-id="parser_sport_1" tvg-name="beIN MAX 2 SD" tvg-logo="https://up6.cc/2026/05/177929492239961.png" group-title="Movie API",beIN MAX 2 SD
+http://195.182.16.45:8080/live/omar777/01103978590/460866.ts?token=yafHbHd.fcbab.X.UzXXd.ydzdHzXzaf.X.y.EG.ts.aea161935df9590c6f7ce5b28f179da1eda87ee5d05b1e8a2b0a2254731a7ff2.8452.VGVsZWNvbSBFZ3lwdA==.b25lZ2F6YWwyLnh5eg==
+#EXTINF:-1 tvg-id="parser_sport_1" tvg-name="beIN MAX 3 SD" tvg-logo="https://up6.cc/2026/05/177929498885651.png" group-title="Movie API",beIN MAX 3 SD
+http://185.160.192.14/live/anes34/87msit89svtu/255244.m3u8
+#EXTINF:-1 tvg-id="parser_sport_1" tvg-name="beIN MAX 4 4K" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_4.png" group-title="Movie API",beIN MAX 4 4K
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=... 
+#EXTVLCOPT:http-referrer=... 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=.... 
+#EXTVLCOPT:http-user-agent=.... 
+http://195.182.16.45:8080/live/omar777/01103978590/460870.ts?token=yafHbHd.yafaH.X.UbUcf.ydzdHzXbzy.X.y.EG.ts.9897b8cd97a8009d95dfd6b1db592fdc37886ca1a2a5ffa2604f903befe63061.8452.VGVsZWNvbSBFZ3lwdA==.b25lZ2F6YWwyLnh5eg==
+#EXTINF:-1 tvg-id="parser_sport_1" tvg-name="beIN MAX 4 HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_4.png" group-title="Movie API",beIN MAX 4 HD
+http://217.60.15.202:2095/live/omar777/01103978590/460871.ts?token=yafHbHd.UbXbU.X.bcba.ydzdHzXdfz.X.y.EG.ts.03e98c5d215f1efca759f8de2fcc112c1520584860f5a5c7e88321d2325fa11c.8452.VGVsZWNvbSBFZ3lwdA==.b25lZ2F6YWwyLnh5eg==
+#EXTINF:-1 tvg-id="parser_sport_1" tvg-name="beIN MAX 4 SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_4.png" group-title="Movie API",beIN MAX 4 SD
+http://195.182.16.44:8080/live/omar777/01103978590/460872.ts?token=yafHbHd.fzdHa.X.ayUUd.ydzdHzXdHU.X.y.EG.ts.e4c64d4b2091d256b7f52829221cede0240cc55865836a0670936e70538f4ba4.8452.VGVsZWNvbSBFZ3lwdA==.b25lZ2F6YWwyLnh5eg==
+#EXTINF:-1 tvg-id="parser_sport_1" tvg-name="beIN MAX 1 4K SS" tvg-logo="https://up6.cc/2026/05/177929485997331.png" group-title="Movie API",beIN MAX 1 4K SS
+http://kalaasmr.blog:8080/live/1793416520/3146985400/1295251.ts
+#EXTINF:-1 tvg-id="parser_sport_1" tvg-name="beIN MAX 2 4K SS" tvg-logo="https://up6.cc/2026/05/177929492239961.png" group-title="Movie API",beIN MAX 2 4K SS
+http://kalaasmr.blog:8080/live/1793416520/3146985400/1295252.ts
+#EXTINF:-1 tvg-id="parser_sport_1" tvg-name="beIN MAX 1 HD SS" tvg-logo="https://up6.cc/2026/05/177929485997331.png" group-title="Movie API",beIN MAX 1 HD SS
+http://kalaasmr.blog:8080/live/1793416520/3146985400/1246128.ts
+#EXTINF:-1 tvg-id="parser_sport_1" tvg-name="beIN MAX 2 HD SS" tvg-logo="https://up6.cc/2026/05/177929492239961.png" group-title="Movie API",beIN MAX 2 HD SS
+http://kalaasmr.blog:8080/live/1793416520/3146985400/1246129.ts
+#EXTINF:-1 tvg-id="parser_sport_1" tvg-name="beIN MAX 1 SD F" tvg-logo="https://up6.cc/2026/05/177929485997331.png" group-title="Movie API",beIN MAX 1 SD F
+http://kalaasmr.blog:8080/live/1793416520/3146985400/1295215.m3u8
+#EXTINF:-1 tvg-id="parser_sport_1" tvg-name="beIN MAX 2 SD F" tvg-logo="https://up6.cc/2026/05/177929492239961.png" group-title="Movie API",beIN MAX 2 SD F
+http://kalaasmr.blog:8080/live/1793416520/3146985400/1295216.m3u8
+#EXTINF:-1 tvg-id="parser_sport_2" tvg-name="الوان 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s" group-title="Movie API",الوان 1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181661.ts
+#EXTINF:-1 tvg-id="parser_sport_2" tvg-name="الوان 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s" group-title="Movie API",الوان 1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181662.ts
+#EXTINF:-1 tvg-id="parser_sport_2" tvg-name="الوان 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s" group-title="Movie API",الوان 2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://stream.camcloud.stream/stream/8dd8ad49bb05/playlist.m3u8
+#EXTINF:-1 tvg-id="parser_sport_2" tvg-name="الوان 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s" group-title="Movie API",الوان 2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181663.ts
+#EXTINF:-1 tvg-id="parser_sport_2" tvg-name="الوان 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s" group-title="Movie API",الوان 2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181664.ts
+#EXTINF:-1 tvg-id="parser_sport_2" tvg-name="الوان 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s" group-title="Movie API",الوان 3
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://bouygues-cdn.r1v.us:8080/d49dc02ec79b/k5cfhnm1/237021
+#EXTINF:-1 tvg-id="parser_sport_2" tvg-name="الوان 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s" group-title="Movie API",الوان 3
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://stream.camcloud.stream/stream/456de69d002b/playlist.m3u8
+#EXTINF:-1 tvg-id="parser_sport_2" tvg-name="الوان 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s" group-title="Movie API",الوان 3
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181666.ts
+#EXTINF:-1 tvg-id="parser_sport_2" tvg-name="الوان 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s" group-title="Movie API",الوان 4
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://stream.camcloud.stream/stream/fd1979023964/playlist.m3u8
+#EXTINF:-1 tvg-id="parser_sport_2" tvg-name="الوان 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s" group-title="Movie API",الوان 4
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181669.ts
+#EXTINF:-1 tvg-id="parser_sport_2" tvg-name="الوان 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s" group-title="Movie API",الوان 4
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181671.ts
+#EXTINF:-1 tvg-id="parser_sport_2" tvg-name="الوان 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s" group-title="Movie API",الوان 5
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://cast-x.site/
+#EXTVLCOPT:http-referrer=https://cast-x.site/
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=This Channel For Mejar Server
+#EXTVLCOPT:http-user-agent=This Channel For Mejar Server
+https://py.dencreak.com/alwan_hd5.m3u8
+#EXTINF:-1 tvg-id="parser_sport_2" tvg-name="الوان 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s" group-title="Movie API",الوان 5
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://py.dencreak.com/alwan_sd5.m3u8
+#EXTINF:-1 tvg-id="parser_sport_2" tvg-name="الوان 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s" group-title="Movie API",الوان 6
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://cast-x.site/
+#EXTVLCOPT:http-referrer=https://cast-x.site/
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=This Channel For Mejar Server
+#EXTVLCOPT:http-user-agent=This Channel For Mejar Server
+https://py.dencreak.com/alwan_hd6.m3u8
+#EXTINF:-1 tvg-id="parser_sport_2" tvg-name="الوان 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s" group-title="Movie API",الوان 6
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://py.dencreak.com/alwan_sd6.m3u8
+#EXTINF:-1 tvg-id="parser_sport_2" tvg-name="الوان 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s" group-title="Movie API",الوان 6
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://py.dencreak.com/alwan_4k6.m3u8
+#EXTINF:-1 tvg-id="parser_sport_2" tvg-name="الوان 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1eMfy18y3zUJpN4oC0RaVMJ5pyGf3JIcxL_oJNAyvIOdvQY3-zKWyviDn_6nZUibDls&usqp=CAU" group-title="Movie API",الوان 7
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://py.dencreak.com/alwan_sd7.m3u8
+#EXTINF:-1 tvg-id="parser_sport_2" tvg-name="الوان 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1eMfy18y3zUJpN4oC0RaVMJ5pyGf3JIcxL_oJNAyvIOdvQY3-zKWyviDn_6nZUibDls&usqp=CAU" group-title="Movie API",الوان 8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://py.dencreak.com/alwan_sd8.m3u8
+#EXTINF:-1 tvg-id="parser_sport_2" tvg-name="الوان 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1eMfy18y3zUJpN4oC0RaVMJ5pyGf3JIcxL_oJNAyvIOdvQY3-zKWyviDn_6nZUibDls&usqp=CAU" group-title="Movie API",الوان 9
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://py.dencreak.com/alwan_sd9.m3u8
+#EXTINF:-1 tvg-id="parser_sport_2" tvg-name="الوان تركي" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1eMfy18y3zUJpN4oC0RaVMJ5pyGf3JIcxL_oJNAyvIOdvQY3-zKWyviDn_6nZUibDls&usqp=CAU" group-title="Movie API",الوان تركي
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://ibo.lynxiptv.com/live/said2024/123456789/222230.m3u8
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sports Max 1 4K" tvg-logo="" group-title="Movie API",beIN Sports Max 1 4K
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460861.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sports Max 2 4K" tvg-logo="" group-title="Movie API",beIN Sports Max 2 4K
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460864.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sports Max 3 4K" tvg-logo="" group-title="Movie API",beIN Sports Max 3 4K
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460867.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sports Max 4 4K" tvg-logo="" group-title="Movie API",beIN Sports Max 4 4K
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460870.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sports Max 5 4K" tvg-logo="" group-title="Movie API",beIN Sports Max 5 4K
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460873.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sports Max 6 4K" tvg-logo="" group-title="Movie API",beIN Sports Max 6 4K
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460876.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sports Max 1 HD" tvg-logo="" group-title="Movie API",beIN Sports Max 1 HD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460862.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sports Max 2 HD" tvg-logo="" group-title="Movie API",beIN Sports Max 2 HD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460865.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sports Max 3 HD" tvg-logo="" group-title="Movie API",beIN Sports Max 3 HD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460868.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sports Max 4 HD" tvg-logo="" group-title="Movie API",beIN Sports Max 4 HD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460871.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sports Max 5 HD" tvg-logo="" group-title="Movie API",beIN Sports Max 5 HD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460874.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sports Max 6 HD" tvg-logo="" group-title="Movie API",beIN Sports Max 6 HD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460877.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sports Max 1 SD" tvg-logo="" group-title="Movie API",beIN Sports Max 1 SD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460863.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sports Max 2 SD" tvg-logo="" group-title="Movie API",beIN Sports Max 2 SD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460866.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sports Max 3 SD" tvg-logo="" group-title="Movie API",beIN Sports Max 3 SD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460869.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sports Max 4 SD" tvg-logo="" group-title="Movie API",beIN Sports Max 4 SD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460872.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sports Max 5 SD" tvg-logo="" group-title="Movie API",beIN Sports Max 5 SD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460875.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sports Max 6 SD" tvg-logo="" group-title="Movie API",beIN Sports Max 6 SD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460878.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="Alwan Sport 1 4K" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Movie API",Alwan Sport 1 4K
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/418111.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="Alwan Sport 1 HD" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Movie API",Alwan Sport 1 HD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/418112.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="Alwan Sport 1 SD" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Movie API",Alwan Sport 1 SD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/418113.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="Alwan Sport 2 4K" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Movie API",Alwan Sport 2 4K
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/418114.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="Alwan Sport 2 HD" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Movie API",Alwan Sport 2 HD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/418115.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="Alwan Sport 2 SD" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Movie API",Alwan Sport 2 SD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/418116.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="Alwan Sport 3 4K" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Movie API",Alwan Sport 3 4K
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/418117.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="Alwan Sport 3 HD" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Movie API",Alwan Sport 3 HD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/418118.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="Alwan Sport 3 SD" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Movie API",Alwan Sport 3 SD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/418119.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="Alwan Sport 4 4K" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Movie API",Alwan Sport 4 4K
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/418120.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="Alwan Sport 4 HD" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Movie API",Alwan Sport 4 HD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/418121.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="Alwan Sport 4 SD" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Movie API",Alwan Sport 4 SD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/418122.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="Alwan Sport 5 4K" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Movie API",Alwan Sport 5 4K
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/418123.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="Alwan Sport 5 HD" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Movie API",Alwan Sport 5 HD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/418124.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="Alwan Sport 5 SD" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Movie API",Alwan Sport 5 SD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/418125.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="Alwan Sport 6 4K" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Movie API",Alwan Sport 6 4K
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/418126.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="Alwan Sport 6 HD" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Movie API",Alwan Sport 6 HD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/418127.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="Alwan Sport 6 SD" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Movie API",Alwan Sport 6 SD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/418128.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="Fajer TV 1" tvg-logo="" group-title="Movie API",Fajer TV 1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/463532.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="Fajer TV 2" tvg-logo="" group-title="Movie API",Fajer TV 2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/463533.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="Fajer TV 3" tvg-logo="" group-title="Movie API",Fajer TV 3
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/463534.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="Fajer TV 4" tvg-logo="" group-title="Movie API",Fajer TV 4
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/463535.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="Faher TV 5" tvg-logo="" group-title="Movie API",Faher TV 5
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/317793269XTINF:-1 tvg-id="" tvg-name="POST 1" tvg-logo="https://up6.cc/2026/06/178159107274521.png" group-title="بوست الرياضية",POST 1
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="POST 2" tvg-logo="https://up6.cc/2026/06/178159107274521.png" group-title="Movie API",POST 2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://palestine.vibertv.cyou/post2/index.m3u8
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="POST 3" tvg-logo="https://up6.cc/2026/06/178159107274521.png" group-title="Movie API",POST 3
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://palestine.vibertv.cyou/post3/index.m3u8
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="POST 4" tvg-logo="https://up6.cc/2026/06/178159107274521.png" group-title="Movie API",POST 4
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://palestine.vibertv.cyou/post4/index.m3u8
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="POST 5" tvg-logo="https://up6.cc/2026/06/178159107274521.png" group-title="Movie API",POST 5
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://palestine.vibertv.cyou/post5/index.m3u8
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="POST 6" tvg-logo="https://up6.cc/2026/06/178159107274521.png" group-title="Movie API",POST 6
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://palestine.vibertv.cyou/post6/index.m3u8
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Tod 4k" tvg-logo="" group-title="Movie API",beIN Tod 4k
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460835.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sport Tod 1" tvg-logo="" group-title="Movie API",beIN Sport Tod 1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460836.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sport Tod 2" tvg-logo="" group-title="Movie API",beIN Sport Tod 2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460837.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sport Tod 3" tvg-logo="" group-title="Movie API",beIN Sport Tod 3
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460838.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sport Tod 4" tvg-logo="" group-title="Movie API",beIN Sport Tod 4
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460839.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sport Tod 5" tvg-logo="" group-title="Movie API",beIN Sport Tod 5
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460840.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sport Tod 6" tvg-logo="" group-title="Movie API",beIN Sport Tod 6
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460841.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sport Tod 7" tvg-logo="" group-title="Movie API",beIN Sport Tod 7
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460842.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sport Tod 8" tvg-logo="" group-title="Movie API",beIN Sport Tod 8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460843.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sport Tod 9" tvg-logo="" group-title="Movie API",beIN Sport Tod 9
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460844.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sport Tod English 1" tvg-logo="" group-title="Movie API",beIN Sport Tod English 1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460845.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sport Tod English 2" tvg-logo="" group-title="Movie API",beIN Sport Tod English 2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460846.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sport Tod Extra 1" tvg-logo="" group-title="Movie API",beIN Sport Tod Extra 1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460847.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sport Tod Extra 2" tvg-logo="" group-title="Movie API",beIN Sport Tod Extra 2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460848.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sport Tod Extra 3" tvg-logo="" group-title="Movie API",beIN Sport Tod Extra 3
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460849.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sport Tod Extra 4" tvg-logo="" group-title="Movie API",beIN Sport Tod Extra 4
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460850.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sport Tod Extra 5" tvg-logo="" group-title="Movie API",beIN Sport Tod Extra 5
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460851.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sport Tod Extra 6" tvg-logo="" group-title="Movie API",beIN Sport Tod Extra 6
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460852.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sport Tod Extra 7" tvg-logo="" group-title="Movie API",beIN Sport Tod Extra 7
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460853.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sport Tod Extra 8" tvg-logo="" group-title="Movie API",beIN Sport Tod Extra 8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460854.ts
+#EXTINF:-1 tvg-id="parser_sport_3" tvg-name="beIN Sport Tod Extra 9" tvg-logo="" group-title="Movie API",beIN Sport Tod Extra 9
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://akar13.xyz/live/4750034742512197/3177932697568638/460855.ts
+#EXTINF:-1 tvg-id="parser_sport_4" tvg-name="اسكتلندا vs المغرب" tvg-logo="https://yallashare.cc/wp-content/uploads/2026/05/d8a7d8b3d983d8aad984d986d8afd8a7.webp" group-title="Movie API",اسكتلندا vs المغرب
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://bbara.kooooorabokamin.shop/
+#EXTVLCOPT:http-referrer=https://bbara.kooooorabokamin.shop/
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://babahrg4.s3.ap-south-1.amazonaws.com/live/ch2/ch2.m3u8
+#EXTINF:-1 tvg-id="parser_sport_4" tvg-name="اسكتلندا vs المغرب" tvg-logo="https://yallashare.cc/wp-content/uploads/2026/05/d8a7d8b3d983d8aad984d986d8afd8a7.webp" group-title="Movie API",اسكتلندا vs المغرب
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://bbara.kooooorabokamin.shop/
+#EXTVLCOPT:http-referrer=https://bbara.kooooorabokamin.shop/
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://kartimohad.s3.us-west-2.amazonaws.com/live/ch1/ch1.m3u8
+#EXTINF:-1 tvg-id="parser_sport_4" tvg-name="اسكتلندا vs المغرب" tvg-logo="https://yallashare.cc/wp-content/uploads/2026/05/d8a7d8b3d983d8aad984d986d8afd8a7.webp" group-title="Movie API",اسكتلندا vs المغرب
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://bbara.kooooorabokamin.shop/
+#EXTVLCOPT:http-referrer=https://bbara.kooooorabokamin.shop/
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://karimo23.sbs/hls/ch2.m3u8?v=stable
+#EXTINF:-1 tvg-id="parser_sport_4" tvg-name="اسكتلندا vs المغرب" tvg-logo="https://yallashare.cc/wp-content/uploads/2026/05/d8a7d8b3d983d8aad984d986d8afd8a7.webp" group-title="Movie API",اسكتلندا vs المغرب
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://bbara.kooooorabokamin.shop/
+#EXTVLCOPT:http-referrer=https://bbara.kooooorabokamin.shop/
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8

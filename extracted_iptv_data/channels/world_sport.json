@@ -1,0 +1,201 @@
+[
+  {
+    "namear": "M6",
+    "servers": "[{\"headers\":\"\",\"license\":\"{\\\"keys\\\":[{\\\"kty\\\":\\\"oct\\\",\\\"kid\\\":\\\"qaqH4Tq-Htp00qyl4bonRw\\\",\\\"k\\\":\\\"z-lWhg-0w49wBIBzf6xg0Q\\\"},{\\\"kty\\\":\\\"oct\\\",\\\"kid\\\":\\\"Dfo5mkJdMJUCVfNX4kB-3w\\\",\\\"k\\\":\\\"-y-YjRFcNQZx9CyWsAuNFw\\\"},{\\\"kty\\\":\\\"oct\\\",\\\"kid\\\":\\\"3JlsvTnu28gFhh7bYdjNEw\\\",\\\"k\\\":\\\"wfH7tO9bY-MioiCbJoGwuw\\\"},{\\\"kty\\\":\\\"oct\\\",\\\"kid\\\":\\\"m0e5qGnNGQcPsFICRUfLQw\\\",\\\"k\\\":\\\"CWhcu87IT2KDo-zn9z2-bw\\\"},{\\\"kty\\\":\\\"oct\\\",\\\"kid\\\":\\\"Tf1zOP4TyvLCX2BXwolMBg\\\",\\\"k\\\":\\\"2WxI1mUnQ9drTVbK6XyWvQ\\\"}],\\\"type\\\":\\\"temporary\\\"}\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"M6\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://api-proxad.dc2.oqee.net/playlist/v1/live/613/1/live.mpd\"},{\"headers\":\"\",\"license\":\"433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"M6tv\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuzANEKIVoFrXqDWo1YpRz1n8mZTqJQ_Ej1bwyhQD1Jg&s=10",
+    "nameen": "M6",
+    "position": "0",
+    "type": "channel",
+    "key": "world_sport"
+  },
+  {
+    "namear": "bN FR",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg",
+    "nameen": "bN FR",
+    "position": "0",
+    "type": "channel",
+    "key": "world_sport"
+  },
+  {
+    "namear": "Tipîk",
+    "servers": "[{\"headers\":\"\",\"license\":\"adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/b/bb/Logo_Tipik_2025.png",
+    "nameen": "Tipîk",
+    "position": "0",
+    "type": "channel",
+    "key": "world_sport"
+  },
+  {
+    "namear": "RTB",
+    "servers": "[{\"headers\":\"Referer|https://www.rtbgo.bn/|user-agent|RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"RTB GO LIVE #EXTVLCOPT:http-referrer\\u003dhttps://www.rtbgo.bn/ #EXTVLCOPT:http-user-agent\\u003dRTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1\",\"Referer\":\"https://www.rtbgo.bn/\",\"userAgent\":\"RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1\",\"position\":\"0\",\"url\":\"https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8\"}]",
+    "logo": "https://www.rtbgo.bn/img/logo-rbh-go.8b8543d3.png",
+    "nameen": "RTB",
+    "position": "1",
+    "type": "channel",
+    "key": "world_sport"
+  },
+  {
+    "namear": "ZDF",
+    "servers": "[{\"headers\":\"\",\"license\":\"c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash/zdf_hd.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp5lBQO2t-CoE48er5XE2ZLfEttkTOhx3XdQ&s",
+    "nameen": "ZDF",
+    "position": "4",
+    "type": "channel",
+    "key": "world_sport"
+  },
+  {
+    "namear": "ARD1",
+    "servers": "[{\"headers\":\"\",\"license\":\"7f786be01a0f319594c84ff1472638e6:e14e62c9bcd0559922bb783d2d6c6328\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://simplitv-live.mdn.ors.at/live/eds/das_erste_hd/dash4h/das_erste_hd.mpd\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/ARD_2019_logo.svg/langfr-250px-ARD_2019_logo.svg.png",
+    "nameen": "ARD1",
+    "position": "5",
+    "type": "channel",
+    "key": "world_sport"
+  },
+  {
+    "namear": "W9",
+    "servers": "[{\"headers\":\"\",\"license\":\"{\\\"keys\\\":[{\\\"kty\\\":\\\"oct\\\",\\\"kid\\\":\\\"fClVjWFCjpGghfJsp0aIpg\\\",\\\"k\\\":\\\"WCLDPzkwwChKlbY6uWnEzg\\\"},{\\\"kty\\\":\\\"oct\\\",\\\"kid\\\":\\\"-_O2vYzx4bZCv92KYv8sQQ\\\",\\\"k\\\":\\\"pcmUSBa_XK8Meo-eOczQvA\\\"},{\\\"kty\\\":\\\"oct\\\",\\\"kid\\\":\\\"CpJ1UUwSAH6FdDVuX42bhg\\\",\\\"k\\\":\\\"I-Av_9kbnbKnLGfl-KJpWg\\\"},{\\\"kty\\\":\\\"oct\\\",\\\"kid\\\":\\\"7yoU6FxmitnPfxyGYzjfcQ\\\",\\\"k\\\":\\\"D8chCxdM8Utlh4Fkw_0d9A\\\"},{\\\"kty\\\":\\\"oct\\\",\\\"kid\\\":\\\"4XAK4G_Bi-U09ds2Hh6fxA\\\",\\\"k\\\":\\\"2p-FXfqZ5OHuJ1Q_8taohg\\\"}],\\\"type\\\":\\\"temporary\\\"}\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://api-proxad.dc2.oqee.net/playlist/v1/live/373/1/live.mpd\"}]",
+    "visible": "false",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkk-7q015zPztVQJtrZ5oGkybnNjcSVD63OMY-d8qqiQ&s=10",
+    "nameen": "W9",
+    "position": "6",
+    "type": "channel",
+    "key": "world_sport"
+  },
+  {
+    "namear": "RTVE",
+    "servers": "[{\"headers\":\"\",\"license\":\"fd86dde0ae3e14ff51c8fc8f248a50db:d106ae78b0893da2e4393ece99420baa\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/960px-Logo_TVE-Internacional.svg.png",
+    "nameen": "RTVE",
+    "position": "6",
+    "type": "channel",
+    "key": "world_sport"
+  },
+  {
+    "namear": "ORF1",
+    "servers": "[{\"headers\":\"\",\"license\":\"429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/ORF_1_2019.svg/langfr-250px-ORF_1_2019.svg.png",
+    "nameen": "ORF1",
+    "position": "7",
+    "type": "channel",
+    "key": "world_sport"
+  },
+  {
+    "namear": "Servus",
+    "servers": "[{\"headers\":\"\",\"license\":\"1c7f3d4aadc504459a12bbd3bbd62944:efa707a9f828120b4c9807be11755e65\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ac-003.live.p7s1video.net/d25fcd73/t_003/servustv-at/cenc-default.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEYqCfD1fwL4OmXcIsHGAB500gYTn2oLFsBg&s",
+    "nameen": "Servus",
+    "position": "8",
+    "type": "channel",
+    "key": "world_sport"
+  },
+  {
+    "namear": "TVP Sport",
+    "servers": "[{\"headers\":\"\",\"license\":\"\\\"95620bdd974041409d4674ab629e22d4\\\":\\\"c6c226ca1689f528a6f91e86da618f64\\\",\\\"181c091002d04c5481c3faab18752843\\\":\\\"b081b6169351e0f4bfc40212dfeeed10\\\",\\\"1163925b6b37434198130f773bc62841\\\":\\\"e2bdd2b87e1ddb502eb7898daece857f\\\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"TVP1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd\"},{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"TVP2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://estreams.tv.nej.cz/dash/CH_TVP_SPORT.ism/playlist.mpd\"}]",
+    "logo": "https://iptvboss.xyz/logos/Poland/TVPSport.pl.png",
+    "nameen": "TVP Sport",
+    "position": "10",
+    "type": "channel",
+    "key": "world_sport"
+  },
+  {
+    "namear": "TVP1",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://estreams.tv.nej.cz/dash/CH_TVP1_HD.ism/playlist.mpd\"}]",
+    "logo": "https://r-scale-6e.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9866669/images/55947096.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1",
+    "nameen": "TVP1",
+    "position": "11",
+    "type": "channel",
+    "key": "world_sport"
+  },
+  {
+    "namear": "ZDF HD",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"ZDF1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://estreams.tv.nej.cz/dash/CH_ZDF_HD.ism/playlist.mpd\"},{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"ZDF2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://estreams.tv.nej.cz/dash/CH_ZDF_Portable.ism/playlist.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp5lBQO2t-CoE48er5XE2ZLfEttkTOhx3XdQ&s",
+    "nameen": "ZDF HD",
+    "position": "12",
+    "type": "channel",
+    "key": "world_sport"
+  },
+  {
+    "namear": "FOX",
+    "servers": "[{\"headers\":\"\",\"license\":\"2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png",
+    "nameen": "FOX",
+    "position": "15",
+    "type": "channel",
+    "key": "world_sport"
+  },
+  {
+    "namear": "Vix",
+    "servers": "[{\"headers\":\"\",\"license\":\"75074a0cbd83f5b72fb3e5c1495252a9:a4a0df04b2d28f2160cead2ecdeb7203\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd\"}]",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH0Zh5dyRS-Mg/company-logo_200_200/company-logo_200_200/0/1723135767103/vix_corporate_logo?e=2147483647&v=beta&t=MqleKzlbLStOnv4Pw2fpffiouXWLuc1AbzJDmjjZhuM",
+    "nameen": "Vix",
+    "position": "17",
+    "type": "channel",
+    "key": "world_sport"
+  },
+  {
+    "namear": "VRT 1",
+    "servers": "[{\"headers\":\"\",\"license\":\"893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSle9KVhae83_7xta74ga1aUX0oZsfBF-YNnQ&s",
+    "nameen": "VRT 1",
+    "position": "18",
+    "type": "channel",
+    "key": "world_sport"
+  },
+  {
+    "namear": "FX Net",
+    "servers": "[{\"headers\":\"\",\"license\":\"c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-nncSPWl3WbGjfCfCiwJ97_94h1jexG5rOg&s",
+    "nameen": "FX Net",
+    "position": "19",
+    "type": "channel",
+    "key": "world_sport"
+  },
+  {
+    "namear": "Caze",
+    "servers": "[{\"headers\":\"\",\"license\":\"1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"CZ1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd\"},{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"CZ2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Caz%C3%A9TV.png",
+    "nameen": "Caze",
+    "position": "20",
+    "type": "channel",
+    "key": "world_sport"
+  },
+  {
+    "namear": "RTE",
+    "servers": "[{\"headers\":\"\",\"license\":\"d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dai.google.com/linear/dash/pa/event/antwa0EiQm2PoHtx4rBtVw/stream/0c8b0b72-7a38-4852-ab2e-3fd88cbe71cc:GRQ/manifest.mpd?\"}]",
+    "logo": "https://tv.assets.pressassociation.io/0540afb9-0248-5f11-808f-61ed22ab1407.png",
+    "nameen": "RTE",
+    "position": "21",
+    "type": "channel",
+    "key": "world_sport"
+  },
+  {
+    "namear": "D Sport",
+    "servers": "[{\"headers\":\"\",\"license\":\"a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVkxDrqVdcaSZIXgfIVOB31HaRifwtdkEGh-2BKmxqmfKLKFyu_rcgtwLx&s=10",
+    "nameen": "D Sport",
+    "position": "22",
+    "type": "channel",
+    "key": "world_sport"
+  },
+  {
+    "namear": "Match",
+    "servers": "[{\"headers\":\"\",\"license\":\"9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd?\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwTfM0idm3odrKiiCtg_tCK-PEMCIdx5-AHqbI8NTHHA&s=10",
+    "nameen": "Match",
+    "position": "23",
+    "type": "channel",
+    "key": "world_sport"
+  },
+  {
+    "namear": "AMZ",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://go.telemetr.io/go?from\\u003dchannel\\u0026url\\u003dhttps%3A%2F%2Fstream1.cinerama.uz%2F1004%2Findex.m3u8\"}]",
+    "logo": "",
+    "nameen": "AMZ",
+    "position": "27",
+    "type": "channel",
+    "key": "world_sport"
+  }
+]

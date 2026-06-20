@@ -1,0 +1,128 @@
+[
+  {
+    "namear": "MBC 4",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi Quality\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8?aws.manifestfilter\\u003dvideo_height:144-1080;video_codec:H264\\u0026video_height\\u003d144-1080\\u0026video_codec\\u003dH264\"}]",
+    "logo": "https://shahid.mbc.net/mediaObject/d280bcb0-2135-4919-af1a-f1c8c5fb99e3?height=auto&width=288&croppingPoint=&version=1&type=webp",
+    "nameen": "MBC 4",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvام_بي_سي"
+  },
+  {
+    "namear": "MBC 5",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi Quality\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8?aws.manifestfilter\\u003dvideo_height:144-1080;video_codec:H264\\u0026video_height\\u003d144-1080\\u0026video_codec\\u003dH264\"}]",
+    "logo": "https://shahid.mbc.net/mediaObject/79e74307-193a-4b28-9ccb-b618aae07962?height=auto&width=288&croppingPoint=&version=1&type=webp",
+    "nameen": "MBC 5",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvام_بي_سي"
+  },
+  {
+    "namear": "Bollywood",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi Quality\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8?aws.manifestfilter\\u003dvideo_height:144-1080;video_codec:H264\\u0026video_height\\u003d144-1080\\u0026video_codec\\u003dH264\"}]",
+    "logo": "https://shahid.mbc.net/mediaObject/799fb041-289c-4709-b009-bca666425ec8?height=auto&width=288&croppingPoint=&version=1&type=webp",
+    "nameen": "Bollywood",
+    "position": "13",
+    "type": "channel",
+    "key": "aya_cx_tvام_بي_سي"
+  },
+  {
+    "namear": "MBC 3",
+    "servers": "[{\"license\":\"e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f\",\"headers\":\"tod-drm|true\",\"scheme\":\"clearkey\",\"otherHeaders\":\"tod-drm|true\",\"isWeb\":\"false\",\"name\":\"Multi Quality\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-3/946fc698e47c30df2193962ca541d868/index.mpd?aws.manifestfilter\\u003dvideo_height:144-1080;video_codec:H264\\u0026video_height\\u003d144-1080\\u0026video_codec\\u003dH264\"}]",
+    "logo": "https://shahid.mbc.net/mediaObject/6bcdb5e5-d974-4feb-97dc-1bad851b0c1d?height=auto&width=288&croppingPoint=&version=1&type=webp",
+    "nameen": "MBC 3",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvام_بي_سي"
+  },
+  {
+    "namear": "MBC Iraq",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi Quality\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8?aws.manifestfilter\\u003dvideo_height:144-1080;video_codec:H264\\u0026video_height\\u003d144-1080\\u0026video_codec\\u003dH264\"}]",
+    "logo": "https://shahid.mbc.net/mediaObject/27b098dd-07ae-4264-9ac2-47da7d720740?height=auto&width=288&croppingPoint=&version=1&type=webp",
+    "nameen": "MBC Iraq",
+    "position": "7",
+    "type": "channel",
+    "key": "aya_cx_tvام_بي_سي"
+  },
+  {
+    "namear": "MBC Masr 2",
+    "servers": "[{\"license\":\"e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"288p25\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr-2/7eaa7c0393e9a9637ae311aac75eb40e/index.mpd?aws.manifestfilter\\u003dvideo_height:144-1080;video_codec:H264\\u0026video_height\\u003d288-288\\u0026video_codec\\u003dH264\"},{\"license\":\"e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f\",\"headers\":\"tod-drm|true\",\"scheme\":\"clearkey\",\"otherHeaders\":\"tod-drm|true\",\"isWeb\":\"false\",\"name\":\"360p25\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr-2/7eaa7c0393e9a9637ae311aac75eb40e/index.mpd?aws.manifestfilter\\u003dvideo_height:144-1080;video_codec:H264\\u0026video_height\\u003d360-360\\u0026video_codec\\u003dH264\"},{\"license\":\"e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f\",\"headers\":\"tod-drm|true\",\"scheme\":\"clearkey\",\"otherHeaders\":\"tod-drm|true\",\"isWeb\":\"false\",\"name\":\"1080p25\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr-2/7eaa7c0393e9a9637ae311aac75eb40e/index.mpd?aws.manifestfilter\\u003dvideo_height:144-1080;video_codec:H264\\u0026video_height\\u003d1080-1080\\u0026video_codec\\u003dH264\"},{\"license\":\"e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f\",\"headers\":\"tod-drm|true\",\"scheme\":\"clearkey\",\"otherHeaders\":\"tod-drm|true\",\"isWeb\":\"false\",\"name\":\"720p25\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr-2/7eaa7c0393e9a9637ae311aac75eb40e/index.mpd?aws.manifestfilter\\u003dvideo_height:144-1080;video_codec:H264\\u0026video_height\\u003d720-720\\u0026video_codec\\u003dH264\"},{\"license\":\"e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f\",\"headers\":\"tod-drm|true\",\"scheme\":\"clearkey\",\"otherHeaders\":\"tod-drm|true\",\"isWeb\":\"false\",\"name\":\"Multi Quality\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr-2/7eaa7c0393e9a9637ae311aac75eb40e/index.mpd?aws.manifestfilter\\u003dvideo_height:144-1080;video_codec:H264\\u0026video_height\\u003d144-1080\\u0026video_codec\\u003dH264\"}]",
+    "logo": "https://shahid.mbc.net/mediaObject/0da1c6ad-b49e-470d-b1b3-d2f1b0f7226d?height=auto&width=288&croppingPoint=&version=1&type=webp",
+    "nameen": "MBC Masr 2",
+    "position": "9",
+    "type": "channel",
+    "key": "aya_cx_tvام_بي_سي"
+  },
+  {
+    "namear": "MBC Masr Drama",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi Qualiy\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8?aws.manifestfilter\\u003dvideo_height:144-720;video_codec:H264\\u0026video_height\\u003d144-1080\\u0026video_codec\\u003dH264\"}]",
+    "logo": "https://shahid.mbc.net/mediaObject/82976f5e-20dd-4e81-8b4d-ee9bca41ca45?height=auto&width=288&croppingPoint=&version=1&type=webp",
+    "nameen": "MBC Masr Drama",
+    "position": "10",
+    "type": "channel",
+    "key": "aya_cx_tvام_بي_سي"
+  },
+  {
+    "namear": "MBC MAX",
+    "servers": "[{\"license\":\"e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f\",\"headers\":\"tod-drm|true\",\"scheme\":\"clearkey\",\"otherHeaders\":\"tod-drm|true\",\"isWeb\":\"false\",\"name\":\"Multi Quality\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-max/b628d2bbaee0431a17859963edf2975f/index.mpd?aws.manifestfilter\\u003dvideo_height:144-1080;video_codec:H264\\u0026video_height\\u003d144-1080\\u0026video_codec\\u003dH264\"}]",
+    "logo": "https://shahid.mbc.net/mediaObject/dc80d00a-4769-48dc-a952-9e59d2d9d3b5?height=auto&width=288&croppingPoint=&version=1&type=webp",
+    "nameen": "MBC MAX",
+    "position": "12",
+    "type": "channel",
+    "key": "aya_cx_tvام_بي_سي"
+  },
+  {
+    "namear": "MBC Drama",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi Quality\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8\"}]",
+    "logo": "https://shahid.mbc.net/mediaObject/7ccc7980-2151-441f-b862-494961bcf2d9?height=auto&width=288&croppingPoint=&version=1&type=webp",
+    "nameen": "MBC Drama",
+    "position": "9",
+    "type": "channel",
+    "key": "aya_cx_tvام_بي_سي"
+  },
+  {
+    "namear": "MBC 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi Quality\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8?aws.manifestfilter\\u003dvideo_height:144-576;video_codec:H264\\u0026video_height\\u003d144-1080\\u0026video_codec\\u003dH264\"}]",
+    "logo": "https://shahid.mbc.net/mediaObject/cee00d24-d0ee-4382-ac72-b2de5dee0331?height=auto&width=288&croppingPoint=&version=1&type=webp",
+    "nameen": "MBC 1",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvام_بي_سي"
+  },
+  {
+    "namear": "MBC Drama+",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi Quality\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8\"}]",
+    "logo": "https://shahid.mbc.net/mediaObject/dd63048e-0b3b-48a2-b55c-77619b4d5cf6?height=auto&width=288&croppingPoint=&version=1&type=webp",
+    "nameen": "MBC Drama+",
+    "position": "10",
+    "type": "channel",
+    "key": "aya_cx_tvام_بي_سي"
+  },
+  {
+    "namear": "MBC Action",
+    "servers": "[{\"license\":\"e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f\",\"headers\":\"tod-drm|true\",\"scheme\":\"clearkey\",\"otherHeaders\":\"tod-drm|true\",\"isWeb\":\"false\",\"name\":\"720p25\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-action/8ea6ca1108d03e03da5e61372354f5c8/index.mpd?aws.manifestfilter\\u003dvideo_height:720-720;video_codec:H264\\u0026video_height\\u003d720-720\\u0026video_codec\\u003dH264\"},{\"license\":\"e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f\",\"headers\":\"tod-drm|true\",\"scheme\":\"clearkey\",\"otherHeaders\":\"tod-drm|true\",\"isWeb\":\"false\",\"name\":\"360p25\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-action/8ea6ca1108d03e03da5e61372354f5c8/index.mpd?aws.manifestfilter\\u003dvideo_height:360-360;video_codec:H264\\u0026video_height\\u003d360-360\\u0026video_codec\\u003dH264\"},{\"license\":\"e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f\",\"headers\":\"tod-drm|true\",\"scheme\":\"clearkey\",\"otherHeaders\":\"tod-drm|true\",\"isWeb\":\"false\",\"name\":\"Multi Quality\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-action/8ea6ca1108d03e03da5e61372354f5c8/index.mpd\"},{\"license\":\"e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f\",\"headers\":\"tod-drm|true\",\"scheme\":\"clearkey\",\"otherHeaders\":\"tod-drm|true\",\"isWeb\":\"false\",\"name\":\"1080p25\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-action/8ea6ca1108d03e03da5e61372354f5c8/index.mpd?aws.manifestfilter\\u003dvideo_height:1080-1080;video_codec:H264\\u0026video_height\\u003d1080-1080\\u0026video_codec\\u003dH264\"}]",
+    "logo": "https://yt3.googleusercontent.com/vlqpeZEEiL70MsCVjCoQreKY4OHXe-rRJkRw8uuXGQYQ5RcgKFCkJEHBKy6_0K-2Yk_Cf7IFNeI=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "MBC Action",
+    "position": "11",
+    "type": "channel",
+    "key": "aya_cx_tvام_بي_سي"
+  },
+  {
+    "namear": "MBC 2",
+    "servers": "[{\"license\":\"e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f\",\"headers\":\"tod-drm|true\",\"scheme\":\"clearkey\",\"otherHeaders\":\"tod-drm|true\",\"isWeb\":\"false\",\"name\":\"Multi Quality\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/index.mpd\"}]",
+    "logo": "https://shahid.mbc.net/mediaObject/39923955-895b-4f40-9374-874b1e314566?height=auto&width=288&croppingPoint=&version=1&type=webp",
+    "nameen": "MBC 2",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvام_بي_سي"
+  },
+  {
+    "namear": "MBC Masr",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi Quality\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8\"}]",
+    "logo": "https://shahid.mbc.net/mediaObject/40868a75-2b2c-47af-baf7-9167fce35a1d?height=auto&width=288&croppingPoint=&version=1&type=webp",
+    "nameen": "MBC Masr",
+    "position": "8",
+    "type": "channel",
+    "key": "aya_cx_tvام_بي_سي"
+  }
+]

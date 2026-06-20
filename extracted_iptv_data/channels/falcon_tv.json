@@ -1,0 +1,56 @@
+[
+  {
+    "namear": "Falcon 1",
+    "servers": "[{\"headers\":\"Referer;http://yari.yariga.net/;user-agent;Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10; EML-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36;\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"http://yari.yariga.net/\",\"userAgent\":\"Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10; EML-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36\",\"position\":\"0\",\"url\":\"http://5.75.129.234/upload/images/logo03.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZIOV6_0hKQcycQJ3OUySjp98qcrsCH2lIWA&usqp=CAU",
+    "nameen": "Falcon 1",
+    "position": "0",
+    "type": "channel",
+    "key": "falcon_tv"
+  },
+  {
+    "namear": "Falcon 2",
+    "servers": "[{\"headers\":\"Referer;http://yari.yariga.net/;\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"http://yari.yariga.net/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://5.75.129.234/upload/images/logo04.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZIOV6_0hKQcycQJ3OUySjp98qcrsCH2lIWA&usqp=CAU",
+    "nameen": "Falcon 2",
+    "position": "1",
+    "type": "channel",
+    "key": "falcon_tv"
+  },
+  {
+    "namear": "Falcon 3",
+    "servers": "[{\"headers\":\"Referer;http://yari.yariga.net/;user-agent;Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10; EML-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36;\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"http://yari.yariga.net/\",\"userAgent\":\"Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10; EML-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36\",\"position\":\"0\",\"url\":\"http://5.75.129.234/upload/images/logo05.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZIOV6_0hKQcycQJ3OUySjp98qcrsCH2lIWA&usqp=CAU",
+    "nameen": "Falcon 3",
+    "position": "2",
+    "type": "channel",
+    "key": "falcon_tv"
+  },
+  {
+    "namear": "Falcon 4",
+    "servers": "[{\"headers\":\"Referer;http://yari.yariga.net/;user-agent;Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10; EML-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36;\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"http://yari.yariga.net/\",\"userAgent\":\"Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10; EML-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36\",\"position\":\"0\",\"url\":\"http://5.75.129.234/upload/images/logo06.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZIOV6_0hKQcycQJ3OUySjp98qcrsCH2lIWA&usqp=CAU",
+    "nameen": "Falcon 4",
+    "position": "3",
+    "type": "channel",
+    "key": "falcon_tv"
+  },
+  {
+    "namear": "Falcon 5",
+    "servers": "[{\"headers\":\"Referer;http://yari.yariga.net/;user-agent;Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10; EML-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36;\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"http://yari.yariga.net/\",\"userAgent\":\"Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10; EML-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36\",\"position\":\"0\",\"url\":\"http://5.75.129.234/upload/images/logo07.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZIOV6_0hKQcycQJ3OUySjp98qcrsCH2lIWA&usqp=CAU",
+    "nameen": "Falcon 5",
+    "position": "4",
+    "type": "channel",
+    "key": "falcon_tv"
+  },
+  {
+    "namear": "Falcon 6",
+    "servers": "[{\"headers\":\"Referer;http://yari.yariga.net/;user-agent;Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10; EML-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36;\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"http://yari.yariga.net/\",\"userAgent\":\"Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10; EML-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36\",\"position\":\"0\",\"url\":\"http://5.75.129.234/upload/images/logo02.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZIOV6_0hKQcycQJ3OUySjp98qcrsCH2lIWA&usqp=CAU",
+    "nameen": "Falcon 6",
+    "position": "5",
+    "type": "channel",
+    "key": "falcon_tv"
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "namear": "beIN Movies 1",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"beIN Movies 1\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/53.ts\"}]",
+    "logo": "https://i.ibb.co/QFKgcb9/beinpremiere.png",
+    "nameen": "beIN Movies 1",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidalok2bein_entertainment"
+  },
+  {
+    "namear": "beIN Movies 2",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"beIN Movies 2\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/54.ts\"}]",
+    "logo": "https://i.ibb.co/h8tthCy/beinaction.png",
+    "nameen": "beIN Movies 2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidalok2bein_entertainment"
+  },
+  {
+    "namear": "beIN Movies 3",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"beIN Movies 3\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/55.ts\"}]",
+    "logo": "https://i.ibb.co/nzdcd6x/beindrama.png",
+    "nameen": "beIN Movies 3",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidalok2bein_entertainment"
+  },
+  {
+    "namear": "beIN Movies 4",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"beIN Movies 4\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/56.ts\"}]",
+    "logo": "https://i.ibb.co/gzQS7wZ/beinfamily.png",
+    "nameen": "beIN Movies 4",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidalok2bein_entertainment"
+  },
+  {
+    "namear": "beIN DRAMA",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"beIN DRAMA\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/57.ts\"}]",
+    "logo": "https://i.ibb.co/fdsQ1c3/beindrama1.png",
+    "nameen": "beIN DRAMA",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidalok2bein_entertainment"
+  },
+  {
+    "namear": "FATAFEAT",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"FATAFEAT\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/98.ts\"}]",
+    "logo": "http://bl3rbe.net/up/ANvY4THsTzqo.png",
+    "nameen": "FATAFEAT",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidalok2bein_entertainment"
+  },
+  {
+    "namear": "beIN SERIES 1",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"beIN SERIES 1\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/58.ts\"}]",
+    "logo": "https://i.ibb.co/kywqGh1/beinseries1.png",
+    "nameen": "beIN SERIES 1",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidalok2bein_entertainment"
+  },
+  {
+    "namear": "beIN SERIES 2",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"beIN SERIES 2\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/59.ts\"}]",
+    "logo": "https://i.ibb.co/2vFfhS5/beinseries2.png",
+    "nameen": "beIN SERIES 2",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidalok2bein_entertainment"
+  },
+  {
+    "namear": "FOX MOVIES",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"FOX MOVIES\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/61.ts\"}]",
+    "logo": "https://i.ibb.co/HTx0kQx/foxmovies.png",
+    "nameen": "FOX MOVIES",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidalok2bein_entertainment"
+  },
+  {
+    "namear": "FOX CRIME",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"FOX CRIME\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/60.ts\"}]",
+    "logo": "https://i.ibb.co/c8sfyrG/foxcrime.png",
+    "nameen": "FOX CRIME",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidalok2bein_entertainment"
+  },
+  {
+    "namear": "FOX LIFE",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"FOX LIFE\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/62.ts\"}]",
+    "logo": "w",
+    "nameen": "FOX LIFE",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidalok2bein_entertainment"
+  },
+  {
+    "namear": "beIN BARAEM",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"beIN BARAEM\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/63.ts\"}]",
+    "logo": "w",
+    "nameen": "beIN BARAEM",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidalok2bein_entertainment"
+  },
+  {
+    "namear": "JEEM",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"JEEM\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/64.ts\"}]",
+    "logo": "w",
+    "nameen": "JEEM",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidalok2bein_entertainment"
+  }
+]

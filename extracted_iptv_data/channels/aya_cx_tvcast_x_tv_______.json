@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "Cast x Multi 3",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi Cast X 50 fps\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/94h9pao89zs0V8pYU4LI8jSOS_20ML4x1vOaSAtALCRKbUk1kwUDuYKrxgpJDHh345ynlDBbUqMTNMfZq2r3Dw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_delta.m3u8?type\\u003dlive\"}]",
+    "logo": "https://g.top4top.io/p_36147f87i0.jpg",
+    "nameen": "Cast x Multi 3",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvcast_x_tv_تلقائي"
+  },
+  {
+    "namear": "Cast x Multi 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi Cast X 50 fps\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/iyit8Pylt-tYvkfznRvWELeKnDmF1Vzq9RbvYb-qpgM16D5Ca7pIcvqR6NlJTqoC-B50YxV7N4nbWJJM-l-Rcg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type\\u003dlive\"}]",
+    "logo": "https://a.top4top.io/p_361474nj70.jpg",
+    "nameen": "Cast x Multi 2",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvcast_x_tv_تلقائي"
+  },
+  {
+    "namear": "Cast x Multi 5",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi Cast X 50 fps\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/Nzzy3Yh6EUysi1NHqT3sfl5VosdvwQb6AWCGN6b7MGeAd693HdVOQCh1Lcoq-NZyXFnF0eXjG8x6al5viHn5TQ/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type\\u003dlive\"}]",
+    "logo": "https://i.top4top.io/p_3614tweym0.jpg",
+    "nameen": "Cast x Multi 5",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvcast_x_tv_تلقائي"
+  },
+  {
+    "namear": "Cast x Multi 4",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi Cast X 50 fps\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/XAZjeRd-1lRooolaANtGf91MOSbrXr_X1fBDjwlmQMj85eS9k2yg7-7QqRW_z8rgwysyfEN2jgy7b8gIJztoBg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type\\u003dlive\"}]",
+    "logo": "https://l.top4top.io/p_3614yfmek0.jpg",
+    "nameen": "Cast x Multi 4",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvcast_x_tv_تلقائي"
+  },
+  {
+    "namear": "Cast x Multi 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi Cast x 50 fps\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/meBYcsuZHSSgwwE4rRzYW8ebJv2OXhmm1AV_56z0WwQgonRw6M7l9ygh3IJ4g_dYMY8F2JdexPoaTS0Oyp0a1g/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type\\u003dlive\"}]",
+    "logo": "https://j.top4top.io/p_3614p0c1d0.png",
+    "nameen": "Cast x Multi 1",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvcast_x_tv_تلقائي"
+  }
+]

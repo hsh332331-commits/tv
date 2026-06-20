@@ -1,0 +1,164 @@
+[
+  {
+    "namear": "BeIN 1 FR",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"BeIN 1 FR\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/755\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12176028_ico.png",
+    "nameen": "BeIN 1 FR",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarbein_french"
+  },
+  {
+    "namear": "BeIN 2 FR",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"BeIN 2 FR\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/756\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12176049_ico.png",
+    "nameen": "BeIN 2 FR",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarbein_french"
+  },
+  {
+    "namear": "BeIN 3 FR",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"BeIN 3 FR\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/757\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12176043_ico.png",
+    "nameen": "BeIN 3 FR",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarbein_french"
+  },
+  {
+    "namear": "Bein Max 4",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Bein Max 4\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/758\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2952628_ico.png",
+    "nameen": "Bein Max 4",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarbein_french"
+  },
+  {
+    "namear": "Bein Max 5",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Bein Max 5\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/759\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2952654_ico.png",
+    "nameen": "Bein Max 5",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarbein_french"
+  },
+  {
+    "namear": "Bein Max 6",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Bein Max 6\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/764\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2952685_ico.png",
+    "nameen": "Bein Max 6",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarbein_french"
+  },
+  {
+    "namear": "Bein Max 7",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Bein Max 7\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/760\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2952744_ico.png",
+    "nameen": "Bein Max 7",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarbein_french"
+  },
+  {
+    "namear": "Bein Max 8",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Bein Max 8\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/761\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2952812_ico.png",
+    "nameen": "Bein Max 8",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarbein_french"
+  },
+  {
+    "namear": "Bein Max 9",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Bein Max 9\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/762\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2952845_ico.png",
+    "nameen": "Bein Max 9",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarbein_french"
+  },
+  {
+    "namear": "Bein Max 10",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Bein Max 10\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/763\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2952858_ico.png",
+    "nameen": "Bein Max 10",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadrarbein_french"
+  },
+  {
+    "namear": "BEIN 1 FR+",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"BEIN 1 FR+\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://fd2f5da9.edmonst.net/iptv/3Z4H4E9X3XN79G/2499/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7575306_ico.png",
+    "nameen": "BEIN 1 FR+",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidadrarbein_french"
+  },
+  {
+    "namear": "BEIN 2 FR+",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"BEIN 2 FR+\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://fd2f5da9.edmonst.net/iptv/3Z4H4E9X3XN79G/2500/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7575309_ico.png",
+    "nameen": "BEIN 2 FR+",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidadrarbein_french"
+  },
+  {
+    "namear": "BEIN 3 FR+",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"BEIN 3 FR+\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://fd2f5da9.edmonst.net/iptv/3Z4H4E9X3XN79G/2501/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7575326_ico.png",
+    "nameen": "BEIN 3 FR+",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidadrarbein_french"
+  },
+  {
+    "namear": "Bein FR1++",
+    "servers": "[{\"headers\":\"Tres15user-Agent|Tres15user-Agent|Tres15user-Agent|Tres15\",\"otherHeaders\":\"\",\"name\":\"Bein FR1++\",\"Referer\":\"\",\"userAgent\":\"Tres15user-Agent|Tres15\",\"position\":\"0\",\"url\":\"http://chimeratv.live:25461/live/Beinvip45/uIkc8nTCXt/110.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9930528_ico.png",
+    "nameen": "Bein FR1++",
+    "position": "13",
+    "type": "channel",
+    "key": "windroidadrarbein_french"
+  },
+  {
+    "namear": "Bein FR2++",
+    "servers": "[{\"headers\":\"Tres15user-Agent|Tres15user-Agent|Tres15user-Agent|Tres15\",\"otherHeaders\":\"\",\"name\":\"Bein FR2++\",\"Referer\":\"\",\"userAgent\":\"Tres15user-Agent|Tres15\",\"position\":\"0\",\"url\":\"http://chimeratv.live:25461/live/Beinvip45/uIkc8nTCXt/111.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9930544_ico.png",
+    "nameen": "Bein FR2++",
+    "position": "14",
+    "type": "channel",
+    "key": "windroidadrarbein_french"
+  },
+  {
+    "namear": "Bein FR3++",
+    "servers": "[{\"headers\":\"Tres15user-Agent|Tres15user-Agent|Tres15user-Agent|Tres15\",\"otherHeaders\":\"\",\"name\":\"Bein FR3++\",\"Referer\":\"\",\"userAgent\":\"Tres15user-Agent|Tres15\",\"position\":\"0\",\"url\":\"http://chimeratv.live:25461/live/Beinvip45/uIkc8nTCXt/112.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9930657_ico.png",
+    "nameen": "Bein FR3++",
+    "position": "15",
+    "type": "channel",
+    "key": "windroidadrarbein_french"
+  },
+  {
+    "namear": "beIN FR 1*",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"beIN FR 1*\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/29.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/17153376_ico.png",
+    "nameen": "beIN FR 1*",
+    "position": "16",
+    "type": "channel",
+    "key": "windroidadrarbein_french"
+  },
+  {
+    "namear": "beIN FR 2*",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"beIN FR 2*\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/30.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/17153391_ico.png",
+    "nameen": "beIN FR 2*",
+    "position": "17",
+    "type": "channel",
+    "key": "windroidadrarbein_french"
+  }
+]

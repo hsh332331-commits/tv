@@ -1,0 +1,389 @@
+[
+  {
+    "namear": "ZEE ALWAN",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"ZEE ALWAN\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/arena0303/7878/54.m3u8\"}]",
+    "logo": "http://bl3rbe.net/up/nNJDmNu.png",
+    "nameen": "ZEE ALWAN",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "ZEE AFLAM",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"ZEE AFLAM\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/arena0303/7878/55.m3u8\"}]",
+    "logo": "http://bl3rbe.net/up/PzvnvV1ly.png",
+    "nameen": "ZEE AFLAM",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "B4U AFLAM",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"B4U AFLAM\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/arena0303/7878/56.m3u8\"}]",
+    "logo": "http://bl3rbe.net/up/Xoxlq6xAZWn.png",
+    "nameen": "B4U AFLAM",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "MIX HOLLYWOOD",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"MIX HOLLYWOOD\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://aloka-arena.online:443/live/arena0303/7878/101.m3u8\"}]",
+    "logo": "https://www.lyngsat.com/logo/tv/mm/mix-hollywood-eg.png",
+    "nameen": "MIX HOLLYWOOD",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "AL JADEED",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"AL JADEED\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/arena0303/7878/178.m3u8\"}]",
+    "logo": "https://www.lyngsat.com/logo/tv/aa/al_jadeed.png",
+    "nameen": "AL JADEED",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "LBC",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"LBC\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://aloka-arena.online:443/live/arena0303/7878/105.m3u8\"}]",
+    "logo": "http://bl3rbe.net/up/KEze9Srx.png",
+    "nameen": "LBC",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "ROYA",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"ROYA\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/arena0303/7878/185.m3u8\"}]",
+    "logo": "http://bl3rbe.net/up/ykBvUXv3.png",
+    "nameen": "ROYA",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "BEUR TV",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"BEUR TV\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/arena0303/7878/63.m3u8\"}]",
+    "logo": "https://www.lyngsat.com/logo/tv/bb/beur_tv_be.png",
+    "nameen": "BEUR TV",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "AL-FADJER",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"AL-FADJER\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/arena0303/7878/62.m3u8\"}]",
+    "logo": "https://www.lyngsat.com/logo/tv/ee/el_fadjer_tv_dz.png",
+    "nameen": "AL-FADJER",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "Abu Dhabi Drama",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"Abu Dhabi Drama\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://aloka-arena.online:443/live/arena0303/7878/119.m3u8\"}]",
+    "logo": "https://www.lyngsat.com/logo/tv/aa/abu-dhabi-drama-ae.png",
+    "nameen": "Abu Dhabi Drama",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "DUBAI ZAMAN",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"DUBAI ZAMAN\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://aloka-arena.online:443/live/arena0303/7878/1120.m3u8\"}]",
+    "logo": "https://www.lyngsat.com/logo/tv/dd/dubai_ae_zaman.png",
+    "nameen": "DUBAI ZAMAN",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "EMARAT TV",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"EMARAT TV\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://aloka-arena.online:443/live/arena0303/7878/139.m3u8\"}]",
+    "logo": "https://www.lyngsat.com/logo/tv/ee/emarat-tv-ae.png",
+    "nameen": "EMARAT TV",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "AJYAL",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"AJYAL\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://aloka-arena.online:443/live/arena0303/7878/164.m3u8\"}]",
+    "logo": "q",
+    "nameen": "AJYAL",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "AL AQSA",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"AL AQSA\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://aloka-arena.online:443/live/arena0303/7878/165.m3u8\"}]",
+    "logo": "https://www.lyngsat.com/logo/tv/aa/aqsa-satellite-channel-ps.png",
+    "nameen": "AL AQSA",
+    "position": "13",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "Palestine Mubasher",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"Palestine Mubasher\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://aloka-arena.online:443/live/arena0303/7878/171.m3u8\"}]",
+    "logo": "https://www.lyngsat.com/logo/tv/pp/palestinian-satellite-channel-ps.png",
+    "nameen": "Palestine Mubasher",
+    "position": "14",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "BAHRAIN TV",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"BAHRAIN TV\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://aloka-arena.online:443/live/arena0303/7878/183.m3u8\"}]",
+    "logo": "http://bl3rbe.net/up/jOzMG4nI.png",
+    "nameen": "BAHRAIN TV",
+    "position": "15",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "DIJLAH",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"DIJLAH\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://aloka-arena.online:443/live/arena0303/7878/211.m3u8\"}]",
+    "logo": "https://www.lyngsat.com/logo/tv/dd/dijlah-tv-iq.png",
+    "nameen": "DIJLAH",
+    "position": "16",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "AMMAN TV",
+    "servers": "[{\"headers\":\"user-agent|aloka|\",\"otherHeaders\":\"\",\"name\":\"AMMAN TV\",\"Referer\":\"\",\"userAgent\":\"aloka\",\"position\":\"0\",\"url\":\"https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8\"}]",
+    "logo": "https://www.lyngsat.com/logo/tv/aa/amman-tv-jo.png",
+    "nameen": "AMMAN TV",
+    "position": "17",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "JORDAN TV",
+    "servers": "[{\"headers\":\"user-agent|arena-app.tq|\",\"otherHeaders\":\"\",\"name\":\"JORDAN TV\",\"Referer\":\"\",\"userAgent\":\"arena-app.tq\",\"position\":\"0\",\"url\":\"https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8\"}]",
+    "logo": "http://bl3rbe.net/up/whHD0INrvcUS.png",
+    "nameen": "JORDAN TV",
+    "position": "18",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "AL RBein N",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"AL RBein N\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://aloka-arena.online:443/live/arena0303/7878/265.m3u8\"}]",
+    "logo": "q",
+    "nameen": "AL RBein N",
+    "position": "19",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "SYRIA TV",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"SYRIA TV\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://aloka-arena.online:443/live/arena0303/7878/315.m3u8\"}]",
+    "logo": "https://www.lyngsat.com/logo/tv/ss/syria-tv-tr.png",
+    "nameen": "SYRIA TV",
+    "position": "20",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "LTV",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"LTV\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/arena0303/7878/793.m3u8\"}]",
+    "logo": "https://www.lyngsat.com/logo/tv/ll/ltv-lb.png",
+    "nameen": "LTV",
+    "position": "21",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "DRAMA AL BADAWYA",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"DRAMA AL BADAWYA\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://aloka-arena.online:443/live/arena0303/7878/399.m3u8\"}]",
+    "logo": "http://bl3rbe.net/up/NwHHvTawmm28.png",
+    "nameen": "DRAMA AL BADAWYA",
+    "position": "22",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "ON DRAMA",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"ON DRAMA\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://aloka-arena.online:443/live/arena0303/7878/418.m3u8\"}]",
+    "logo": "https://www.lyngsat.com/logo/tv/oo/on_tv_eg_drama.png",
+    "nameen": "ON DRAMA",
+    "position": "23",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "YARMOUK ",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"YARMOUK \",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://aloka-arena.online:443/live/arena0303/7878/422.m3u8\"}]",
+    "logo": "http://bl3rbe.net/up/ajbPbOAva1lk.png",
+    "nameen": "YARMOUK ",
+    "position": "24",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "SHARJAH TV",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"SHARJAH TV\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://aloka-arena.online:443/live/arena0303/7878/147.m3u8\"}]",
+    "logo": "http://bl3rbe.net/up/qq7LCKfpA.png",
+    "nameen": "SHARJAH TV",
+    "position": "25",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "SYRIA Nour sham",
+    "servers": "[{\"headers\":\"user-agent|arena|\",\"otherHeaders\":\"\",\"name\":\"SYRIA Nour sham\",\"Referer\":\"\",\"userAgent\":\"arena\",\"position\":\"0\",\"url\":\"https://aloka-arena.live:443/live/arena11/entermant/407.m3u8\"}]",
+    "logo": "q",
+    "nameen": "SYRIA Nour sham",
+    "position": "26",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "SAMA TV",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"SAMA TV\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://aloka-arena.online:443/live/arena0303/7878/669.m3u8\"}]",
+    "logo": "q",
+    "nameen": "SAMA TV",
+    "position": "27",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "SYRIA DRAMA",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"SYRIA DRAMA\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://aloka-arena.online:443/live/arena0303/7878/668.m3u8\"}]",
+    "logo": "q",
+    "nameen": "SYRIA DRAMA",
+    "position": "28",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "SYRIA 1",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"SYRIA 1\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://aloka-arena.online:443/live/arena0303/7878/666.m3u8\"}]",
+    "logo": "q",
+    "nameen": "SYRIA 1",
+    "position": "29",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "MTV LEBANON",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"MTV LEBANON\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://aloka-arena.online:443/live/arena0303/7878/673.m3u8\"}]",
+    "logo": "q",
+    "nameen": "MTV LEBANON",
+    "position": "30",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "AL ARABY",
+    "servers": "[{\"headers\":\"user-agent|arena|\",\"otherHeaders\":\"\",\"name\":\"AL ARABY\",\"Referer\":\"\",\"userAgent\":\"arena\",\"position\":\"0\",\"url\":\"https://aloka-arena.live:443/live/arena11/entermant/439.m3u8\"}]",
+    "logo": "q",
+    "nameen": "AL ARABY",
+    "position": "31",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "SAMA DUBAI",
+    "servers": "[{\"headers\":\"user-agent|arena|\",\"otherHeaders\":\"\",\"name\":\"SAMA DUBAI\",\"Referer\":\"\",\"userAgent\":\"arena\",\"position\":\"0\",\"url\":\"https://aloka-arena.live:443/live/arena11/entermant/456.m3u8\"}]",
+    "logo": "q",
+    "nameen": "SAMA DUBAI",
+    "position": "32",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "OMAN ",
+    "servers": "[{\"headers\":\"user-agent|arena|\",\"otherHeaders\":\"\",\"name\":\"OMAN \",\"Referer\":\"\",\"userAgent\":\"arena\",\"position\":\"0\",\"url\":\"https://aloka-arena.live:443/live/arena11/entermant/479.m3u8\"}]",
+    "logo": "q",
+    "nameen": "OMAN ",
+    "position": "33",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "SBC SAUDI",
+    "servers": "[{\"headers\":\"user-agent|arena|\",\"otherHeaders\":\"\",\"name\":\"SBC SAUDI\",\"Referer\":\"\",\"userAgent\":\"arena\",\"position\":\"0\",\"url\":\"https://aloka-arena.live:443/live/arena11/entermant/498.m3u8\"}]",
+    "logo": "q",
+    "nameen": "SBC SAUDI",
+    "position": "34",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "YEMEN SHABAB",
+    "servers": "[{\"headers\":\"user-agent|arena|\",\"otherHeaders\":\"\",\"name\":\"YEMEN SHABAB\",\"Referer\":\"\",\"userAgent\":\"arena\",\"position\":\"0\",\"url\":\"https://aloka-arena.live:443/live/arena11/entermant/544.m3u8\"}]",
+    "logo": "q",
+    "nameen": "YEMEN SHABAB",
+    "position": "35",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "ALAOULA",
+    "servers": "[{\"headers\":\"user-agent|arena|\",\"otherHeaders\":\"\",\"name\":\"ALAOULA\",\"Referer\":\"\",\"userAgent\":\"arena\",\"position\":\"0\",\"url\":\"https://aloka-arena.live:443/live/arena11/entermant/538.m3u8\"}]",
+    "logo": "q",
+    "nameen": "ALAOULA",
+    "position": "36",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "2M",
+    "servers": "[{\"headers\":\"user-agent|arena|\",\"otherHeaders\":\"\",\"name\":\"2M\",\"Referer\":\"\",\"userAgent\":\"arena\",\"position\":\"0\",\"url\":\"https://aloka-arena.live:443/live/arena11/entermant/539.m3u8\"}]",
+    "logo": "q",
+    "nameen": "2M",
+    "position": "37",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "ASSADISSA",
+    "servers": "[{\"headers\":\"user-agent|arena|\",\"otherHeaders\":\"\",\"name\":\"ASSADISSA\",\"Referer\":\"\",\"userAgent\":\"arena\",\"position\":\"0\",\"url\":\"https://aloka-arena.live:443/live/arena11/entermant/541.m3u8\"}]",
+    "logo": "q",
+    "nameen": "ASSADISSA",
+    "position": "38",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "LIBYA MIX",
+    "servers": "[{\"headers\":\"user-agent|arena|\",\"otherHeaders\":\"\",\"name\":\"LIBYA MIX\",\"Referer\":\"\",\"userAgent\":\"arena\",\"position\":\"0\",\"url\":\"https://aloka-arena.live:443/live/arena11/entermant/537.m3u8\"}]",
+    "logo": "q",
+    "nameen": "LIBYA MIX",
+    "position": "39",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "AL RASHEED",
+    "servers": "[{\"headers\":\"user-agent|arena|\",\"otherHeaders\":\"\",\"name\":\"AL RASHEED\",\"Referer\":\"\",\"userAgent\":\"arena\",\"position\":\"0\",\"url\":\"https://aloka-arena.live:443/live/arena11/entermant/532.m3u8\"}]",
+    "logo": "q",
+    "nameen": "AL RASHEED",
+    "position": "40",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "SADA EL BALAD",
+    "servers": "[{\"headers\":\"user-agent|arena|\",\"otherHeaders\":\"\",\"name\":\"SADA EL BALAD\",\"Referer\":\"\",\"userAgent\":\"arena\",\"position\":\"0\",\"url\":\"https://aloka-arena.live:443/live/arena11/entermant/526.m3u8\"}]",
+    "logo": "q",
+    "nameen": "SADA EL BALAD",
+    "position": "41",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  },
+  {
+    "namear": "AL RAI",
+    "servers": "[{\"headers\":\"user-agent|arena|\",\"otherHeaders\":\"\",\"name\":\"AL RAI\",\"Referer\":\"\",\"userAgent\":\"arena\",\"position\":\"0\",\"url\":\"https://aloka-arena.live:443/live/arena11/entermant/508.m3u8\"}]",
+    "logo": "q",
+    "nameen": "AL RAI",
+    "position": "42",
+    "type": "channel",
+    "key": "windroidalokarabic"
+  }
+]

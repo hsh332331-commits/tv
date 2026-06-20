@@ -1,0 +1,137 @@
+[
+  {
+    "namear": "TV1 HD",
+    "servers": "[{\"headers\":\"Referer|https://www.sportshub.to/|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"TV1 HD\",\"Referer\":\"https://www.sportshub.to/\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://s4.anania.xyz/hls/player-1/mono.m3u8 \"}]",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIf8zZQDJyHbKGlRrJmaGZZ2YTY47xJSTHr5c56e101F=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "TV1 HD",
+    "position": "1",
+    "type": "channel",
+    "key": "sport_event_3"
+  },
+  {
+    "namear": "TV2 HD",
+    "servers": "[{\"headers\":\"Referer|https://www.sportshub.to/|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"TV2 HD\",\"Referer\":\"https://www.sportshub.to/\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://s4.anania.xyz/hls/player-2/mono.m3u8 \"}]",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIf8zZQDJyHbKGlRrJmaGZZ2YTY47xJSTHr5c56e101F=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "TV2 HD",
+    "position": "2",
+    "type": "channel",
+    "key": "sport_event_3"
+  },
+  {
+    "namear": "TV3 HD",
+    "servers": "[{\"headers\":\"Referer|https://www.sportshub.to/|\",\"otherHeaders\":\"\",\"name\":\"TV3 HD\",\"Referer\":\"https://www.sportshub.to/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://s4.anania.xyz/hls/player-3/mono.m3u8 \"}]",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIf8zZQDJyHbKGlRrJmaGZZ2YTY47xJSTHr5c56e101F=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "TV3 HD",
+    "position": "3",
+    "type": "channel",
+    "key": "sport_event_3"
+  },
+  {
+    "namear": "TV4 HD",
+    "servers": "[{\"headers\":\"Referer|https://www.sportshub.to/|\",\"otherHeaders\":\"\",\"name\":\"TV4 HD\",\"Referer\":\"https://www.sportshub.to/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://s4.anania.xyz/hls/player-4/mono.m3u8 \"}]",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIf8zZQDJyHbKGlRrJmaGZZ2YTY47xJSTHr5c56e101F=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "TV4 HD",
+    "position": "4",
+    "type": "channel",
+    "key": "sport_event_3"
+  },
+  {
+    "namear": "TV5 HD",
+    "servers": "[{\"headers\":\"Referer|https://www.sportshub.to/|\",\"otherHeaders\":\"\",\"name\":\"TV5 HD\",\"Referer\":\"https://www.sportshub.to/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://s4.anania.xyz/hls/player-5/mono.m3u8 \"}]",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIf8zZQDJyHbKGlRrJmaGZZ2YTY47xJSTHr5c56e101F=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "TV5 HD",
+    "position": "5",
+    "type": "channel",
+    "key": "sport_event_3"
+  },
+  {
+    "namear": "TV6 HD",
+    "servers": "[{\"headers\":\"Referer|https://www.sportshub.to/|\",\"otherHeaders\":\"\",\"name\":\"TV6 HD\",\"Referer\":\"https://www.sportshub.to/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://s4.anania.xyz/hls/player-6/mono.m3u8 \"}]",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIf8zZQDJyHbKGlRrJmaGZZ2YTY47xJSTHr5c56e101F=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "TV6 HD",
+    "position": "6",
+    "type": "channel",
+    "key": "sport_event_3"
+  },
+  {
+    "namear": "TV7 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TV7 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://soccer.freesportstime.com/live/stream_7.m3u8\"}]",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIf8zZQDJyHbKGlRrJmaGZZ2YTY47xJSTHr5c56e101F=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "TV7 HD",
+    "position": "7",
+    "type": "channel",
+    "key": "sport_event_3"
+  },
+  {
+    "namear": "TV8 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TV8 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://soccer.freesportstime.com/live/stream_8.m3u8\"}]",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIf8zZQDJyHbKGlRrJmaGZZ2YTY47xJSTHr5c56e101F=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "TV8 HD",
+    "position": "8",
+    "type": "channel",
+    "key": "sport_event_3"
+  },
+  {
+    "namear": "TV9 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TV9 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://soccer.freesportstime.com/live/stream_9.m3u8\"}]",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIf8zZQDJyHbKGlRrJmaGZZ2YTY47xJSTHr5c56e101F=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "TV9 HD",
+    "position": "9",
+    "type": "channel",
+    "key": "sport_event_3"
+  },
+  {
+    "namear": "TV10 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TV10 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://soccer.freesportstime.com/live/stream_10.m3u8\"}]",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIf8zZQDJyHbKGlRrJmaGZZ2YTY47xJSTHr5c56e101F=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "TV10 HD",
+    "position": "10",
+    "type": "channel",
+    "key": "sport_event_3"
+  },
+  {
+    "namear": "TV11 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TV11 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://soccer.freesportstime.com/live/stream_11.m3u8\"}]",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIf8zZQDJyHbKGlRrJmaGZZ2YTY47xJSTHr5c56e101F=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "TV11 HD",
+    "position": "11",
+    "type": "channel",
+    "key": "sport_event_3"
+  },
+  {
+    "namear": "TV12 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TV12 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://soccer.freesportstime.com/live/stream_12.m3u8\"}]",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIf8zZQDJyHbKGlRrJmaGZZ2YTY47xJSTHr5c56e101F=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "TV12 HD",
+    "position": "12",
+    "type": "channel",
+    "key": "sport_event_3"
+  },
+  {
+    "namear": "TV13 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TV13 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://soccer.freesportstime.com/live/stream_13.m3u8\"}]",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIf8zZQDJyHbKGlRrJmaGZZ2YTY47xJSTHr5c56e101F=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "TV13 HD",
+    "position": "13",
+    "type": "channel",
+    "key": "sport_event_3"
+  },
+  {
+    "namear": "TV14 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TV14 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://soccer.freesportstime.com/live/stream_14.m3u8\"}]",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIf8zZQDJyHbKGlRrJmaGZZ2YTY47xJSTHr5c56e101F=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "TV14 HD",
+    "position": "14",
+    "type": "channel",
+    "key": "sport_event_3"
+  },
+  {
+    "namear": "TV15 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TV15 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://soccer.freesportstime.com/live/stream_15.m3u8\"}]",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIf8zZQDJyHbKGlRrJmaGZZ2YTY47xJSTHr5c56e101F=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "TV15 HD",
+    "position": "15",
+    "type": "channel",
+    "key": "sport_event_3"
+  }
+]

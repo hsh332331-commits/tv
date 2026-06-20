@@ -1,0 +1,20 @@
+[
+  {
+    "namear": "Fubo 1",
+    "servers": "[{\"headers\":\"\",\"license\":\"dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu05ABQp_YOwYH4Lb5JR0uvhKM9MsSOBRqU7VdOTkTfw&s=10",
+    "nameen": "Fubo 1",
+    "position": "0",
+    "type": "channel",
+    "key": "fubo_sports"
+  },
+  {
+    "namear": "Fubo 2",
+    "servers": "[{\"headers\":\"\",\"license\":\"3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu05ABQp_YOwYH4Lb5JR0uvhKM9MsSOBRqU7VdOTkTfw&s=10",
+    "nameen": "Fubo 2",
+    "position": "1",
+    "type": "channel",
+    "key": "fubo_sports"
+  }
+]

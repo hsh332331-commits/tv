@@ -1,0 +1,56 @@
+[
+  {
+    "namear": "Ch03 Earthlink",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"قناة 3 ايرثلينك\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/adaptive.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
+    "nameen": "Ch03 Earthlink",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_iraq_ᴹᵁᴸᵀᴵ"
+  },
+  {
+    "namear": "Ch05 Earthlink",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"قناة 5 ايرثلينك\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://stream.supertv.gg:3001/supertv/sport/stv1/ch5/adaptive.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",
+    "nameen": "Ch05 Earthlink",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_iraq_ᴹᵁᴸᵀᴵ"
+  },
+  {
+    "namear": "Ch04 Earthlink",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"قناة 4 ايرثلينك\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://stream.supertv.gg:3001/supertv/sport/stv1/ch4/adaptive.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",
+    "nameen": "Ch04 Earthlink",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_iraq_ᴹᵁᴸᵀᴵ"
+  },
+  {
+    "namear": "Ch01 Earthlink",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"ايرثلينك 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
+    "nameen": "Ch01 Earthlink",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_iraq_ᴹᵁᴸᵀᴵ"
+  },
+  {
+    "namear": "Ch06 Earthlink",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"قناة 6 ايرثلينك\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://stream.supertv.gg:3001/supertv/sport/stv1/ch6/adaptive.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png",
+    "nameen": "Ch06 Earthlink",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_iraq_ᴹᵁᴸᵀᴵ"
+  },
+  {
+    "namear": "Ch02 Earthlink",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"قناة 2 ايرثلينك\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/adaptive.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png",
+    "nameen": "Ch02 Earthlink",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_iraq_ᴹᵁᴸᵀᴵ"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "TV 1",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ddy3.hlsjs.ru/ddy3/premium425/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qdc-bvWK0bNQO-ZGXR-OivZyptLqPmWQEg&usqp=CAU",
+    "nameen": "TV 1",
+    "position": "0",
+    "type": "channel",
+    "key": "ligue_1_sport"
+  },
+  {
+    "namear": "TV 2",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://sky.hlsjs.ru/sky/premium372/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qdc-bvWK0bNQO-ZGXR-OivZyptLqPmWQEg&usqp=CAU",
+    "nameen": "TV 2",
+    "position": "1",
+    "type": "channel",
+    "key": "ligue_1_sport"
+  },
+  {
+    "namear": "TV 3",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium459/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qdc-bvWK0bNQO-ZGXR-OivZyptLqPmWQEg&usqp=CAU",
+    "nameen": "TV 3",
+    "position": "2",
+    "type": "channel",
+    "key": "ligue_1_sport"
+  },
+  {
+    "namear": "TV 4",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium59/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qdc-bvWK0bNQO-ZGXR-OivZyptLqPmWQEg&usqp=CAU",
+    "nameen": "TV 4",
+    "position": "3",
+    "type": "channel",
+    "key": "ligue_1_sport"
+  },
+  {
+    "namear": "TV 5",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium75/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qdc-bvWK0bNQO-ZGXR-OivZyptLqPmWQEg&usqp=CAU",
+    "nameen": "TV 5",
+    "position": "4",
+    "type": "channel",
+    "key": "ligue_1_sport"
+  }
+]

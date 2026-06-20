@@ -1,0 +1,74 @@
+[
+  {
+    "namear": "ON Time Sport 1",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"ON Time Sport 1\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/470\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4601965_ico.png",
+    "nameen": "ON Time Sport 1",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadraron_sports"
+  },
+  {
+    "namear": "ON Time Sport 2",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"ON Time Sport 2\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/469\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4602038_ico.png",
+    "nameen": "ON Time Sport 2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadraron_sports"
+  },
+  {
+    "namear": "ON Time Sport 3",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"ON Time Sport 3\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/466\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4602085_ico.png",
+    "nameen": "ON Time Sport 3",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadraron_sports"
+  },
+  {
+    "namear": "ON SP1",
+    "servers": "[{\"headers\":\"Gguser-Agent|Gguser-Agent|Gguser-Agent|Gg\",\"otherHeaders\":\"\",\"name\":\"ON SP1\",\"Referer\":\"\",\"userAgent\":\"Gguser-Agent|Gg\",\"position\":\"0\",\"url\":\"http://w.bs-share.com:8000/247179867825237/23141543216575/245623\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24553534_ico.png",
+    "nameen": "ON SP1",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadraron_sports"
+  },
+  {
+    "namear": "ON SPORTS 1",
+    "servers": "[{\"headers\":\"ㅤuser-Agent|ㅤuser-Agent|ㅤuser-Agent|ㅤ\",\"otherHeaders\":\"\",\"name\":\"ON SPORTS 1\",\"Referer\":\"\",\"userAgent\":\"ㅤuser-Agent|ㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/146.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24552276_ico.png",
+    "nameen": "ON SPORTS 1",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadraron_sports"
+  },
+  {
+    "namear": "ON SPORTS 2",
+    "servers": "[{\"headers\":\"ㅤuser-Agent|ㅤuser-Agent|ㅤuser-Agent|ㅤ\",\"otherHeaders\":\"\",\"name\":\"ON SPORTS 2\",\"Referer\":\"\",\"userAgent\":\"ㅤuser-Agent|ㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/147.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24552292_ico.png",
+    "nameen": "ON SPORTS 2",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadraron_sports"
+  },
+  {
+    "namear": "ON+",
+    "servers": "[{\"headers\":\"com.tilfazarab2020/1.0 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10) ExoPlayerLib/2.14.0user-Agent|com.tilfazarab2020/1.0 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10) ExoPlayerLib/2.14.0user-Agent|com.tilfazarab2020/1.0 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10) ExoPlayerLib/2.14.0user-Agent|com.tilfazarab2020/1.0 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10) ExoPlayerLib/2.14.0\",\"otherHeaders\":\"\",\"name\":\"ON+\",\"Referer\":\"\",\"userAgent\":\"com.tilfazarab2020/1.0 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10) ExoPlayerLib/2.14.0user-Agent|com.tilfazarab2020/1.0 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10) ExoPlayerLib/2.14.0\",\"position\":\"0\",\"url\":\"https://tv.chachatv.me:443/tilfaz7/arab7/1368\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24552309_ico.png",
+    "nameen": "ON+",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadraron_sports"
+  },
+  {
+    "namear": "ON Tv",
+    "servers": "[{\"headers\":\"windroid_apps_user_agentuser-Agent|windroid_apps_user_agentuser-Agent|windroid_apps_user_agentuser-Agent|windroid_apps_user_agent\",\"otherHeaders\":\"\",\"name\":\"ON Tv\",\"Referer\":\"\",\"userAgent\":\"windroid_apps_user_agentuser-Agent|windroid_apps_user_agent\",\"position\":\"0\",\"url\":\"https://yeszet1x1cdn23.goalarab.site/livebp3/bp3/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24552318_ico.png",
+    "nameen": "ON Tv",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadraron_sports"
+  }
+]

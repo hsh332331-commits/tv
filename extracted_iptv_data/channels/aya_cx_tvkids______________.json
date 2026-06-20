@@ -1,0 +1,38 @@
+[
+  {
+    "namear": "سبيستون",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"سبيستون\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8?aws.manifestfilter\\u003dvideo_height:144-1080;video_codec:H264\\u0026video_height\\u003d144-1080\\u0026video_codec\\u003dH264\"}]",
+    "logo": "https://shahid.mbc.net/mediaObject/d3c4d7f4-64f6-4dbe-a6b5-8bfed1372966?height=auto&width=288&croppingPoint=&version=1&type=webp",
+    "nameen": "سبيستون",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvkids_أطــــفــــال"
+  },
+  {
+    "namear": "أنمي",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"أنمي\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/e7350ddf46c94dddafe14b099394ff56/index.m3u8?aws.manifestfilter\\u003dvideo_height:144-1080;video_codec:H264\\u0026video_height\\u003d144-1080\\u0026video_codec\\u003dH264\"}]",
+    "logo": "https://shahid.mbc.net/mediaObject/a5893f8d-8488-4c21-ab97-a627f99c7676?height=auto&width=288&croppingPoint=&version=1&type=webp",
+    "nameen": "أنمي",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvkids_أطــــفــــال"
+  },
+  {
+    "namear": "MBC 3",
+    "servers": "[{\"headers\":\"tod-drm|true\",\"license\":\"e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f\",\"scheme\":\"clearkey\",\"otherHeaders\":\"tod-drm|true\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"MBC 3\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3/946fc698e47c30df2193962ca541d868/index.mpd?aws.manifestfilter\\u003dvideo_height:144-1080;video_codec:H264\\u0026video_height\\u003d144-1080\\u0026video_codec\\u003dH264\"}]",
+    "logo": "https://shahid.mbc.net/mediaObject/6bcdb5e5-d974-4feb-97dc-1bad851b0c1d?height=auto&width=288&croppingPoint=&version=1&type=webp",
+    "nameen": "MBC 3",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvkids_أطــــفــــال"
+  },
+  {
+    "namear": "الحصن",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"الحصن\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/9747e20a05794a14b0cfccd7c621dd00/index.m3u8?aws.manifestfilter\\u003dvideo_height:144-1080;video_codec:H264\\u0026video_height\\u003d144-1080\\u0026video_codec\\u003dH264\"}]",
+    "logo": "https://shahid.mbc.net/mediaObject/68bdeac8-2ffd-44d5-a105-1d4b2f05a758?height=auto&width=288&croppingPoint=&version=1&type=webp",
+    "nameen": "الحصن",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvkids_أطــــفــــال"
+  }
+]

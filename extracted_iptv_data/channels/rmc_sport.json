@@ -1,0 +1,29 @@
+[
+  {
+    "namear": "RMC SPORT 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"RMC\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdn.mmsiptv.com:443/live/rmc1/chunks.m3u8?SBN\"},{\"headers\":\"user-agent;REDLINECLIENT4sq854884qs41_DRfqfqhfghfg45bhfg5hb;\",\"otherHeaders\":\"\",\"name\":\"RMC\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT4sq854884qs41_DRfqfqhfghfg45bhfg5hb\",\"position\":\"1\",\"url\":\"http://31.172.87.59:2200/EX/FR_RMC_SPORT1_HD-fr/tracks-v1/mono.m3u8 ?token\\u003dRED_Hqqv1c3nXjqlzBGFPhFuTg\\u003d\\u003d,165803831455.4814651659\\u003d\"}]",
+    "logo": "https://www.infos-tele.fr/wp-content/uploads/2021/08/66-1.jpeg",
+    "nameen": "RMC SPORT 1",
+    "position": "0",
+    "type": "channel",
+    "key": "rmc_sport"
+  },
+  {
+    "namear": "RMC SPORT 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"RMC\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdn.mmsiptv.com:443/live/rmc2/chunks.m3u8?SBN\"},{\"headers\":\"user-agent;REDLINECLIENT4sq854884qs41_DRfqfqhfghfg45bhfg5hb;\",\"otherHeaders\":\"\",\"name\":\"RMC\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT4sq854884qs41_DRfqfqhfghfg45bhfg5hb\",\"position\":\"1\",\"url\":\"http://31.172.87.59:2200/EX/FR_RMC_SPORT2_HD-fr/tracks-v1/mono.m3u8 ?token\\u003dRED_Hqqv1c3nXjqlzBGFPhFuTg\\u003d\\u003d,165803831455.4814651659\\u003d\"}]",
+    "logo": "https://www.infos-tele.fr/wp-content/uploads/2021/08/66-1.jpeg",
+    "nameen": "RMC SPORT 2",
+    "position": "1",
+    "type": "channel",
+    "key": "rmc_sport"
+  },
+  {
+    "namear": "RMC SPORT 3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"RMC\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdn.mmsiptv.com:443/live/rmc3/chunks.m3u8?SBN\"},{\"headers\":\"user-agent;REDLINECLIENT4sq854884qs41_DRfqfqhfghfg45bhfg5hb;\",\"otherHeaders\":\"\",\"name\":\"RMC\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT4sq854884qs41_DRfqfqhfghfg45bhfg5hb\",\"position\":\"1\",\"url\":\"http://31.172.87.59:2200/EX/FR_RMC_SPORT3_HD-fr/tracks-v1/mono.m3u8 ?token\\u003dRED_Hqqv1c3nXjqlzBGFPhFuTg\\u003d\\u003d,165803831455.4814651659\\u003d\"}]",
+    "logo": "https://www.infos-tele.fr/wp-content/uploads/2021/08/66-1.jpeg",
+    "nameen": "RMC SPORT 3",
+    "position": "2",
+    "type": "channel",
+    "key": "rmc_sport"
+  }
+]

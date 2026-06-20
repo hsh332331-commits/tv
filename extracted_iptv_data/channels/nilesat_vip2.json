@@ -1,0 +1,1388 @@
+[
+  {
+    "namear": "AD Nat Geo HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AD Nat Geo HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/11/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AD Nat Geo HD",
+    "position": "1",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "AL EKHBARIYA AL SORIYA",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AL EKHBARIYA AL SORIYA\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a096/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AL EKHBARIYA AL SORIYA",
+    "position": "2",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "AL MBein DEEN TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AL MBein DEEN TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a082/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AL MBein DEEN TV",
+    "position": "3",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "ALJADEED TV HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ALJADEED TV HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a05x/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ALJADEED TV HD",
+    "position": "4",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Abu Dhabi TV HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Abu Dhabi TV HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/9/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Abu Dhabi TV HD",
+    "position": "5",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Aghani",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Aghani\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a060/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Aghani",
+    "position": "6",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Al Arabiya",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Arabiya\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a08m/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Arabiya",
+    "position": "7",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Al Emarat TV HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Emarat TV HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/10/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Emarat TV HD",
+    "position": "8",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Al Falastiniah",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Falastiniah\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a09k/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Falastiniah",
+    "position": "9",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Al Hayat",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Hayat\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a097/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Hayat",
+    "position": "10",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Al Horreya",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Horreya\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a078/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Horreya",
+    "position": "11",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Al Jazeera Documentary HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Jazeera Documentary HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a074/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Jazeera Documentary HD",
+    "position": "12",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Al Jazeera English HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Jazeera English HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a073/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Jazeera English HD",
+    "position": "13",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Al Jazeera HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Jazeera HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a065/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Jazeera HD",
+    "position": "14",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Al Jazeera Mubasher HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Jazeera Mubasher HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a072/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Jazeera Mubasher HD",
+    "position": "15",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Al Karma Family",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Karma Family\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a08g/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Karma Family",
+    "position": "16",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Al-Arabiya Alhadath",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al-Arabiya Alhadath\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a08n/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al-Arabiya Alhadath",
+    "position": "17",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Al-Nahar Drama",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al-Nahar Drama\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a084/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al-Nahar Drama",
+    "position": "18",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Al-Nahar One",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al-Nahar One\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a083/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al-Nahar One",
+    "position": "19",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Almamlaka TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Almamlaka TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a07v/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Almamlaka TV",
+    "position": "20",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Amman TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Amman TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a08o/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Amman TV",
+    "position": "21",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Arabica",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Arabica\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a05z/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Arabica",
+    "position": "22",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Awdeh",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Awdeh\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a09l/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Awdeh",
+    "position": "23",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "B4U AFLAM",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"B4U AFLAM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a08u/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "B4U AFLAM",
+    "position": "24",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "B4U PLUS",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"B4U PLUS\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a08v/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "B4U PLUS",
+    "position": "25",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Bein Sports 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Bein Sports 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/7/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Bein Sports 1",
+    "position": "26",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Bein Sports 1 BREMIUM",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Bein Sports 1 BREMIUM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/8/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Bein Sports 1 BREMIUM",
+    "position": "27",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Bein Sports 2 BREMIUM",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Bein Sports 2 BREMIUM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a09r/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Bein Sports 2 BREMIUM",
+    "position": "28",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "CBC",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CBC\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a085/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "CBC",
+    "position": "29",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "CBC Drama",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CBC Drama\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a087/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "CBC Drama",
+    "position": "30",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "CBC Sofra",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CBC Sofra\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a086/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "CBC Sofra",
+    "position": "31",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "CH 12",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CH 12\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a0aw/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "CH 12",
+    "position": "32",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "CN ARABIA",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CN ARABIA\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a08x/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "CN ARABIA",
+    "position": "33",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "CTV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CTV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a08h/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "CTV",
+    "position": "34",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Ch 12 Keshet (Y)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Ch 12 Keshet (Y)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a06d/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Ch 12 Keshet (Y)",
+    "position": "35",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Ch 13 Reshet",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Ch 13 Reshet\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a0bc/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Ch 13 Reshet",
+    "position": "36",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Ch 13 Reshet (y)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Ch 13 Reshet (y)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a0b5/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Ch 13 Reshet (y)",
+    "position": "37",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Drama",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Drama\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a06x/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Drama",
+    "position": "38",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Dubai One",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Dubai One\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a09m/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Dubai One",
+    "position": "39",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Dubai Racing 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Dubai Racing 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a0b9/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Dubai Racing 2",
+    "position": "40",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Dubai Racing 3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Dubai Racing 3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a0b8/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Dubai Racing 3",
+    "position": "41",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Dubai TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Dubai TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a09p/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Dubai TV",
+    "position": "42",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Hala TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Hala TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a0b1/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Hala TV",
+    "position": "43",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Jordan HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Jordan HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a08r/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Jordan HD",
+    "position": "44",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "KAN 11 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"KAN 11 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a06m/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "KAN 11 HD",
+    "position": "45",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "KAN 88",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"KAN 88\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a06r/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "KAN 88",
+    "position": "46",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "KAN Bet",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"KAN Bet\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a06n/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "KAN Bet",
+    "position": "47",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "KAN Gimmel",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"KAN Gimmel\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a06o/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "KAN Gimmel",
+    "position": "48",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "KAN Kol HaMusica",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"KAN Kol HaMusica\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a06h/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "KAN Kol HaMusica",
+    "position": "49",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "KAN Makan",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"KAN Makan\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a06p/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "KAN Makan",
+    "position": "50",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "KAN Moreshet",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"KAN Moreshet\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a06i/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "KAN Moreshet",
+    "position": "51",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "KAN Reka",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"KAN Reka\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a06q/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "KAN Reka",
+    "position": "52",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "KAN Tarbut",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"KAN Tarbut\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a06l/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "KAN Tarbut",
+    "position": "53",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "KNESSET",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"KNESSET\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a0b0/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "KNESSET",
+    "position": "54",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "LBC HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"LBC HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a09f/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "LBC HD",
+    "position": "55",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "LBC International",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"LBC International\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a063/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "LBC International",
+    "position": "56",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "LTV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"LTV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a08w/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "LTV",
+    "position": "57",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Logos TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Logos TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a079/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Logos TV",
+    "position": "58",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "MBC Action",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC Action\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a07h/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MBC Action",
+    "position": "59",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "MBC Bollywood",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC Bollywood\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a07f/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MBC Bollywood",
+    "position": "60",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "MBC Drama",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC Drama\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a07e/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MBC Drama",
+    "position": "61",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "MBC FM",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC FM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a07k/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MBC FM",
+    "position": "62",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "MBC IRAQ HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC IRAQ HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a06b/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MBC IRAQ HD",
+    "position": "63",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "MBC Max",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC Max\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a07i/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MBC Max",
+    "position": "64",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "MBC Max (clone)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC Max (clone)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a0bb/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MBC Max (clone)",
+    "position": "65",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "MBC1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a067/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MBC1",
+    "position": "66",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "MBC2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a07g/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MBC2",
+    "position": "67",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "MBC3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a07j/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MBC3",
+    "position": "68",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "MBC4",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC4\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a07d/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MBC4",
+    "position": "69",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "MTV Lebanon HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MTV Lebanon HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a05v/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MTV Lebanon HD",
+    "position": "70",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "MUSAWA",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MUSAWA\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a06c/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MUSAWA",
+    "position": "71",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Maan TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Maan TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a09h/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Maan TV",
+    "position": "72",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Makan 33 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Makan 33 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a064/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Makan 33 HD",
+    "position": "73",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Mariam TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Mariam TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a07c/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Mariam TV",
+    "position": "74",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Miracle TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Miracle TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a08f/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Miracle TV",
+    "position": "75",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Mix",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Mix\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a089/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Mix",
+    "position": "76",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Mix Bel Araby",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Mix Bel Araby\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a07m/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Mix Bel Araby",
+    "position": "77",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Mix One",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Mix One\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a081/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Mix One",
+    "position": "78",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "NBN",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NBN\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a062/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "NBN",
+    "position": "79",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Nile Cinema",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Nile Cinema\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a080/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Nile Cinema",
+    "position": "80",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Nile Comedy",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Nile Comedy\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a07x/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Nile Comedy",
+    "position": "81",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Nile Culture",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Nile Culture\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a098/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Nile Culture",
+    "position": "82",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Nile Drama",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Nile Drama\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a07z/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Nile Drama",
+    "position": "83",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Nile Life",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Nile Life\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a07y/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Nile Life",
+    "position": "84",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Nile News",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Nile News\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a07w/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Nile News",
+    "position": "85",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Nile Sport",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Nile Sport\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a099/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Nile Sport",
+    "position": "86",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Nour Elsham",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Nour Elsham\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a07p/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Nour Elsham",
+    "position": "87",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Nour Koddass",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Nour Koddass\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a07b/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Nour Koddass",
+    "position": "88",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "NourSat",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NourSat\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a08j/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "NourSat",
+    "position": "89",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Noursat Alchabab",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Noursat Alchabab\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a08i/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Noursat Alchabab",
+    "position": "90",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "OSN YaHalla",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"OSN YaHalla\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a06v/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "OSN YaHalla",
+    "position": "91",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "OTV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"OTV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a05y/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "OTV",
+    "position": "92",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "One",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"One\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a05w/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "One",
+    "position": "93",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Palestine",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Palestine\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a09j/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Palestine",
+    "position": "94",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Palestine Tv",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Palestine Tv\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a09i/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Palestine Tv",
+    "position": "95",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Palestine News",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Palestine News\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a09g/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Palestine News",
+    "position": "96",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Panorama FM",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Panorama FM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a07l/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Panorama FM",
+    "position": "97",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "RO'YA HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"RO\\u0027YA HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a08q/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "RO'YA HD",
+    "position": "98",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "RT ARABIC HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"RT ARABIC HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a07u/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "RT ARABIC HD",
+    "position": "99",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Rotana Cinema HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rotana Cinema HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a068/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Rotana Cinema HD",
+    "position": "100",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Rotana Classic HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rotana Classic HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a09b/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Rotana Classic HD",
+    "position": "101",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Rotana Clip HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rotana Clip HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a0b7/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Rotana Clip HD",
+    "position": "102",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Rotana Comedy HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rotana Comedy HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a09a/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Rotana Comedy HD",
+    "position": "103",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Rotana Drama HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rotana Drama HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a09d/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Rotana Drama HD",
+    "position": "104",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Rotana Khalijeah HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rotana Khalijeah HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a09c/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Rotana Khalijeah HD",
+    "position": "105",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Rotana Music HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rotana Music HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a09e/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Rotana Music HD",
+    "position": "106",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "SAMA TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SAMA TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a07r/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "SAMA TV",
+    "position": "107",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "SPACETOON ARABIC",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SPACETOON ARABIC\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a088/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "SPACETOON ARABIC",
+    "position": "108",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "SPORT 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SPORT 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/1/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "SPORT 1",
+    "position": "109",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "SPORT 1 one",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SPORT 1 one\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/6/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "SPORT 1 one",
+    "position": "110",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "SPORT 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SPORT 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/2/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "SPORT 2",
+    "position": "111",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "SPORT 4",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SPORT 4\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/4/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "SPORT 4",
+    "position": "112",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "SPORT 5",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SPORT 5\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/5/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "SPORT 5",
+    "position": "113",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "SPORT 5 IV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SPORT 5 IV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/3/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "SPORT 5 IV",
+    "position": "114",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "SPORT 5 IV CH 12) 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SPORT 5 IV CH 12) 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a0bd/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "SPORT 5 IV CH 12) 2",
+    "position": "115",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Sama Dubai",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sama Dubai\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a09n/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Sama Dubai",
+    "position": "116",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Souryana",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Souryana\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a07q/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Souryana",
+    "position": "117",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Syria Drama",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Syria Drama\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a069/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Syria Drama",
+    "position": "118",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Syria Education",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Syria Education\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a07o/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Syria Education",
+    "position": "119",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Syria Satellite",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Syria Satellite\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a07n/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Syria Satellite",
+    "position": "120",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "T-BeIN SPORT AsiaHD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"T-BeIN SPORT AsiaHD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a0bu/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "T-BeIN SPORT AsiaHD",
+    "position": "121",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "T-BeIN SPORT Asia2 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"T-BeIN SPORT Asia2 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a0bv/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "T-BeIN SPORT Asia2 HD",
+    "position": "122",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "T-Fox Action Movies HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"T-Fox Action Movies HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a0a9/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "T-Fox Action Movies HD",
+    "position": "123",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "T-Fox Movies HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"T-Fox Movies HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a0aa/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "T-Fox Movies HD",
+    "position": "124",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "T-NetMax M.Shams 1 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"T-NetMax M.Shams 1 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a09t/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "T-NetMax M.Shams 1 HD",
+    "position": "125",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "T-NetMax M.Shams 2 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"T-NetMax M.Shams 2 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a09u/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "T-NetMax M.Shams 2 HD",
+    "position": "126",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "T-NetMax M.Shams 3 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"T-NetMax M.Shams 3 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a09w/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "T-NetMax M.Shams 3 HD",
+    "position": "127",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "T-ONE2 SPORT HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"T-ONE2 SPORT HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a0ah/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "T-ONE2 SPORT HD",
+    "position": "128",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "T-OTV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"T-OTV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a0be/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "T-OTV",
+    "position": "129",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "T-Sport 3 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"T-Sport 3 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a0ak/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "T-Sport 3 HD",
+    "position": "130",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "T-Sport 5 Plus HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"T-Sport 5 Plus HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a0am/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "T-Sport 5 Plus HD",
+    "position": "131",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "T1-ALAAN TV HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"T1-ALAAN TV HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a0bs/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "T1-ALAAN TV HD",
+    "position": "135",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "T1-ALJADEED TV HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"T1-ALJADEED TV HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a0bk/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "T1-ALJADEED TV HD",
+    "position": "136",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "T1-Aghani Music HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"T1-Aghani Music HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a0bq/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "T1-Aghani Music HD",
+    "position": "137",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "T1-Arabica Music HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"T1-Arabica Music HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a0bp/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "T1-Arabica Music HD",
+    "position": "138",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "T1-LBC International",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"T1-LBC International\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a0bm/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "T1-LBC International",
+    "position": "139",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "T1-MTV Lebanon HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"T1-MTV Lebanon HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a0bl/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "T1-MTV Lebanon HD",
+    "position": "140",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "T1-One Music HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"T1-One Music HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a0br/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "T1-One Music HD",
+    "position": "141",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "T1-Telelipan TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"T1-Telelipan TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a0bn/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "T1-Telelipan TV",
+    "position": "142",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "T1-nbn",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"T1-nbn\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a0bo/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "T1-nbn",
+    "position": "143",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "TCHAD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TCHAD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a08d/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "TCHAD",
+    "position": "144",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "TRT Arabi",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TRT Arabi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a095/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "TRT Arabi",
+    "position": "145",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "TRT Arabi HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TRT Arabi HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a08l/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "TRT Arabi HD",
+    "position": "146",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Teleliban TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Teleliban TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a061/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Teleliban TV",
+    "position": "147",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Toyor Aljanah",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Toyor Aljanah\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a08k/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Toyor Aljanah",
+    "position": "148",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Z- Osn MOVIES DISNEY HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Z- Osn MOVIES DISNEY HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a0bj/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Z- Osn MOVIES DISNEY HD",
+    "position": "149",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Z- Osn MOVIES Premiere",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Z- Osn MOVIES Premiere\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a0bf/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Z- Osn MOVIES Premiere",
+    "position": "150",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Z- ROTANA KIDS HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Z- ROTANA KIDS HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a0bi/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Z- ROTANA KIDS HD",
+    "position": "151",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "Z- VIVO MOVIES HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Z- VIVO MOVIES HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a0bg/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Z- VIVO MOVIES HD",
+    "position": "152",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "ZEE AFLAM",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ZEE AFLAM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a08s/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ZEE AFLAM",
+    "position": "153",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "ZEE ALWAN",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ZEE ALWAN\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a08t/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ZEE ALWAN",
+    "position": "154",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "beIN Drama",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Drama\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a071/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "beIN Drama",
+    "position": "155",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "ch 14",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ch 14\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a06e/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ch 14",
+    "position": "156",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  },
+  {
+    "namear": "peqi'in",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"peqi\\u0027in\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.122.156.107:4000/play/a06w/mono.m3u8  Découvrez du contenu intéressant Connectez-vous et suivez les créateurs et communautés populaires\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "peqi'in",
+    "position": "157",
+    "type": "channel",
+    "key": "nilesat_vip2"
+  }
+]

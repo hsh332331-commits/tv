@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "Bahrain TV",
+    "servers": "[{\"headers\":\"Hhhuser-Agent|Hhhuser-Agent|Hhhuser-Agent|Hhh\",\"otherHeaders\":\"\",\"name\":\"Bahrain TV\",\"Referer\":\"\",\"userAgent\":\"Hhhuser-Agent|Hhh\",\"position\":\"0\",\"url\":\"https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12135886_ico.png",
+    "nameen": "Bahrain TV",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarbahrain_البحرين"
+  },
+  {
+    "namear": "Bahrain Inter",
+    "servers": "[{\"headers\":\"Hhuser-Agent|Hhuser-Agent|Hhuser-Agent|Hh\",\"otherHeaders\":\"\",\"name\":\"Bahrain Inter\",\"Referer\":\"\",\"userAgent\":\"Hhuser-Agent|Hh\",\"position\":\"0\",\"url\":\"https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12135893_ico.png",
+    "nameen": "Bahrain Inter",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarbahrain_البحرين"
+  },
+  {
+    "namear": "Bahrain Quran",
+    "servers": "[{\"headers\":\"Hhuser-Agent|Hhuser-Agent|Hhuser-Agent|Hh\",\"otherHeaders\":\"\",\"name\":\"Bahrain Quran\",\"Referer\":\"\",\"userAgent\":\"Hhuser-Agent|Hh\",\"position\":\"0\",\"url\":\"https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12135896_ico.png",
+    "nameen": "Bahrain Quran",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarbahrain_البحرين"
+  },
+  {
+    "namear": "Bahrain Sport 1",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Bahrain Sport 1\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12135901_ico.png",
+    "nameen": "Bahrain Sport 1",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarbahrain_البحرين"
+  },
+  {
+    "namear": "Bahrain Sport 2",
+    "servers": "[{\"headers\":\"DDuser-Agent|DDuser-Agent|DDuser-Agent|DD\",\"otherHeaders\":\"\",\"name\":\"Bahrain Sport 2\",\"Referer\":\"\",\"userAgent\":\"DDuser-Agent|DD\",\"position\":\"0\",\"url\":\"https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12135904_ico.png",
+    "nameen": "Bahrain Sport 2",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarbahrain_البحرين"
+  }
+]

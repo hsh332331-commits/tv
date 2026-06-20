@@ -1,0 +1,236 @@
+[
+  {
+    "namear": "2M",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"2M\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119051/2mmaroc/playlist.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "2M",
+    "position": "1",
+    "type": "channel",
+    "key": "morooco"
+  },
+  {
+    "namear": "2M",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"2M\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://viamotionhsi.netplus.ch/live/eds/2mmaroc/browser-dash/2mmaroc.mpd\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "2M",
+    "position": "2",
+    "type": "channel",
+    "key": "morooco"
+  },
+  {
+    "namear": "Arryadia (480p) #EXTVLCOPT:http-referrer=https://snrt.player.easybroadcast.io/",
+    "servers": "[{\"headers\":\"Referer|https://snrt.player.easybroadcast.io/|\",\"otherHeaders\":\"\",\"name\":\"Arryadia (480p) #EXTVLCOPT:http-referrer\\u003dhttps://snrt.player.easybroadcast.io/\",\"Referer\":\"https://snrt.player.easybroadcast.io/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/chunks_dvr.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Arryadia (480p) #EXTVLCOPT:http-referrer=https://snrt.player.easybroadcast.io/",
+    "position": "3",
+    "type": "channel",
+    "key": "morooco"
+  },
+  {
+    "namear": "2M",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"2M\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://viamotionhsi.netplus.ch/live/eds/2mmaroc/browser-HLS8/2mmaroc.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "2M",
+    "position": "3",
+    "type": "channel",
+    "key": "morooco"
+  },
+  {
+    "namear": "2M Monde #EXTVLCOPT:http-referrer=https://2m.ma #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"2M Monde #EXTVLCOPT:http-referrer\\u003dhttps://2m.ma #EXTVLCOPT:http-user-agent\\u003dMozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "2M Monde #EXTVLCOPT:http-referrer=https://2m.ma #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",
+    "position": "4",
+    "type": "channel",
+    "key": "morooco"
+  },
+  {
+    "namear": "2M Monde +1 (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"2M Monde +1 (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "2M Monde +1 (1080p)",
+    "position": "5",
+    "type": "channel",
+    "key": "morooco"
+  },
+  {
+    "namear": "Al Aoula Inter",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Aoula Inter\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119051/aloulainter/playlist.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Aoula Inter",
+    "position": "6",
+    "type": "channel",
+    "key": "morooco"
+  },
+  {
+    "namear": "Arryadia",
+    "servers": "[{\"headers\":\"Referer|https://snrtlive.ma/|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"https://snrtlive.ma/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdn.live.easybroadcast.io:443/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/chunks_dvr.m3u8\"}]",
+    "logo": "http://www.snrtlive.ma/sites/all/themes/snrtlive/images/arriyadia.png",
+    "nameen": "Arryadia",
+    "position": "7",
+    "type": "channel",
+    "key": "morooco"
+  },
+  {
+    "namear": "Al Maghribia",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Maghribia\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119051/almaghribia/playlist.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Maghribia",
+    "position": "7",
+    "type": "channel",
+    "key": "morooco"
+  },
+  {
+    "namear": "Al Maghribia",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Maghribia\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-dash/almaghribia.mpd\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Maghribia",
+    "position": "8",
+    "type": "channel",
+    "key": "morooco"
+  },
+  {
+    "namear": "Al Maghribia",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Maghribia\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Maghribia",
+    "position": "9",
+    "type": "channel",
+    "key": "morooco"
+  },
+  {
+    "namear": "Assadissa",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Assadissa\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119051/assadissa/playlist.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Assadissa",
+    "position": "10",
+    "type": "channel",
+    "key": "morooco"
+  },
+  {
+    "namear": "Chada TV (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Chada TV (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Chada TV (720p)",
+    "position": "11",
+    "type": "channel",
+    "key": "morooco"
+  },
+  {
+    "namear": "Chada TV (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Chada TV (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://edge13.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Chada TV (720p)",
+    "position": "12",
+    "type": "channel",
+    "key": "morooco"
+  },
+  {
+    "namear": "Chada TV (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Chada TV (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://edge19.vedge.infomaniak.com/livecast/ik:chadatv/playlist.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Chada TV (720p)",
+    "position": "13",
+    "type": "channel",
+    "key": "morooco"
+  },
+  {
+    "namear": "Medi 1 TV Afrique (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Medi 1 TV Afrique (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Medi 1 TV Afrique (720p)",
+    "position": "14",
+    "type": "channel",
+    "key": "morooco"
+  },
+  {
+    "namear": "Medi 1 TV Afrique (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Medi 1 TV Afrique (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Medi 1 TV Afrique (720p)",
+    "position": "15",
+    "type": "channel",
+    "key": "morooco"
+  },
+  {
+    "namear": "Medi1TV Afrique",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Medi1TV Afrique\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120429/meditv/playlist.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Medi1TV Afrique",
+    "position": "16",
+    "type": "channel",
+    "key": "morooco"
+  },
+  {
+    "namear": "Medi 1 TV Arabic (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Medi 1 TV Arabic (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Medi 1 TV Arabic (720p)",
+    "position": "17",
+    "type": "channel",
+    "key": "morooco"
+  },
+  {
+    "namear": "Medi 1 TV Arabic (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Medi 1 TV Arabic (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://streaming2.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Medi 1 TV Arabic (720p)",
+    "position": "18",
+    "type": "channel",
+    "key": "morooco"
+  },
+  {
+    "namear": "Medi 1 TV Maghreb (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Medi 1 TV Maghreb (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Medi 1 TV Maghreb (720p)",
+    "position": "19",
+    "type": "channel",
+    "key": "morooco"
+  },
+  {
+    "namear": "Medi 1 TV Maghreb (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Medi 1 TV Maghreb (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://streaming2.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Medi 1 TV Maghreb (720p)",
+    "position": "20",
+    "type": "channel",
+    "key": "morooco"
+  },
+  {
+    "namear": "Medi1TV Maghreb",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Medi1TV Maghreb\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119051/medhionetvmaghreb/playlist.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Medi1TV Maghreb",
+    "position": "21",
+    "type": "channel",
+    "key": "morooco"
+  },
+  {
+    "namear": "StoryChannel TV (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"StoryChannel TV (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://136044159.r.cdnsun.net/storychannel.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "StoryChannel TV (720p)",
+    "position": "22",
+    "type": "channel",
+    "key": "morooco"
+  },
+  {
+    "namear": "Tamazight TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Tamazight TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119051/tamazight/playlist.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Tamazight TV",
+    "position": "23",
+    "type": "channel",
+    "key": "morooco"
+  },
+  {
+    "namear": "MBC 5 HD",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/4/48/Mbc5.webp",
+    "nameen": "MBC 5 HD",
+    "position": "66",
+    "type": "channel",
+    "key": "morooco"
+  }
+]

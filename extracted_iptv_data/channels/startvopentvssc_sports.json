@@ -1,0 +1,65 @@
+[
+  {
+    "namear": "SSC Extra 1",
+    "servers": "[{\"headers\":\"user-agent|OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 11) ExoPlayerLib/2.11.4|\",\"otherHeaders\":\"\",\"name\":\"SSC Extra 1\",\"Referer\":\"\",\"userAgent\":\"OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 11) ExoPlayerLib/2.11.4\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii3/P8Zun9vYrx/46.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/996-SSC%20Sports%2F1665409242820ymg.png?alt=media&token=f6b075f0-894f-4cc0-b664-fbc2c8727dfc",
+    "nameen": "SSC Extra 1",
+    "position": "0",
+    "type": "channel",
+    "key": "startvopentvssc_sports"
+  },
+  {
+    "namear": "SSC Extra 2",
+    "servers": "[{\"headers\":\"user-agent|OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 11) ExoPlayerLib/2.11.4|\",\"otherHeaders\":\"\",\"name\":\"SSC Extra 2\",\"Referer\":\"\",\"userAgent\":\"OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 11) ExoPlayerLib/2.11.4\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii3/P8Zun9vYrx/47.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/996-SSC%20Sports%2F1665409217043ymg.png?alt=media&token=7d8c9af6-519a-4059-b51a-09875bc8e5d3",
+    "nameen": "SSC Extra 2",
+    "position": "1",
+    "type": "channel",
+    "key": "startvopentvssc_sports"
+  },
+  {
+    "namear": "SSC 5",
+    "servers": "[{\"headers\":\"user-agent|OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 11) ExoPlayerLib/2.11.4|\",\"otherHeaders\":\"\",\"name\":\"SSC 5\",\"Referer\":\"\",\"userAgent\":\"OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 11) ExoPlayerLib/2.11.4\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii3/P8Zun9vYrx/52.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/996-SSC%20Sports%2F1665408966340ymg.png?alt=media&token=98b5ea72-8499-4f76-b45f-f530f1ce59e6",
+    "nameen": "SSC 5",
+    "position": "2",
+    "type": "channel",
+    "key": "startvopentvssc_sports"
+  },
+  {
+    "namear": "SSC 2",
+    "servers": "[{\"headers\":\"user-agent|OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 11) ExoPlayerLib/2.11.4|\",\"otherHeaders\":\"\",\"name\":\"SSC 2\",\"Referer\":\"\",\"userAgent\":\"OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 11) ExoPlayerLib/2.11.4\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii3/P8Zun9vYrx/49.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/996-SSC%20Sports%2F1665409167788ymg.png?alt=media&token=4af1f668-369d-4d80-b11b-0fec5235067b",
+    "nameen": "SSC 2",
+    "position": "3",
+    "type": "channel",
+    "key": "startvopentvssc_sports"
+  },
+  {
+    "namear": "SSC 1",
+    "servers": "[{\"headers\":\"user-agent|OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 11) ExoPlayerLib/2.11.4|\",\"otherHeaders\":\"\",\"name\":\"SSC 1\",\"Referer\":\"\",\"userAgent\":\"OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 11) ExoPlayerLib/2.11.4\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii3/P8Zun9vYrx/48.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/996-SSC%20Sports%2F1665409194516ymg.png?alt=media&token=17a88aee-8d0d-47a4-88d6-c66b47cca004",
+    "nameen": "SSC 1",
+    "position": "4",
+    "type": "channel",
+    "key": "startvopentvssc_sports"
+  },
+  {
+    "namear": "SSC 4",
+    "servers": "[{\"headers\":\"user-agent|OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 11) ExoPlayerLib/2.11.4|\",\"otherHeaders\":\"\",\"name\":\"SSC 4\",\"Referer\":\"\",\"userAgent\":\"OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 11) ExoPlayerLib/2.11.4\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii3/P8Zun9vYrx/51.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/996-SSC%20Sports%2F1665409025045ymg.png?alt=media&token=f2993dba-26a3-4480-a930-2cd45652ef1e",
+    "nameen": "SSC 4",
+    "position": "5",
+    "type": "channel",
+    "key": "startvopentvssc_sports"
+  },
+  {
+    "namear": "SSC 3",
+    "servers": "[{\"headers\":\"user-agent|OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 11) ExoPlayerLib/2.11.4|\",\"otherHeaders\":\"\",\"name\":\"SSC 3\",\"Referer\":\"\",\"userAgent\":\"OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 11) ExoPlayerLib/2.11.4\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii3/P8Zun9vYrx/50.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/996-SSC%20Sports%2F1665409136875ymg.png?alt=media&token=b2956e4f-3ba5-40d4-9b79-123a8f241d48",
+    "nameen": "SSC 3",
+    "position": "6",
+    "type": "channel",
+    "key": "startvopentvssc_sports"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "namear": "القرآن الكريم",
+    "servers": "[{\"headers\":\"user-agent|aloka|\",\"otherHeaders\":\"\",\"name\":\"القرآن الكريم\",\"Referer\":\"\",\"userAgent\":\"aloka\",\"position\":\"0\",\"url\":\"http://m.live.net.sa:1935/live/quran/chunklist.m3u8\"}]",
+    "logo": "q",
+    "nameen": "القرآن الكريم",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidalokislamic"
+  },
+  {
+    "namear": "السنة النبوية",
+    "servers": "[{\"headers\":\"user-agent|aloka|\",\"otherHeaders\":\"\",\"name\":\"السنة النبوية\",\"Referer\":\"\",\"userAgent\":\"aloka\",\"position\":\"0\",\"url\":\"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?checkedby:iptvcat.com\"}]",
+    "logo": "http://www.qassimy.com/channel-tv-live/files/image/saudi_sunnah_islamic_channel_live_online_free_arabic_channel.png",
+    "nameen": "السنة النبوية",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidalokislamic"
+  },
+  {
+    "namear": "مكة",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"مكة\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/106.m3u8\"}]",
+    "logo": "https://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png",
+    "nameen": "مكة",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidalokislamic"
+  },
+  {
+    "namear": "الإرث النبوي",
+    "servers": "[{\"headers\":\"user-agent|aloka|\",\"otherHeaders\":\"\",\"name\":\"الإرث النبوي\",\"Referer\":\"\",\"userAgent\":\"aloka\",\"position\":\"0\",\"url\":\"http://82.212.74.2:8000/live/hls/7307.m3u8\"}]",
+    "logo": "http://bl3rbe.net/up/8iBaEQF.png",
+    "nameen": "الإرث النبوي",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidalokislamic"
+  },
+  {
+    "namear": "إقرأ",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"إقرأ\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/324.m3u8\"}]",
+    "logo": "https://www.almowaten.net/wp-content/uploads/%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%82%D8%B1%D8%A3-420x420.png",
+    "nameen": "إقرأ",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidalokislamic"
+  },
+  {
+    "namear": "الدعوة",
+    "servers": "[{\"headers\":\"user-agent|aloka|\",\"otherHeaders\":\"\",\"name\":\"الدعوة\",\"Referer\":\"\",\"userAgent\":\"aloka\",\"position\":\"0\",\"url\":\"http://51.15.246.58:8081/daawahtv/daawahtv2/chunks.m3u8\"}]",
+    "logo": "h",
+    "nameen": "الدعوة",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidalokislamic"
+  },
+  {
+    "namear": "الإستقامة ",
+    "servers": "[{\"headers\":\"user-agent|aloka|\",\"otherHeaders\":\"\",\"name\":\"الإستقامة \",\"Referer\":\"\",\"userAgent\":\"aloka\",\"position\":\"0\",\"url\":\"http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8\"}]",
+    "logo": "http://bl3rbe.net/up/zOabwIW.png",
+    "nameen": "الإستقامة ",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidalokislamic"
+  },
+  {
+    "namear": "BAHRAIN QURAN",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"BAHRAIN QURAN\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/273.m3u8\"}]",
+    "logo": "http://bl3rbe.net/up/7ZsmqG16H.png",
+    "nameen": "BAHRAIN QURAN",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidalokislamic"
+  },
+  {
+    "namear": "RESSALA",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"RESSALA\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/108.m3u8\"}]",
+    "logo": "q",
+    "nameen": "RESSALA",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidalokislamic"
+  },
+  {
+    "namear": "AL FATEH",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"AL FATEH\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/237.m3u8\"}]",
+    "logo": "q",
+    "nameen": "AL FATEH",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidalokislamic"
+  }
+]

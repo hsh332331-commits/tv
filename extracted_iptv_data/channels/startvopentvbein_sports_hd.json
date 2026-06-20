@@ -1,0 +1,164 @@
+[
+  {
+    "namear": "beIN Sports English 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sports English 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii3/P8Zun9vYrx/26.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/999-beIN%20Sports%20HD%2F1665002015506ymg.png?alt=media&token=c29ea760-5978-40af-a6e2-fd38b5deac0c",
+    "nameen": "beIN Sports English 2",
+    "position": "0",
+    "type": "channel",
+    "key": "startvopentvbein_sports_hd"
+  },
+  {
+    "namear": "beIN Sports Premium 2 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sports Premium 2 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii3/P8Zun9vYrx/5.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/Sports%2F1663597701360ymg.png?alt=media&token=3a930d49-6e39-42d7-bbed-28ed7c47b1bb",
+    "nameen": "beIN Sports Premium 2 HD",
+    "position": "1",
+    "type": "channel",
+    "key": "startvopentvbein_sports_hd"
+  },
+  {
+    "namear": "beIN Sports 2 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 2 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii3/P8Zun9vYrx/11.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/Sports%2F1663594375525ymg.png?alt=media&token=a4813e4b-aee5-4715-bc1d-dae8dc6373d1",
+    "nameen": "beIN Sports 2 HD",
+    "position": "2",
+    "type": "channel",
+    "key": "startvopentvbein_sports_hd"
+  },
+  {
+    "namear": "beIN Sports 6 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 6 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii3/P8Zun9vYrx/19.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/Sports%2F1663594119310ymg.png?alt=media&token=9cbdf6a8-c7e3-41ad-a15c-46b9dfc6a104",
+    "nameen": "beIN Sports 6 HD",
+    "position": "3",
+    "type": "channel",
+    "key": "startvopentvbein_sports_hd"
+  },
+  {
+    "namear": "beIN Sports Premium 3 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sports Premium 3 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii3/P8Zun9vYrx/7.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/Sports%2F1663597646009ymg.png?alt=media&token=d854c9ab-c89b-4c7d-9f88-c70e44530828",
+    "nameen": "beIN Sports Premium 3 HD",
+    "position": "4",
+    "type": "channel",
+    "key": "startvopentvbein_sports_hd"
+  },
+  {
+    "namear": "beIN Sports News",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sports News\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii3/P8Zun9vYrx/1.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/Sports%2F1663597877320ymg.png?alt=media&token=140b328f-19db-44ed-8fdb-008519297e78",
+    "nameen": "beIN Sports News",
+    "position": "5",
+    "type": "channel",
+    "key": "startvopentvbein_sports_hd"
+  },
+  {
+    "namear": "beIN Sports Premium 1 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sports Premium 1 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii3/P8Zun9vYrx/3.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/Sports%2F1663597839472ymg.png?alt=media&token=b761761e-7294-4994-bd2c-f85301a9ada1",
+    "nameen": "beIN Sports Premium 1 HD",
+    "position": "6",
+    "type": "channel",
+    "key": "startvopentvbein_sports_hd"
+  },
+  {
+    "namear": "beIN Sports 1 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 1 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii3/P8Zun9vYrx/9.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/Sports%2F1663594474573ymg.png?alt=media&token=404ac078-3330-4570-84b4-802f61458c5b",
+    "nameen": "beIN Sports 1 HD",
+    "position": "7",
+    "type": "channel",
+    "key": "startvopentvbein_sports_hd"
+  },
+  {
+    "namear": "beIN Sports Xtra 2 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sports Xtra 2 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii3/P8Zun9vYrx/24.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/999-beIN%20Sports%20HD%2F1665001915048ymg.png?alt=media&token=9ea6033b-da44-434e-8fc2-a34788c9d388",
+    "nameen": "beIN Sports Xtra 2 HD",
+    "position": "8",
+    "type": "channel",
+    "key": "startvopentvbein_sports_hd"
+  },
+  {
+    "namear": "beIN Sports Xtra 1 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sports Xtra 1 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii3/P8Zun9vYrx/23.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/998-beIN%20Sports%20SD%2F1665001861426ymg.png?alt=media&token=5ad94541-0c46-46e8-a1ba-dd8f20d2e415",
+    "nameen": "beIN Sports Xtra 1 HD",
+    "position": "9",
+    "type": "channel",
+    "key": "startvopentvbein_sports_hd"
+  },
+  {
+    "namear": "beIn Sports HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIn Sports HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii3/P8Zun9vYrx/2.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/Sports%2F1663597858896ymg.png?alt=media&token=12c540ad-cde7-43f1-b6c2-96c1e16f6750",
+    "nameen": "beIn Sports HD",
+    "position": "10",
+    "type": "channel",
+    "key": "startvopentvbein_sports_hd"
+  },
+  {
+    "namear": "beIN Sports English 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sports English 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii3/P8Zun9vYrx/25.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/999-beIN%20Sports%20HD%2F1665001970561ymg.png?alt=media&token=825e0d59-6080-413b-936d-e59f0ad7d407",
+    "nameen": "beIN Sports English 1",
+    "position": "11",
+    "type": "channel",
+    "key": "startvopentvbein_sports_hd"
+  },
+  {
+    "namear": "beIN Sports 7 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 7 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii3/P8Zun9vYrx/21.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/Sports%2F1663593903760ymg.png?alt=media&token=4a19e6a6-7620-4c86-b889-9a5ab08e95af",
+    "nameen": "beIN Sports 7 HD",
+    "position": "12",
+    "type": "channel",
+    "key": "startvopentvbein_sports_hd"
+  },
+  {
+    "namear": "beIN Sports 5 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 5 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii3/P8Zun9vYrx/17.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/Sports%2F1663594175015ymg.png?alt=media&token=8c931671-816c-4d74-baba-317a30972c79",
+    "nameen": "beIN Sports 5 HD",
+    "position": "13",
+    "type": "channel",
+    "key": "startvopentvbein_sports_hd"
+  },
+  {
+    "namear": "beIN Sports French 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sports French 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii3/P8Zun9vYrx/28.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/999-beIN%20Sports%20HD%2F1665002078610ymg.png?alt=media&token=0f395b9b-e6ce-4072-88bb-9749af7d92da",
+    "nameen": "beIN Sports French 2",
+    "position": "14",
+    "type": "channel",
+    "key": "startvopentvbein_sports_hd"
+  },
+  {
+    "namear": "beIN Sports French 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sports French 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii3/P8Zun9vYrx/27.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/998-beIN%20Sports%20SD%2F1665002044729ymg.png?alt=media&token=c548e407-d9f0-43a0-b9b5-3158bf3c367d",
+    "nameen": "beIN Sports French 1",
+    "position": "15",
+    "type": "channel",
+    "key": "startvopentvbein_sports_hd"
+  },
+  {
+    "namear": "beIN Sports 3 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 3 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii3/P8Zun9vYrx/13.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/Sports%2F1663594312253ymg.png?alt=media&token=4beac33c-968f-4a90-8f60-c685cb00c2cb",
+    "nameen": "beIN Sports 3 HD",
+    "position": "16",
+    "type": "channel",
+    "key": "startvopentvbein_sports_hd"
+  },
+  {
+    "namear": "beIN Sports 4 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 4 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii3/P8Zun9vYrx/15.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/Sports%2F1663594223829ymg.png?alt=media&token=ba9b8e66-7b06-4fab-9e4f-cf3182a09854",
+    "nameen": "beIN Sports 4 HD",
+    "position": "17",
+    "type": "channel",
+    "key": "startvopentvbein_sports_hd"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "namear": "Fox Sports 1 MX",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Fox Sports 1 MX\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/799.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/600713_ico.png",
+    "nameen": "Fox Sports 1 MX",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarfox_latino"
+  },
+  {
+    "namear": "Fox Sports 2 MX",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Fox Sports 2 MX\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/800.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/600744_ico.png",
+    "nameen": "Fox Sports 2 MX",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarfox_latino"
+  },
+  {
+    "namear": "Fox Sports 3 MX",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Fox Sports 3 MX\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/801.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/600802_ico.png",
+    "nameen": "Fox Sports 3 MX",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarfox_latino"
+  },
+  {
+    "namear": "Fox Premium CL",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Fox Premium CL\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/802.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7057402_ico.png",
+    "nameen": "Fox Premium CL",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarfox_latino"
+  },
+  {
+    "namear": "Fox Sport 1 Sur",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Fox Sport 1 Sur\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/750.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14356312_ico.png",
+    "nameen": "Fox Sport 1 Sur",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarfox_latino"
+  },
+  {
+    "namear": "Fox Sport 2 Sur",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Fox Sport 2 Sur\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/716.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14356320_ico.png",
+    "nameen": "Fox Sport 2 Sur",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarfox_latino"
+  },
+  {
+    "namear": "Fox Sport 3 Sur",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Fox Sport 3 Sur\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/717.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14356327_ico.png",
+    "nameen": "Fox Sport 3 Sur",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarfox_latino"
+  },
+  {
+    "namear": "Fox Deportes",
+    "servers": "[{\"headers\":\"FFuser-Agent|FFuser-Agent|FFuser-Agent|FF\",\"otherHeaders\":\"\",\"name\":\"Fox Deportes\",\"Referer\":\"\",\"userAgent\":\"FFuser-Agent|FF\",\"position\":\"0\",\"url\":\"http://live.budtvlight.com:25461/live/bud-378835/f362c6a219/1510.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/22551226_ico.png",
+    "nameen": "Fox Deportes",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarfox_latino"
+  },
+  {
+    "namear": "Fox Sport 2 BR",
+    "servers": "[{\"headers\":\"FFuser-Agent|FFuser-Agent|FFuser-Agent|FF\",\"otherHeaders\":\"\",\"name\":\"Fox Sport 2 BR\",\"Referer\":\"\",\"userAgent\":\"FFuser-Agent|FF\",\"position\":\"0\",\"url\":\"http://191.37.250.169:8801/live/FoxSports2HD/720p.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/22638112_ico.png",
+    "nameen": "Fox Sport 2 BR",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarfox_latino"
+  }
+]

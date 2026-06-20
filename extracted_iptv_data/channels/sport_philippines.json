@@ -1,0 +1,92 @@
+[
+  {
+    "namear": "NBA TV Philippines",
+    "servers": "[{\"headers\":\"\",\"license\":\"c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"NBA TV Philippines #KODIPROP:inputstream.adaptive.license_type\\u003dclearkey #KODIPROP:inputstream.adaptive.license_key\\u003d\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd\"}]",
+    "logo": "https://i.imgur.com/RcxNoIC.png",
+    "nameen": "NBA TV Philippines",
+    "position": "1",
+    "type": "channel",
+    "key": "sport_philippines"
+  },
+  {
+    "namear": "PBA Rush",
+    "servers": "[{\"headers\":\"\",\"license\":\"76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"PBA Rush #KODIPROP:inputstream.adaptive.license_type\\u003dclearkey #KODIPROP:inputstream.adaptive.license_key\\u003d\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_pbarush_hd1/default/index.mpd\"}]",
+    "logo": "https://i.imgur.com/Z7oMGiI.png",
+    "nameen": "PBA Rush",
+    "position": "2",
+    "type": "channel",
+    "key": "sport_philippines"
+  },
+  {
+    "namear": "One Sports HD Cignal",
+    "servers": "[{\"headers\":\"\",\"license\":\"53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"One Sports HD Cignal #KODIPROP:inputstream.adaptive.license_type\\u003dclearkey #KODIPROP:inputstream.adaptive.license_key\\u003d\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd\"}]",
+    "logo": "https://i.imgur.com/imI97L2.png",
+    "nameen": "One Sports HD Cignal",
+    "position": "3",
+    "type": "channel",
+    "key": "sport_philippines"
+  },
+  {
+    "namear": "One Sports Plus",
+    "servers": "[{\"headers\":\"\",\"license\":\"322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"One Sports Plus #KODIPROP:inputstream.adaptive.license_type\\u003dclearkey #KODIPROP:inputstream.adaptive.license_key\\u003d\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd\"}]",
+    "logo": "https://i.imgur.com/RnDeKOj.png",
+    "nameen": "One Sports Plus",
+    "position": "4",
+    "type": "channel",
+    "key": "sport_philippines"
+  },
+  {
+    "namear": "UAAP Varsity Channel",
+    "servers": "[{\"headers\":\"\",\"license\":\"95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"UAAP Varsity Channel #KODIPROP:inputstream.adaptive.license_type\\u003dclearkey #KODIPROP:inputstream.adaptive.license_key\\u003d\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_uaap_cplay_sd/default/index.mpd\"}]",
+    "logo": "https://i.imgur.com/POFK8tM.png",
+    "nameen": "UAAP Varsity Channel",
+    "position": "5",
+    "type": "channel",
+    "key": "sport_philippines"
+  },
+  {
+    "namear": "TAP Sports",
+    "servers": "[{\"headers\":\"\",\"license\":\"eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"TAP Sports #KODIPROP:inputstream.adaptive.license_type\\u003dclearkey #KODIPROP:inputstream.adaptive.license_key\\u003d\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tapsports/default/index.mpd\"}]",
+    "logo": "https://i.imgur.com/HWbSPI9.png",
+    "nameen": "TAP Sports",
+    "position": "6",
+    "type": "channel",
+    "key": "sport_philippines"
+  },
+  {
+    "namear": "Premier Sports",
+    "servers": "[{\"headers\":\"\",\"license\":\"b8b595299fdf41c1a3481fddeb0b55e4:cd2b4ad0eb286239a4a022e6ca5fd007\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"Premier Sports #KODIPROP:inputstream.adaptive.license_type\\u003dclearkey #KODIPROP:inputstream.adaptive.license_key\\u003d\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_ps_hd1/default/index.mpd\"}]",
+    "logo": "https://i.imgur.com/GTfUEnU.png",
+    "nameen": "Premier Sports",
+    "position": "7",
+    "type": "channel",
+    "key": "sport_philippines"
+  },
+  {
+    "namear": "Premier Sports 2",
+    "servers": "[{\"headers\":\"\",\"license\":\"59454adb530b4e0784eae62735f9d850:61100d0b8c4dd13e4eb8b4851ba192cc\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"Premier Sports 2 #KODIPROP:inputstream.adaptive.license_type\\u003dclearkey #KODIPROP:inputstream.adaptive.license_key\\u003d\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/premiersports2hd/default/index.mpd\"}]",
+    "logo": "https://i.imgur.com/OWVR172.png",
+    "nameen": "Premier Sports 2",
+    "position": "8",
+    "type": "channel",
+    "key": "sport_philippines"
+  },
+  {
+    "namear": "SpoTV HD",
+    "servers": "[{\"headers\":\"\",\"license\":\"ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"SpoTV HD #KODIPROP:inputstream.adaptive.license_type\\u003dclearkey #KODIPROP:inputstream.adaptive.license_key\\u003dec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd\"}]",
+    "logo": "https://i.imgur.com/QExPfsT.png",
+    "nameen": "SpoTV HD",
+    "position": "9",
+    "type": "channel",
+    "key": "sport_philippines"
+  },
+  {
+    "namear": "SpoTV 2 HD",
+    "servers": "[{\"headers\":\"\",\"license\":\"7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"SpoTV 2 HD #KODIPROP:inputstream.adaptive.license_type\\u003dclearkey #KODIPROP:inputstream.adaptive.license_key\\u003d\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd\"}]",
+    "logo": "https://i.imgur.com/7mY1Zxg.png",
+    "nameen": "SpoTV 2 HD",
+    "position": "10",
+    "type": "channel",
+    "key": "sport_philippines"
+  }
+]

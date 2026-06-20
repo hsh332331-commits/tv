@@ -1,0 +1,56 @@
+[
+  {
+    "namear": "SPT1",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36|find|m3u8\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"name\":\"SPT1\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://lovetier.bz/player/SPT1\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0P6k2kqgkQ55oHPRBm-Apg3i08ZLSfQEsqQ&s",
+    "nameen": "SPT1",
+    "position": "1",
+    "type": "channel",
+    "key": "sport_portugal"
+  },
+  {
+    "namear": "SPT2",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36|find|m3u8\",\"otherHeaders\":\"find|m3u8\",\"name\":\"SPT2\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://lovetier.bz/player/SPT2\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0P6k2kqgkQ55oHPRBm-Apg3i08ZLSfQEsqQ&s",
+    "nameen": "SPT2",
+    "position": "2",
+    "type": "channel",
+    "key": "sport_portugal"
+  },
+  {
+    "namear": "SPT3",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36|find|m3u8\",\"otherHeaders\":\"find|m3u8\",\"name\":\"SPT3\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://lovetier.bz/player/SPT3\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0P6k2kqgkQ55oHPRBm-Apg3i08ZLSfQEsqQ&s",
+    "nameen": "SPT3",
+    "position": "3",
+    "type": "channel",
+    "key": "sport_portugal"
+  },
+  {
+    "namear": "SPT4",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36|find|m3u8\",\"otherHeaders\":\"find|m3u8\",\"name\":\"SPT4\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://lovetier.bz/player/SPT4\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0P6k2kqgkQ55oHPRBm-Apg3i08ZLSfQEsqQ&s",
+    "nameen": "SPT4",
+    "position": "4",
+    "type": "channel",
+    "key": "sport_portugal"
+  },
+  {
+    "namear": "SPT5",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36|find|m3u8\",\"otherHeaders\":\"find|m3u8\",\"name\":\"SPT5\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://lovetier.bz/player/SPT5\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0P6k2kqgkQ55oHPRBm-Apg3i08ZLSfQEsqQ&s",
+    "nameen": "SPT5",
+    "position": "5",
+    "type": "channel",
+    "key": "sport_portugal"
+  },
+  {
+    "namear": "SPT6",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36|find|m3u8\",\"otherHeaders\":\"find|m3u8\",\"name\":\"SPT6\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://lovetier.bz/player/SPT6\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0P6k2kqgkQ55oHPRBm-Apg3i08ZLSfQEsqQ&s",
+    "nameen": "SPT6",
+    "position": "6",
+    "type": "channel",
+    "key": "sport_portugal"
+  }
+]

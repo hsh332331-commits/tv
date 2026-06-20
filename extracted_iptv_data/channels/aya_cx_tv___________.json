@@ -1,0 +1,110 @@
+[
+  {
+    "namear": "AL Qamar",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://pull-cdnw.anystream.uk/live/d84d4809018b100059f000f600000000/playlist.m3u8\"}]",
+    "logo": "https://up6.cc/2024/11/173167782053261.jpeg",
+    "nameen": "AL Qamar",
+    "position": "105",
+    "type": "channel",
+    "key": "aya_cx_tvقنوت_الكويت"
+  },
+  {
+    "namear": "Al Qurain",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8\"}]",
+    "logo": "https://i.imgur.com/PDCQtSG.png",
+    "nameen": "Al Qurain",
+    "position": "6",
+    "type": "channel",
+    "key": "aya_cx_tvقنوت_الكويت"
+  },
+  {
+    "namear": "Kuwait TV",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://a501.variety-buy.store/api/channel/750\"}]",
+    "logo": "https://i.imgur.com/vwpykE8.png",
+    "nameen": "Kuwait TV",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvقنوت_الكويت"
+  },
+  {
+    "namear": "KTV Arabe",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8\"}]",
+    "logo": "https://up6.cc/2024/11/173167779597841.png",
+    "nameen": "KTV Arabe",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvقنوت_الكويت"
+  },
+  {
+    "namear": "Kuwait TV 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://a501.variety-buy.store/api/channel/751\"}]",
+    "logo": "https://i.imgur.com/d9n3GuW.png",
+    "nameen": "Kuwait TV 2",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvقنوت_الكويت"
+  },
+  {
+    "namear": "Khallik Bilbait",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://a501.variety-buy.store/api/channel/752\"}]",
+    "logo": "https://i.imgur.com/dX1ECvy.png",
+    "nameen": "Khallik Bilbait",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvقنوت_الكويت"
+  },
+  {
+    "namear": "KTV Ethraa",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://a501.variety-buy.store/api/channel/753\"}]",
+    "logo": "https://i.imgur.com/E0vXCF4.png",
+    "nameen": "KTV Ethraa",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvقنوت_الكويت"
+  },
+  {
+    "namear": "ATV",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://116.202.238.88/ATV_TR/index.m3u8\"}]",
+    "logo": "https://i.imgur.com/8XXZ278.png",
+    "nameen": "ATV",
+    "position": "14",
+    "type": "channel",
+    "key": "aya_cx_tvقنوت_الكويت"
+  },
+  {
+    "namear": "Al Bawadi",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://a501.variety-buy.store/api/channel/752\"}]",
+    "logo": "https://i.imgur.com/EUn1jAa.png",
+    "nameen": "Al Bawadi",
+    "position": "32",
+    "type": "channel",
+    "key": "aya_cx_tvقنوت_الكويت"
+  },
+  {
+    "namear": "KTV Drama",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8\"}]",
+    "logo": "https://up6.cc/2024/11/173167776909821.jpeg",
+    "nameen": "KTV Drama",
+    "position": "11",
+    "type": "channel",
+    "key": "aya_cx_tvقنوت_الكويت"
+  },
+  {
+    "namear": "Kuwait Sport",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://a501.variety-buy.store/api/channel/756\"}]",
+    "logo": "https://i.imgur.com/E2NC3n6.png",
+    "nameen": "Kuwait Sport",
+    "position": "7",
+    "type": "channel",
+    "key": "aya_cx_tvقنوت_الكويت"
+  },
+  {
+    "namear": "Kuwait Sport 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://a501.variety-buy.store/api/channel/757\"}]",
+    "logo": "https://i.imgur.com/YKFX6zy.png",
+    "nameen": "Kuwait Sport 2",
+    "position": "8",
+    "type": "channel",
+    "key": "aya_cx_tvقنوت_الكويت"
+  }
+]

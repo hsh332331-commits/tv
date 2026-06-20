@@ -1,0 +1,146 @@
+[
+  {
+    "namear": "ZEE AFLAM",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"AFLAM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8\"}]",
+    "logo": "https://content.weyyak.com/200x200/5a7c9610-5562-407b-b711-f31ce6267786/poster-image?c=81211",
+    "nameen": "ZEE AFLAM",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvوياك"
+  },
+  {
+    "namear": "Hala London",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8\"}]",
+    "logo": "https://file.rafalnht.com/13903f68789881d9bbe0ff91bf7d813c.photo.jpg",
+    "nameen": "Hala London",
+    "position": "9",
+    "type": "channel",
+    "key": "aya_cx_tvوياك"
+  },
+  {
+    "namear": "Party Time Karoke",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://weyyak-live.akamaized.net/weyyak_party_time_karaoke/index.m3u8\"}]",
+    "logo": "https://file.rafalnht.com/fa0f90252308be3852c021636fb9da00.photo.jpg",
+    "nameen": "Party Time Karoke",
+    "position": "14",
+    "type": "channel",
+    "key": "aya_cx_tvوياك"
+  },
+  {
+    "namear": "Cookong Panda",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://weyyak-live.akamaized.net/weyyak_cookong_panda/index.m3u8\"}]",
+    "logo": "https://file.rafalnht.com/2fa855ccd0b1c1bd21238cca4a61d5f5.photo.jpg",
+    "nameen": "Cookong Panda",
+    "position": "15",
+    "type": "channel",
+    "key": "aya_cx_tvوياك"
+  },
+  {
+    "namear": "Wedo Big Stories",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://weyyak-live.akamaized.net/wedo_big_stories/index.m3u8\"}]",
+    "logo": "https://file.rafalnht.com/143dc16b5bfa3d7fd7c86ffe471d7aa8.photo.jpg",
+    "nameen": "Wedo Big Stories",
+    "position": "11",
+    "type": "channel",
+    "key": "aya_cx_tvوياك"
+  },
+  {
+    "namear": "DRAMA",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"drama\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8\"}]",
+    "logo": "https://content.weyyak.com/d995517f-bc87-ea11-831d-02d662556796/poster-image?c=188944",
+    "nameen": "DRAMA",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_cx_tvوياك"
+  },
+  {
+    "namear": "MIX",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"mix\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8\"}]",
+    "logo": "https://content.weyyak.com/bc777336-328d-ea11-831d-02d662556796/poster-image?c=112557",
+    "nameen": "MIX",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvوياك"
+  },
+  {
+    "namear": "NWA3IM",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"nawa3im\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8\"}]",
+    "logo": "https://content.weyyak.com/d867c2e9-328d-ea11-831d-02d662556796/poster-image?c=6798",
+    "nameen": "NWA3IM",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvوياك"
+  },
+  {
+    "namear": "Afro Kiddos",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://weyyak-live.akamaized.net/weyyak_afrokiddos/index.m3u8\"}]",
+    "logo": "https://file.rafalnht.com/f7b61435ecdf552314a671b6c80eb492.photo.jpg",
+    "nameen": "Afro Kiddos",
+    "position": "10",
+    "type": "channel",
+    "key": "aya_cx_tvوياك"
+  },
+  {
+    "namear": "ZEE ALWAN",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"zee aflam\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8\"}]",
+    "logo": "https://content.weyyak.com/25a860af-4bbc-4289-8e1f-b3bed0dcc64a/poster-image?c=138756",
+    "nameen": "ZEE ALWAN",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvوياك"
+  },
+  {
+    "namear": "The Smurfs",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"smurfs\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://weyyak-live.akamaized.net/weyyak_smurf_tv/index.m3u8\"}]",
+    "logo": "https://content.weyyak.com/e6635eff-2975-4c31-92c4-70398c3e2fab/poster-image?c=470",
+    "nameen": "The Smurfs",
+    "position": "6",
+    "type": "channel",
+    "key": "aya_cx_tvوياك"
+  },
+  {
+    "namear": "TG JUNIOR",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"tg junior\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://weyyak-live.akamaized.net/weyyak_tg_junior/index.m3u8\"}]",
+    "logo": "https://content.weyyak.com/f5056e11-a3a9-4aa7-9cac-1250aa1f35bd/poster-image?c=166715",
+    "nameen": "TG JUNIOR",
+    "position": "7",
+    "type": "channel",
+    "key": "aya_cx_tvوياك"
+  },
+  {
+    "namear": "Hayat Qalbi",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://weyyak-live.akamaized.net/hayat_qalbi/index.m3u8\"}]",
+    "logo": "https://file.rafalnht.com/2ca61db6c61fb7b3be71bed6d5d6ca8b.photo.jpg",
+    "nameen": "Hayat Qalbi",
+    "position": "13",
+    "type": "channel",
+    "key": "aya_cx_tvوياك"
+  },
+  {
+    "namear": "Johda Akbar",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://weyyak-live.akamaized.net/jodha_akbar/index.m3u8\"}]",
+    "logo": "https://file.rafalnht.com/a04a13a165fdafeaaa21a8cdfc30c880.photo.jpg",
+    "nameen": "Johda Akbar",
+    "position": "8",
+    "type": "channel",
+    "key": "aya_cx_tvوياك"
+  },
+  {
+    "namear": "ACTION",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"action\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://weyyak-live.akamaized.net/weyyak_action/index.m3u8\"}]",
+    "logo": "https://content.weyyak.com/207c8580-318d-ea11-831d-02d662556796/poster-image?c=122920",
+    "nameen": "ACTION",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvوياك"
+  },
+  {
+    "namear": "Toon Googles WW",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://weyyak-live.akamaized.net/weyyak_toon_goggles_ww/index.m3u8\"}]",
+    "logo": "https://file.rafalnht.com/d8ea4a6660e67b2a73b26bd621788c39.photo.jpg",
+    "nameen": "Toon Googles WW",
+    "position": "12",
+    "type": "channel",
+    "key": "aya_cx_tvوياك"
+  }
+]

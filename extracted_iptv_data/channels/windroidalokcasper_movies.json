@@ -1,0 +1,74 @@
+[
+  {
+    "namear": "Casper Action 1",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Casper Action 1\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/131.m3u8\"}]",
+    "logo": "https://images6.fanpop.com/image/photos/39100000/Casper-Logo-casper-the-ghost-39184278-575-285.jpg",
+    "nameen": "Casper Action 1",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidalokcasper_movies"
+  },
+  {
+    "namear": "Casper Anime ",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Casper Anime \",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/133.m3u8\"}]",
+    "logo": "https://images6.fanpop.com/image/photos/39100000/Casper-Logo-casper-the-ghost-39184278-575-285.jpg",
+    "nameen": "Casper Anime ",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidalokcasper_movies"
+  },
+  {
+    "namear": "Casper Arabic",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Casper Arabic\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/134.m3u8\"}]",
+    "logo": "https://images6.fanpop.com/image/photos/39100000/Casper-Logo-casper-the-ghost-39184278-575-285.jpg",
+    "nameen": "Casper Arabic",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidalokcasper_movies"
+  },
+  {
+    "namear": "Casper Documentary",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Casper Documentary\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/135.m3u8\"}]",
+    "logo": "https://images6.fanpop.com/image/photos/39100000/Casper-Logo-casper-the-ghost-39184278-575-285.jpg",
+    "nameen": "Casper Documentary",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidalokcasper_movies"
+  },
+  {
+    "namear": "Casper Drama",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Casper Drama\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/136.m3u8\"}]",
+    "logo": "https://images6.fanpop.com/image/photos/39100000/Casper-Logo-casper-the-ghost-39184278-575-285.jpg",
+    "nameen": "Casper Drama",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidalokcasper_movies"
+  },
+  {
+    "namear": "Casper Turkey",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Casper Turkey\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/137.m3u8\"}]",
+    "logo": "https://images6.fanpop.com/image/photos/39100000/Casper-Logo-casper-the-ghost-39184278-575-285.jpg",
+    "nameen": "Casper Turkey",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidalokcasper_movies"
+  },
+  {
+    "namear": "Casper Horror",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Casper Horror\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/138.m3u8\"}]",
+    "logo": "https://images6.fanpop.com/image/photos/39100000/Casper-Logo-casper-the-ghost-39184278-575-285.jpg",
+    "nameen": "Casper Horror",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidalokcasper_movies"
+  },
+  {
+    "namear": "Casper Action 2 ",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Casper Action 2 \",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/132.m3u8\"}]",
+    "logo": "https://images6.fanpop.com/image/photos/39100000/Casper-Logo-casper-the-ghost-39184278-575-285.jpg",
+    "nameen": "Casper Action 2 ",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidalokcasper_movies"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://h25.8alhouri-shop.store/yorit/390.m3u8?9787488847/345\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "",
+    "position": "1",
+    "type": "channel",
+    "key": "hh"
+  },
+  {
+    "namear": "",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://h25.zyounwar-shop.store/yorit/390.js?9787488847/346\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "",
+    "position": "2",
+    "type": "channel",
+    "key": "hh"
+  },
+  {
+    "namear": "",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://h25.zirouwar-shop.store/yorit/390.js?9787488847/347.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "",
+    "position": "3",
+    "type": "channel",
+    "key": "hh"
+  },
+  {
+    "namear": "",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://h25.zirouwar-shop.store/yorit/390.m3u8?9787488847/348\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "",
+    "position": "4",
+    "type": "channel",
+    "key": "hh"
+  },
+  {
+    "namear": "",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://h25.zouwanr-shop.store/yorit/390.js?9787488847/349\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "",
+    "position": "5",
+    "type": "channel",
+    "key": "hh"
+  }
+]

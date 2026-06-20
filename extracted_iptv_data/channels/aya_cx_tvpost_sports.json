@@ -1,0 +1,56 @@
+[
+  {
+    "namear": "POST 1 ᴿᴬᵂ",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Cast X TV | POST TV 1 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://cdn7-mejarhosting.cfd/2025-posttv720p-ch01/master.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Cast X TV | POST TV 1 SD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://mejarhosting.cfd/posttv480p/ch01/master.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Cast X TV | POST TV 1 ᴿᴬᵂ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://cdn7-mejarhosting.cfd/2025-posttv1080p-ch01/master.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9eeJ0EMlgpj9OT5GW8TBv8eh0D8aR_IcihbiaO08ZWR36xRDzTsJ8N-vs&s=10",
+    "nameen": "POST 1 ᴿᴬᵂ",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvpost_sports"
+  },
+  {
+    "namear": "POST 3 ᴿᴬᵂ",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Cast X TV | POST TV 3 SD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://mejarhosting.cfd/posttv480p/ch03/master.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Cast X TV | POST TV 3 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://cdn7-mejarhosting.cfd/2025-posttv720p-ch03/master.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Cast X TV | POST TV 3 ᴿᴬᵂ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://cdn7-mejarhosting.cfd/2025-posttv1080p-ch03/master.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9eeJ0EMlgpj9OT5GW8TBv8eh0D8aR_IcihbiaO08ZWR36xRDzTsJ8N-vs&s=10",
+    "nameen": "POST 3 ᴿᴬᵂ",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvpost_sports"
+  },
+  {
+    "namear": "POST 5 ᴿᴬᵂ",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Cast X TV | POST TV 5 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://cdn7-mejarhosting.cfd/2025-posttv720p-ch05/master.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Cast X TV | POST TV 5 ᴿᴬᵂ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://cdn7-mejarhosting.cfd/2025-posttv1080p-ch05/master.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Cast X TV | POST TV 5 SD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://mejarhosting.cfd/posttv480p/ch05/master.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9eeJ0EMlgpj9OT5GW8TBv8eh0D8aR_IcihbiaO08ZWR36xRDzTsJ8N-vs&s=10",
+    "nameen": "POST 5 ᴿᴬᵂ",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvpost_sports"
+  },
+  {
+    "namear": "POST 6 ᴿᴬᵂ",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Cast X TV | POST TV 6 Raw\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdn7-mejarhosting.cfd/2025-posttv1080p-ch06/master.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Cast X TV | POST TV 6 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"https://cdn7-mejarhosting.cfd/2025-posttv720p-ch06/master.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"CAST X TV | POST TV 6 SD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://mejarhosting.cfd/posttv480p/ch06/master.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9eeJ0EMlgpj9OT5GW8TBv8eh0D8aR_IcihbiaO08ZWR36xRDzTsJ8N-vs&s=10",
+    "nameen": "POST 6 ᴿᴬᵂ",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_cx_tvpost_sports"
+  },
+  {
+    "namear": "POST 2 ᴿᴬᵂ",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Cast X TV | POST TV 2 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://cdn7-mejarhosting.cfd/2025-posttv720p-ch02/master.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Cast X TV | POST TV 2 ᴿᴬᵂ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://cdn7-mejarhosting.cfd/2025-posttv1080p-ch02/master.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Cast X TV | POST 2 SD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://mejarhosting.cfd/posttv480p/ch02/master.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9eeJ0EMlgpj9OT5GW8TBv8eh0D8aR_IcihbiaO08ZWR36xRDzTsJ8N-vs&s=10",
+    "nameen": "POST 2 ᴿᴬᵂ",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvpost_sports"
+  },
+  {
+    "namear": "POST 4 ᴿᴬᵂ",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Cast X TV | POST TV 4 ᴿᴬᵂ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://cdn7-mejarhosting.cfd/2025-posttv1080p-ch04/master.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Cast X TV | POST TV 4 SD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://mejarhosting.cfd/posttv480p/ch04/master.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Cast X TV | POST TV 4 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://cdn7-mejarhosting.cfd/2025-posttv720p-ch04/master.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9eeJ0EMlgpj9OT5GW8TBv8eh0D8aR_IcihbiaO08ZWR36xRDzTsJ8N-vs&s=10",
+    "nameen": "POST 4 ᴿᴬᵂ",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvpost_sports"
+  }
+]

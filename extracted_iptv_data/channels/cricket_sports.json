@@ -1,0 +1,83 @@
+[
+  {
+    "namear": "Ten Sport",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://103.157.249.125:201/play/a041/mono.m3u8 \"}]",
+    "logo": "https://img.freepik.com/vecteurs-premium/conception-modele-logo-sport-cricket_316488-806.jpg",
+    "nameen": "Ten Sport",
+    "position": "0",
+    "type": "channel",
+    "key": "cricket_sports"
+  },
+  {
+    "namear": "PTV Sport",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://31.172.87.19:2200/EX/ptvsportshd-pa/mono.m3u8 ?token\\u003dRED_Hqqv1c3nXjqlzBGFPhFuTg\\u003d\\u003d,165803831455.4814651659\\u003d|User-agent\\u003dREDLINECLIENT\"}]",
+    "logo": "https://img.freepik.com/vecteurs-premium/conception-modele-logo-sport-cricket_316488-806.jpg",
+    "nameen": "PTV Sport",
+    "position": "1",
+    "type": "channel",
+    "key": "cricket_sports"
+  },
+  {
+    "namear": "A SPORT",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://208.86.19.13:81/602.stream/mono.m3u8 \"}]",
+    "logo": "https://img.freepik.com/vecteurs-premium/conception-modele-logo-sport-cricket_316488-806.jpg",
+    "nameen": "A SPORT",
+    "position": "2",
+    "type": "channel",
+    "key": "cricket_sports"
+  },
+  {
+    "namear": "Star Sport Tamil",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://31.172.87.19:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/mono.m3u8 ?token\\u003dRED_Hqqv1c3nXjqlzBGFPhFuTg\\u003d\\u003d,165803831455.4814651659\\u003d|User-agent\\u003dREDLINECLIENT\"}]",
+    "logo": "https://img.freepik.com/vecteurs-premium/conception-modele-logo-sport-cricket_316488-806.jpg",
+    "nameen": "Star Sport Tamil",
+    "position": "3",
+    "type": "channel",
+    "key": "cricket_sports"
+  },
+  {
+    "namear": "Star Sport Hindi",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://31.172.87.19:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/mono.m3u8 ?token\\u003dRED_Hqqv1c3nXjqlzBGFPhFuTg\\u003d\\u003d,165803831455.4814651659\\u003d|User-agent\\u003dREDLINECLIENT\"}]",
+    "logo": "https://img.freepik.com/vecteurs-premium/conception-modele-logo-sport-cricket_316488-806.jpg",
+    "nameen": "Star Sport Hindi",
+    "position": "4",
+    "type": "channel",
+    "key": "cricket_sports"
+  },
+  {
+    "namear": "Sky Sport Event",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://31.172.87.19:2200//EX/Sky_Sports_Main_Event_FHD-uk/mono.m3u8 ?token\\u003dRED_Hqqv1c3nXjqlzBGFPhFuTg\\u003d\\u003d,165803831455.4814651659|User-agent\\u003dREDLINECLIENT\"}]",
+    "logo": "https://img.freepik.com/vecteurs-premium/conception-modele-logo-sport-cricket_316488-806.jpg",
+    "nameen": "Sky Sport Event",
+    "position": "5",
+    "type": "channel",
+    "key": "cricket_sports"
+  },
+  {
+    "namear": "Sky Sport Cricket",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://31.172.87.19:2200/EX/Sky_Sports_Cricket_HD-uk/mono.m3u8 ?token\\u003dRED_Hqqv1c3nXjqlzBGFPhFuTg\\u003d\\u003d,165803831455.4814651659\\u003d|User-agent\\u003dREDLINECLIENT\"}]",
+    "logo": "https://img.freepik.com/vecteurs-premium/conception-modele-logo-sport-cricket_316488-806.jpg",
+    "nameen": "Sky Sport Cricket",
+    "position": "6",
+    "type": "channel",
+    "key": "cricket_sports"
+  },
+  {
+    "namear": "Willow Cricket",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://31.172.87.19:2200/R-EX/WILLOW_CRICKET_HD-in/mono.m3u8 ?token\\u003dRED_ArFguF4BN2NkLRpAjRNjTA%3D%3D%2C165803831455.9659699029\\u003d|User-agent\\u003dREDLINECLIENT\"}]",
+    "logo": "https://img.freepik.com/vecteurs-premium/conception-modele-logo-sport-cricket_316488-806.jpg",
+    "nameen": "Willow Cricket",
+    "position": "7",
+    "type": "channel",
+    "key": "cricket_sports"
+  },
+  {
+    "namear": "Star Sport english",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdn1.mkhossain.ga/hls/star1en/.m3u8\"}]",
+    "logo": "https://img.freepik.com/vecteurs-premium/conception-modele-logo-sport-cricket_316488-806.jpg",
+    "nameen": "Star Sport english",
+    "position": "8",
+    "type": "channel",
+    "key": "cricket_sports"
+  }
+]

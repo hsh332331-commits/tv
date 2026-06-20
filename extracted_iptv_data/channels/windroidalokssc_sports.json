@@ -1,0 +1,83 @@
+[
+  {
+    "namear": "SSC SPORTS 1",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"SSC SPORTS 1\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/52.m3u8\"}]",
+    "logo": "https://i.ibb.co/3sdqXVN/1.png",
+    "nameen": "SSC SPORTS 1",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidalokssc_sports"
+  },
+  {
+    "namear": "SSC SPORTS 2",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"SSC SPORTS 2\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/53.m3u8\"}]",
+    "logo": "https://i.ibb.co/tXB6gXq/2.png",
+    "nameen": "SSC SPORTS 2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidalokssc_sports"
+  },
+  {
+    "namear": "SSC SPORTS 3",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"SSC SPORTS 3\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/54.m3u8\"}]",
+    "logo": "https://i.ibb.co/928M358/3.png",
+    "nameen": "SSC SPORTS 3",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidalokssc_sports"
+  },
+  {
+    "namear": "SSC SPORTS 4",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"SSC SPORTS 4\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/55.m3u8\"}]",
+    "logo": "https://i.ibb.co/0m0rp6D/4.png",
+    "nameen": "SSC SPORTS 4",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidalokssc_sports"
+  },
+  {
+    "namear": "SSC SPORTS 5",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"SSC SPORTS 5\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/56.m3u8\"}]",
+    "logo": "https://i.ibb.co/84G7tkY/5.png",
+    "nameen": "SSC SPORTS 5",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidalokssc_sports"
+  },
+  {
+    "namear": "SSC EXTRA 1",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"SSC EXTRA 1\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/57.m3u8\"}]",
+    "logo": "https://www.lyngsat.com/logo/tv/ss/ssc-extra-1-sa.png",
+    "nameen": "SSC EXTRA 1",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidalokssc_sports"
+  },
+  {
+    "namear": "SSC EXTRA 2 ",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"SSC EXTRA 2 \",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/58.m3u8\"}]",
+    "logo": "https://www.lyngsat.com/logo/tv/ss/ssc-extra-2-sa.png",
+    "nameen": "SSC EXTRA 2 ",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidalokssc_sports"
+  },
+  {
+    "namear": "SSC EXTRA 3",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"SSC EXTRA 3\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/551.m3u8\"}]",
+    "logo": "https://www.lyngsat.com/logo/tv/ss/ssc-extra-3-sa.png",
+    "nameen": "SSC EXTRA 3",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidalokssc_sports"
+  },
+  {
+    "namear": "جودة متوسطة لأهم المباريات",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"جودة متوسطة لأهم المباريات\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/59.m3u8\"}]",
+    "logo": "https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_1HD_AW-01-01.png",
+    "nameen": "جودة متوسطة لأهم المباريات",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidalokssc_sports"
+  }
+]

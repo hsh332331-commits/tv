@@ -1,0 +1,101 @@
+[
+  {
+    "namear": "Fox Rewayat",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"Fox Rewayat\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/217\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12163870_ico.png",
+    "nameen": "Fox Rewayat",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarfox"
+  },
+  {
+    "namear": "Fox Movies",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"Fox Movies\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/220\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12163875_ico.png",
+    "nameen": "Fox Movies",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarfox"
+  },
+  {
+    "namear": "Fox Action",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Fox Action\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/61.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12163885_ico.png",
+    "nameen": "Fox Action",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarfox"
+  },
+  {
+    "namear": "Fox Crime",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"Fox Crime\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/216\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12163888_ico.png",
+    "nameen": "Fox Crime",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarfox"
+  },
+  {
+    "namear": "Fox Life",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"Fox Life\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/215\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18467547_ico.png",
+    "nameen": "Fox Life",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarfox"
+  },
+  {
+    "namear": "Star channel",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Star channel\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/5.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/579307_ico.png",
+    "nameen": "Star channel",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarfox"
+  },
+  {
+    "namear": "Universal Crime",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Universal Crime\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/486.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/579381_ico.png",
+    "nameen": "Universal Crime",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarfox"
+  },
+  {
+    "namear": "Universal Comedy",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Universal Comedy\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/480.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/579874_ico.png",
+    "nameen": "Universal Comedy",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarfox"
+  },
+  {
+    "namear": "Star Life",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Star Life\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/11.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/579909_ico.png",
+    "nameen": "Star Life",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarfox"
+  },
+  {
+    "namear": "FX Movie",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"FX Movie\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/182.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/579952_ico.png",
+    "nameen": "FX Movie",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadrarfox"
+  },
+  {
+    "namear": "Universal Cinema",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Universal Cinema\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/481.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/579978_ico.png",
+    "nameen": "Universal Cinema",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidadrarfox"
+  }
+]

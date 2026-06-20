@@ -1,0 +1,56 @@
+[
+  {
+    "namear": "Alwan 3",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://mejarserver.site|user-agent|Mejar Server Local|origin|mejarserverlocal\",\"scheme\":\"\",\"otherHeaders\":\"origin|mejarserverlocal\",\"isWeb\":\"false\",\"name\":\"Alwan 3\",\"Referer\":\"https://mejarserver.site\",\"userAgent\":\"Mejar Server Local\",\"position\":\"\",\"url\":\"https://cdnfest.com/Alwan-Sport-3-HD/index.fmp4.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8se4liBSs4gdwVlFalS5jrA2gyu3tli8mpZX8-DQ_A5-PsxV2CiEyrp3i&s=10",
+    "nameen": "Alwan 3",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvalwan_ميجر_سيرفر"
+  },
+  {
+    "namear": "Alwan 4",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://mejarserver.site|user-agent|Mejar Server Local|origin|mejarserverlocal\",\"scheme\":\"\",\"otherHeaders\":\"origin|mejarserverlocal\",\"isWeb\":\"false\",\"name\":\"Alwan 4\",\"Referer\":\"https://mejarserver.site\",\"userAgent\":\"Mejar Server Local\",\"position\":\"\",\"url\":\"https://cdnfest.com/Alwan-Sport-4-HD/index.fmp4.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8se4liBSs4gdwVlFalS5jrA2gyu3tli8mpZX8-DQ_A5-PsxV2CiEyrp3i&s=10",
+    "nameen": "Alwan 4",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvalwan_ميجر_سيرفر"
+  },
+  {
+    "namear": "Alwan 6",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://mejarserver.site|user-agent|Mejar Server Local|origin|mejarserverlocal\",\"scheme\":\"\",\"otherHeaders\":\"origin|mejarserverlocal\",\"isWeb\":\"false\",\"name\":\"Alwan 6\",\"Referer\":\"https://mejarserver.site\",\"userAgent\":\"Mejar Server Local\",\"position\":\"\",\"url\":\"https://cdnfest.com/Alwan-Sport-6-HD/index.fmp4.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8se4liBSs4gdwVlFalS5jrA2gyu3tli8mpZX8-DQ_A5-PsxV2CiEyrp3i&s=10",
+    "nameen": "Alwan 6",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_cx_tvalwan_ميجر_سيرفر"
+  },
+  {
+    "namear": "Alwan 5",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://mejarserver.site|user-agent|Mejar Server Local|origin|mejarserverlocal\",\"scheme\":\"\",\"otherHeaders\":\"origin|mejarserverlocal\",\"isWeb\":\"false\",\"name\":\"Alwan 5\",\"Referer\":\"https://mejarserver.site\",\"userAgent\":\"Mejar Server Local\",\"position\":\"\",\"url\":\"https://cdnfest.com/Alwan-Sport-5-HD/index.fmp4.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8se4liBSs4gdwVlFalS5jrA2gyu3tli8mpZX8-DQ_A5-PsxV2CiEyrp3i&s=10",
+    "nameen": "Alwan 5",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvalwan_ميجر_سيرفر"
+  },
+  {
+    "namear": "Alwan 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://mejarserver.site|user-agent|Mejar Server Local|origin|mejarserverlocal\",\"scheme\":\"\",\"otherHeaders\":\"origin|mejarserverlocal\",\"isWeb\":\"false\",\"name\":\"Alwan 1\",\"Referer\":\"https://mejarserver.site\",\"userAgent\":\"Mejar Server Local\",\"position\":\"\",\"url\":\"https://cdnfest.com/Alwan-Sport-1-HD/index.fmp4.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8se4liBSs4gdwVlFalS5jrA2gyu3tli8mpZX8-DQ_A5-PsxV2CiEyrp3i&s=10",
+    "nameen": "Alwan 1",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvalwan_ميجر_سيرفر"
+  },
+  {
+    "namear": "Alwan 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://mejarserver.site|user-agent|Mejar Server Local|origin|mejarserverlocal\",\"scheme\":\"\",\"otherHeaders\":\"origin|mejarserverlocal\",\"isWeb\":\"false\",\"name\":\"Alwan 2\",\"Referer\":\"https://mejarserver.site\",\"userAgent\":\"Mejar Server Local\",\"position\":\"\",\"url\":\"https://cdnfest.com/Alwan-Sport-2-HD/index.fmp4.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8se4liBSs4gdwVlFalS5jrA2gyu3tli8mpZX8-DQ_A5-PsxV2CiEyrp3i&s=10",
+    "nameen": "Alwan 2",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvalwan_ميجر_سيرفر"
+  }
+]

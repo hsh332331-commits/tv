@@ -1,0 +1,146 @@
+[
+  {
+    "namear": "Syria TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Syria TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://svs.itworkscdn.net/syriatvlive/syriatv.smil/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12131079_ico.png",
+    "nameen": "Syria TV",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarsyria_سوريا"
+  },
+  {
+    "namear": "Alikhbaria",
+    "servers": "[{\"headers\":\"Hhuser-Agent|Hhuser-Agent|Hhuser-Agent|Hh\",\"otherHeaders\":\"\",\"name\":\"Alikhbaria\",\"Referer\":\"\",\"userAgent\":\"Hhuser-Agent|Hh\",\"position\":\"0\",\"url\":\"http://vod.alikhbaria.net:1935/oTv/snews05042022/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12131021_ico.png",
+    "nameen": "Alikhbaria",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarsyria_سوريا"
+  },
+  {
+    "namear": "Al Alam Syria",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"Al Alam Syria\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"https://live2.presstv.ir/live/alam_720p/chunklist.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/10756204_ico.png",
+    "nameen": "Al Alam Syria",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarsyria_سوريا"
+  },
+  {
+    "namear": "Halab Today",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Halab Today\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://video1.getstreamhosting.com:1936/8320/8320/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12131046_ico.png",
+    "nameen": "Halab Today",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarsyria_سوريا"
+  },
+  {
+    "namear": "Syrian Satellite",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"Syrian Satellite\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://vod.ortas.sy:1935/oTv/sat05042022/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12131393_ico.png",
+    "nameen": "Syrian Satellite",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarsyria_سوريا"
+  },
+  {
+    "namear": "Noor Al-Sham",
+    "servers": "[{\"headers\":\"SSuser-Agent|SSuser-Agent|SSuser-Agent|SS\",\"otherHeaders\":\"\",\"name\":\"Noor Al-Sham\",\"Referer\":\"\",\"userAgent\":\"SSuser-Agent|SS\",\"position\":\"0\",\"url\":\"http://vod.ortas.sy:1935/oTv/nour05042022/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12131065_ico.png",
+    "nameen": "Noor Al-Sham",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarsyria_سوريا"
+  },
+  {
+    "namear": "Syrian Drama",
+    "servers": "[{\"headers\":\"sssuser-Agent|sssuser-Agent|sssuser-Agent|sss\",\"otherHeaders\":\"\",\"name\":\"Syrian Drama\",\"Referer\":\"\",\"userAgent\":\"sssuser-Agent|sss\",\"position\":\"0\",\"url\":\"http://vod.ortas.sy:1935/oTv/drama05042022/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12131125_ico.png",
+    "nameen": "Syrian Drama",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarsyria_سوريا"
+  },
+  {
+    "namear": "Syrian Education",
+    "servers": "[{\"headers\":\"ttuser-Agent|ttuser-Agent|ttuser-Agent|tt\",\"otherHeaders\":\"\",\"name\":\"Syrian Education\",\"Referer\":\"\",\"userAgent\":\"ttuser-Agent|tt\",\"position\":\"0\",\"url\":\"http://vod.ortas.sy:1935/oTv/sedu05042022/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12131129_ico.png",
+    "nameen": "Syrian Education",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarsyria_سوريا"
+  },
+  {
+    "namear": "Souryana",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"Souryana\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://vod.ortas.sy:1935/oTv/souryana05042022/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12131074_ico.png",
+    "nameen": "Souryana",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarsyria_سوريا"
+  },
+  {
+    "namear": "Alaraby",
+    "servers": "[{\"headers\":\"jjuser-Agent|jjuser-Agent|jjuser-Agent|jj\",\"otherHeaders\":\"\",\"name\":\"Alaraby\",\"Referer\":\"\",\"userAgent\":\"jjuser-Agent|jj\",\"position\":\"0\",\"url\":\"https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12131416_ico.png",
+    "nameen": "Alaraby",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadrarsyria_سوريا"
+  },
+  {
+    "namear": "Alaraby 2",
+    "servers": "[{\"headers\":\"SSuser-Agent|SSuser-Agent|SSuser-Agent|SS\",\"otherHeaders\":\"\",\"name\":\"Alaraby 2\",\"Referer\":\"\",\"userAgent\":\"SSuser-Agent|SS\",\"position\":\"0\",\"url\":\"https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/19453595_ico.png",
+    "nameen": "Alaraby 2",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidadrarsyria_سوريا"
+  },
+  {
+    "namear": "Lana TV",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Lana TV\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8.vod.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12131058_ico.png",
+    "nameen": "Lana TV",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidadrarsyria_سوريا"
+  },
+  {
+    "namear": "Lana TV*",
+    "servers": "[{\"headers\":\"DDuser-Agent|DDuser-Agent|DDuser-Agent|DD\",\"otherHeaders\":\"\",\"name\":\"Lana TV*\",\"Referer\":\"\",\"userAgent\":\"DDuser-Agent|DD\",\"position\":\"0\",\"url\":\"https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/16041646_ico.png",
+    "nameen": "Lana TV*",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidadrarsyria_سوريا"
+  },
+  {
+    "namear": "Sama TV",
+    "servers": "[{\"headers\":\"Jjuser-Agent|Jjuser-Agent|Jjuser-Agent|Jj\",\"otherHeaders\":\"\",\"name\":\"Sama TV\",\"Referer\":\"\",\"userAgent\":\"Jjuser-Agent|Jj\",\"position\":\"0\",\"url\":\"https://stream.sama-tv.net/hls/samatv.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12131292_ico.png",
+    "nameen": "Sama TV",
+    "position": "13",
+    "type": "channel",
+    "key": "windroidadrarsyria_سوريا"
+  },
+  {
+    "namear": "Sama TV*",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"Sama TV*\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/251\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/16041594_ico.png",
+    "nameen": "Sama TV*",
+    "position": "14",
+    "type": "channel",
+    "key": "windroidadrarsyria_سوريا"
+  },
+  {
+    "namear": "Al yaum TV",
+    "servers": "[{\"headers\":\"Gguser-Agent|Gguser-Agent|Gguser-Agent|Gg\",\"otherHeaders\":\"\",\"name\":\"Al yaum TV\",\"Referer\":\"\",\"userAgent\":\"Gguser-Agent|Gg\",\"position\":\"0\",\"url\":\"https://ikomg1.s.llnwi.net/alyaum-tv/stream_2.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/10756248_ico.png",
+    "nameen": "Al yaum TV",
+    "position": "15",
+    "type": "channel",
+    "key": "windroidadrarsyria_سوريا"
+  }
+]

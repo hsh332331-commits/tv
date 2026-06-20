@@ -1,0 +1,38 @@
+[
+  {
+    "namear": "Clarity 4K",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8\"}]",
+    "logo": "https://photos.live-tv-channels.org/tv-logo/clarity-4k-tv-8740.webp",
+    "nameen": "Clarity 4K",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvultra_4k_قنوات"
+  },
+  {
+    "namear": "Fashion TV 4K",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"4K\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://fashs043.bstrm.net/scte/sftv2_client1/playlist.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8\"}]",
+    "logo": "https://play-lh.googleusercontent.com/SO05Jsh-ONrtRXa_5eOa15AzjrFCKNNPKlBMK1Prv_-meYXAV5F5eK15iJTGbY2ULBM",
+    "nameen": "Fashion TV 4K",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvultra_4k_قنوات"
+  },
+  {
+    "namear": "Loupe 4K",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8\"}]",
+    "logo": "https://loupeart.com/cdn/shop/files/Loupe_Gradient_1200x1200.png?v=1667340212",
+    "nameen": "Loupe 4K",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvultra_4k_قنوات"
+  },
+  {
+    "namear": "Love Nature 4K",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8\"}]",
+    "logo": "https://yt3.googleusercontent.com/GOjU2CQGLeDL4ugjwzb2aSRPPxfCzauA-XaMHS9TQL-HgQfvUA-qtfAzAcyhyl6gcmj2THUDkw=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "Love Nature 4K",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvultra_4k_قنوات"
+  }
+]

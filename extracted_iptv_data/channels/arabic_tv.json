@@ -1,0 +1,524 @@
+[
+  {
+    "namear": "AL JAZEERA HD 🇶🇦",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AL JAZEERA HD 🇶🇦\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8\"}]",
+    "logo": "https://bit.ly/3x3lce2",
+    "nameen": "AL JAZEERA HD 🇶🇦",
+    "position": "1",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "AL JAZEERA SD 🇶🇦",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AL JAZEERA SD 🇶🇦\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-hls-web-aja-gcp.thehlive.com/AJA/03.m3u8\"}]",
+    "logo": "https://bit.ly/3x3lce2",
+    "nameen": "AL JAZEERA SD 🇶🇦",
+    "position": "2",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "Al Jazeera Mubasher 24 HD 🇶🇦",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Jazeera Mubasher 24 HD 🇶🇦\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-hls-web-ajm24-fa.thehlive.com/AJM24/index.m3u8\"}]",
+    "logo": "https://yt3.googleusercontent.com/h0_bBdVgCAXIPJFnQ4hZtE87cDY_qO7rkDAue8qXdmOFxZ5NaO3AFD1uCUcst-EsBcGJ8zl8EQ=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "Al Jazeera Mubasher 24 HD 🇶🇦",
+    "position": "3",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "Al Jazeera Mubasher 24 SD 🇶🇦",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Jazeera Mubasher 24 SD 🇶🇦\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-hls-web-ajm24-fa.thehlive.com/AJM24/03.m3u8\"}]",
+    "logo": "https://yt3.googleusercontent.com/h0_bBdVgCAXIPJFnQ4hZtE87cDY_qO7rkDAue8qXdmOFxZ5NaO3AFD1uCUcst-EsBcGJ8zl8EQ=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "Al Jazeera Mubasher 24 SD 🇶🇦",
+    "position": "4",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "Al Jazeera English HD 🇶🇦",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Jazeera English HD 🇶🇦\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8\"}]",
+    "logo": "https://m.media-amazon.com/images/I/31TqBcQUlcL.png",
+    "nameen": "Al Jazeera English HD 🇶🇦",
+    "position": "5",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "Al Jazeera English SD 🇶🇦",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Jazeera English SD 🇶🇦\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-hls-apps-aje-v3-fa.getaj.net/AJE/03.m3u8\"}]",
+    "logo": "https://m.media-amazon.com/images/I/31TqBcQUlcL.png",
+    "nameen": "Al Jazeera English SD 🇶🇦",
+    "position": "6",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "al jazeera Balkans HD 🇶🇦",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"al jazeera Balkans HD 🇶🇦\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Al_Jazeera_Balkans.png/250px-Al_Jazeera_Balkans.png",
+    "nameen": "al jazeera Balkans HD 🇶🇦",
+    "position": "7",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "al jazeera Balkans SD 🇶🇦",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"al jazeera Balkans SD 🇶🇦\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-hls-web-aje-gcp.thehlive.com/AJE/03.m3u8 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Al_Jazeera_Balkans.png/250px-Al_Jazeera_Balkans.png",
+    "nameen": "al jazeera Balkans SD 🇶🇦",
+    "position": "8",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "AL ARABIYA HD 🇸🇦",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AL ARABIYA HD 🇸🇦\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8\"}]",
+    "logo": "https://bit.ly/3owObkh",
+    "nameen": "AL ARABIYA HD 🇸🇦",
+    "position": "9",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "AL ARABIYA SD 🇸🇦",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AL ARABIYA SD 🇸🇦\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index_36.m3u8\"}]",
+    "logo": "https://bit.ly/3owObkh",
+    "nameen": "AL ARABIYA SD 🇸🇦",
+    "position": "10",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "AL HADATH HD 🇸🇦",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AL HADATH HD 🇸🇦\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8\"}]",
+    "logo": "https://bit.ly/36tclpF",
+    "nameen": "AL HADATH HD 🇸🇦",
+    "position": "11",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "AL HADATH SD 🇸🇦",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AL HADATH SD 🇸🇦\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/manifest/video/576p1200kbps/video.m3u8\"}]",
+    "logo": "https://bit.ly/36tclpF",
+    "nameen": "AL HADATH SD 🇸🇦",
+    "position": "12",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "Al Arabiya Programs HD 🇸🇦",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Arabiya Programs HD 🇸🇦\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index.m3u8\"}]",
+    "logo": "https://i.imgur.com/Hoc3cfO.png",
+    "nameen": "Al Arabiya Programs HD 🇸🇦",
+    "position": "13",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "Al Arabiya Programs SD 🇸🇦",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Arabiya Programs SD 🇸🇦\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index_3.m3u8\"}]",
+    "logo": "https://i.imgur.com/Hoc3cfO.png",
+    "nameen": "Al Arabiya Programs SD 🇸🇦",
+    "position": "14",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "Al Arabiya Business HD 🇸🇦",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Arabiya Business HD 🇸🇦\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya-business/6736e2ee3a7586c7763d7c7af867021f/index.m3u8\"}]",
+    "logo": "https://vid.alarabiya.net/images/2023/10/27/62f548e2-46ca-470b-93a9-c9f80deefef9/62f548e2-46ca-470b-93a9-c9f80deefef9.jpg",
+    "nameen": "Al Arabiya Business HD 🇸🇦",
+    "position": "15",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "Al Arabiya Business SD 🇸🇦",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Arabiya Business SD 🇸🇦\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya-business/6736e2ee3a7586c7763d7c7af867021f/manifest/video/576p1200kbps/video.m3u8\"}]",
+    "logo": "https://vid.alarabiya.net/images/2023/10/27/62f548e2-46ca-470b-93a9-c9f80deefef9/62f548e2-46ca-470b-93a9-c9f80deefef9.jpg",
+    "nameen": "Al Arabiya Business SD 🇸🇦",
+    "position": "16",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "Asharq News Channel HD 🇸🇦",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Asharq News Channel HD 🇸🇦\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8\"}]",
+    "logo": "https://i.imgur.com/zYleCsq.png",
+    "nameen": "Asharq News Channel HD 🇸🇦",
+    "position": "17",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "Al Ekhbaria HD 🇸🇦",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Ekhbaria HD 🇸🇦\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8\"}]",
+    "logo": "https://i.imgur.com/yFRMk0b.png",
+    "nameen": "Al Ekhbaria HD 🇸🇦",
+    "position": "18",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "BBC ARABIC 🇸🇦",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BBC ARABIC 🇸🇦\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://vs-cmaf-pushb-ww-live.akamaized.net/x\\u003d4/i\\u003durn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd\"}]",
+    "logo": "https://bit.ly/3r9w6dH",
+    "nameen": "BBC ARABIC 🇸🇦",
+    "position": "19",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "BBC Arabic HD 🇸🇦",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BBC Arabic HD 🇸🇦\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x\\u003d4/i\\u003durn:bbc:pips:service:bbc_arabic_tv/t\\u003d3840/v\\u003dpv14/b\\u003d5070016/main.m3u8 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥\"}]",
+    "logo": "https://i.imgur.com/3EKvZCD.png",
+    "nameen": "BBC Arabic HD 🇸🇦",
+    "position": "20",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "Syria TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Syria TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8\"}]",
+    "logo": "https://i.imgur.com/RMaLsmi.png",
+    "nameen": "Syria TV",
+    "position": "21",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "Al Araby 1 TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Araby 1 TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8\"}]",
+    "logo": "https://i.imgur.com/WqMfXqB.png",
+    "nameen": "Al Araby 1 TV",
+    "position": "22",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "ALARABY 2 TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ALARABY 2 TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3IDDBBQ",
+    "nameen": "ALARABY 2 TV",
+    "position": "23",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "Al Yaum TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Yaum TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://iko-live.akamaized.net/AlyuamTV/master.m3u8 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥\"}]",
+    "logo": "https://i.imgur.com/rBixF3P.png",
+    "nameen": "Al Yaum TV",
+    "position": "24",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "AL MAYADEEN HD 🇱🇧",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AL MAYADEEN HD 🇱🇧\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Al_Mayadeen_logo.svg/1200px-Al_Mayadeen_logo.svg.png",
+    "nameen": "AL MAYADEEN HD 🇱🇧",
+    "position": "25",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "Al Manar 🇱🇧",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Manar 🇱🇧\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://edge.fastpublish.me/live/index.m3u8\"}]",
+    "logo": "https://i.imgur.com/sOQLV7L.png",
+    "nameen": "Al Manar 🇱🇧",
+    "position": "26",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "NBN 🇱🇧",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NBN 🇱🇧\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://5.9.119.146:8883/nbn/index.m3u8\"}]",
+    "logo": "https://i.imgur.com/EefFcIk.png",
+    "nameen": "NBN 🇱🇧",
+    "position": "27",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "ALWifak News TV 🇱🇧",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ALWifak News TV 🇱🇧\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://alwifaklive.info:1935/live/myStream/playlist.m3u8 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥\"}]",
+    "logo": "https://i.imgur.com/1vqhmNz.png",
+    "nameen": "ALWifak News TV 🇱🇧",
+    "position": "28",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "Al Mamlaka TV 🇯🇴",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Mamlaka TV 🇯🇴\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8\"}]",
+    "logo": "https://i.imgur.com/UeTseMV.png",
+    "nameen": "Al Mamlaka TV 🇯🇴",
+    "position": "29",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "Alhaqeqa Aldawlia 🇯🇴",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Alhaqeqa Aldawlia 🇯🇴\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ghaasiflu.online/alhqeqa/index.m3u8 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥\"}]",
+    "logo": "https://www.lyngsat.com/logo/tv/aa/alhaqeqa-aldawlia-jo.png",
+    "nameen": "Alhaqeqa Aldawlia 🇯🇴",
+    "position": "30",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "Al Iraqia News 🇮🇶",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Iraqia News 🇮🇶\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8\"}]",
+    "logo": "https://imn.iq/wp-content/uploads/2024/06/live.png",
+    "nameen": "Al Iraqia News 🇮🇶",
+    "position": "31",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "Shams TV 🇮🇶",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Shams TV 🇮🇶\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://stream.shams.tv/hls/stream.m3u8\"}]",
+    "logo": "https://www.semakurd.net/sites/default/files/imagecache/400xY/shemis-tv.jpg",
+    "nameen": "Shams TV 🇮🇶",
+    "position": "32",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "Al-Sharqiya News 🇮🇶",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al-Sharqiya News 🇮🇶\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8\"}]",
+    "logo": "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/18/b1/b8/18b1b893-6534-db82-056e-2a79dad84357/source/512x512bb.jpg",
+    "nameen": "Al-Sharqiya News 🇮🇶",
+    "position": "33",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "iNEWS TV 🇮🇶",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"iNEWS TV 🇮🇶\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live.i-news.tv/hls/stream.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/35/INEWSTViq.jpg",
+    "nameen": "iNEWS TV 🇮🇶",
+    "position": "34",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "Almasra TV 🇮🇶",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Almasra TV 🇮🇶\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live.bradosti.net/live/Almasra/index.m3u8 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥\"}]",
+    "logo": "https://almasra.iq/wp-content/uploads/2023/03/almasra-logo1.png",
+    "nameen": "Almasra TV 🇮🇶",
+    "position": "35",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "Nabaa TV 🇱🇾",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Nabaa TV 🇱🇾\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://31.14.40.237:1935/live/Nabaa/playlist.m3u8 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥\"}]",
+    "logo": "https://i.imgur.com/p8eRgSs.png",
+    "nameen": "Nabaa TV 🇱🇾",
+    "position": "36",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "AL GHAD TV 🇪🇬",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AL GHAD TV 🇪🇬\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://eazyvwqssi.erbvr.com/alghadtv/alghadtv_720p.m3u8\"}]",
+    "logo": "https://i.ibb.co/mN2JhVS/alghad.png",
+    "nameen": "AL GHAD TV 🇪🇬",
+    "position": "37",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "WATAN HD 🇪🇬",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"WATAN HD 🇪🇬\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://rp.tactivemedia.com/watantv_source/live/chunks.m3u8\"}]",
+    "logo": "https://bit.ly/3GP3O1f",
+    "nameen": "WATAN HD 🇪🇬",
+    "position": "38",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "Al Qahera News 🇪🇬",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Qahera News 🇪🇬\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/profile_0/chunklist.m3u8\"}]",
+    "logo": "https://bit.ly/3FHyEcq",
+    "nameen": "Al Qahera News 🇪🇬",
+    "position": "39",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "Alsharq 🇪🇬",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Alsharq 🇪🇬\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8\"}]",
+    "logo": "https://bit.ly/3Q47QXN",
+    "nameen": "Alsharq 🇪🇬",
+    "position": "40",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "AlShoub",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AlShoub\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://play.tactivemedia.com/memfs/c5919b97-5329-4b84-91b2-613c6ed9953e.m3u8 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥\"}]",
+    "logo": "https://yt3.googleusercontent.com/8tNi4fU_cSNFhfDgoVeAXhqqUkxvJAJv_DnfJ2HjM8miaeobVYX8jkFMGV5Bt5KPmIz11I9y_w=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "AlShoub",
+    "position": "41",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "SKY NEWS ARABIC 🇦🇪",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SKY NEWS ARABIC 🇦🇪\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://stream.skynewsarabia.com/hls/sna.m3u8\"}]",
+    "logo": "https://bit.ly/39e3Wuy",
+    "nameen": "SKY NEWS ARABIC 🇦🇪",
+    "position": "42",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "Sky News 🇦🇪",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sky News 🇦🇪\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://linear417-gb-hls3-prd-ak.cdn.skycdp.com/100e/Content/HLS_004_1080_30/Live/channel(skynews)/index_1080.m3u8\"}]",
+    "logo": "https://i.imgur.com/WvNd8yg.png",
+    "nameen": "Sky News 🇦🇪",
+    "position": "43",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "AL Mashhad 🇦🇪",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AL Mashhad 🇦🇪\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://bcovlive-a.akamaihd.net/rbcb04b715757430f92099ecc84ca472f/ap-south-1/6313884884001/playlist.m3u8 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥\"}]",
+    "logo": "https://i.imgur.com/MNB0ppx.png",
+    "nameen": "AL Mashhad 🇦🇪",
+    "position": "44",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "KTV News 🇰🇼",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"KTV News 🇰🇼\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8\"}]",
+    "logo": "https://i.imgur.com/erZ0Ol1.png",
+    "nameen": "KTV News 🇰🇼",
+    "position": "45",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "ALqanat 9 🇹🇳",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ALqanat 9 🇹🇳\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8\"}]",
+    "logo": "https://bit.ly/3vlaUoV",
+    "nameen": "ALqanat 9 🇹🇳",
+    "position": "46",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "AL24 News 🇩🇿",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AL24 News 🇩🇿\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c1/AL24_News_Logo.svg",
+    "nameen": "AL24 News 🇩🇿",
+    "position": "47",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "AL ALAM 🇮🇷",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AL ALAM 🇮🇷\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live2.alalam.ir/live/Alalam/index.m3u8\"}]",
+    "logo": "https://bit.ly/3Nv4rim",
+    "nameen": "AL ALAM 🇮🇷",
+    "position": "48",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "Iran International 🇮🇷",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Iran International 🇮🇷\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8 ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ ➽───────────────❥ 𝙉𝙚𝙬𝙨 🌍\"}]",
+    "logo": "https://i.imgur.com/55RpaF3.png",
+    "nameen": "Iran International 🇮🇷",
+    "position": "49",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "France 24 Arabic 🇫🇷",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"France 24 Arabic 🇫🇷\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8\"}]",
+    "logo": "https://bit.ly/3Nv4rim",
+    "nameen": "France 24 Arabic 🇫🇷",
+    "position": "50",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "DW 🇩🇪",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"DW 🇩🇪\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8\"}]",
+    "logo": "https://i.imgur.com/lRUGXdU.png",
+    "nameen": "DW 🇩🇪",
+    "position": "51",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "AL KHALIJ HD📰",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AL KHALIJ HD📰\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8\"}]",
+    "logo": "https://pbs.twimg.com/profile_images/1460540748261171203/rnpH_Qto_400x400.jpg",
+    "nameen": "AL KHALIJ HD📰",
+    "position": "52",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "TRT Arabi 🇹🇷",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TRT Arabi 🇹🇷\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://tv-trtarabi.medya.trt.com.tr/master.m3u8\"}]",
+    "logo": "https://i.imgur.com/9Zw34rP.png",
+    "nameen": "TRT Arabi 🇹🇷",
+    "position": "53",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "CGTN الاخبارNEWS 🇨🇳",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CGTN الاخبارNEWS 🇨🇳\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8\"}]",
+    "logo": "https://i.ytimg.com/vi/twB_6GV5AM8/maxresdefault.jpg",
+    "nameen": "CGTN الاخبارNEWS 🇨🇳",
+    "position": "54",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "AL HIWAR NEWS 📰",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AL HIWAR NEWS 📰\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist.m3u8\"}]",
+    "logo": "https://bit.ly/2YtPfe6",
+    "nameen": "AL HIWAR NEWS 📰",
+    "position": "55",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "Al Hurra📰",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Hurra📰\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8\"}]",
+    "logo": "https://arbne.ws/3MoHfkW",
+    "nameen": "Al Hurra📰",
+    "position": "56",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "CNBC Arabia HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CNBC Arabia HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cnbc-live.akamaized.net/cnbc/master.m3u8\"}]",
+    "logo": "https://i.imgur.com/CtgHPlQ.png",
+    "nameen": "CNBC Arabia HD",
+    "position": "57",
+    "type": "channel",
+    "key": "arabic_tv"
+  },
+  {
+    "namear": "rt.arabic 🇷🇺",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"rt.arabic 🇷🇺\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://rt-arb.rttv.com/live/rtarab/playlist.m3u8 ➽───────────────❥ ➽───────────────❥ ➽───────────\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png",
+    "nameen": "rt.arabic 🇷🇺",
+    "position": "58",
+    "type": "channel",
+    "key": "arabic_tv"
+  }
+]

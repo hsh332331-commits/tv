@@ -1,0 +1,254 @@
+[
+  {
+    "namear": "Al Emarat",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Emarat\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://admdn3ta.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12137150_ico.png",
+    "nameen": "Al Emarat",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadraremirates_الإمارات"
+  },
+  {
+    "namear": "Abu Dhabi TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Abu Dhabi TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://admdn2ta.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12137091_ico.png",
+    "nameen": "Abu Dhabi TV",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadraremirates_الإمارات"
+  },
+  {
+    "namear": "National Geo AD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"National Geo AD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12137510_ico.png",
+    "nameen": "National Geo AD",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadraremirates_الإمارات"
+  },
+  {
+    "namear": "Dubai TV",
+    "servers": "[{\"headers\":\"Gguser-Agent|Gguser-Agent|Gguser-Agent|Gg\",\"otherHeaders\":\"\",\"name\":\"Dubai TV\",\"Referer\":\"\",\"userAgent\":\"Gguser-Agent|Gg\",\"position\":\"0\",\"url\":\"https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12137245_ico.png",
+    "nameen": "Dubai TV",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadraremirates_الإمارات"
+  },
+  {
+    "namear": "Dubai One",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Dubai One\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione/chunklist_b180000.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12137256_ico.png",
+    "nameen": "Dubai One",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadraremirates_الإمارات"
+  },
+  {
+    "namear": "Sama Dubai",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sama Dubai\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b1500000.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12137284_ico.png",
+    "nameen": "Sama Dubai",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadraremirates_الإمارات"
+  },
+  {
+    "namear": "Dubai Zaman",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Dubai Zaman\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12137262_ico.png",
+    "nameen": "Dubai Zaman",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadraremirates_الإمارات"
+  },
+  {
+    "namear": "Noor Dubai",
+    "servers": "[{\"headers\":\"gguser-Agent|gguser-Agent|gguser-Agent|gg\",\"otherHeaders\":\"\",\"name\":\"Noor Dubai\",\"Referer\":\"\",\"userAgent\":\"gguser-Agent|gg\",\"position\":\"0\",\"url\":\"http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12137280_ico.png",
+    "nameen": "Noor Dubai",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadraremirates_الإمارات"
+  },
+  {
+    "namear": "Al Dafrah",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Dafrah\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dacastmmd.mmdlive.lldns.net/dacastmmd/51c522ae7fe944238261725786724f94/chunklist_b4628000.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/10765331_ico.png",
+    "nameen": "Al Dafrah",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadraremirates_الإمارات"
+  },
+  {
+    "namear": "Ajman TV",
+    "servers": "[{\"headers\":\"gguser-Agent|gguser-Agent|gguser-Agent|gg\",\"otherHeaders\":\"\",\"name\":\"Ajman TV\",\"Referer\":\"\",\"userAgent\":\"gguser-Agent|gg\",\"position\":\"0\",\"url\":\"https://dacastmmd.mmdlive.lldns.net/dacastmmd/8eb0e912b49142d7a01d779c9374aba9/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21494649_ico.png",
+    "nameen": "Ajman TV",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadraremirates_الإمارات"
+  },
+  {
+    "namear": "Al Mashhad TV",
+    "servers": "[{\"headers\":\"NEW13-APKuser-Agent|NEW13-APKuser-Agent|NEW13-APKuser-Agent|NEW13-APK\",\"otherHeaders\":\"\",\"name\":\"Al Mashhad TV\",\"Referer\":\"\",\"userAgent\":\"NEW13-APKuser-Agent|NEW13-APK\",\"position\":\"0\",\"url\":\"https://bcovlive-a.akamaihd.net/179f03ac9b434844b909d7f63b4da4d7/ap-south-1/6313884884001/profile_1/chunklist.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/25649219_ico.png",
+    "nameen": "Al Mashhad TV",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidadraremirates_الإمارات"
+  },
+  {
+    "namear": "Baynounah TV",
+    "servers": "[{\"headers\":\"iosapp2user-Agent|iosapp2user-Agent|iosapp2user-Agent|iosapp2\",\"otherHeaders\":\"\",\"name\":\"Baynounah TV\",\"Referer\":\"\",\"userAgent\":\"iosapp2user-Agent|iosapp2\",\"position\":\"0\",\"url\":\"https://baynounah.cdn.mangomolo.com/btv/smil:btv.stream.smil/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/19407107_ico.png",
+    "nameen": "Baynounah TV",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidadraremirates_الإمارات"
+  },
+  {
+    "namear": "AL-Jaleyah",
+    "servers": "[{\"headers\":\"للuser-Agent|للuser-Agent|للuser-Agent|لل\",\"otherHeaders\":\"\",\"name\":\"AL-Jaleyah\",\"Referer\":\"\",\"userAgent\":\"للuser-Agent|لل\",\"position\":\"0\",\"url\":\"https://media2.livaat.com/AL-Jaleyah/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26261502_ico.png",
+    "nameen": "AL-Jaleyah",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidadraremirates_الإمارات"
+  },
+  {
+    "namear": "Al Wousta",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Wousta\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12137168_ico.png",
+    "nameen": "Al Wousta",
+    "position": "13",
+    "type": "channel",
+    "key": "windroidadraremirates_الإمارات"
+  },
+  {
+    "namear": "Sharqiya Kalba TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sharqiya Kalba TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://svs.itworkscdn.net/kablatvlive/kabtv1.smil/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12137301_ico.png",
+    "nameen": "Sharqiya Kalba TV",
+    "position": "14",
+    "type": "channel",
+    "key": "windroidadraremirates_الإمارات"
+  },
+  {
+    "namear": "Sharjah TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sharjah TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://svs.itworkscdn.net/smc1live/smc1.smil//smc1tv_360p_chunks.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12137287_ico.png",
+    "nameen": "Sharjah TV",
+    "position": "15",
+    "type": "channel",
+    "key": "windroidadraremirates_الإمارات"
+  },
+  {
+    "namear": "Sharjah TV 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sharjah TV 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://svs.itworkscdn.net/smc2live/smc2tv.smil/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12137292_ico.png",
+    "nameen": "Sharjah TV 2",
+    "position": "16",
+    "type": "channel",
+    "key": "windroidadraremirates_الإمارات"
+  },
+  {
+    "namear": "Sharjah Sport",
+    "servers": "[{\"headers\":\"bguser-Agent|bguser-Agent|bguser-Agent|bg\",\"otherHeaders\":\"\",\"name\":\"Sharjah Sport\",\"Referer\":\"\",\"userAgent\":\"bguser-Agent|bg\",\"position\":\"0\",\"url\":\"https://svs.itworkscdn.net/smc4sports2live/sports2.smil/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12137306_ico.png",
+    "nameen": "Sharjah Sport",
+    "position": "17",
+    "type": "channel",
+    "key": "windroidadraremirates_الإمارات"
+  },
+  {
+    "namear": "Sharjah Sp. SD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sharjah Sp. SD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://svs.itworkscdn.net/smc4sportslive/smc4.smil/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14936249_ico.png",
+    "nameen": "Sharjah Sp. SD",
+    "position": "18",
+    "type": "channel",
+    "key": "windroidadraremirates_الإمارات"
+  },
+  {
+    "namear": "Majid Kids",
+    "servers": "[{\"headers\":\"ffuser-Agent|ffuser-Agent|ffuser-Agent|ff\",\"otherHeaders\":\"\",\"name\":\"Majid Kids\",\"Referer\":\"\",\"userAgent\":\"ffuser-Agent|ff\",\"position\":\"0\",\"url\":\"https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12137273_ico.png",
+    "nameen": "Majid Kids",
+    "position": "19",
+    "type": "channel",
+    "key": "windroidadraremirates_الإمارات"
+  },
+  {
+    "namear": "Spacetoon",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Spacetoon\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_3.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12137312_ico.png",
+    "nameen": "Spacetoon",
+    "position": "20",
+    "type": "channel",
+    "key": "windroidadraremirates_الإمارات"
+  },
+  {
+    "namear": "Cartoon Network AR",
+    "servers": "[{\"headers\":\"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36user-Agent|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36user-Agent|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36user-Agent|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36\",\"otherHeaders\":\"\",\"name\":\"Cartoon Network AR\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36user-Agent|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36\",\"position\":\"0\",\"url\":\"https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_3.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12137240_ico.png",
+    "nameen": "Cartoon Network AR",
+    "position": "21",
+    "type": "channel",
+    "key": "windroidadraremirates_الإمارات"
+  },
+  {
+    "namear": "Yas Sports",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Yas Sports\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/mono.m3u8?adtv\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12137320_ico.png",
+    "nameen": "Yas Sports",
+    "position": "22",
+    "type": "channel",
+    "key": "windroidadraremirates_الإمارات"
+  },
+  {
+    "namear": "Al Arabiya",
+    "servers": "[{\"headers\":\"RSuser-Agent|RSuser-Agent|RSuser-Agent|RS\",\"otherHeaders\":\"\",\"name\":\"Al Arabiya\",\"Referer\":\"\",\"userAgent\":\"RSuser-Agent|RS\",\"position\":\"0\",\"url\":\"https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12138741_ico.png",
+    "nameen": "Al Arabiya",
+    "position": "23",
+    "type": "channel",
+    "key": "windroidadraremirates_الإمارات"
+  },
+  {
+    "namear": "Al Arabiya+",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Arabiya+\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live.alarabiya.net/alarabiapublish/alarabiya.smil/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14165279_ico.png",
+    "nameen": "Al Arabiya+",
+    "position": "24",
+    "type": "channel",
+    "key": "windroidadraremirates_الإمارات"
+  },
+  {
+    "namear": "Al Arabiya Al Hadath",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Arabiya Al Hadath\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index_3.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12138747_ico.png",
+    "nameen": "Al Arabiya Al Hadath",
+    "position": "25",
+    "type": "channel",
+    "key": "windroidadraremirates_الإمارات"
+  },
+  {
+    "namear": "Zee Aflam",
+    "servers": "[{\"headers\":\"best.play.ps/3.2 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.8.4user-Agent|best.play.ps/3.2 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.8.4user-Agent|best.play.ps/3.2 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.8.4user-Agent|best.play.ps/3.2 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.8.4\",\"otherHeaders\":\"\",\"name\":\"Zee Aflam\",\"Referer\":\"\",\"userAgent\":\"best.play.ps/3.2 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.8.4user-Agent|best.play.ps/3.2 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.8.4\",\"position\":\"0\",\"url\":\"https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v2a1/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/400418_ico.png",
+    "nameen": "Zee Aflam",
+    "position": "26",
+    "type": "channel",
+    "key": "windroidadraremirates_الإمارات"
+  },
+  {
+    "namear": "Zee Alwan",
+    "servers": "[{\"headers\":\"best.play.ps/3.2 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.8.4user-Agent|best.play.ps/3.2 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.8.4user-Agent|best.play.ps/3.2 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.8.4user-Agent|best.play.ps/3.2 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.8.4\",\"otherHeaders\":\"\",\"name\":\"Zee Alwan\",\"Referer\":\"\",\"userAgent\":\"best.play.ps/3.2 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.8.4user-Agent|best.play.ps/3.2 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.8.4\",\"position\":\"0\",\"url\":\"https://weyyak-live.akamaized.net/weyyak_zee_alwan/tracks-v2a1/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/400463_ico.png",
+    "nameen": "Zee Alwan",
+    "position": "27",
+    "type": "channel",
+    "key": "windroidadraremirates_الإمارات"
+  }
+]

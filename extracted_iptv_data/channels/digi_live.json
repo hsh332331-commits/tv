@@ -1,0 +1,56 @@
+[
+  {
+    "namear": "DG1",
+    "servers": "[{\"headers\":\"Referer|https://canale-tv.com/|user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36|https://canale-tv.com/\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"https://canale-tv.com/\",\"name\":\"\",\"Referer\":\"https://canale-tv.com/\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://jardo111.jardomany1.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY2Z_JN23Y3kqjYA1mERNsAxU-n8mvoClSZVPUkHg4&s",
+    "nameen": "DG1",
+    "position": "3",
+    "type": "channel",
+    "key": "digi_live"
+  },
+  {
+    "namear": "DG2",
+    "servers": "[{\"headers\":\"Referer|https://canale-tv.com/|user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36|https://canale-tv.com/\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"https://canale-tv.com/\",\"name\":\"\",\"Referer\":\"https://canale-tv.com/\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://kuk1.modprimus1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY2Z_JN23Y3kqjYA1mERNsAxU-n8mvoClSZVPUkHg4&s",
+    "nameen": "DG2",
+    "position": "4",
+    "type": "channel",
+    "key": "digi_live"
+  },
+  {
+    "namear": "DG3",
+    "servers": "[{\"headers\":\"Referer|https://canale-tv.com/|user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36|https://canale-tv.com/\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"https://canale-tv.com/\",\"name\":\"\",\"Referer\":\"https://canale-tv.com/\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://kuk1.modprimus1.cfd/kuk3/usergendx0slfk9QssDx9lgxlsdmqrnd.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY2Z_JN23Y3kqjYA1mERNsAxU-n8mvoClSZVPUkHg4&s",
+    "nameen": "DG3",
+    "position": "5",
+    "type": "channel",
+    "key": "digi_live"
+  },
+  {
+    "namear": "DG4",
+    "servers": "[{\"headers\":\"Referer|https://canale-tv.com/|user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36|https://canale-tv.com/\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"https://canale-tv.com/\",\"name\":\"\",\"Referer\":\"https://canale-tv.com/\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY2Z_JN23Y3kqjYA1mERNsAxU-n8mvoClSZVPUkHg4&s",
+    "nameen": "DG4",
+    "position": "6",
+    "type": "channel",
+    "key": "digi_live"
+  },
+  {
+    "namear": "[$]DIGI SPORT 1HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"[$]DIGI SPORT 1HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://91.201.172.14:35005/\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY2Z_JN23Y3kqjYA1mERNsAxU-n8mvoClSZVPUkHg4&s",
+    "nameen": "DIGI 1",
+    "position": "122",
+    "type": "channel",
+    "key": "digi_live"
+  },
+  {
+    "namear": "[$]DIGI SPORT 2HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"[$]DIGI SPORT 2HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://91.201.172.14:35006/\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY2Z_JN23Y3kqjYA1mERNsAxU-n8mvoClSZVPUkHg4&s",
+    "nameen": "DIGI2",
+    "position": "222",
+    "type": "channel",
+    "key": "digi_live"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "namear": "BEIN 1 TR",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"BEIN 1 TR\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/63445\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/5066752_ico.png",
+    "nameen": "BEIN 1 TR",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarbein_turkish"
+  },
+  {
+    "namear": "BEIN 2 TR",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"BEIN 2 TR\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40763\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/5066766_ico.png",
+    "nameen": "BEIN 2 TR",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarbein_turkish"
+  },
+  {
+    "namear": "BEIN 3 TR",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"BEIN 3 TR\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40766\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/5066780_ico.png",
+    "nameen": "BEIN 3 TR",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarbein_turkish"
+  },
+  {
+    "namear": "BEIN 4 TR",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"BEIN 4 TR\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://abc10poweriptvbox.com:4512/skype-cid.60e84f88bc7e75cd/VDhiXStim7/40768\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/5066790_ico.png",
+    "nameen": "BEIN 4 TR",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarbein_turkish"
+  },
+  {
+    "namear": "beIN Haber",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"beIN Haber\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"https://ythls.onrender.com/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/17153147_ico.png",
+    "nameen": "beIN Haber",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarbein_turkish"
+  },
+  {
+    "namear": "Bein 1 HD TR",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Bein 1 HD TR\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://iptv-tn.com:8080/islam_marvel@telegramme/marveliptv.life100connection/23371\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/19265753_ico.png",
+    "nameen": "Bein 1 HD TR",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarbein_turkish"
+  },
+  {
+    "namear": "Bein 2 HD TR",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Bein 2 HD TR\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://iptv-tn.com:8080/islam_marvel@telegramme/marveliptv.life100connection/23372\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/19265756_ico.png",
+    "nameen": "Bein 2 HD TR",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarbein_turkish"
+  },
+  {
+    "namear": "Bein 3 HD TR",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Bein 3 HD TR\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://iptv-tn.com:8080/islam_marvel@telegramme/marveliptv.life100connection/23378\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/19265759_ico.png",
+    "nameen": "Bein 3 HD TR",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarbein_turkish"
+  },
+  {
+    "namear": "Bein 4 HD TR",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Bein 4 HD TR\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://iptv-tn.com:8080/islam_marvel@telegramme/marveliptv.life100connection/23381\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/19265765_ico.png",
+    "nameen": "Bein 4 HD TR",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarbein_turkish"
+  }
+]

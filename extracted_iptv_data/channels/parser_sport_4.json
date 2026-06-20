@@ -1,0 +1,82 @@
+[
+  {
+    "score": "",
+    "namear": "اسكتلندا vs المغرب",
+    "away": {
+      "name": "المغرب",
+      "logo": "https://yallashare.cc/wp-content/uploads/2026/05/d8a7d984d985d8bad8b1d8a8.webp"
+    },
+    "servers": "[{\"url\":\"https://babahrg4.s3.ap-south-1.amazonaws.com/live/ch2/ch2.m3u8\",\"name\":\"Server 1\",\"position\":\"0\",\"Referer\":\"https://bbara.kooooorabokamin.shop/\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64)\",\"headers\":\"Referer|https://bbara.kooooorabokamin.shop/|User-Agent|Mozilla/5.0\",\"type\":\"hls\",\"player_type\":\"hls\"},{\"url\":\"https://kartimohad.s3.us-west-2.amazonaws.com/live/ch1/ch1.m3u8\",\"name\":\"Server 2\",\"position\":\"1\",\"Referer\":\"https://bbara.kooooorabokamin.shop/\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64)\",\"headers\":\"Referer|https://bbara.kooooorabokamin.shop/|User-Agent|Mozilla/5.0\",\"type\":\"hls\",\"player_type\":\"hls\"},{\"url\":\"https://karimo23.sbs/hls/ch2.m3u8?v=stable\",\"name\":\"FRANCE\",\"position\":\"2\",\"Referer\":\"https://bbara.kooooorabokamin.shop/\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64)\",\"headers\":\"Referer|https://bbara.kooooorabokamin.shop/|User-Agent|Mozilla/5.0\",\"type\":\"hls\",\"player_type\":\"hls\"},{\"url\":\"<iframe src=\\\"https://hd.muesra.sbs/albaplayer/oooe/\\\" width=\\\"100%\\\" height=\\\"500\\\" frameborder=\\\"0\\\" allowfullscreen allow=\\\"autoplay; fullscreen\\\" sandbox=\\\"allow-scripts allow-same-origin allow-fullscreen\\\"></iframe>\",\"name\":\"Srver 3\",\"position\":\"3\",\"Referer\":\"https://bbara.kooooorabokamin.shop/\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64)\",\"headers\":\"Referer|https://bbara.kooooorabokamin.shop/|User-Agent|Mozilla/5.0\",\"type\":\"webview\",\"player_type\":\"webview\"},{\"url\":\"https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8\",\"name\":\"Server 4\",\"position\":\"4\",\"Referer\":\"https://bbara.kooooorabokamin.shop/\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64)\",\"headers\":\"Referer|https://bbara.kooooorabokamin.shop/|User-Agent|Mozilla/5.0\",\"type\":\"hls\",\"player_type\":\"hls\"}]",
+    "league": "دولي, كأس العالم - المجموعة ج",
+    "logo": "https://yallashare.cc/wp-content/uploads/2026/05/d8a7d8b3d983d8aad984d986d8afd8a7.webp",
+    "nameen": "اسكتلندا vs المغرب",
+    "time": "11:59 PM",
+    "type": "movie-api",
+    "key": "parser_sport_4",
+    "status": "قادمة",
+    "home": {
+      "name": "اسكتلندا",
+      "logo": "https://yallashare.cc/wp-content/uploads/2026/05/d8a7d8b3d983d8aad984d986d8afd8a7.webp"
+    }
+  },
+  {
+    "score": "",
+    "namear": "المكسيك vs كوريا الجنوبية",
+    "away": {
+      "name": "كوريا الجنوبية",
+      "logo": "https://yallashare.cc/wp-content/uploads/2026/05/d983d988d8b1d98ad8a7-d8a7d984d8acd986d988d8a8d98ad8a9.webp"
+    },
+    "servers": "[]",
+    "league": "دولي, كأس العالم - المجموعة أ",
+    "logo": "https://yallashare.cc/wp-content/uploads/2026/05/d8a7d984d985d983d8b3d98ad983.webp",
+    "nameen": "المكسيك vs كوريا الجنوبية",
+    "time": "03:00 AM",
+    "type": "movie-api",
+    "key": "parser_sport_4",
+    "status": "انتهت",
+    "home": {
+      "name": "المكسيك",
+      "logo": "https://yallashare.cc/wp-content/uploads/2026/05/d8a7d984d985d983d8b3d98ad983.webp"
+    }
+  },
+  {
+    "score": "",
+    "namear": "الولايات المتحدة vs أستراليا",
+    "away": {
+      "name": "أستراليا",
+      "logo": "https://yallashare.cc/wp-content/uploads/2026/05/d8a3d8b3d8aad8b1d8a7d984d98ad8a7.webp"
+    },
+    "servers": "[]",
+    "league": "دولي, كأس العالم - المجموعة د",
+    "logo": "https://yallashare.cc/wp-content/uploads/2026/05/d8a7d984d988d984d8a7d98ad8a7d8aa-d8a7d984d985d8aad8add8afd8a9.webp",
+    "nameen": "الولايات المتحدة vs أستراليا",
+    "time": "09:00 PM",
+    "type": "movie-api",
+    "key": "parser_sport_4",
+    "status": "انتهت",
+    "home": {
+      "name": "الولايات المتحدة",
+      "logo": "https://yallashare.cc/wp-content/uploads/2026/05/d8a7d984d988d984d8a7d98ad8a7d8aa-d8a7d984d985d8aad8add8afd8a9.webp"
+    }
+  },
+  {
+    "score": "",
+    "namear": "كندا vs قطر",
+    "away": {
+      "name": "قطر",
+      "logo": "https://yallashare.cc/wp-content/uploads/2026/05/d982d8b7d8b1-1.webp"
+    },
+    "servers": "[]",
+    "league": "دولي, كأس العالم - المجموعة ب",
+    "logo": "https://yallashare.cc/wp-content/uploads/2026/05/d983d986d8afd8a7.webp",
+    "nameen": "كندا vs قطر",
+    "time": "12:00 AM",
+    "type": "movie-api",
+    "key": "parser_sport_4",
+    "status": "انتهت",
+    "home": {
+      "name": "كندا",
+      "logo": "https://yallashare.cc/wp-content/uploads/2026/05/d983d986d8afd8a7.webp"
+    }
+  }
+]

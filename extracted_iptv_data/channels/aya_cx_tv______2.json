@@ -1,0 +1,335 @@
+[
+  {
+    "namear": "شهاب",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://95.216.180.111:1935/live/67/index.m3u8\"}]",
+    "logo": "ااا",
+    "nameen": "شهاب",
+    "position": "36",
+    "type": "channel",
+    "key": "aya_cx_tvأطفال_(2)"
+  },
+  {
+    "namear": "Disney JR",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://a502.variety-buy.store/api/channel/1016\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQmGQIsgzsWTdPvHjHB5E2VLM_DVoYqx83pt3aww-l&s",
+    "nameen": "Disney JR",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvأطفال_(2)"
+  },
+  {
+    "namear": "Moonbug TV",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://moonbug-rokuus.amagi.tv/playlist.m3u8\"}]",
+    "logo": "https://file.rafalnht.com/83c9a81012ecdcff2054700eeda01681.photo.jpg",
+    "nameen": "Moonbug TV",
+    "position": "8",
+    "type": "channel",
+    "key": "aya_cx_tvأطفال_(2)"
+  },
+  {
+    "namear": "كاتاكيت بيبي",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"ملتي\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://new.cache-stream.workers.dev/stream/JDTH8fViLwo/live.m3u8\"}]",
+    "logo": "https://file.rafalnht.com/efc756afa2853ef010c439bdcbf8619d.photo.jpg",
+    "nameen": "كاتاكيت بيبي",
+    "position": "6",
+    "type": "channel",
+    "key": "aya_cx_tvأطفال_(2)"
+  },
+  {
+    "namear": "ماجد أطفال",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"تشغيل\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8\"}]",
+    "logo": "https://bit.ly/3PFq9Up",
+    "nameen": "ماجد أطفال",
+    "position": "7",
+    "type": "channel",
+    "key": "aya_cx_tvأطفال_(2)"
+  },
+  {
+    "namear": "توم و جيري 6",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://v.tom-dzherri.net/video/s/6.mp4\"}]",
+    "logo": "https://file.rafalnht.com/2425293e787d1e2e775f40331ea43c36.photo.jpg",
+    "nameen": "توم و جيري 6",
+    "position": "31",
+    "type": "channel",
+    "key": "aya_cx_tvأطفال_(2)"
+  },
+  {
+    "namear": "Zomo tv",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"zomo .\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8\"}]",
+    "logo": "https://i.imgur.com/246vm7R.png",
+    "nameen": "Zomo tv",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvأطفال_(2)"
+  },
+  {
+    "namear": "أطفال و مواهب",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"مصدر إضافي\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"مصدر أول\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"http://a501.variety-buy.store/api/channel/1007\"}]",
+    "logo": "https://file.rafalnht.com/085a338f1eddd9f69c0bc5d77c808707.photo.jpg",
+    "nameen": "أطفال و مواهب",
+    "position": "8",
+    "type": "channel",
+    "key": "aya_cx_tvأطفال_(2)"
+  },
+  {
+    "namear": "Nick JR",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://a502.variety-buy.store/api/channel/1019\"}]",
+    "logo": "https://file.rafalnht.com/f56d7344ba0a22ca01b49069d4c10f5a.photo.jpg",
+    "nameen": "Nick JR",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvأطفال_(2)"
+  },
+  {
+    "namear": "أطفال 6",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"x\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://stream.ads.ottera.tv/playlist.m3u8?network_id\\u003d38\"}]",
+    "logo": "https://bit.ly/48KWzEB",
+    "nameen": "أطفال 6",
+    "position": "1099665",
+    "type": "channel",
+    "key": "aya_cx_tvأطفال_(2)"
+  },
+  {
+    "namear": "Toon Googles",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id\\u003d36\"}]",
+    "logo": "https://file.rafalnht.com/2888be1d7fca964e22dc1a9d902c902d.photo.jpg",
+    "nameen": "Toon Googles",
+    "position": "8",
+    "type": "channel",
+    "key": "aya_cx_tvأطفال_(2)"
+  },
+  {
+    "namear": "كراميش",
+    "servers": "[{\"license\":\"\",\"headers\":\"find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"isWeb\":\"false\",\"name\":\"Multi YT\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://www.youtube.com/live/95mJZlwWh8I\"},{\"license\":\"5523b4311f30fd4b037048814c7b7f86:e513e2a245ec88511bb778355f54b891\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi DRM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://neacdnpop3-edge02.aws.playco.com/live/eds/Karameesh/DASH/Karameesh.mpd\"}]",
+    "logo": "https://file.rafalnht.com/8161dfd8aa0f3dd1c43a20d87796be41.photo.jpg",
+    "nameen": "كراميش",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvأطفال_(2)"
+  },
+  {
+    "namear": "سبيستون",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8\"}]",
+    "logo": "https://file.rafalnht.com/3af133c6b50024d538de511e37946634.photo.jpg",
+    "nameen": "سبيستون",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvأطفال_(2)"
+  },
+  {
+    "namear": "كارتون نيتوورك",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"بالأجنبية\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"بالتركية\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8\"},{\"license\":\"ece7bbc683eb35d1e6b3e32cccbd8fb0:f72bd6ea26e243524d58993b58122313\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"بالعربية\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://uselector.cdn.intigral-ott.net/CNA/CNA.isml/manifest.mpd\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"بالفرنسية\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://a502.variety-buy.store/api/channel/1017\"}]",
+    "logo": "https://bit.ly/2Y32aU7",
+    "nameen": "كارتون نيتوورك",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvأطفال_(2)"
+  },
+  {
+    "namear": "beIN Boomerang",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://a502.variety-buy.store/api/channel/60\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/0000_Boomerang_tv_logo.png",
+    "nameen": "beIN Boomerang",
+    "position": "7",
+    "type": "channel",
+    "key": "aya_cx_tvأطفال_(2)"
+  },
+  {
+    "namear": "عمو يزيد اطفال",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"a\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://tv2.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8\"}]",
+    "logo": "https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/amouyazid.png",
+    "nameen": "عمو يزيد اطفال",
+    "position": "7",
+    "type": "channel",
+    "key": "aya_cx_tvأطفال_(2)"
+  },
+  {
+    "namear": "أطفال 3",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"a\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://stream.ads.ottera.tv/playlist.m3u8?network_id\\u003d35\"}]",
+    "logo": "https://bit.ly/48KWzEB",
+    "nameen": "أطفال 3",
+    "position": "100004",
+    "type": "channel",
+    "key": "aya_cx_tvأطفال_(2)"
+  },
+  {
+    "namear": "أطفال 5",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"g\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://stream.ads.ottera.tv/playlist.m3u8?network_id\\u003d37\"}]",
+    "logo": "https://bit.ly/48KWzEB",
+    "nameen": "أطفال 5",
+    "position": "108006",
+    "type": "channel",
+    "key": "aya_cx_tvأطفال_(2)"
+  },
+  {
+    "namear": "Duck TV",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://weyyak-live.akamaized.net/weyyak_ducktv/index.m3u8\"}]",
+    "logo": "https://file.rafalnht.com/de2be905b3e79b691515fe0e6395886a.photo.jpg",
+    "nameen": "Duck TV",
+    "position": "6",
+    "type": "channel",
+    "key": "aya_cx_tvأطفال_(2)"
+  },
+  {
+    "namear": "طيور الجنة",
+    "servers": "[{\"license\":\"\",\"headers\":\"find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://www.youtube.com/live/UcQPvoO4wzk?si\"}]",
+    "logo": "https://file.rafalnht.com/71ac4afb17b630870cec74371e776c06.photo.jpg",
+    "nameen": "طيور الجنة",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvأطفال_(2)"
+  },
+  {
+    "namear": "Disney XD",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://a502.variety-buy.store/api/channel/1014\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png",
+    "nameen": "Disney XD",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvأطفال_(2)"
+  },
+  {
+    "namear": "أطفال 4",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"m\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://stream.ads.ottera.tv/playlist.m3u8?network_id\\u003d36\"}]",
+    "logo": "https://bit.ly/48KWzEB",
+    "nameen": "أطفال 4",
+    "position": "100005",
+    "type": "channel",
+    "key": "aya_cx_tvأطفال_(2)"
+  },
+  {
+    "namear": "Roya Kids",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://playlist.fasttvcdn.com:443/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8\"}]",
+    "logo": "https://file.rafalnht.com/0d423e00a884be8badbde70050cc1451.photo.jpg",
+    "nameen": "Roya Kids",
+    "position": "7",
+    "type": "channel",
+    "key": "aya_cx_tvأطفال_(2)"
+  },
+  {
+    "namear": "توم و جيري 8",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://v.tom-dzherri.net/video/s/8.mp4\"}]",
+    "logo": "https://file.rafalnht.com/2425293e787d1e2e775f40331ea43c36.photo.jpg",
+    "nameen": "توم و جيري 8",
+    "position": "33",
+    "type": "channel",
+    "key": "aya_cx_tvأطفال_(2)"
+  },
+  {
+    "namear": "CANAL J",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://a502.variety-buy.store/api/channel/1012\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Canal_J_Logo_2019.svg/1200px-Canal_J_Logo_2019.svg.png",
+    "nameen": "CANAL J",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_cx_tvأطفال_(2)"
+  },
+  {
+    "namear": "أطفال 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"o\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://stream.ads.ottera.tv/playlist.m3u8?network_id\\u003d34\"}]",
+    "logo": "https://bit.ly/48KWzEB",
+    "nameen": "أطفال 2",
+    "position": "100001",
+    "type": "channel",
+    "key": "aya_cx_tvأطفال_(2)"
+  },
+  {
+    "namear": "توم و جيري 10",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://v.tom-dzherri.net/video/s/10.mp4\"}]",
+    "logo": "https://file.rafalnht.com/2425293e787d1e2e775f40331ea43c36.photo.jpg",
+    "nameen": "توم و جيري 10",
+    "position": "35",
+    "type": "channel",
+    "key": "aya_cx_tvأطفال_(2)"
+  },
+  {
+    "namear": "توم و جيري 5",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://v.tom-dzherri.net/video/s/5.mp4\"}]",
+    "logo": "https://file.rafalnht.com/2425293e787d1e2e775f40331ea43c36.photo.jpg",
+    "nameen": "توم و جيري 5",
+    "position": "30",
+    "type": "channel",
+    "key": "aya_cx_tvأطفال_(2)"
+  },
+  {
+    "namear": "توم و جيري 7",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://v.tom-dzherri.net/video/s/7.mp4\"}]",
+    "logo": "https://file.rafalnht.com/2425293e787d1e2e775f40331ea43c36.photo.jpg",
+    "nameen": "توم و جيري 7",
+    "position": "32",
+    "type": "channel",
+    "key": "aya_cx_tvأطفال_(2)"
+  },
+  {
+    "namear": "توم و جيري 9",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://v.tom-dzherri.net/video/s/9.mp4\"}]",
+    "logo": "https://file.rafalnht.com/2425293e787d1e2e775f40331ea43c36.photo.jpg",
+    "nameen": "توم و جيري 9",
+    "position": "34",
+    "type": "channel",
+    "key": "aya_cx_tvأطفال_(2)"
+  },
+  {
+    "namear": "توم و جيري 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://v.tom-dzherri.net/video/s/1.mp4\"}]",
+    "logo": "https://file.rafalnht.com/2425293e787d1e2e775f40331ea43c36.photo.jpg",
+    "nameen": "توم و جيري 1",
+    "position": "26",
+    "type": "channel",
+    "key": "aya_cx_tvأطفال_(2)"
+  },
+  {
+    "namear": "اطفال 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://stream.ads.ottera.tv/playlist.m3u8?network_id\\u003d33\"}]",
+    "logo": "https://bit.ly/48KWzEB",
+    "nameen": "اطفال 1",
+    "position": "10000",
+    "type": "channel",
+    "key": "aya_cx_tvأطفال_(2)"
+  },
+  {
+    "namear": "Zarok TV",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://zindisorani.zaroktv.com.tr/hls/stream.m3u8\"}]",
+    "logo": "https://file.rafalnht.com/16af5597ecad13a090f0e1025f2556e8.photo.jpg",
+    "nameen": "Zarok TV",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_cx_tvأطفال_(2)"
+  },
+  {
+    "namear": "pbs kids",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"..\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR\"}]",
+    "logo": "https://i.imgur.com/YMdvQBi.png",
+    "nameen": "pbs kids",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_cx_tvأطفال_(2)"
+  },
+  {
+    "namear": "توم و جيري 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://v.tom-dzherri.net/video/s/2.mp4\"}]",
+    "logo": "https://file.rafalnht.com/2425293e787d1e2e775f40331ea43c36.photo.jpg",
+    "nameen": "توم و جيري 2",
+    "position": "27",
+    "type": "channel",
+    "key": "aya_cx_tvأطفال_(2)"
+  },
+  {
+    "namear": "توم و جيري 3",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://v.tom-dzherri.net/video/s/3.mp4\"}]",
+    "logo": "https://file.rafalnht.com/2425293e787d1e2e775f40331ea43c36.photo.jpg",
+    "nameen": "توم و جيري 3",
+    "position": "28",
+    "type": "channel",
+    "key": "aya_cx_tvأطفال_(2)"
+  },
+  {
+    "namear": "توم و جيري 4",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://v.tom-dzherri.net/video/s/4.mp4\"}]",
+    "logo": "https://file.rafalnht.com/2425293e787d1e2e775f40331ea43c36.photo.jpg",
+    "nameen": "توم و جيري 4",
+    "position": "29",
+    "type": "channel",
+    "key": "aya_cx_tvأطفال_(2)"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "namear": "NBA",
+    "servers": "[{\"headers\":\"\",\"license\":\"4ee9b41e5053ef434c13dbb783df9e32:a275236600bfaedf230286f7b71b0a99\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/vgkshf22lc/out/v1/9dbd7e519cf34fe2a53a85ee85bc407f/cenc.mpd\"}]",
+    "logo": "https://www.t-mobile.com/news/_admin/uploads/2021/01/nr-article-NBA-TV-To-Tvision-1-15-21-800x520.png",
+    "nameen": "NBA",
+    "position": "0",
+    "type": "channel",
+    "key": "nba_nfl_ufc"
+  },
+  {
+    "namear": "MBL",
+    "servers": "[{\"headers\":\"\",\"license\":\"09738c977ad0335cccc46b1e401c5fb0:753798bf3898e85bc46df59e7c94f869\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/djeuespy2a/out/v1/26429339ac0c436985f84926afe2fcf4/cenc.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsa_06iXJMsQ94q5fLDZaIph1n4gbuzlSm6Q&s",
+    "nameen": "MBL",
+    "position": "1",
+    "type": "channel",
+    "key": "nba_nfl_ufc"
+  },
+  {
+    "namear": "NFL Channel",
+    "servers": "[{\"headers\":\"\",\"license\":\"59f9500365e5258070ead151217c9257:73acae852d0128ffc3b55846ebb56a9c\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/v3kqgwb8iy/out/v1/3f25a97e7f4143c08b25ce350dc53053/cenc.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTObfJDfLM7PUIbouFQRZEMqsS3fArq85doDQ&s",
+    "nameen": "NFL Channel",
+    "position": "2",
+    "type": "channel",
+    "key": "nba_nfl_ufc"
+  },
+  {
+    "namear": "UFC",
+    "servers": "[{\"headers\":\"\",\"license\":\"a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXeDip0403HsCh2IAcjCZmfiaPaCDRzR54GQ&s",
+    "nameen": "UFC",
+    "position": "3",
+    "type": "channel",
+    "key": "nba_nfl_ufc"
+  }
+]

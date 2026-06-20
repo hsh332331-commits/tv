@@ -1,0 +1,38 @@
+[
+  {
+    "namear": "FOX SPORTS",
+    "servers": "[{\"headers\":\"\",\"license\":\"2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"FOX SPORTS\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd\"}]",
+    "logo": "https://i.ibb.co/zbWxZ95/fs1.png",
+    "nameen": "FOX SPORTS",
+    "position": "1",
+    "type": "channel",
+    "key": "fox_sports"
+  },
+  {
+    "namear": "FOX SPORTS 2",
+    "servers": "[{\"headers\":\"\",\"license\":\"8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"FOX SPORTS 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd\"}]",
+    "logo": "https://i.ibb.co/YjrQ0CQ/fs2.png",
+    "nameen": "FOX SPORTS 2",
+    "position": "2",
+    "type": "channel",
+    "key": "fox_sports"
+  },
+  {
+    "namear": "FOX SPORTS 3",
+    "servers": "[{\"headers\":\"\",\"license\":\"11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"FOX SPORTS 3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd\"}]",
+    "logo": "https://i.ibb.co/SBkkDxq/fs3.png",
+    "nameen": "FOX SPORTS 3",
+    "position": "3",
+    "type": "channel",
+    "key": "fox_sports"
+  },
+  {
+    "namear": "FOX SPORTS PREMIUM",
+    "servers": "[{\"headers\":\"\",\"license\":\"9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"FOX SPORTS PREMIUM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd\"}]",
+    "logo": "https://i.ibb.co/9V35PtY/Dise-o-sin-t-tulo-10.png",
+    "nameen": "FOX SPORTS PREMIUM",
+    "position": "8",
+    "type": "channel",
+    "key": "fox_sports"
+  }
+]

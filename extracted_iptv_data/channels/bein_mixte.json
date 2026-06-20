@@ -1,0 +1,407 @@
+[
+  {
+    "namear": "AR| BEIN SPORT NEWS",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| BEIN SPORT NEWS\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d59305\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| BEIN SPORT NEWS",
+    "position": "2",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| BEIN SPORTS 1 FHD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| BEIN SPORTS 1 FHD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d59306\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| BEIN SPORTS 1 FHD",
+    "position": "3",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| beIN SPORTS 1 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| beIN SPORTS 1 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d192767\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| beIN SPORTS 1 HD",
+    "position": "4",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| beIN SPORTS 1 SD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| beIN SPORTS 1 SD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d192754\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| beIN SPORTS 1 SD",
+    "position": "5",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| BEIN SPORTS 2 FHD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| BEIN SPORTS 2 FHD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d59307\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| BEIN SPORTS 2 FHD",
+    "position": "6",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| beIN SPORTS 2 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| beIN SPORTS 2 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d192766\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| beIN SPORTS 2 HD",
+    "position": "7",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| beIN SPORTS 2 SD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| beIN SPORTS 2 SD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d192753\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| beIN SPORTS 2 SD",
+    "position": "8",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| BEIN SPORTS 3 FHD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| BEIN SPORTS 3 FHD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d59308\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| BEIN SPORTS 3 FHD",
+    "position": "9",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| beIN SPORTS 3 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| beIN SPORTS 3 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d192765\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| beIN SPORTS 3 HD",
+    "position": "10",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| beIN SPORTS 3 SD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| beIN SPORTS 3 SD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d192752\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| beIN SPORTS 3 SD",
+    "position": "11",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| BEIN SPORTS 4 FHD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| BEIN SPORTS 4 FHD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d59309\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| BEIN SPORTS 4 FHD",
+    "position": "12",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| beIN SPORTS 4 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| beIN SPORTS 4 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d192764\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| beIN SPORTS 4 HD",
+    "position": "13",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| beIN SPORTS 4 SD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| beIN SPORTS 4 SD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d192751\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| beIN SPORTS 4 SD",
+    "position": "14",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| BEIN SPORTS 5 FHD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| BEIN SPORTS 5 FHD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d59310\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| BEIN SPORTS 5 FHD",
+    "position": "15",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| beIN SPORTS 5 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| beIN SPORTS 5 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d192763\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| beIN SPORTS 5 HD",
+    "position": "16",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| beIN SPORTS 5 SD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| beIN SPORTS 5 SD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d192750\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| beIN SPORTS 5 SD",
+    "position": "17",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| BEIN SPORTS 6 FHD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| BEIN SPORTS 6 FHD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d59311\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| BEIN SPORTS 6 FHD",
+    "position": "18",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| beIN SPORTS 6 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| beIN SPORTS 6 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d192762\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| beIN SPORTS 6 HD",
+    "position": "19",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| beIN SPORTS 6 SD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| beIN SPORTS 6 SD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d192749\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| beIN SPORTS 6 SD",
+    "position": "20",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| BEIN SPORTS 7 FHD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| BEIN SPORTS 7 FHD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d59312\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| BEIN SPORTS 7 FHD",
+    "position": "21",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| beIN SPORTS 7 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| beIN SPORTS 7 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d192761\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| beIN SPORTS 7 HD",
+    "position": "22",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| beIN SPORTS 7 SD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| beIN SPORTS 7 SD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d192748\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| beIN SPORTS 7 SD",
+    "position": "23",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| beIN SPORTS 8 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| beIN SPORTS 8 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d192760\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| beIN SPORTS 8 HD",
+    "position": "24",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| Bein Sport Premium 1 FHD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| Bein Sport Premium 1 FHD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d192758\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| Bein Sport Premium 1 FHD",
+    "position": "25",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| Bein Sport Premium 2 FHD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| Bein Sport Premium 2 FHD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d192757\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| Bein Sport Premium 2 FHD",
+    "position": "26",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| Bein Sport Premium 3 FHD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| Bein Sport Premium 3 FHD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d192756\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| Bein Sport Premium 3 FHD",
+    "position": "27",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "=AR= BEIN MOVIE =AR=",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\\u003dAR\\u003d BEIN MOVIE \\u003dAR\\u003d\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d97986\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "=AR= BEIN MOVIE =AR=",
+    "position": "28",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| BeIN Movies Action",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| BeIN Movies Action\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d97987\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| BeIN Movies Action",
+    "position": "29",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| BeIN Movies Drama",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| BeIN Movies Drama\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d97988\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| BeIN Movies Drama",
+    "position": "30",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| Bein Fox Movies",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| Bein Fox Movies\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d97990\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| Bein Fox Movies",
+    "position": "31",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| BEIN FOX MOVIES FAMILY HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| BEIN FOX MOVIES FAMILY HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d97991\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| BEIN FOX MOVIES FAMILY HD",
+    "position": "32",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| BeIN Drama Arabic",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| BeIN Drama Arabic\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d97992\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| BeIN Drama Arabic",
+    "position": "33",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| BeIN Baraem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| BeIN Baraem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d97993\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| BeIN Baraem",
+    "position": "34",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| BeIN Series 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| BeIN Series 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d97994\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| BeIN Series 1",
+    "position": "35",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| Bein Series 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| Bein Series 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d97995\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| Bein Series 2",
+    "position": "36",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| BeIN JEEM",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| BeIN JEEM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d97996\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| BeIN JEEM",
+    "position": "37",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| BeIN BE Junior",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| BeIN BE Junior\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d97997\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| BeIN BE Junior",
+    "position": "38",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| BeIN GOURMET",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| BeIN GOURMET\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d97998\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| BeIN GOURMET",
+    "position": "39",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| Bein Fatafeat",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| Bein Fatafeat\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d97999\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| Bein Fatafeat",
+    "position": "40",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| BeIN AMC",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| BeIN AMC\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d98000\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| BeIN AMC",
+    "position": "41",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| BeIN DREAMWORKS",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| BeIN DREAMWORKS\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d98001\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| BeIN DREAMWORKS",
+    "position": "42",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| BeIN Boomerang",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| BeIN Boomerang\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d98002\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| BeIN Boomerang",
+    "position": "43",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| Bein DMAX",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| Bein DMAX\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d98003\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| Bein DMAX",
+    "position": "44",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| BEIN Outdoor",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| BEIN Outdoor\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d98004\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| BEIN Outdoor",
+    "position": "45",
+    "type": "channel",
+    "key": "bein_mixte"
+  },
+  {
+    "namear": "AR| Bein DTX",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR| Bein DTX\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://pdata.ddns.me:8080/play/live.php?mac\\u003d00:1A:79:FB:04:07\\u0026stream\\u003d98005\\u0026extension\\u003dts\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AR| Bein DTX",
+    "position": "46",
+    "type": "channel",
+    "key": "bein_mixte"
+  }
+]

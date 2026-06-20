@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "Sport 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sport 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://93.155.227.38:555/m3u8/arenasport1.m3u8\"}]",
+    "logo": "https://image.winudf.com/v2/image1/Y29tLmFsYnR2YXBwLnBvcnRhbF9pY29uXzE2MTA1Njk5NjBfMDgx/icon.png?w=184&fakeurl=1",
+    "nameen": "Sport 1",
+    "position": "0",
+    "type": "channel",
+    "key": "sport_alb"
+  },
+  {
+    "namear": "Sport 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://93.155.227.38:555/m3u8/arenasport2.m3u8\"}]",
+    "logo": "https://image.winudf.com/v2/image1/Y29tLmFsYnR2YXBwLnBvcnRhbF9pY29uXzE2MTA1Njk5NjBfMDgx/icon.png?w=184&fakeurl=1",
+    "nameen": "Sport 2",
+    "position": "1",
+    "type": "channel",
+    "key": "sport_alb"
+  },
+  {
+    "namear": "Sport 3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://93.155.227.38:555/m3u8/arenasport3.m3u8\"}]",
+    "logo": "https://image.winudf.com/v2/image1/Y29tLmFsYnR2YXBwLnBvcnRhbF9pY29uXzE2MTA1Njk5NjBfMDgx/icon.png?w=184&fakeurl=1",
+    "nameen": "Sport 3",
+    "position": "2",
+    "type": "channel",
+    "key": "sport_alb"
+  },
+  {
+    "namear": "Sport 4",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://93.155.227.38:555/m3u8/arenasport4.m3u8\"}]",
+    "logo": "https://image.winudf.com/v2/image1/Y29tLmFsYnR2YXBwLnBvcnRhbF9pY29uXzE2MTA1Njk5NjBfMDgx/icon.png?w=184&fakeurl=1",
+    "nameen": "Sport 4",
+    "position": "3",
+    "type": "channel",
+    "key": "sport_alb"
+  },
+  {
+    "namear": "Sport 5",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://93.155.227.38:555/m3u8/arenasport5.m3u8\"}]",
+    "logo": "https://image.winudf.com/v2/image1/Y29tLmFsYnR2YXBwLnBvcnRhbF9pY29uXzE2MTA1Njk5NjBfMDgx/icon.png?w=184&fakeurl=1",
+    "nameen": "Sport 5",
+    "position": "4",
+    "type": "channel",
+    "key": "sport_alb"
+  }
+]

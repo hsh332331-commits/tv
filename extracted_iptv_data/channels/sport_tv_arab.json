@@ -1,0 +1,38 @@
+[
+  {
+    "namear": "AD Sports 1 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AD Sports 1 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/mono.m3u8\"}]",
+    "logo": "https://www.zarkachat.com/wp-content/uploads/2020/12/sport-abuzabi-channel.jpg",
+    "nameen": "AD Sports 1 HD",
+    "position": "0",
+    "type": "channel",
+    "key": "sport_tv_arab"
+  },
+  {
+    "namear": "DUBAI SPORTS 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"DUBAI SPORTS 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/eroz_brebes.m3u8\"}]",
+    "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/71/5d934e3b33.png",
+    "nameen": "DUBAI SPORTS 1",
+    "position": "1",
+    "type": "channel",
+    "key": "sport_tv_arab"
+  },
+  {
+    "namear": "KSA Sports 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"KSA Sports 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://edge.taghtia.com/sa/9.m3u8\"}]",
+    "logo": "https://yt3.ggpht.com/a/AATXAJySGvxylzE1O-9mauZXHo6gYQwcKR9PMNkfomKWZw=s900-c-k-c0xffffffff-no-rj-mo",
+    "nameen": "KSA Sports 1",
+    "position": "2",
+    "type": "channel",
+    "key": "sport_tv_arab"
+  },
+  {
+    "namear": "Sharjah Sports TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sharjah Sports TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://svs.itworkscdn.net/smc4sportslive/smc4.smil/mono.m3u8\"}]",
+    "logo": "https://i.imgur.com/IaRaabJ.jpg",
+    "nameen": "Sharjah Sports TV",
+    "position": "3",
+    "type": "channel",
+    "key": "sport_tv_arab"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "namear": "ستراسبورج - تروا",
+    "servers": "[{\"name\":\"S1\",\"url\":\"https:\\/\\/yeszet1x1cdn22.streamingrdp.com\\/liveb2\\/b2\\/mono.m3u8\",\"position\":\"0\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"},{\"name\":\"S2\",\"url\":\"https:\\/\\/yeszet1x1cdn22.streamingrdp.com\\/liveb2\\/b2\\/mono.m3u8\",\"position\":\"1\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"},{\"name\":\"S3\",\"url\":\"https:\\/\\/yeszet1x1cdn22.streamingrdp.com\\/liveb2\\/b2\\/mono.m3u8\",\"position\":\"2\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"},{\"name\":\"S4\",\"url\":\"https:\\/\\/yeszet1x1cdn22.streamingrdp.com\\/liveb2\\/b2\\/mono.m3u8\",\"position\":\"3\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"},{\"name\":\"S5\",\"url\":\"https:\\/\\/yeszet1x1cdn22.streamingrdp.com\\/liveb2\\/b2\\/mono.m3u8\",\"position\":\"4\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"}]",
+    "logo": "https://yalla-live.io/wp-content/uploads/2022/04/300.png",
+    "nameen": "ستراسبورج - تروا",
+    "position": "0",
+    "key": "time_2"
+  },
+  {
+    "namear": "الاتحاد السكندري - إنبـي",
+    "servers": "[{\"name\":\"S1\",\"url\":\"https:\\/\\/yeszet1x1cdn22.streamingrdp.com\\/livessc1ex\\/ssc1ex\\/mono.m3u8\",\"position\":\"0\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"},{\"name\":\"S2\",\"url\":\"https:\\/\\/yeszet1x1cdn22.streamingrdp.com\\/livessc1ex\\/ssc1ex\\/mono.m3u8\",\"position\":\"1\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"},{\"name\":\"S3\",\"url\":\"https:\\/\\/yeszet1x1cdn22.streamingrdp.com\\/livessc1ex\\/ssc1ex\\/mono.m3u8\",\"position\":\"2\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"},{\"name\":\"S4\",\"url\":\"https:\\/\\/yeszet1x1cdn22.streamingrdp.com\\/livessc1ex\\/ssc1ex\\/mono.m3u8\",\"position\":\"3\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"},{\"name\":\"S5\",\"url\":\"https:\\/\\/yeszet1x1cdn22.streamingrdp.com\\/livessc1ex\\/ssc1ex\\/mono.m3u8\",\"position\":\"4\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"}]",
+    "logo": "https://yalla-live.io/wp-content/uploads/2021/11/شعار_الاتحاد_السكندري.png",
+    "nameen": "الاتحاد السكندري - إنبـي",
+    "position": "1",
+    "key": "time_2"
+  },
+  {
+    "namear": "نادي ليل - ستاد ريمس",
+    "servers": "[{\"name\":\"S1\",\"url\":\"https:\\/\\/yeszet1x1cdn22.streamingrdp.com\\/liveb2\\/b2\\/mono.m3u8\",\"position\":\"0\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"},{\"name\":\"S2\",\"url\":\"https:\\/\\/yeszet1x1cdn22.streamingrdp.com\\/liveb2\\/b2\\/mono.m3u8\",\"position\":\"1\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"},{\"name\":\"S3\",\"url\":\"https:\\/\\/yeszet1x1cdn22.streamingrdp.com\\/liveb2\\/b2\\/mono.m3u8\",\"position\":\"2\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"},{\"name\":\"S4\",\"url\":\"https:\\/\\/yeszet1x1cdn22.streamingrdp.com\\/liveb2\\/b2\\/mono.m3u8\",\"position\":\"3\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"},{\"name\":\"S5\",\"url\":\"https:\\/\\/yeszet1x1cdn22.streamingrdp.com\\/liveb2\\/b2\\/mono.m3u8\",\"position\":\"4\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"}]",
+    "logo": "https://yalla-live.io/wp-content/uploads/2021/08/1200px-Logo_LOSC_Lille_2018.svg_.png",
+    "nameen": "نادي ليل - ستاد ريمس",
+    "position": "2",
+    "key": "time_2"
+  },
+  {
+    "namear": "الأهلي - بيراميدز",
+    "servers": "[{\"name\":\"S1\",\"url\":\"https:\\/\\/yeszet1x1cdn22.streamingrdp.com\\/livessc1\\/ssc1\\/mono.m3u8\",\"position\":\"0\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"},{\"name\":\"S2\",\"url\":\"https:\\/\\/yeszet1x1cdn22.streamingrdp.com\\/livessc1\\/ssc1\\/mono.m3u8\",\"position\":\"1\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"},{\"name\":\"S3\",\"url\":\"https:\\/\\/yeszet1x1cdn22.streamingrdp.com\\/livessc1\\/ssc1\\/mono.m3u8\",\"position\":\"2\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"},{\"name\":\"S4\",\"url\":\"https:\\/\\/yeszet1x1cdn22.streamingrdp.com\\/livessc1\\/ssc1\\/mono.m3u8\",\"position\":\"3\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"},{\"name\":\"S5\",\"url\":\"https:\\/\\/yeszet1x1cdn22.streamingrdp.com\\/livessc1\\/ssc1\\/mono.m3u8\",\"position\":\"4\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"}]",
+    "logo": "https://yalla-live.io/wp-content/uploads/2021/10/شعار_النادي_الأهلي_المصري-8.png",
+    "nameen": "الأهلي - بيراميدز",
+    "position": "3",
+    "key": "time_2"
+  },
+  {
+    "namear": "برينتفورد - ليفربول",
+    "servers": "[]",
+    "logo": "https://yalla-live.io/wp-content/uploads/2021/09/1200px-Brentford_FC_crest.svg_.png",
+    "nameen": "برينتفورد - ليفربول",
+    "position": "4",
+    "key": "time_2"
+  },
+  {
+    "namear": "مونبلييه - أولمبيك مارسيليا",
+    "servers": "[{\"name\":\"S1\",\"url\":\"https:\\/\\/yeszet1x1cdn22.streamingrdp.com\\/liveb2\\/b2\\/mono.m3u8\",\"position\":\"0\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"},{\"name\":\"S2\",\"url\":\"https:\\/\\/yeszet1x1cdn22.streamingrdp.com\\/liveb2\\/b2\\/mono.m3u8\",\"position\":\"1\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"},{\"name\":\"S3\",\"url\":\"https:\\/\\/yeszet1x1cdn22.streamingrdp.com\\/liveb2\\/b2\\/mono.m3u8\",\"position\":\"2\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"},{\"name\":\"S4\",\"url\":\"https:\\/\\/yeszet1x1cdn22.streamingrdp.com\\/liveb2\\/b2\\/mono.m3u8\",\"position\":\"3\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"},{\"name\":\"S5\",\"url\":\"https:\\/\\/yeszet1x1cdn22.streamingrdp.com\\/liveb2\\/b2\\/mono.m3u8\",\"position\":\"4\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"}]",
+    "logo": "https://yalla-live.io/wp-content/uploads/2021/08/Montpellier_Herault_Sport_Club_logo_2000.svg_.png",
+    "nameen": "مونبلييه - أولمبيك مارسيليا",
+    "position": "5",
+    "key": "time_2"
+  },
+  {
+    "namear": "ستاد رين - نيس",
+    "servers": "[{\"name\":\"S1\",\"url\":\"https:\\/\\/yeszet1x1cdn22.streamingrdp.com\\/liveb2\\/b2\\/mono.m3u8\",\"position\":\"0\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"},{\"name\":\"S2\",\"url\":\"https:\\/\\/yeszet1x1cdn22.streamingrdp.com\\/liveb2\\/b2\\/mono.m3u8\",\"position\":\"1\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"},{\"name\":\"S3\",\"url\":\"https:\\/\\/yeszet1x1cdn22.streamingrdp.com\\/liveb2\\/b2\\/mono.m3u8\",\"position\":\"2\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"},{\"name\":\"S4\",\"url\":\"https:\\/\\/yeszet1x1cdn22.streamingrdp.com\\/liveb2\\/b2\\/mono.m3u8\",\"position\":\"3\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"},{\"name\":\"S5\",\"url\":\"https:\\/\\/yeszet1x1cdn22.streamingrdp.com\\/liveb2\\/b2\\/mono.m3u8\",\"position\":\"4\",\"userAgent\":\"\",\"Referer\":\"\",\"otherHeaders\":\"\",\"headers\":\"\"}]",
+    "logo": "https://yalla-live.io/wp-content/uploads/2022/04/312.png",
+    "nameen": "ستاد رين - نيس",
+    "position": "6",
+    "key": "time_2"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "namear": "Fox Sports News",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Fox Sports News\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master480x270_v3.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/640372_ico.png",
+    "nameen": "Fox Sports News",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarfox_sports_en"
+  },
+  {
+    "namear": "FS1",
+    "servers": "[{\"headers\":\"CHANNEL4_34user-Agent|CHANNEL4_34user-Agent|CHANNEL4_34user-Agent|CHANNEL4_34\",\"otherHeaders\":\"\",\"name\":\"FS1\",\"Referer\":\"\",\"userAgent\":\"CHANNEL4_34user-Agent|CHANNEL4_34\",\"position\":\"0\",\"url\":\"http://143.244.60.30/Fox_Sports_1/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7305483_ico.png",
+    "nameen": "FS1",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarfox_sports_en"
+  },
+  {
+    "namear": "FS2",
+    "servers": "[{\"headers\":\"CHANNEL4_34user-Agent|CHANNEL4_34user-Agent|CHANNEL4_34user-Agent|CHANNEL4_34\",\"otherHeaders\":\"\",\"name\":\"FS2\",\"Referer\":\"\",\"userAgent\":\"CHANNEL4_34user-Agent|CHANNEL4_34\",\"position\":\"0\",\"url\":\"http://143.244.60.30/Fox_Sports_2/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7305491_ico.png",
+    "nameen": "FS2",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarfox_sports_en"
+  }
+]

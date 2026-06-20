@@ -1,0 +1,344 @@
+[
+  {
+    "namear": "Roya Drama",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Roya Drama\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com:443/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "Roya Drama",
+    "position": "3",
+    "type": "channel",
+    "key": "roya_tv"
+  },
+  {
+    "namear": "Roya Comedy",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Roya Comedy\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "Roya Comedy",
+    "position": "4",
+    "type": "channel",
+    "key": "roya_tv"
+  },
+  {
+    "namear": "Roya Sport",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Roya Sport\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/youth-jordan/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "Roya Sport",
+    "position": "5",
+    "type": "channel",
+    "key": "roya_tv"
+  },
+  {
+    "namear": "Roya Kitchen",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Roya Kitchen\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "Roya Kitchen",
+    "position": "6",
+    "type": "channel",
+    "key": "roya_tv"
+  },
+  {
+    "namear": "Roya Music",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Roya Music\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/roya-music/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "Roya Music",
+    "position": "7",
+    "type": "channel",
+    "key": "roya_tv"
+  },
+  {
+    "namear": "رؤيا فلسطين",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"رؤيا فلسطين\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/roya-palestine/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "رؤيا فلسطين",
+    "position": "8",
+    "type": "channel",
+    "key": "roya_tv"
+  },
+  {
+    "namear": "Roya Kids Originals",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Roya Kids Originals\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com:443/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "Roya Kids Originals",
+    "position": "9",
+    "type": "channel",
+    "key": "roya_tv"
+  },
+  {
+    "namear": "مرايا",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"مرايا\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/maraya/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "مرايا",
+    "position": "10",
+    "type": "channel",
+    "key": "roya_tv"
+  },
+  {
+    "namear": "إنتاجات رؤيا",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"إنتاجات رؤيا\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/roya-production/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "إنتاجات رؤيا",
+    "position": "11",
+    "type": "channel",
+    "key": "roya_tv"
+  },
+  {
+    "namear": "كرفان",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"كرفان\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/caravan/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "كرفان",
+    "position": "12",
+    "type": "channel",
+    "key": "roya_tv"
+  },
+  {
+    "namear": "قناة العربي",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"قناة العربي\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://origin-cae-t482536.cdn.nextologies.com:443/6837800d47c40cb2/1544c5accd8e84d5ALA2306/6837800d47c40cb2/1544c5accd8e84d5ALA2306480/chunks.m3u8\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "قناة العربي",
+    "position": "13",
+    "type": "channel",
+    "key": "roya_tv"
+  },
+  {
+    "namear": "قناة العربي 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"قناة العربي 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://origin-cae-t482536.cdn.nextologies.com:443/63d8c759c5db83b4/25c4f89d27a79014ALA2306/63d8c759c5db83b4/25c4f89d27a79014ALA2306480/chunks.m3u8\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "قناة العربي 2",
+    "position": "14",
+    "type": "channel",
+    "key": "roya_tv"
+  },
+  {
+    "namear": "حول العالم",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"حول العالم\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/around-the-world/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "حول العالم",
+    "position": "15",
+    "type": "channel",
+    "key": "roya_tv"
+  },
+  {
+    "namear": "حكي منوّع",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"حكي منوّع\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/haki-monawwa/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "حكي منوّع",
+    "position": "16",
+    "type": "channel",
+    "key": "roya_tv"
+  },
+  {
+    "namear": "مغامرات",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"مغامرات\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/roya-adventures/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "مغامرات",
+    "position": "17",
+    "type": "channel",
+    "key": "roya_tv"
+  },
+  {
+    "namear": "حلوة يا دنيا",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"حلوة يا دنيا\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/helwa-ya-donya/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "حلوة يا دنيا",
+    "position": "18",
+    "type": "channel",
+    "key": "roya_tv"
+  },
+  {
+    "namear": "العالم الكبير",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"العالم الكبير\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/big-world/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "العالم الكبير",
+    "position": "19",
+    "type": "channel",
+    "key": "roya_tv"
+  },
+  {
+    "namear": "911",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"911\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/911/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "911",
+    "position": "20",
+    "type": "channel",
+    "key": "roya_tv"
+  },
+  {
+    "namear": "طبخ ونفخ",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"طبخ ونفخ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/tabekh-w-nafekh/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "طبخ ونفخ",
+    "position": "21",
+    "type": "channel",
+    "key": "roya_tv"
+  },
+  {
+    "namear": "زيست",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"زيست\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/zst/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "زيست",
+    "position": "22",
+    "type": "channel",
+    "key": "roya_tv"
+  },
+  {
+    "namear": "شيف مان",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"شيف مان\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/zst/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "شيف مان",
+    "position": "23",
+    "type": "channel",
+    "key": "roya_tv"
+  },
+  {
+    "namear": "ست النكهات",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ست النكهات\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/sett-alnakhat/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "ست النكهات",
+    "position": "24",
+    "type": "channel",
+    "key": "roya_tv"
+  },
+  {
+    "namear": "ساعة محبّة",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ساعة محبّة\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/saeet-mahabbeh/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "ساعة محبّة",
+    "position": "25",
+    "type": "channel",
+    "key": "roya_tv"
+  },
+  {
+    "namear": "جلطة",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"جلطة\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/jalta/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "جلطة",
+    "position": "26",
+    "type": "channel",
+    "key": "roya_tv"
+  },
+  {
+    "namear": "وطن ع وتر",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"وطن ع وتر\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/watan-3a-watar/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "وطن ع وتر",
+    "position": "27",
+    "type": "channel",
+    "key": "roya_tv"
+  },
+  {
+    "namear": "مسرحيات",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"مسرحيات\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/masrahyyat/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "مسرحيات",
+    "position": "28",
+    "type": "channel",
+    "key": "roya_tv"
+  },
+  {
+    "namear": "أنا بحكيلك القصة",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"أنا بحكيلك القصة\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/ana-bahkilak-elgessa/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "أنا بحكيلك القصة",
+    "position": "29",
+    "type": "channel",
+    "key": "roya_tv"
+  },
+  {
+    "namear": "Adel Imam-1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Adel Imam-1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/adel-imam-movies/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "Adel Imam-1",
+    "position": "30",
+    "type": "channel",
+    "key": "roya_tv"
+  },
+  {
+    "namear": "الزعيم",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"الزعيم\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/alzaeem/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "الزعيم",
+    "position": "31",
+    "type": "channel",
+    "key": "roya_tv"
+  },
+  {
+    "namear": "أيمن زيدان",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"أيمن زيدان\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/ayman-zaydan/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "أيمن زيدان",
+    "position": "32",
+    "type": "channel",
+    "key": "roya_tv"
+  },
+  {
+    "namear": "نادين نجيم",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"نادين نجيم\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/nadinenjaim/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "نادين نجيم",
+    "position": "33",
+    "type": "channel",
+    "key": "roya_tv"
+  },
+  {
+    "namear": "حارة القبة",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"حارة القبة\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/haret-alqubbeh/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "حارة القبة",
+    "position": "34",
+    "type": "channel",
+    "key": "roya_tv"
+  },
+  {
+    "namear": "بيئة شامية",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"بيئة شامية\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/by2ah-shamyeh/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "بيئة شامية",
+    "position": "35",
+    "type": "channel",
+    "key": "roya_tv"
+  },
+  {
+    "namear": "أكشن",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"أكشن\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/action/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "أكشن",
+    "position": "36",
+    "type": "channel",
+    "key": "roya_tv"
+  },
+  {
+    "namear": "الهيبة",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"الهيبة\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/alhayba/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "الهيبة",
+    "position": "37",
+    "type": "channel",
+    "key": "roya_tv"
+  },
+  {
+    "namear": "مجتمعي",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"مجتمعي\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/mojtamaii/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "مجتمعي",
+    "position": "38",
+    "type": "channel",
+    "key": "roya_tv"
+  },
+  {
+    "namear": "Documentaries",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Documentaries\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/documentaries/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "Documentaries",
+    "position": "39",
+    "type": "channel",
+    "key": "roya_tv"
+  },
+  {
+    "namear": "RedBull TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"RedBull TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/redbull/playlist.m3u8 ➽───────────────❥ ➽───────────────❥ ➽─────────\"}]",
+    "logo": "https://bit.ly/3ydKOJy",
+    "nameen": "RedBull TV",
+    "position": "40",
+    "type": "channel",
+    "key": "roya_tv"
+  }
+]

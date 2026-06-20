@@ -1,0 +1,29 @@
+[
+  {
+    "namear": "Rotana Plus",
+    "servers": "[{\"headers\":\"\",\"license\":\"f571378781d0cbf463bb4c9cd4738b46:715272be9876f5cfe8bd178ab820e9c0\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://neacdnpop3-edge01.aws.playco.com/live/eds/Rotana_Plus_HD/DASH/Rotana_Plus_HD.mpd\"}]",
+    "logo": "",
+    "nameen": "Rotana Plus",
+    "position": "0",
+    "type": "channel",
+    "key": "startz_play"
+  },
+  {
+    "namear": "StarzPlay Series",
+    "servers": "[{\"headers\":\"\",\"license\":\"f9fd1dd7d0716e37456c3e17f27ee7ba:3a00049c27da50ba56f081aef1b2d0b1\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://neacdnpop3-edge01.aws.playco.com/live/eds/StarzPlay_Series/DASH/StarzPlay_Series.mpd\"}]",
+    "logo": "",
+    "nameen": "StarzPlay Series",
+    "position": "1",
+    "type": "channel",
+    "key": "startz_play"
+  },
+  {
+    "namear": "StarzPlay Movies",
+    "servers": "[{\"headers\":\"\",\"license\":\"4b59fc6829905f9875d7359cdf6a083b:81474bc4d05be9cb5a6a5bce74da9771\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://neacdnpop3-edge01.aws.playco.com/live/eds/Starzplay_Movies/DASH/Starzplay_Movies.mpd\"}]",
+    "logo": "",
+    "nameen": "StarzPlay Movies",
+    "position": "2",
+    "type": "channel",
+    "key": "startz_play"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "namear": "yalla 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://yeszet1x1cdn23.goalarab.site/liveb1/b1/chunks.m3u8?\"}]",
+    "logo": "",
+    "nameen": "Yalla 1",
+    "position": "1",
+    "type": "channel",
+    "key": "yalla_live"
+  },
+  {
+    "namear": "Yalla 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://yeszet1x1cdn23.goalarab.site/liveb2/b.2/chunks.m3u8?\"}]",
+    "logo": "",
+    "nameen": "Yalla 2",
+    "position": "2",
+    "type": "channel",
+    "key": "yalla_live"
+  },
+  {
+    "namear": "Yalla 3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://yeszet1x1cdn23.goalarab.site/liveb3/.b3/chunks.m3u8\"}]",
+    "logo": "",
+    "nameen": "Yalla 3",
+    "position": "2",
+    "type": "channel",
+    "key": "yalla_live"
+  }
+]

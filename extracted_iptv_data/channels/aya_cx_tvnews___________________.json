@@ -1,0 +1,110 @@
+[
+  {
+    "namear": "France 24",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"Multi Quality\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8\"}]",
+    "logo": "https://yt3.googleusercontent.com/ttCZI4HzbwlKBLe-hgRNy8N3QyymY4FOqb3Todsh0ic8Ms-8SbZ9cN0IQZhTEiINQMQtIXef=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "France 24",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvnews_الأخــــــبـــــار"
+  },
+  {
+    "namear": "Sky بالعربية",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"Multi Quality\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://stream.skynewsarabia.com/hls/sna.m3u8\"}]",
+    "logo": "https://play-lh.googleusercontent.com/phi19fJAMvOxBWN4M1lb-EXIybEIaW176n-5uWXyne6IKL0eLUvWVItWhGE3HcqucxMy",
+    "nameen": "Sky بالعربية",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_cx_tvnews_الأخــــــبـــــار"
+  },
+  {
+    "namear": "الحدث نيوز",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"360p25\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://av.alarabiya.net/alarabiapublish/alhadath_360p/chunks.m3u8\"},{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"1080p25\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://av.alarabiya.net/alarabiapublish/alhadath_1080p/chunks.m3u8\"},{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"720p25\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://av.alarabiya.net/alarabiapublish/alhadath_720p/chunks.m3u8\"}]",
+    "logo": "https://yt3.googleusercontent.com/ehhpuQeVHO0g3kIPkmwrw1x0fLqDk7RyWH733oe4wcKb_1jBEMvGt4WVlQEEzcTCL6zq01K5HQ=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "الحدث نيوز",
+    "position": "6",
+    "type": "channel",
+    "key": "aya_cx_tvnews_الأخــــــبـــــار"
+  },
+  {
+    "namear": "الجزيرة EN",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"720p25\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://live-hls-web-aje-gcp.thehlive.com/AJE/02.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"360p25\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://live-hls-web-aje-gcp.thehlive.com/AJE/05.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1080p25\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi Quality\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8\"}]",
+    "logo": "https://yt3.googleusercontent.com/TEkAt4v2DTqLiU_0pmLza5ZZndnaUXOjVuAFthuaGvwGyCYpO4H85KXOBxdMzrJ8cZu2DoECRA=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "الجزيرة EN",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvnews_الأخــــــبـــــار"
+  },
+  {
+    "namear": "العربية أعمال",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"360p25\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://live.alarabiya.net/alarabiapublish/aswaaq.smil/alarabiapublish/aswaaq_360p/chunks.m3u8\"},{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"240p25\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://live.alarabiya.net/alarabiapublish/aswaaq.smil/alarabiapublish/aswaaq_240p/chunks.m3u8\"},{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"720p25\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://live.alarabiya.net/alarabiapublish/aswaaq.smil/alarabiapublish/aswaaq_720p/chunks.m3u8\"}]",
+    "logo": "https://yt3.googleusercontent.com/rcYdeWxKwa3d_LnCuaA20Kb_D1gF3_jvtdIv4yRvuojyMlpOf98izCTvj1hZvrzMTqSiX3tP8g=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "العربية أعمال",
+    "position": "8",
+    "type": "channel",
+    "key": "aya_cx_tvnews_الأخــــــبـــــار"
+  },
+  {
+    "namear": "RT بالعربي",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"720p25\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://rt-arb.rttv.com/live/rtarab/playlist_2500Kb.m3u8\"},{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"Multi\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://rt-arb.rttv.com/live/rtarab/playlist.m3u8\"},{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"1080p25\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://rt-arb.rttv.com/live/rtarab/playlist_4500Kb.m3u8\"},{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"360p25\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://rt-arb.rttv.com/live/rtarab/playlist_800Kb.m3u8\"}]",
+    "logo": "https://arabic.rt.com/static/blocks/logo/logo-og.png",
+    "nameen": "RT بالعربي",
+    "position": "9",
+    "type": "channel",
+    "key": "aya_cx_tvnews_الأخــــــبـــــار"
+  },
+  {
+    "namear": "الجزيرة الإخبارية",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"360p25\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://live-hls-web-aja-gcp.thehlive.com/AJA/05.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1080p25\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://live-hls-web-aja-gcp.thehlive.com/AJA/01.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"جودة تلقائية\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://live-hls-web-aja-gcp.thehlive.com/AJA/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"720p25\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://live-hls-web-aja-gcp.thehlive.com/AJA/02.m3u8\"}]",
+    "logo": "https://play-lh.googleusercontent.com/1pvYY4tIk0u0ZPkqp-zMRHXekDNq793b5TNxFO0ZUMe2ML87G6moZrvfiVWFWteEUirC",
+    "nameen": "الجزيرة الإخبارية",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvnews_الأخــــــبـــــار"
+  },
+  {
+    "namear": "العربية",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"Multi Quality\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8\"},{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"1080p25\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index_38.m3u8\"},{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"720p25\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index_37.m3u8\"},{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"360p25\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index_34.m3u8\"}]",
+    "logo": "https://m.media-amazon.com/images/I/21XrpXanUcL.png",
+    "nameen": "العربية",
+    "position": "7",
+    "type": "channel",
+    "key": "aya_cx_tvnews_الأخــــــبـــــار"
+  },
+  {
+    "namear": "TRT بالعربية",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"1440p25\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://tv-trtarabi.medya.trt.com.tr/master_1440.m3u8\"},{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"720p25\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8\"},{\"license\":\"\",\"headers\":\"user-agent|me|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"test\",\"Referer\":\"\",\"userAgent\":\"me\",\"position\":\"\",\"url\":\"http://192.168.68.103:8888/stream/test/ch01/master.m3u8\"},{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"360p25\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://tv-trtarabi.medya.trt.com.tr/master_360.m3u8\"},{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"1080p25\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://tv-trtarabi.medya.trt.com.tr/master_1080.m3u8\"},{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"Multi\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://tv-trtarabi.medya.trt.com.tr/master.m3u8\"}]",
+    "logo": "https://yt3.googleusercontent.com/gYgMDstQrKquZlKMpynGak3fik58-0UdhvIFvRNk8Z1KAGDzn6Kuz8uULtWRwVM3bJcqBuWfxQ=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "TRT بالعربية",
+    "position": "11",
+    "type": "channel",
+    "key": "aya_cx_tvnews_الأخــــــبـــــار"
+  },
+  {
+    "namear": "الجزيرة مباشر",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi Quality\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://live-hls-web-ajm.getaj.net/AJM/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1080p25\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://live-hls-web-ajm.getaj.net/AJM/01.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"720p25\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://live-hls-web-ajm.getaj.net/AJM/02.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"360p25\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://live-hls-web-ajm.getaj.net/AJM/05.m3u8\"}]",
+    "logo": "https://yt3.googleusercontent.com/h0_bBdVgCAXIPJFnQ4hZtE87cDY_qO7rkDAue8qXdmOFxZ5NaO3AFD1uCUcst-EsBcGJ8zl8EQ=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "الجزيرة مباشر",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvnews_الأخــــــبـــــار"
+  },
+  {
+    "namear": "الوثائقية",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1080p25\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://live-hls-apps-ajd-fa.getaj.net/AJD/01.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"720p25\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://live-hls-apps-ajd-fa.getaj.net/AJD/02.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi Quality\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"360p25\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://live-hls-apps-ajd-fa.getaj.net/AJD/05.m3u8\"}]",
+    "logo": "https://yt3.googleusercontent.com/KIFchyPKtitq9qjQnvmiCgh3M_3DIP_hL2xga_6SpQeJgWaU3lPnnH4tyEBy-z06x5o89y9nVyA=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "الوثائقية",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvnews_الأخــــــبـــــار"
+  },
+  {
+    "namear": "i24 بالعربية",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"Multi\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist_dvr.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/79/LOGO_i24NEWS.png",
+    "nameen": "i24 بالعربية",
+    "position": "10",
+    "type": "channel",
+    "key": "aya_cx_tvnews_الأخــــــبـــــار"
+  }
+]

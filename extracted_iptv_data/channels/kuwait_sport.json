@@ -1,0 +1,20 @@
+[
+  {
+    "namear": "Kuwait SPORT",
+    "servers": "[{\"headers\":\"user-agent|aloka|\",\"otherHeaders\":\"\",\"name\":\"KTV SPORTS\",\"Referer\":\"\",\"userAgent\":\"aloka\",\"position\":\"0\",\"url\":\"https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8?checkedby:iptvcat.com\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9x8YM5txkQHUcLpUzLdrJN5eL7YIQgca4OQ&usqp=CAU",
+    "nameen": "Kuwait SPORT",
+    "position": "0",
+    "type": "channel",
+    "key": "kuwait_sport"
+  },
+  {
+    "namear": "Kuwait SPORT",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://kwmedia.hibridcdn.net/kwmedia/kwtvsports_abr/kwmedia/kwtvsports_1080p/chunks.m3u8?p\\u003d53\\u0026s\\u003d1688903164\\u0026e\\u003d1688989564\\u0026cf\\u003d1688989564\\u0026h\\u003d63f6b963c3e423df53af8db4061b6591\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9x8YM5txkQHUcLpUzLdrJN5eL7YIQgca4OQ&usqp=CAU",
+    "nameen": "Kuwait SPORT",
+    "position": "1",
+    "type": "channel",
+    "key": "kuwait_sport"
+  }
+]

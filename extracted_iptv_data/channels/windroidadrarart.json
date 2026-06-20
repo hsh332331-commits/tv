@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "ART Aflam 1",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"ART Aflam 1\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/76.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/278075_ico.png",
+    "nameen": "ART Aflam 1",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarart"
+  },
+  {
+    "namear": "ART Aflam 2",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"ART Aflam 2\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/77.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/278104_ico.png",
+    "nameen": "ART Aflam 2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarart"
+  },
+  {
+    "namear": "ART Hekayat 1",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"ART Hekayat 1\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/78.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/278133_ico.png",
+    "nameen": "ART Hekayat 1",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarart"
+  },
+  {
+    "namear": "ART Hekayat 2",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"ART Hekayat 2\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/79.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/278395_ico.png",
+    "nameen": "ART Hekayat 2",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarart"
+  },
+  {
+    "namear": "ART Cinema",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"ART Cinema\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/163\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/278123_ico.png",
+    "nameen": "ART Cinema",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarart"
+  }
+]

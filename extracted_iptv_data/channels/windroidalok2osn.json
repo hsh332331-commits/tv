@@ -1,0 +1,155 @@
+[
+  {
+    "namear": "OSN YAHALA",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"OSN YAHALA\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/66.ts\"}]",
+    "logo": "https://i.ibb.co/gwb72Fj/ya-hala.png",
+    "nameen": "OSN YAHALA",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidalok2osn"
+  },
+  {
+    "namear": "OSN YAHALA belarabi",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"OSN YAHALA belarabi\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/67.ts\"}]",
+    "logo": "https://i.ibb.co/Br2YBVb/ya-hala-o.png",
+    "nameen": "OSN YAHALA belarabi",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidalok2osn"
+  },
+  {
+    "namear": "OSN CINEMA",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"OSN CINEMA\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/68.ts\"}]",
+    "logo": "https://i.ibb.co/WGpyzz1/ya-hala-c.png",
+    "nameen": "OSN CINEMA",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidalok2osn"
+  },
+  {
+    "namear": "OSN MOVIES",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"OSN MOVIES\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/70.ts\"}]",
+    "logo": "https://i.ibb.co/NsrSMdV/osn-movisf.png",
+    "nameen": "OSN MOVIES",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidalok2osn"
+  },
+  {
+    "namear": "OSN ACTION",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"OSN ACTION\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/69.ts\"}]",
+    "logo": "https://i.ibb.co/Vw0vTXC/osnaction.png",
+    "nameen": "OSN ACTION",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidalok2osn"
+  },
+  {
+    "namear": "OSN KIDS",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"OSN KIDS\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://shls-gulli-bil-arabi-prod-dub.shahid.net:443/out/v1/5454d215afba410c90b233f400730958/index_2.ts\"}]",
+    "logo": "https://i.ibb.co/17NkVKy/osn-kids.png",
+    "nameen": "OSN KIDS",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidalok2osn"
+  },
+  {
+    "namear": "OSN DISCOVERY ID",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"OSN DISCOVERY ID\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/71.ts\"}]",
+    "logo": "https://i.ibb.co/x8cCMxv/osn-discovry.png",
+    "nameen": "OSN DISCOVERY ID",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidalok2osn"
+  },
+  {
+    "namear": "OSN DISCOVERY",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"OSN DISCOVERY\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/72.ts\"}]",
+    "logo": "http://www.bbb.lol/uploads/tv_image/osn-discovery-hd.png",
+    "nameen": "OSN DISCOVERY",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidalok2osn"
+  },
+  {
+    "namear": "OSN DISNEY",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"OSN DISNEY\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/75.ts\"}]",
+    "logo": "https://i.ibb.co/0yW2Np6/osn.png",
+    "nameen": "OSN DISNEY",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidalok2osn"
+  },
+  {
+    "namear": "OSN WWE",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"OSN WWE\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/83.ts\"}]",
+    "logo": "https://i.ibb.co/ysyY2CT/osn-wwe.png",
+    "nameen": "OSN WWE",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidalok2osn"
+  },
+  {
+    "namear": "ALFA CINEMA 1",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"ALFA CINEMA 1\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/81.ts\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/cards/o1408361_4334197.png?v=1",
+    "nameen": "ALFA CINEMA 1",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidalok2osn"
+  },
+  {
+    "namear": "ALFA AL YOUM",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"ALFA AL YOUM\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/80.ts\"}]",
+    "logo": "https://i.ibb.co/HHrwHs3/alfa-yaum.png",
+    "nameen": "ALFA AL YOUM",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidalok2osn"
+  },
+  {
+    "namear": "ALFA SAFWA",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"ALFA SAFWA\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/82.ts\"}]",
+    "logo": "ض",
+    "nameen": "ALFA SAFWA",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidalok2osn"
+  },
+  {
+    "namear": "ART AFLAM 1",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"ART AFLAM 1\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/76.ts\"}]",
+    "logo": "https://www.lyngsat.com/logo/tv/aa/art_aflam_1.png",
+    "nameen": "ART AFLAM 1",
+    "position": "13",
+    "type": "channel",
+    "key": "windroidalok2osn"
+  },
+  {
+    "namear": "ART AFLAM 2",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"ART AFLAM 2\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/77.ts\"}]",
+    "logo": "https://www.lyngsat.com/logo/tv/aa/art_aflam_2.png",
+    "nameen": "ART AFLAM 2",
+    "position": "14",
+    "type": "channel",
+    "key": "windroidalok2osn"
+  },
+  {
+    "namear": "ART HEKBein T 1",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"ART HEKBein T 1\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/78.ts\"}]",
+    "logo": "https://www.lyngsat.com/logo/tv/aa/art_hekayat.png",
+    "nameen": "ART HEKBein T 1",
+    "position": "15",
+    "type": "channel",
+    "key": "windroidalok2osn"
+  },
+  {
+    "namear": "ART HEKBein T 2",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"ART HEKBein T 2\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/79.ts\"}]",
+    "logo": "https://www.lyngsat.com/logo/tv/aa/art_hekayat_2.png",
+    "nameen": "ART HEKBein T 2",
+    "position": "16",
+    "type": "channel",
+    "key": "windroidalok2osn"
+  }
+]

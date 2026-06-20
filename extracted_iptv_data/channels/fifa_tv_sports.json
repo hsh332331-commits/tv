@@ -1,0 +1,65 @@
+[
+  {
+    "namear": "FIFA+",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24|\",\"otherHeaders\":\"\",\"name\":\"FIFA+\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24\",\"position\":\"0\",\"url\":\"https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSZzSjxml-NQv-8CbbDgmFdPyjOhGVjFTZm1RGf78RSg&s=10",
+    "nameen": "FIFA+",
+    "position": "1",
+    "type": "channel",
+    "key": "fifa_tv_sports"
+  },
+  {
+    "namear": "FIFA+ French (720p)",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24|\",\"otherHeaders\":\"\",\"name\":\"FIFA+ French (720p)\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24\",\"position\":\"0\",\"url\":\"https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSZzSjxml-NQv-8CbbDgmFdPyjOhGVjFTZm1RGf78RSg&s=10",
+    "nameen": "FIFA+ French (720p)",
+    "position": "2",
+    "type": "channel",
+    "key": "fifa_tv_sports"
+  },
+  {
+    "namear": "FIFA+ German (720p)",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24|\",\"otherHeaders\":\"\",\"name\":\"FIFA+ German (720p)\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24\",\"position\":\"0\",\"url\":\"https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSZzSjxml-NQv-8CbbDgmFdPyjOhGVjFTZm1RGf78RSg&s=10",
+    "nameen": "FIFA+ German (720p)",
+    "position": "3",
+    "type": "channel",
+    "key": "fifa_tv_sports"
+  },
+  {
+    "namear": "FIFA+ Italy (720p)",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24|\",\"otherHeaders\":\"\",\"name\":\"FIFA+ Italy (720p)\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24\",\"position\":\"0\",\"url\":\"https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSZzSjxml-NQv-8CbbDgmFdPyjOhGVjFTZm1RGf78RSg&s=10",
+    "nameen": "FIFA+ Italy (720p)",
+    "position": "4",
+    "type": "channel",
+    "key": "fifa_tv_sports"
+  },
+  {
+    "namear": "FIFA+ Spain (720p)",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24|\",\"otherHeaders\":\"\",\"name\":\"FIFA+ Spain (720p)\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24\",\"position\":\"0\",\"url\":\"https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSZzSjxml-NQv-8CbbDgmFdPyjOhGVjFTZm1RGf78RSg&s=10",
+    "nameen": "FIFA+ Spain (720p)",
+    "position": "5",
+    "type": "channel",
+    "key": "fifa_tv_sports"
+  },
+  {
+    "namear": "FIFA+ United States (720p)",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24|\",\"otherHeaders\":\"\",\"name\":\"FIFA+ United States (720p)\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24\",\"position\":\"0\",\"url\":\"https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSZzSjxml-NQv-8CbbDgmFdPyjOhGVjFTZm1RGf78RSg&s=10",
+    "nameen": "FIFA+ United States (720p)",
+    "position": "6",
+    "type": "channel",
+    "key": "fifa_tv_sports"
+  },
+  {
+    "namear": "FIFA++",
+    "servers": "[{\"headers\":\"\",\"license\":\"61b535258a2c45b1a3f899b39e03a75b:665713a1678fe41efe5510d32bfbe26d\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pjpsn1xdop/out/v1/c9699d08ed434e53bd49b709f8b3136d/cenc.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSZzSjxml-NQv-8CbbDgmFdPyjOhGVjFTZm1RGf78RSg&s=10",
+    "nameen": "FIFA++",
+    "position": "6",
+    "type": "channel",
+    "key": "fifa_tv_sports"
+  }
+]

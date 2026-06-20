@@ -1,0 +1,119 @@
+[
+  {
+    "namear": "ZDF",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ZDF\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.83.71.210/ZDF/mono.m3u8 \"},{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ZDF\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"https://s6.hopslan.com/zdfg11/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlwGkmwmHFpgaCBqlK-8HHSIX2MfnoTgaEgg&usqp=CAU",
+    "nameen": "ZDF",
+    "position": "1",
+    "type": "channel",
+    "key": "world_cup"
+  },
+  {
+    "namear": "Servus",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Servus\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"https://s6.hopslan.com/servus2/mono.m3u8 \"}]",
+    "logo": "https://i.imgur.com/7wABSuo.png",
+    "nameen": "Servus",
+    "position": "1",
+    "type": "channel",
+    "key": "world_cup"
+  },
+  {
+    "namear": "TF1",
+    "servers": "[{\"headers\":\"user-agent;FF;\",\"otherHeaders\":\"\",\"name\":\"TF1\",\"Referer\":\"\",\"userAgent\":\"FF\",\"position\":\"0\",\"url\":\"http://comag.rip:8000/50738601689735/03751643107136/80982\"}]",
+    "logo": "https://i.ibb.co/BBpR1Wx/tf1.png",
+    "nameen": "TF1",
+    "position": "1",
+    "type": "channel",
+    "key": "world_cup"
+  },
+  {
+    "namear": "HRT2",
+    "servers": "[{\"headers\":\"user-agent;TT;\",\"otherHeaders\":\"\",\"name\":\"HRT2\",\"Referer\":\"\",\"userAgent\":\"TT\",\"position\":\"0\",\"url\":\"http://195.29.70.67/PLTV/88888888/224/3221226140/04.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjpH-hXvGJh9oVr8zPcmzUnOOWgUHyTxOEzg&usqp=CAU",
+    "nameen": "HRT",
+    "position": "1",
+    "type": "channel",
+    "key": "world_cup"
+  },
+  {
+    "namear": "CCTV 5 CHINA",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CCTV 5\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://182.151.211.171:808/hls/5/mono.m3u8 \"},{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Cctv 16\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtt-EXqESwtdOeCQquMF5TRVqk4hcUT7IOPw&usqp=CAU",
+    "nameen": "CCTV 5 CHINA",
+    "position": "1",
+    "type": "channel",
+    "key": "world_cup"
+  },
+  {
+    "namear": "TRT 1",
+    "servers": "[{\"headers\":\"user-agent;TT;\",\"otherHeaders\":\"\",\"name\":\"TRT\",\"Referer\":\"\",\"userAgent\":\"TT\",\"position\":\"1\",\"url\":\"http://ac.traveliptv.nl/ibrahimturk/v7Nv6vNvdk/16\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHd8HF9d6q5WV8LMD93JhW5TUeToLpjNYVIA&usqp=CAU",
+    "nameen": "TRT 1",
+    "position": "2",
+    "type": "channel",
+    "key": "world_cup"
+  },
+  {
+    "namear": "BBC 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BBC\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://87.212.248.44:60230/play/a04h/mono.m3u8 \"},{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BBC\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"http://87.212.248.44:60230/play/a04c/mono.m3u8 \"},{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BBC\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"http://87.212.248.44:60230/play/a04m\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_4gSw5INR50Gn2qNezTNCQqMTCNUErutEQ&usqp=CAU",
+    "nameen": "BBC 1",
+    "position": "6",
+    "type": "channel",
+    "key": "world_cup"
+  },
+  {
+    "namear": "ITV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ITV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://87.212.248.44:60230/play/a071/mono.m3u8 \"},{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ITV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"http://87.212.248.44:60230/play/a071\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4aVPtzezwawf9unHBjYXzYDgbnY3WTaIkyw&usqp=CAU",
+    "nameen": "ITV",
+    "position": "7",
+    "type": "channel",
+    "key": "world_cup"
+  },
+  {
+    "namear": "MRT",
+    "servers": "[{\"headers\":\"user-agent;FF;\",\"otherHeaders\":\"\",\"name\":\"RTSH\",\"Referer\":\"\",\"userAgent\":\"FF\",\"position\":\"0\",\"url\":\"http://135.125.204.34:8081/tvstanici/6/mono.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTED_9ywzUopP3jcLUw_q5FId6MpuZQ1WI8og&usqp=CAU",
+    "nameen": "MRT",
+    "position": "8",
+    "type": "channel",
+    "key": "world_cup"
+  },
+  {
+    "namear": "Mundo",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ESPN\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://v-px.mybtv.net/live/39.m3u8\"}]",
+    "logo": "https://mundodabola.com.br/wp-content/uploads/2020/05/cropped-logo-com-borda.png",
+    "nameen": "Mundo",
+    "position": "9",
+    "type": "channel",
+    "key": "world_cup"
+  },
+  {
+    "namear": "Qazsport",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://92.46.127.146:8080/qazsport/mono.m3u8 \"}]",
+    "logo": "https://tvnews.by/uploads/posts/2016-09/1473788298_kaz_sport_kz.png",
+    "nameen": "Qazsport",
+    "position": "10",
+    "type": "channel",
+    "key": "world_cup"
+  },
+  {
+    "namear": "Fox",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"HD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"1\",\"url\":\"http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/1529\"}]",
+    "logo": "https://foxsports-wordpress-www-prsupports-stg.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585-Grid.jpg",
+    "nameen": "Fox",
+    "position": "11",
+    "type": "channel",
+    "key": "world_cup"
+  },
+  {
+    "namear": "RTK 1",
+    "servers": "[{\"headers\":\"user-agent;YY;\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"YY\",\"position\":\"0\",\"url\":\"http://95.107.132.105/out/u/327_1.m3u8\"}]",
+    "logo": "",
+    "nameen": "RTK 1",
+    "position": "12",
+    "type": "channel",
+    "key": "world_cup"
+  }
+]

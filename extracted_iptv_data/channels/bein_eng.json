@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "Bein Sports (Ebravo)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Bein Sports (Ebravo)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://175.107.244.52:4457/play/a070/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Bein Sports (Ebravo)",
+    "position": "1",
+    "type": "channel",
+    "key": "bein_eng"
+  },
+  {
+    "namear": "5 SPORT 4K",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"5 SPORT 4K\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://213.244.79.227:8000/play/a063\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "5 SPORT 4K",
+    "position": "1",
+    "type": "channel",
+    "key": "bein_eng"
+  },
+  {
+    "namear": "Bein Sports 2 (Ebravo)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Bein Sports 2 (Ebravo)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://175.107.244.52:4457/play/a06z/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Bein Sports 2 (Ebravo)",
+    "position": "2",
+    "type": "channel",
+    "key": "bein_eng"
+  },
+  {
+    "namear": "Bein Sports 3 (Ebravo)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Bein Sports 3 (Ebravo)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://175.107.244.52:4457/play/a06x/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Bein Sports 3 (Ebravo)",
+    "position": "3",
+    "type": "channel",
+    "key": "bein_eng"
+  },
+  {
+    "namear": "Bein Sports 3 Arabic (Ebravo)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Bein Sports 3 Arabic (Ebravo)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://175.107.244.52:4457/play/a06y/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Bein Sports 3 Arabic (Ebravo)",
+    "position": "4",
+    "type": "channel",
+    "key": "bein_eng"
+  }
+]

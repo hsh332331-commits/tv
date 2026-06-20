@@ -1,0 +1,767 @@
+[
+  {
+    "namear": "12 Keshet HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"12 Keshet HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a09d/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "12 Keshet HD",
+    "position": "1",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "13 Reshet HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"13 Reshet HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a09e/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "13 Reshet HD",
+    "position": "2",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "5 LIVE HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"5 LIVE HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a04b/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "5 LIVE HD",
+    "position": "3",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "5 PLUS HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"5 PLUS HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a046/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "5 PLUS HD",
+    "position": "4",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "5 SPORT HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"5 SPORT HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a04d/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "5 SPORT HD",
+    "position": "5",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "5 STARS HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"5 STARS HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a04h/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "5 STARS HD",
+    "position": "6",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "AL Badawya",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AL Badawya\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a09g/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AL Badawya",
+    "position": "7",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "AL MANAR HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AL MANAR HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a08g/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AL MANAR HD",
+    "position": "8",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "AMAZON Documentary",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AMAZON Documentary\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a06x/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AMAZON Documentary",
+    "position": "9",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "Aflam 1 (local)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Aflam 1 (local)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a062/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Aflam 1 (local)",
+    "position": "10",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "Aflam 2 (local)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Aflam 2 (local)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a063/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Aflam 2 (local)",
+    "position": "11",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "BBC earth HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BBC earth HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a015/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "BBC earth HD",
+    "position": "12",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "BeIN Movies1 Pemiere",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BeIN Movies1 Pemiere\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a017/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "BeIN Movies1 Pemiere",
+    "position": "13",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "Boomerang",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Boomerang\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a085/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Boomerang",
+    "position": "14",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "Discovery HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Discovery HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a057/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Discovery HD",
+    "position": "15",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "Documentary",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Documentary\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a054/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Documentary",
+    "position": "16",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "Eurosport HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Eurosport HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a056/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Eurosport HD",
+    "position": "17",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "H - bien",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"H - bien\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a06r/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "H - bien",
+    "position": "18",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "MBC PLUS",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC PLUS\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a07q/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MBC PLUS",
+    "position": "19",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "MBC 5 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC 5 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a01i/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MBC 5 HD",
+    "position": "20",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "MBC ANIME",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC ANIME\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a06o/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MBC ANIME",
+    "position": "21",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "MBC DRAMA PLUS HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC DRAMA PLUS HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a01e/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MBC DRAMA PLUS HD",
+    "position": "22",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "MBC ELIFE",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC ELIFE\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a06y/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MBC ELIFE",
+    "position": "23",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "MBC GEOGRAPHIC",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC GEOGRAPHIC\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a077/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MBC GEOGRAPHIC",
+    "position": "24",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "MBC MOVIES",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC MOVIES\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a07n/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MBC MOVIES",
+    "position": "25",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "MBC NINE",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC NINE\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a078/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MBC NINE",
+    "position": "26",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "MBC ONE HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC ONE HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a06q/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MBC ONE HD",
+    "position": "27",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "MBC POWER + 4k",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC POWER + 4k\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a07o/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MBC POWER + 4k",
+    "position": "28",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "MBC PREMIUM",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC PREMIUM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a06l/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MBC PREMIUM",
+    "position": "29",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "MBC PREMIUM 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC PREMIUM 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a06p/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MBC PREMIUM 2",
+    "position": "30",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "MBC SEVEN",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC SEVEN\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a07r/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MBC SEVEN",
+    "position": "31",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "MBC SYRIA",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC SYRIA\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a07p/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MBC SYRIA",
+    "position": "32",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "MBC TEN",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC TEN\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a08n/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MBC TEN",
+    "position": "33",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "MBC TOON",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC TOON\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a07s/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MBC TOON",
+    "position": "34",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "MBC TOW",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC TOW\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a08m/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MBC TOW",
+    "position": "35",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "MBC turki",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC turki\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a053/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MBC turki",
+    "position": "36",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "MBC zoom",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC zoom\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a076/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MBC zoom",
+    "position": "37",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "MIX BOLLYWOOD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MIX BOLLYWOOD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a06v/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MIX BOLLYWOOD",
+    "position": "38",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "MIX HOLLYWOOD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MIX HOLLYWOOD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a07b/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "MIX HOLLYWOOD",
+    "position": "39",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "N. Geographic HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"N. Geographic HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a04y/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "N. Geographic HD",
+    "position": "40",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "NETFLIX ACTION EN",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NETFLIX ACTION EN\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a079/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "NETFLIX ACTION EN",
+    "position": "41",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "NETFLIX HORROR EN",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NETFLIX HORROR EN\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a08l/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "NETFLIX HORROR EN",
+    "position": "42",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "Nat Geo Wild HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Nat Geo Wild HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a03e/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Nat Geo Wild HD",
+    "position": "43",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "ONE 2 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ONE 2 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a04v/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ONE 2 HD",
+    "position": "44",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "ONE HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ONE HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a04f/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ONE HD",
+    "position": "45",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "OSN FIRST",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"OSN FIRST\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a02p/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "OSN FIRST",
+    "position": "46",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "OSN MOVIES ACTION HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"OSN MOVIES ACTION HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a08c/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "OSN MOVIES ACTION HD",
+    "position": "47",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "OSN Yahala",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"OSN Yahala\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a02g/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "OSN Yahala",
+    "position": "48",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "POWER SPIDER",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"POWER SPIDER\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a07i/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "POWER SPIDER",
+    "position": "49",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "Peqiin Tv",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Peqiin Tv\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a060/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Peqiin Tv",
+    "position": "50",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "ROTANA + HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ROTANA + HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a06s/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ROTANA + HD",
+    "position": "51",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "SHAHID Animation",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SHAHID Animation\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a080/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "SHAHID Animation",
+    "position": "52",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "SSC 1HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SSC 1HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a05x/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "SSC 1HD",
+    "position": "53",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "SSC EXTRA 1 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SSC EXTRA 1 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a07g/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "SSC EXTRA 1 HD",
+    "position": "54",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "SSC HD2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SSC HD2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a05n/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "SSC HD2",
+    "position": "55",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "SSC HD3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SSC HD3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a074/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "SSC HD3",
+    "position": "56",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "SSC HD5",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SSC HD5\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a07f/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "SSC HD5",
+    "position": "57",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "Sami HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sami HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a011/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Sami HD",
+    "position": "58",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "Signal Turkish",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Signal Turkish\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a07l/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Signal Turkish",
+    "position": "59",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "Sport 1 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sport 1 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a04c/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Sport 1 HD",
+    "position": "60",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "Sport 2 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sport 2 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a043/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Sport 2 HD",
+    "position": "61",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "Sport 3 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sport 3 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a06n/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Sport 3 HD",
+    "position": "62",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "Sport 4 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sport 4 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a03x/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Sport 4 HD",
+    "position": "63",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "T- beIN PRIM HD 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"T- beIN PRIM HD 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a06f/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "T- beIN PRIM HD 1",
+    "position": "64",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "T- beIN PRIM HD 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"T- beIN PRIM HD 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a092/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "T- beIN PRIM HD 2",
+    "position": "65",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "T- beIN PRIM HD 3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"T- beIN PRIM HD 3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a08h/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "T- beIN PRIM HD 3",
+    "position": "66",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "T- beIN SPORT 4 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"T- beIN SPORT 4 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a072/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "T- beIN SPORT 4 HD",
+    "position": "67",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "T-ANIMAL PLANET",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"T-ANIMAL PLANET\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a09c/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "T-ANIMAL PLANET",
+    "position": "68",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "T-ONE2 SPORT HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"T-ONE2 SPORT HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a08r/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "T-ONE2 SPORT HD",
+    "position": "69",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "T-Sport 3 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"T-Sport 3 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a08s/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "T-Sport 3 HD",
+    "position": "70",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "T-Sport 5 Plus HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"T-Sport 5 Plus HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a08w/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "T-Sport 5 Plus HD",
+    "position": "71",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "T-Sport 5 live hd",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"T-Sport 5 live hd\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a08x/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "T-Sport 5 live hd",
+    "position": "72",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "T1 OSN Discovery SC",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"T1 OSN Discovery SC\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a091/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "T1 OSN Discovery SC",
+    "position": "73",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "T1-Baraem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"T1-Baraem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a09b/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "T1-Baraem",
+    "position": "74",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "T1-OTV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"T1-OTV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a09a/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "T1-OTV",
+    "position": "75",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "VIVO SHOWTIME HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"VIVO SHOWTIME HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a08o/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "VIVO SHOWTIME HD",
+    "position": "76",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "WWE GLOBAL",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"WWE GLOBAL\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a07v/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "WWE GLOBAL",
+    "position": "77",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "WWE NEXT",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"WWE NEXT\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a07x/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "WWE NEXT",
+    "position": "78",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "WWE RAW",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"WWE RAW\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a07w/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "WWE RAW",
+    "position": "79",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "WatchBox Documentary",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"WatchBox Documentary\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a083/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "WatchBox Documentary",
+    "position": "80",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "hulu Animation",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"hulu Animation\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a086/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "hulu Animation",
+    "position": "81",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "signal Anime AR",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"signal Anime AR\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a06t/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "signal Anime AR",
+    "position": "82",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "signal Anime EN",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"signal Anime EN\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a08v/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "signal Anime EN",
+    "position": "83",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "yes Movies Action",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"yes Movies Action\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a04g/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "yes Movies Action",
+    "position": "84",
+    "type": "channel",
+    "key": "vip_test"
+  },
+  {
+    "namear": "yes Movies Comedy",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"yes Movies Comedy\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://77.137.35.165:8000/play/a04e/mono.m3u8  Découvrez du contenu intéressant Connectez-vous et suivez les créateurs et communautés populaires\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "yes Movies Comedy",
+    "position": "85",
+    "type": "channel",
+    "key": "vip_test"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "namear": "beIN AFC HD",
+    "servers": "[{\"headers\":\"MpegTV/Player LibVLC/3.0.0-gituser-Agent|MpegTV/Player LibVLC/3.0.0-gituser-Agent|MpegTV/Player LibVLC/3.0.0-gituser-Agent|MpegTV/Player LibVLC/3.0.0-git\",\"otherHeaders\":\"\",\"name\":\"beIN AFC HD\",\"Referer\":\"\",\"userAgent\":\"MpegTV/Player LibVLC/3.0.0-gituser-Agent|MpegTV/Player LibVLC/3.0.0-git\",\"position\":\"0\",\"url\":\"http://mai.bilix.ma:2082/live/3333333333/78hj7e74q7/106048.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/19453135_ico.png",
+    "nameen": "beIN AFC HD",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarbein_afc"
+  },
+  {
+    "namear": "beIN AFC 1 HD",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"beIN AFC 1 HD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://amazontv.me:8519/ShowflixRestreamTv/EvilMaertserXilfwohs/145128\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/19453147_ico.png",
+    "nameen": "beIN AFC 1 HD",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarbein_afc"
+  },
+  {
+    "namear": "beIN AFC 2 HD",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"beIN AFC 2 HD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://amazontv.me:8519/ShowflixRestreamTv/EvilMaertserXilfwohs/145127\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/19453152_ico.png",
+    "nameen": "beIN AFC 2 HD",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarbein_afc"
+  },
+  {
+    "namear": "beIN AFC 3 HD",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMf5g415fgfuser-Agent|REDLINECLIENT_DREAMf5g415fgfuser-Agent|REDLINECLIENT_DREAMf5g415fgfuser-Agent|REDLINECLIENT_DREAMf5g415fgf\",\"otherHeaders\":\"\",\"name\":\"beIN AFC 3 HD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMf5g415fgfuser-Agent|REDLINECLIENT_DREAMf5g415fgf\",\"position\":\"0\",\"url\":\"http://amazontv.me:8519/ShowflixRestreamTv/EvilMaertserXilfwohs/145129\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/19453159_ico.png",
+    "nameen": "beIN AFC 3 HD",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarbein_afc"
+  }
+]

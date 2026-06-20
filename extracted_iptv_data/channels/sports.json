@@ -1,0 +1,155 @@
+[
+  {
+    "namear": "4 ARABIAA SPORT",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.50:8001/play/a01t\"}]",
+    "logo": "https://play-lh.googleusercontent.com/5YiR3ja3fl48jgLXKqMVNIY1gm2HPssNJ5V6BrXgphUFJaLiIWEbzrK4txsZbzPeOIg=w240-h480-rw",
+    "nameen": "4 ARABIAA SPORT",
+    "position": "0",
+    "type": "channel",
+    "key": "sports"
+  },
+  {
+    "namear": "KUWAIT SPORT 1080P",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://kwmedia.hibridcdn.net/kwmedia/kwtvsports_abr/kwmedia/kwtvsports_1080p/chunks.m3u8?p\\u003d53\\u0026s\\u003d1668865834\\u0026e\\u003d1668952234\\u0026cf\\u003d1668952234\\u0026h\\u003dc2d35f296525834588d2329d109d896b\\u0026hs\\u003d1561791792\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv66Y4L4jiIx7EDHxr6OmVeAHYtQVglQoo9A&usqp=CAU",
+    "nameen": "KUWAIT SPORT 1080P",
+    "position": "01",
+    "type": "channel",
+    "key": "sports"
+  },
+  {
+    "namear": "Sharjah Sports TV (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sharjah Sports TV (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://svs.itworkscdn.net/smc4sportslive/smc4.smil/mono.m3u8\"}]",
+    "logo": "https://i.imgur.com/IaRaabJ.jpg",
+    "nameen": "Sharjah Sports TV (1080p)",
+    "position": "5",
+    "type": "channel",
+    "key": "sports"
+  },
+  {
+    "namear": "Oman Sports TV (1080p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Oman Sports TV (1080p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/mono.m3u8\"}]",
+    "logo": "https://i.imgur.com/ErIIioV.png",
+    "nameen": "Oman Sports TV (1080p) [Not 24/7]",
+    "position": "6",
+    "type": "channel",
+    "key": "sports"
+  },
+  {
+    "namear": "Dubai Racing 2 (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Dubai Racing 2 (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/mono.m3u8\"}]",
+    "logo": "https://i.imgur.com/FmrR2Hy.png",
+    "nameen": "Dubai Racing 2 (1080p)",
+    "position": "7",
+    "type": "channel",
+    "key": "sports"
+  },
+  {
+    "namear": "Dubai Racing 3 (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Dubai Racing 3 (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/mono.m3u8\"}]",
+    "logo": "https://i.imgur.com/eytrf0Y.png",
+    "nameen": "Dubai Racing 3 (1080p)",
+    "position": "8",
+    "type": "channel",
+    "key": "sports"
+  },
+  {
+    "namear": "Dubai Racing (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Dubai Racing (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/mono.m3u8\"}]",
+    "logo": "https://i.imgur.com/kQGoVal.png",
+    "nameen": "Dubai Racing (1080p)",
+    "position": "9",
+    "type": "channel",
+    "key": "sports"
+  },
+  {
+    "namear": "Bahrain Sports 1 (720p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Bahrain Sports 1 (720p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/mono.m3u8\"}]",
+    "logo": "https://i.imgur.com/pQ0QGGl.jpg",
+    "nameen": "Bahrain Sports 1 (720p) [Not 24/7]",
+    "position": "10",
+    "type": "channel",
+    "key": "sports"
+  },
+  {
+    "namear": "Bahrain Sports 2 (720p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Bahrain Sports 2 (720p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/mono.m3u8\"}]",
+    "logo": "https://www.lyngsat.com/logo/tv/bb/bahrain-sports-1-bh.png",
+    "nameen": "Bahrain Sports 2 (720p) [Not 24/7]",
+    "position": "11",
+    "type": "channel",
+    "key": "sports"
+  },
+  {
+    "namear": "Abu Dhabi Sports 1 (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Abu Dhabi Sports 1 (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/mono.m3u8\"}]",
+    "logo": "https://i.imgur.com/lKl2wZH.png",
+    "nameen": "Abu Dhabi Sports 1 (1080p)",
+    "position": "12",
+    "type": "channel",
+    "key": "sports"
+  },
+  {
+    "namear": "Abu Dhabi Sports 2 (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Abu Dhabi Sports 2 (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/mono.m3u8\"}]",
+    "logo": "https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-2-ae.png",
+    "nameen": "Abu Dhabi Sports 2 (1080p)",
+    "position": "13",
+    "type": "channel",
+    "key": "sports"
+  },
+  {
+    "namear": "Abu Dhabi Sports 4 (1080p) [Geo-blocked]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Abu Dhabi Sports 4 (1080p) [Geo-blocked]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://iptv-org.github.io/epg/guides/us/watchyour.tv.epg.xml.gz\\\"\"}]",
+    "logo": "https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5e3ad6cc72.png",
+    "nameen": "Abu Dhabi Sports 4 (1080p) [Geo-blocked]",
+    "position": "14",
+    "type": "channel",
+    "key": "sports"
+  },
+  {
+    "namear": "ARRIADIA",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Arriadia\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000\\u003d4-mp4a_130400_qad\\u003d1.m3u8\"}]",
+    "logo": "http://www.snrtlive.ma/sites/all/themes/snrtlive/images/arriyadia.png",
+    "nameen": "ARRIADIA",
+    "position": "16",
+    "type": "channel",
+    "key": "sports"
+  },
+  {
+    "namear": "Nubar Sport",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Nubar\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://stream.nubar.tv:1935/private/NUBARSport/chunklist_w1606922044.m3u8\"}]",
+    "logo": "https://i0.wp.com/ku.karwan.tv/wp-content/uploads/nubar-sport.jpg",
+    "nameen": "Nubar Sport",
+    "position": "18",
+    "type": "channel",
+    "key": "sports"
+  },
+  {
+    "namear": "Duhok Sport",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Duhok\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://duhoksport.badinan.xyz:1935/live/Duhok--Sports--HD/chunklist_w1235052997.m3u8\"}]",
+    "logo": "http://elslam.com/wp-content/uploads/2020/05/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%AF%D9%87%D9%88%D9%83-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-2022.jpg",
+    "nameen": "Duhok Sport",
+    "position": "19",
+    "type": "channel",
+    "key": "sports"
+  },
+  {
+    "namear": "KSA Sports 1 (1080p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"KSA Sports 1 (1080p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://edge.taghtia.com/sa/9.m3u8\"}]",
+    "logo": "https://www.lyngsat.com/logo/tv/kk/ksa-sports-1-sa.png",
+    "nameen": "KSA Sports 1 (1080p) [Not 24/7]",
+    "position": "66",
+    "type": "channel",
+    "key": "sports"
+  },
+  {
+    "namear": "KSA Sports 2 (1080p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"KSA Sports 2 (1080p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://www.aloula.sa/live/ksa-sports2\"}]",
+    "logo": "https://www.lyngsat.com/logo/tv/kk/ksa-sports-2-sa.png",
+    "nameen": "KSA Sports 2 (1080p) [Not 24/7]",
+    "position": "67",
+    "type": "channel",
+    "key": "sports"
+  }
+]

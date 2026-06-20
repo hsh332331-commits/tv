@@ -1,0 +1,101 @@
+[
+  {
+    "namear": "AR | BEIN MOVIES 2HD ACTION",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR | BEIN MOVIES 2HD ACTION\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://12.balans12.xyz:50750/QzSY4bJnNzKRX282869845krx/cjsdcvd51252krx/95848\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "AR | BEIN MOVIES 2HD ACTION",
+    "position": "1",
+    "type": "channel",
+    "key": "bein_entr"
+  },
+  {
+    "namear": "AR | BEIN MOVIES 3HD Drama",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR | BEIN MOVIES 3HD Drama\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://12.balans12.xyz:50750/QzSY4bJnNzKRX282869845krx/cjsdcvd51252krx/95849\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "AR | BEIN MOVIES 3HD Drama",
+    "position": "2",
+    "type": "channel",
+    "key": "bein_entr"
+  },
+  {
+    "namear": "AR | BEIN MOVIES 4HD Family",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR | BEIN MOVIES 4HD Family\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://12.balans12.xyz:50750/QzSY4bJnNzKRX282869845krx/cjsdcvd51252krx/95850\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "AR | BEIN MOVIES 4HD Family",
+    "position": "3",
+    "type": "channel",
+    "key": "bein_entr"
+  },
+  {
+    "namear": "AR | BEIN DRAMA HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR | BEIN DRAMA HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://12.balans12.xyz:50750/QzSY4bJnNzKRX282869845krx/cjsdcvd51252krx/95851\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "AR | BEIN DRAMA HD",
+    "position": "4",
+    "type": "channel",
+    "key": "bein_entr"
+  },
+  {
+    "namear": "AR | BEIN SERIES 1HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR | BEIN SERIES 1HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://12.balans12.xyz:50750/QzSY4bJnNzKRX282869845krx/cjsdcvd51252krx/95852\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "AR | BEIN SERIES 1HD",
+    "position": "5",
+    "type": "channel",
+    "key": "bein_entr"
+  },
+  {
+    "namear": "AR | Bein Series 2 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR | Bein Series 2 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://12.balans12.xyz:50750/QzSY4bJnNzKRX282869845krx/cjsdcvd51252krx/95853\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "AR | Bein Series 2 HD",
+    "position": "6",
+    "type": "channel",
+    "key": "bein_entr"
+  },
+  {
+    "namear": "AR | Bein FOX Movie HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR | Bein FOX Movie HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://12.balans12.xyz:50750/QzSY4bJnNzKRX282869845krx/cjsdcvd51252krx/95854\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "AR | Bein FOX Movie HD",
+    "position": "7",
+    "type": "channel",
+    "key": "bein_entr"
+  },
+  {
+    "namear": "AR | BEIN- Animal Planet HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR | BEIN- Animal Planet HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://12.balans12.xyz:50750/QzSY4bJnNzKRX282869845krx/cjsdcvd51252krx/95856\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "AR | BEIN- Animal Planet HD",
+    "position": "8",
+    "type": "channel",
+    "key": "bein_entr"
+  },
+  {
+    "namear": "AR | BEIN-Fox Action Movies HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR | BEIN-Fox Action Movies HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://12.balans12.xyz:50750/QzSY4bJnNzKRX282869845krx/cjsdcvd51252krx/95857\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "AR | BEIN-Fox Action Movies HD",
+    "position": "9",
+    "type": "channel",
+    "key": "bein_entr"
+  },
+  {
+    "namear": "AR | BEIN-Fatafeat HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR | BEIN-Fatafeat HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://12.balans12.xyz:50750/QzSY4bJnNzKRX282869845krx/cjsdcvd51252krx/95858\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "AR | BEIN-Fatafeat HD",
+    "position": "10",
+    "type": "channel",
+    "key": "bein_entr"
+  },
+  {
+    "namear": "AR | BELQEES",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AR | BELQEES\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://12.balans12.xyz:50750/QzSY4bJnNzKRX282869845krx/cjsdcvd51252krx/96602\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "AR | BELQEES",
+    "position": "11",
+    "type": "channel",
+    "key": "bein_entr"
+  }
+]

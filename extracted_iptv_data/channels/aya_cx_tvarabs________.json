@@ -1,0 +1,272 @@
+[
+  {
+    "namear": "AL KASS 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://shoof.alkass.net/|user-agent|Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36|Cookie|PHPSESSID|c4835d1ac1b267940f974c52870528ed; Token|eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiI2MzU1MTYiLCJuYmYiOjE3MzQ4NzUzNzEsImV4cCI6MTczNzQ2NzM3MSwiaWF0IjoxNzM0ODc1MzcxLCJpc3MiOiJodHRwOi8vYWxrYXNzLm5ldCIsImF1ZCI6Imh0dHA6Ly9hbGthc3MubmV0In0.TryakGeaaffy0eCPVA3isXyzZCvd8RUVwtD1Xoo64O0; _ga_1K0PGGT9YX|GS1.1.1734875430.1.1.1734875680.0.0.0; _ga|GA1.2.750274817.1734875431; _gid|GA1.2.1437012463.1734875682; muxData|mux_viewer_id|dd2da30c-9749-44e1-b833-f6eb4e1f82ff|msn|0.676183777017507|sid|dfbb56c2-aee7-4219-84d0-7e17af6e37ec|sst|1734875430656|sex|1734877188147\",\"scheme\":\"\",\"otherHeaders\":\"Cookie|PHPSESSID|c4835d1ac1b267940f974c52870528ed; Token|eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiI2MzU1MTYiLCJuYmYiOjE3MzQ4NzUzNzEsImV4cCI6MTczNzQ2NzM3MSwiaWF0IjoxNzM0ODc1MzcxLCJpc3MiOiJodHRwOi8vYWxrYXNzLm5ldCIsImF1ZCI6Imh0dHA6Ly9hbGthc3MubmV0In0.TryakGeaaffy0eCPVA3isXyzZCvd8RUVwtD1Xoo64O0; _ga_1K0PGGT9YX|GS1.1.1734875430.1.1.1734875680.0.0.0; _ga|GA1.2.750274817.1734875431; _gid|GA1.2.1437012463.1734875682; muxData|mux_viewer_id|dd2da30c-9749-44e1-b833-f6eb4e1f82ff|msn|0.676183777017507|sid|dfbb56c2-aee7-4219-84d0-7e17af6e37ec|sst|1734875430656|sex|1734877188147\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"https://shoof.alkass.net/\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36\",\"position\":\"\",\"url\":\"https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "nameen": "AL KASS 2",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvarabs_الرياضة"
+  },
+  {
+    "namear": "KSA SPORT 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://www.aloula.sa/|find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"https://www.aloula.sa/\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://aloula.faulio.com/api/v1.1/channels/10/player\"}]",
+    "logo": "https://i.imgur.com/32ZwaW0.png",
+    "nameen": "KSA SPORT 2",
+    "position": "11",
+    "type": "channel",
+    "key": "aya_cx_tvarabs_الرياضة"
+  },
+  {
+    "namear": "BAHRAIN SPORT 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8\"}]",
+    "logo": "https://i.imgur.com/gOQyEPS.png",
+    "nameen": "BAHRAIN SPORT 2",
+    "position": "25",
+    "type": "channel",
+    "key": "aya_cx_tvarabs_الرياضة"
+  },
+  {
+    "namear": "Dubai Racing 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8\"}]",
+    "logo": "https://up6.cc/2025/04/17451042954621.jpeg",
+    "nameen": "Dubai Racing 1",
+    "position": "18",
+    "type": "channel",
+    "key": "aya_cx_tvarabs_الرياضة"
+  },
+  {
+    "namear": "DUBAI SPORT 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"LOW\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://dmitwlvvll.cdn.mangomolo.com:443/dubaisportshd/smil:dubaisportshd.smil/chunklist_b300000.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"FHD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://dmitwlvvll.cdn.mangomolo.com:443/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://dmitwlvvll.cdn.mangomolo.com:443/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8\"},{\"license\":\"\",\"headers\":\"user-agent|Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36\",\"position\":\"\",\"url\":\"https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Po9yVnB4jfu54yWEp1AUSyfHCG8cBgxOKN_IEDqPTg&s",
+    "nameen": "DUBAI SPORT 2",
+    "position": "14",
+    "type": "channel",
+    "key": "aya_cx_tvarabs_الرياضة"
+  },
+  {
+    "namear": "العراقية الرياضية",
+    "servers": "[{\"license\":\"\",\"headers\":\"find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"isWeb\":\"false\",\"name\":\"متعدد | يوتيوب\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://m.youtube.com/@imnsport/live\"},{\"license\":\"\",\"headers\":\"Referer|https://www.yariga.live/|user-agent|Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36|origin|https://www.yariga.live/\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://www.yariga.live/\",\"isWeb\":\"false\",\"name\":\"Restream SD\",\"Referer\":\"https://www.yariga.live/\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36\",\"position\":\"1\",\"url\":\"https://qanat3.site/upload/images/logo6.zip?pashgr=9stwv6fyr\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ54pDJZPbUCSTaEA4hFtTw5sYUlZcgaDBYiGvFez5yuEMRHGDHhKMG7Fs8vu8y4yhkn7uQrk5TGdZ7iJ9wCOEUFhiEH21bm1XMPtnKMQ",
+    "nameen": "العراقية الرياضية",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvarabs_الرياضة"
+  },
+  {
+    "namear": "Al KASS 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://shoof.alkass.net/|user-agent|Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36|Cookie|PHPSESSID|c4835d1ac1b267940f974c52870528ed; Token|eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiI2MzU1MTYiLCJuYmYiOjE3MzQ4NzUzNzEsImV4cCI6MTczNzQ2NzM3MSwiaWF0IjoxNzM0ODc1MzcxLCJpc3MiOiJodHRwOi8vYWxrYXNzLm5ldCIsImF1ZCI6Imh0dHA6Ly9hbGthc3MubmV0In0.TryakGeaaffy0eCPVA3isXyzZCvd8RUVwtD1Xoo64O0; _ga|GA1.1.750274817.1734875431; muxData|mux_viewer_id|dd2da30c-9749-44e1-b833-f6eb4e1f82ff|msn|0.676183777017507|sid|dfbb56c2-aee7-4219-84d0-7e17af6e37ec|sst|1734875430656|sex|1734877156923; _ga_1K0PGGT9YX|GS1.1.1734875430.1.1.1734875656.0.0.0\",\"scheme\":\"\",\"otherHeaders\":\"Cookie|PHPSESSID|c4835d1ac1b267940f974c52870528ed; Token|eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiI2MzU1MTYiLCJuYmYiOjE3MzQ4NzUzNzEsImV4cCI6MTczNzQ2NzM3MSwiaWF0IjoxNzM0ODc1MzcxLCJpc3MiOiJodHRwOi8vYWxrYXNzLm5ldCIsImF1ZCI6Imh0dHA6Ly9hbGthc3MubmV0In0.TryakGeaaffy0eCPVA3isXyzZCvd8RUVwtD1Xoo64O0; _ga|GA1.1.750274817.1734875431; muxData|mux_viewer_id|dd2da30c-9749-44e1-b833-f6eb4e1f82ff|msn|0.676183777017507|sid|dfbb56c2-aee7-4219-84d0-7e17af6e37ec|sst|1734875430656|sex|1734877156923; _ga_1K0PGGT9YX|GS1.1.1734875430.1.1.1734875656.0.0.0\",\"isWeb\":\"false\",\"name\":\"Multi KASS 1\",\"Referer\":\"https://shoof.alkass.net/\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36\",\"position\":\"1\",\"url\":\"https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "nameen": "Al KASS 1",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvarabs_الرياضة"
+  },
+  {
+    "namear": "OMAN SPORT",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi OMAN SPORT\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"4\",\"url\":\"https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8\"}]",
+    "logo": "https://i.imgur.com/A3mKgS8.png",
+    "nameen": "OMAN SPORT",
+    "position": "16",
+    "type": "channel",
+    "key": "aya_cx_tvarabs_الرياضة"
+  },
+  {
+    "namear": "KSA SPORT 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://www.aloula.sa/|user-agent|Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRhls Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36A58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36|find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"isWeb\":\"false\",\"name\":\"Multi KSA Stream\",\"Referer\":\"https://www.aloula.sa/\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRhls Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36A58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36\",\"position\":\"3\",\"url\":\"https://aloula.faulio.com/api/v1.1/channels/9/player\"},{\"license\":\"\",\"headers\":\"find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"isWeb\":\"false\",\"name\":\"Multi YouTube\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://m.youtube.com/@Riyadiyatv/live\"}]",
+    "logo": "https://i.imgur.com/whpf7Kk.png",
+    "nameen": "KSA SPORT 1",
+    "position": "11",
+    "type": "channel",
+    "key": "aya_cx_tvarabs_الرياضة"
+  },
+  {
+    "namear": "الكويت الرياضية",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi الكويت الرياضية 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"60\",\"url\":\"https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8\"}]",
+    "logo": "https://i.imgur.com/E2NC3n6.png",
+    "nameen": "الكويت الرياضية",
+    "position": "26",
+    "type": "channel",
+    "key": "aya_cx_tvarabs_الرياضة"
+  },
+  {
+    "namear": "KSA SPORT 3",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://www.aloula.sa/|find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"https://www.aloula.sa/\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://aloula.faulio.com/api/v1.1/channels/11/player\"}]",
+    "logo": "https://i.imgur.com/Fa2DkKc.png",
+    "nameen": "KSA SPORT 3",
+    "position": "12",
+    "type": "channel",
+    "key": "aya_cx_tvarabs_الرياضة"
+  },
+  {
+    "namear": "ON Sport 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://mejar-Server.site/|user-agent|Mejarx|origin|https://mejar-Server.site//\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://mejar-Server.site//\",\"isWeb\":\"false\",\"name\":\"ON SPORTS 1\",\"Referer\":\"https://mejar-Server.site/\",\"userAgent\":\"Mejarx\",\"position\":\"0\",\"url\":\"https://cdnfest.com/ON-Sport-1/playlist.m3u8\"}]",
+    "logo": "https://www2.0zz0.com/2025/04/19/17/587458978.png",
+    "nameen": "ON Sport 1",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvarabs_الرياضة"
+  },
+  {
+    "namear": "AL KASS 6",
+    "servers": "[{\"license\":\"\",\"headers\":\"Cookie|d_prefs|MjoxLGNvbnNlbnRfdmVyc2lvbjoyLHRleHRfdmVyc2lvbjoxMDAw; cuid|20f0a50cc5ec4599a9959c558f2530f8; kdt|hQm8qakUJKXdTdxFLBGmvAacZZ2qWRXnbQ3fPMrG; dnt|1; guest_id|v1%3A175823143569779944; personalization_id|\\\"v1_nvoc2McxehTEKN7qRur11g|\\\"; auth_token|4c860e28acdad0474ab887e946c5aadf73de3be0; ct0|35f681b337c272013110fa6f4252d0ba42ef819bf21cde23382731e15cd355520ef19972a1fd7f8d534b1e00bc58efc6d220994a4727ac9a76d2c468e315c05db6cd00915297c8b2002929959a743cd9; guest_id_ads|v1%3A175823143569779944; guest_id_marketing|v1%3A175823143569779944; twid|u%3D1967562205127397376; att|1-b5iTaJTijnPGyiGL84tsmp46CKkRZhh0vV7OweAA; lang|en; _ga|GA1.2.651407798.1758231638; _gid|GA1.2.1838175031.1758231638; studio_account|\\\"1967562205127397376:_\\\"; cf_bm|naV_VTeWTJQbiOp9LEKNmEt.UoNC.AJo_xkQUC1FP4w-1758268838-1.0.1.1-MLcscfGk7_.Pi45VCeH2mMBKf6aZGKo727X3YqFABWi_pjVbzSe3MDqaUsPKY_PbKC6GgYQvIiKA4cS6t4RIq_b3dBkJtpOMtXK0WitoRNk\",\"scheme\":\"\",\"otherHeaders\":\"Cookie|d_prefs|MjoxLGNvbnNlbnRfdmVyc2lvbjoyLHRleHRfdmVyc2lvbjoxMDAw; cuid|20f0a50cc5ec4599a9959c558f2530f8; kdt|hQm8qakUJKXdTdxFLBGmvAacZZ2qWRXnbQ3fPMrG; dnt|1; guest_id|v1%3A175823143569779944; personalization_id|\\\"v1_nvoc2McxehTEKN7qRur11g|\\\"; auth_token|4c860e28acdad0474ab887e946c5aadf73de3be0; ct0|35f681b337c272013110fa6f4252d0ba42ef819bf21cde23382731e15cd355520ef19972a1fd7f8d534b1e00bc58efc6d220994a4727ac9a76d2c468e315c05db6cd00915297c8b2002929959a743cd9; guest_id_ads|v1%3A175823143569779944; guest_id_marketing|v1%3A175823143569779944; twid|u%3D1967562205127397376; att|1-b5iTaJTijnPGyiGL84tsmp46CKkRZhh0vV7OweAA; lang|en; _ga|GA1.2.651407798.1758231638; _gid|GA1.2.1838175031.1758231638; studio_account|\\\"1967562205127397376:_\\\"; cf_bm|naV_VTeWTJQbiOp9LEKNmEt.UoNC.AJo_xkQUC1FP4w-1758268838-1.0.1.1-MLcscfGk7_.Pi45VCeH2mMBKf6aZGKo727X3YqFABWi_pjVbzSe3MDqaUsPKY_PbKC6GgYQvIiKA4cS6t4RIq_b3dBkJtpOMtXK0WitoRNk\",\"isWeb\":\"false\",\"name\":\"Multi الكأس 6\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "nameen": "AL KASS 6",
+    "position": "8",
+    "type": "channel",
+    "key": "aya_cx_tvarabs_الرياضة"
+  },
+  {
+    "namear": "DUBAI SPORT 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://player.mangomolo.com/v1/live?id\\u003dNzE\\u003d\\u0026channelid\\u003dMjM\\u003d\\u0026countries\\u003dQ0M\\u003d\\u0026w\\u003d100%25\\u0026h\\u003d100%25\\u0026filter\\u003dDENY\\u0026signature\\u003db8eadb483fc9abaf1f4625f3041e23d2\\u0026player_profile\\u003dMTMz\\u0026vast\\u003dtrue\\u0026app_id\\u003d12\\u0026base_url\\u003daHR0cHM6Ly93d3cuZHViYWlzcG9ydHMuYWUvY29udGVudC9kdWJhaXNwb3J0cy9saXZlc3RyZWFtaW5nL2NoYW5uZWwtMS5odG1s\\u0026ppid\\u003dhlicaAtRQRx1727429627872\\u0026novatiq_sgmnt_id\\u003d|user-agent|Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36|origin|https://player.mangomolo.com|web|y\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://player.mangomolo.com|web|y\",\"isWeb\":\"false\",\"name\":\"Multi DUBAI SPORT\",\"Referer\":\"https://player.mangomolo.com/v1/live?id\\u003dNzE\\u003d\\u0026channelid\\u003dMjM\\u003d\\u0026countries\\u003dQ0M\\u003d\\u0026w\\u003d100%25\\u0026h\\u003d100%25\\u0026filter\\u003dDENY\\u0026signature\\u003db8eadb483fc9abaf1f4625f3041e23d2\\u0026player_profile\\u003dMTMz\\u0026vast\\u003dtrue\\u0026app_id\\u003d12\\u0026base_url\\u003daHR0cHM6Ly93d3cuZHViYWlzcG9ydHMuYWUvY29udGVudC9kdWJhaXNwb3J0cy9saXZlc3RyZWFtaW5nL2NoYW5uZWwtMS5odG1s\\u0026ppid\\u003dhlicaAtRQRx1727429627872\\u0026novatiq_sgmnt_id\\u003d\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36\",\"position\":\"3\",\"url\":\"https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Po9yVnB4jfu54yWEp1AUSyfHCG8cBgxOKN_IEDqPTg&s",
+    "nameen": "DUBAI SPORT 1",
+    "position": "13",
+    "type": "channel",
+    "key": "aya_cx_tvarabs_الرياضة"
+  },
+  {
+    "namear": "ON Sport 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"ON SPORTS 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://apk.arabic-ch.space/live/007000/index.m3u8\"}]",
+    "logo": "https://www2.0zz0.com/2025/04/19/17/587458978.png",
+    "nameen": "ON Sport 2",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvarabs_الرياضة"
+  },
+  {
+    "namear": "AD Sport 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8\"}]",
+    "logo": "https://j.top4top.io/p_3323nv0jv1.jpg",
+    "nameen": "AD Sport 2",
+    "position": "18",
+    "type": "channel",
+    "key": "aya_cx_tvarabs_الرياضة"
+  },
+  {
+    "namear": "الكويت الرياضية 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi الكويت 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8\"}]",
+    "logo": "https://i.imgur.com/YKFX6zy.png",
+    "nameen": "الكويت الرياضية 2",
+    "position": "27",
+    "type": "channel",
+    "key": "aya_cx_tvarabs_الرياضة"
+  },
+  {
+    "namear": "AD Sport 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi AD SPORT\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8\"}]",
+    "logo": "https://up6.cc/2025/04/174510674057621.png",
+    "nameen": "AD Sport 1",
+    "position": "18",
+    "type": "channel",
+    "key": "aya_cx_tvarabs_الرياضة"
+  },
+  {
+    "namear": "BAHRAIN SPORT 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"user-agent|Mozilla|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"Mozilla\",\"position\":\"\",\"url\":\"https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8\"}]",
+    "logo": "https://i.imgur.com/93dIsom.png",
+    "nameen": "BAHRAIN SPORT 1",
+    "position": "24",
+    "type": "channel",
+    "key": "aya_cx_tvarabs_الرياضة"
+  },
+  {
+    "namear": "الأردن الرياضية",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://www.go-web.space/stream/jordan_sport/stream.m3u8\"}]",
+    "logo": "https://i.imgur.com/99UjDCJ.png",
+    "nameen": "الأردن الرياضية",
+    "position": "2848",
+    "type": "channel",
+    "key": "aya_cx_tvarabs_الرياضة"
+  },
+  {
+    "namear": "الشارقة الرياضية",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://www.sba.net.ae/|user-agent|Mozilla|https://www.sba.net.ae\",\"scheme\":\"\",\"otherHeaders\":\"https://www.sba.net.ae\",\"isWeb\":\"false\",\"name\":\"البث الرسمي 1\",\"Referer\":\"https://www.sba.net.ae/\",\"userAgent\":\"Mozilla\",\"position\":\"1\",\"url\":\"https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8\"},{\"license\":\"12d37f04317d5c2e5f044a79f967c67e:75deea8e41e389997f34d0ebca3f1fb7\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"مصدر تلقائي 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"https://uselector.cdn.intigral-ott.net/SHS/SHS.isml/manifest.mpd\"}]",
+    "logo": "https://f.top4top.io/p_3373hgwn31.jpg",
+    "nameen": "الشارقة الرياضية",
+    "position": "8",
+    "type": "channel",
+    "key": "aya_cx_tvarabs_الرياضة"
+  },
+  {
+    "namear": "Dubai Racing 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8\"}]",
+    "logo": "https://up6.cc/2025/04/17451042954621.jpeg",
+    "nameen": "Dubai Racing 2",
+    "position": "18",
+    "type": "channel",
+    "key": "aya_cx_tvarabs_الرياضة"
+  },
+  {
+    "namear": "DUBAI SPORT 3",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Po9yVnB4jfu54yWEp1AUSyfHCG8cBgxOKN_IEDqPTg&s",
+    "nameen": "DUBAI SPORT 3",
+    "position": "15",
+    "type": "channel",
+    "key": "aya_cx_tvarabs_الرياضة"
+  },
+  {
+    "namear": "Dubai Racing 3",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8\"}]",
+    "logo": "https://up6.cc/2025/04/17451042954621.jpeg",
+    "nameen": "Dubai Racing 3",
+    "position": "19",
+    "type": "channel",
+    "key": "aya_cx_tvarabs_الرياضة"
+  },
+  {
+    "namear": "AL KASS 4",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://shoof.alkass.net/|user-agent|Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRhls Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36A58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36|Cookie|PHPSESSID|c4835d1ac1b267940f974c52870528ed; Token|eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiI2MzU1MTYiLCJuYmYiOjE3MzQ4NzUzNzEsImV4cCI6MTczNzQ2NzM3MSwiaWF0IjoxNzM0ODc1MzcxLCJpc3MiOiJodHRwOi8vYWxrYXNzLm5ldCIsImF1ZCI6Imh0dHA6Ly9hbGthc3MubmV0In0.TryakGeaaffy0eCPVA3isXyzZCvd8RUVwtD1Xoo64O0; _gid|GA1.2.1437012463.1734875682; _gat_gtag_UA_8775715_1|1; _ga_1K0PGGT9YX|GS1.1.1734875430.1.1.1734877461.0.0.0; _ga|GA1.1.750274817.1734875431; muxData|mux_viewer_id|dd2da30c-9749-44e1-b833-f6eb4e1f82ff|msn|0.676183777017507|sid|dfbb56c2-aee7-4219-84d0-7e17af6e37ec|sst|1734875430656|sex|1734878983561\",\"scheme\":\"\",\"otherHeaders\":\"Cookie|PHPSESSID|c4835d1ac1b267940f974c52870528ed; Token|eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiI2MzU1MTYiLCJuYmYiOjE3MzQ4NzUzNzEsImV4cCI6MTczNzQ2NzM3MSwiaWF0IjoxNzM0ODc1MzcxLCJpc3MiOiJodHRwOi8vYWxrYXNzLm5ldCIsImF1ZCI6Imh0dHA6Ly9hbGthc3MubmV0In0.TryakGeaaffy0eCPVA3isXyzZCvd8RUVwtD1Xoo64O0; _gid|GA1.2.1437012463.1734875682; _gat_gtag_UA_8775715_1|1; _ga_1K0PGGT9YX|GS1.1.1734875430.1.1.1734877461.0.0.0; _ga|GA1.1.750274817.1734875431; muxData|mux_viewer_id|dd2da30c-9749-44e1-b833-f6eb4e1f82ff|msn|0.676183777017507|sid|dfbb56c2-aee7-4219-84d0-7e17af6e37ec|sst|1734875430656|sex|1734878983561\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"https://shoof.alkass.net/\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRhls Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36A58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36\",\"position\":\"\",\"url\":\"https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "nameen": "AL KASS 4",
+    "position": "6",
+    "type": "channel",
+    "key": "aya_cx_tvarabs_الرياضة"
+  },
+  {
+    "namear": "Yas Sports",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://vo-live-media.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/stream_04/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://vo-live-media.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/stream_01/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"4\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://vo-live-media.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/stream_02/index.m3u8\"}]",
+    "logo": "https://i.imgur.com/tAa6kAY.png",
+    "nameen": "Yas Sports",
+    "position": "22",
+    "type": "channel",
+    "key": "aya_cx_tvarabs_الرياضة"
+  },
+  {
+    "namear": "AL KASS 3",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://shoof.alkass.net/|user-agent|Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRhls Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36A58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36|Cookie|PHPSESSID|c4835d1ac1b267940f974c52870528ed; Token|eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiI2MzU1MTYiLCJuYmYiOjE3MzQ4NzUzNzEsImV4cCI6MTczNzQ2NzM3MSwiaWF0IjoxNzM0ODc1MzcxLCJpc3MiOiJodHRwOi8vYWxrYXNzLm5ldCIsImF1ZCI6Imh0dHA6Ly9hbGthc3MubmV0In0.TryakGeaaffy0eCPVA3isXyzZCvd8RUVwtD1Xoo64O0; _gid|GA1.2.1437012463.1734875682; _ga_1K0PGGT9YX|GS1.1.1734875430.1.1.1734876968.0.0.0; _ga|GA1.2.750274817.1734875431; muxData|mux_viewer_id|dd2da30c-9749-44e1-b833-f6eb4e1f82ff|msn|0.676183777017507|sid|dfbb56c2-aee7-4219-84d0-7e17af6e37ec|sst|1734875430656|sex|1734878957915\",\"scheme\":\"\",\"otherHeaders\":\"Cookie|PHPSESSID|c4835d1ac1b267940f974c52870528ed; Token|eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiI2MzU1MTYiLCJuYmYiOjE3MzQ4NzUzNzEsImV4cCI6MTczNzQ2NzM3MSwiaWF0IjoxNzM0ODc1MzcxLCJpc3MiOiJodHRwOi8vYWxrYXNzLm5ldCIsImF1ZCI6Imh0dHA6Ly9hbGthc3MubmV0In0.TryakGeaaffy0eCPVA3isXyzZCvd8RUVwtD1Xoo64O0; _gid|GA1.2.1437012463.1734875682; _ga_1K0PGGT9YX|GS1.1.1734875430.1.1.1734876968.0.0.0; _ga|GA1.2.750274817.1734875431; muxData|mux_viewer_id|dd2da30c-9749-44e1-b833-f6eb4e1f82ff|msn|0.676183777017507|sid|dfbb56c2-aee7-4219-84d0-7e17af6e37ec|sst|1734875430656|sex|1734878957915\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"https://shoof.alkass.net/\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRhls Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36A58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36\",\"position\":\"\",\"url\":\"https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "nameen": "AL KASS 3",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_cx_tvarabs_الرياضة"
+  },
+  {
+    "namear": "MOROOCO SPORT",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://cast-x.app/|origin|https://cast-x.app\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://cast-x.app\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"https://cast-x.app/\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://morocco.castxtv47.workers.dev/3.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Logo%2Barryadia%2Bmorocco.png/1200px-Logo%2Barryadia%2Bmorocco.png",
+    "nameen": "MOROOCO SPORT",
+    "position": "23",
+    "type": "channel",
+    "key": "aya_cx_tvarabs_الرياضة"
+  },
+  {
+    "namear": "الشارقة الرياضية 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"isWeb\":\"false\",\"name\":\"ن\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://maraya.faulio.com/api/v1.1/channels/14/player\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToW3h7sY0V6Hoy2xQpg9lYHICiZF6FZ8ccUtggVn2gIw&s",
+    "nameen": "الشارقة الرياضية 2",
+    "position": "8",
+    "type": "channel",
+    "key": "aya_cx_tvarabs_الرياضة"
+  },
+  {
+    "namear": "AL KASS 5",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg",
+    "nameen": "AL KASS 5",
+    "position": "7",
+    "type": "channel",
+    "key": "aya_cx_tvarabs_الرياضة"
+  }
+]

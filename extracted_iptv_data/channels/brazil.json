@@ -1,0 +1,101 @@
+[
+  {
+    "namear": "Pluto TV Cine Drama (720p)",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24|\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Cine Drama (720p)\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId\\u003dchannel\\u0026appName\\u003drokuchannel\\u0026appVersion\\u003d1.0\\u0026bmodel\\u003dbm1\\u0026channel_id\\u003dchannel\\u0026content\\u003dchannel\\u0026content_rating\\u003dROKU_ADS_CONTENT_RATING\\u0026content_type\\u003dlivefeed\\u0026coppa\\u003dfalse\\u0026deviceDNT\\u003d1\\u0026deviceId\\u003dchannel\\u0026deviceMake\\u003drokuChannel\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003drokuChannel\\u0026deviceVersion\\u003d1.0\\u0026embedPartner\\u003drokuChannel\\u0026genre\\u003dROKU_ADS_CONTENT_GENRE\\u0026is_lat\\u003d1\\u0026platform\\u003dweb\\u0026rdid\\u003dchannel\\u0026studio_id\\u003dviacom\\u0026tags\\u003dROKU_CONTENT_TAGS\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Cine Drama (720p)",
+    "position": "1",
+    "type": "channel",
+    "key": "brazil"
+  },
+  {
+    "namear": "Pluto TV Cine Família (720p) [Not 24/7]",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24|\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Cine Família (720p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId\\u003dchannel\\u0026appName\\u003drokuchannel\\u0026appVersion\\u003d1.0\\u0026bmodel\\u003dbm1\\u0026channel_id\\u003dchannel\\u0026content\\u003dchannel\\u0026content_rating\\u003dROKU_ADS_CONTENT_RATING\\u0026content_type\\u003dlivefeed\\u0026coppa\\u003dfalse\\u0026deviceDNT\\u003d1\\u0026deviceId\\u003dchannel\\u0026deviceMake\\u003drokuChannel\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003drokuChannel\\u0026deviceVersion\\u003d1.0\\u0026embedPartner\\u003drokuChannel\\u0026genre\\u003dROKU_ADS_CONTENT_GENRE\\u0026is_lat\\u003d1\\u0026platform\\u003dweb\\u0026rdid\\u003dchannel\\u0026studio_id\\u003dviacom\\u0026tags\\u003dROKU_CONTENT_TAGS\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Cine Família (720p) [Not 24/7]",
+    "position": "2",
+    "type": "channel",
+    "key": "brazil"
+  },
+  {
+    "namear": "Pluto TV Classic Nick (Brazil) (240p)",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24|\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Classic Nick (Brazil) (240p)\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId\\u003d\\u0026appName\\u003dweb\\u0026appStoreUrl\\u003d\\u0026appVersion\\u003dDNT\\u0026app_name\\u003d\\u0026architecture\\u003d\\u0026buildVersion\\u003d\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d5f12151794c1800007a8ae63\\u0026deviceLat\\u003d-23.5475\\u0026deviceLon\\u003d-46.6361\\u0026deviceMake\\u003dweb\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dDNT\\u0026includeExtendedEvents\\u003dfalse\\u0026marketingRegion\\u003dBR\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d730\\u0026terminate\\u003dfalse\\u0026userId\\u003d\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Classic Nick (Brazil) (240p)",
+    "position": "3",
+    "type": "channel",
+    "key": "brazil"
+  },
+  {
+    "namear": "Pluto TV Filmes Suspense (720p)",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24|\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Filmes Suspense (720p)\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId\\u003dchannel\\u0026appName\\u003drokuchannel\\u0026appVersion\\u003d1.0\\u0026bmodel\\u003dbm1\\u0026channel_id\\u003dchannel\\u0026content\\u003dchannel\\u0026content_rating\\u003dROKU_ADS_CONTENT_RATING\\u0026content_type\\u003dlivefeed\\u0026coppa\\u003dfalse\\u0026deviceDNT\\u003d1\\u0026deviceId\\u003dchannel\\u0026deviceMake\\u003drokuChannel\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003drokuChannel\\u0026deviceVersion\\u003d1.0\\u0026embedPartner\\u003drokuChannel\\u0026genre\\u003dROKU_ADS_CONTENT_GENRE\\u0026is_lat\\u003d1\\u0026platform\\u003dweb\\u0026rdid\\u003dchannel\\u0026studio_id\\u003dviacom\\u0026tags\\u003dROKU_CONTENT_TAGS\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Filmes Suspense (720p)",
+    "position": "4",
+    "type": "channel",
+    "key": "brazil"
+  },
+  {
+    "namear": "Pluto TV Investigação (720p)",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24|\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Investigação (720p)\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId\\u003dchannel\\u0026appName\\u003drokuchannel\\u0026appVersion\\u003d1.0\\u0026bmodel\\u003dbm1\\u0026channel_id\\u003dchannel\\u0026content\\u003dchannel\\u0026content_rating\\u003dROKU_ADS_CONTENT_RATING\\u0026content_type\\u003dlivefeed\\u0026coppa\\u003dfalse\\u0026deviceDNT\\u003d1\\u0026deviceId\\u003dchannel\\u0026deviceMake\\u003drokuChannel\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003drokuChannel\\u0026deviceVersion\\u003d1.0\\u0026embedPartner\\u003drokuChannel\\u0026genre\\u003dROKU_ADS_CONTENT_GENRE\\u0026is_lat\\u003d1\\u0026platform\\u003dweb\\u0026rdid\\u003dchannel\\u0026studio_id\\u003dviacom\\u0026tags\\u003dROKU_CONTENT_TAGS\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Investigação (720p)",
+    "position": "5",
+    "type": "channel",
+    "key": "brazil"
+  },
+  {
+    "namear": "Pluto TV MTV (Brazil) (720p)",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24|\",\"otherHeaders\":\"\",\"name\":\"Pluto TV MTV (Brazil) (720p)\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId\\u003dchannel\\u0026appName\\u003drokuchannel\\u0026appVersion\\u003d1.0\\u0026bmodel\\u003dbm1\\u0026channel_id\\u003dchannel\\u0026content\\u003dchannel\\u0026content_rating\\u003dROKU_ADS_CONTENT_RATING\\u0026content_type\\u003dlivefeed\\u0026coppa\\u003dfalse\\u0026deviceDNT\\u003d1\\u0026deviceId\\u003dchannel\\u0026deviceMake\\u003drokuChannel\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003drokuChannel\\u0026deviceVersion\\u003d1.0\\u0026embedPartner\\u003drokuChannel\\u0026genre\\u003dROKU_ADS_CONTENT_GENRE\\u0026is_lat\\u003d1\\u0026platform\\u003dweb\\u0026rdid\\u003dchannel\\u0026studio_id\\u003dviacom\\u0026tags\\u003dROKU_CONTENT_TAGS\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV MTV (Brazil) (720p)",
+    "position": "6",
+    "type": "channel",
+    "key": "brazil"
+  },
+  {
+    "namear": "Pluto TV Natureza (720p)",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24|\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Natureza (720p)\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId\\u003dchannel\\u0026appName\\u003drokuchannel\\u0026appVersion\\u003d1.0\\u0026bmodel\\u003dbm1\\u0026channel_id\\u003dchannel\\u0026content\\u003dchannel\\u0026content_rating\\u003dROKU_ADS_CONTENT_RATING\\u0026content_type\\u003dlivefeed\\u0026coppa\\u003dfalse\\u0026deviceDNT\\u003d1\\u0026deviceId\\u003dchannel\\u0026deviceMake\\u003drokuChannel\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003drokuChannel\\u0026deviceVersion\\u003d1.0\\u0026embedPartner\\u003drokuChannel\\u0026genre\\u003dROKU_ADS_CONTENT_GENRE\\u0026is_lat\\u003d1\\u0026platform\\u003dweb\\u0026rdid\\u003dchannel\\u0026studio_id\\u003dviacom\\u0026tags\\u003dROKU_CONTENT_TAGS\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Natureza (720p)",
+    "position": "7",
+    "type": "channel",
+    "key": "brazil"
+  },
+  {
+    "namear": "Pluto TV Nick Jr. Club (720p)",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24|\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Nick Jr. Club (720p)\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId\\u003d\\u0026appName\\u003dweb\\u0026appVersion\\u003d5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a\\u0026app_name\\u003dweb\\u0026clientDeviceType\\u003d0\\u0026clientID\\u003d6fbead95-26b1-415d-998f-1bdef62d10be\\u0026clientModelNumber\\u003dna\\u0026deviceDNT\\u003dfalse\\u0026deviceId\\u003d6fbead95-26b1-415d-998f-1bdef62d10be\\u0026deviceLat\\u003d19.4358\\u0026deviceLon\\u003d-99.1441\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003d88.0.4324.150\\u0026marketingRegion\\u003dVE\\u0026serverSideAds\\u003dfalse\\u0026sessionID\\u003db8e5a857-714a-11eb-b532-0242ac110002\\u0026sid\\u003db8e5a857-714a-11eb-b532-0242ac110002\\u0026userId\\u003d\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Nick Jr. Club (720p)",
+    "position": "8",
+    "type": "channel",
+    "key": "brazil"
+  },
+  {
+    "namear": "Pluto TV Nick Jr. Club (720p)",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24|\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Nick Jr. Club (720p)\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId\\u003dchannel\\u0026appName\\u003drokuchannel\\u0026appVersion\\u003d1.0\\u0026bmodel\\u003dbm1\\u0026channel_id\\u003dchannel\\u0026content\\u003dchannel\\u0026content_rating\\u003dROKU_ADS_CONTENT_RATING\\u0026content_type\\u003dlivefeed\\u0026coppa\\u003dfalse\\u0026deviceDNT\\u003d1\\u0026deviceId\\u003dchannel\\u0026deviceMake\\u003drokuChannel\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003drokuChannel\\u0026deviceVersion\\u003d1.0\\u0026embedPartner\\u003drokuChannel\\u0026genre\\u003dROKU_ADS_CONTENT_GENRE\\u0026is_lat\\u003d1\\u0026platform\\u003dweb\\u0026rdid\\u003dchannel\\u0026studio_id\\u003dviacom\\u0026tags\\u003dROKU_CONTENT_TAGS\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Nick Jr. Club (720p)",
+    "position": "9",
+    "type": "channel",
+    "key": "brazil"
+  },
+  {
+    "namear": "Pluto TV Retrô (684p)",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24|\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Retrô (684p)\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId\\u003dchannel\\u0026appName\\u003drokuchannel\\u0026appVersion\\u003d1.0\\u0026bmodel\\u003dbm1\\u0026channel_id\\u003dchannel\\u0026content\\u003dchannel\\u0026content_rating\\u003dROKU_ADS_CONTENT_RATING\\u0026content_type\\u003dlivefeed\\u0026coppa\\u003dfalse\\u0026deviceDNT\\u003d1\\u0026deviceId\\u003dchannel\\u0026deviceMake\\u003drokuChannel\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003drokuChannel\\u0026deviceVersion\\u003d1.0\\u0026embedPartner\\u003drokuChannel\\u0026genre\\u003dROKU_ADS_CONTENT_GENRE\\u0026is_lat\\u003d1\\u0026platform\\u003dweb\\u0026rdid\\u003dchannel\\u0026studio_id\\u003dviacom\\u0026tags\\u003dROKU_CONTENT_TAGS\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Retrô (684p)",
+    "position": "10",
+    "type": "channel",
+    "key": "brazil"
+  },
+  {
+    "namear": "Pluto TV Vida Real (720p)",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24|\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Vida Real (720p)\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId\\u003dchannel\\u0026appName\\u003drokuchannel\\u0026appVersion\\u003d1.0\\u0026bmodel\\u003dbm1\\u0026channel_id\\u003dchannel\\u0026content\\u003dchannel\\u0026content_rating\\u003dROKU_ADS_CONTENT_RATING\\u0026content_type\\u003dlivefeed\\u0026coppa\\u003dfalse\\u0026deviceDNT\\u003d1\\u0026deviceId\\u003dchannel\\u0026deviceMake\\u003drokuChannel\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003drokuChannel\\u0026deviceVersion\\u003d1.0\\u0026embedPartner\\u003drokuChannel\\u0026genre\\u003dROKU_ADS_CONTENT_GENRE\\u0026is_lat\\u003d1\\u0026platform\\u003dweb\\u0026rdid\\u003dchannel\\u0026studio_id\\u003dviacom\\u0026tags\\u003dROKU_CONTENT_TAGS\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Vida Real (720p)",
+    "position": "11",
+    "type": "channel",
+    "key": "brazil"
+  }
+]

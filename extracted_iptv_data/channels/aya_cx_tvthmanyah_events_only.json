@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "ثمانية 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Thmanyah 1 | متعدد\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36\",\"position\":\"\",\"url\":\"\"},{\"license\":\"\",\"headers\":\"user-agent|thm akami|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Thmanyah 2 ᴿᴬᵂ\",\"Referer\":\"\",\"userAgent\":\"thm akami\",\"position\":\"\",\"label\":\"Server (HLS)\",\"url\":\"https://cast-x.com/token.php?id\\u003dthm2raw\\u0026type\\u003dhls\\u0026h\\u003dhttps%3A%2F%2Fcdn-js-mejarserver.aka-akamaized.net\\u0026ts\\u003d1766850274\\u0026sig\\u003de853b05b1cab7d5ae33e8262b1daf842c8c92990e6ed061ddd42410a654a0cf4\"}]",
+    "logo": "https://yt3.googleusercontent.com/007YsJGAI1V1TdrVuZY0w01ZZEjwPw7HgkEb5DWudahx1-VFVZrE9-idCIlZufbzwBmKSA0w=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "ثمانية 2",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvthmanyah_events_only"
+  },
+  {
+    "namear": "ثمانية 3",
+    "servers": "[]",
+    "logo": "https://yt3.googleusercontent.com/007YsJGAI1V1TdrVuZY0w01ZZEjwPw7HgkEb5DWudahx1-VFVZrE9-idCIlZufbzwBmKSA0w=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "ثمانية 3",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvthmanyah_events_only"
+  },
+  {
+    "namear": "ثمانية 4",
+    "servers": "[]",
+    "logo": "https://yt3.googleusercontent.com/007YsJGAI1V1TdrVuZY0w01ZZEjwPw7HgkEb5DWudahx1-VFVZrE9-idCIlZufbzwBmKSA0w=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "ثمانية 4",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvthmanyah_events_only"
+  },
+  {
+    "namear": "ثمانية 5",
+    "servers": "[]",
+    "logo": "https://yt3.googleusercontent.com/007YsJGAI1V1TdrVuZY0w01ZZEjwPw7HgkEb5DWudahx1-VFVZrE9-idCIlZufbzwBmKSA0w=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "ثمانية 5",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvthmanyah_events_only"
+  },
+  {
+    "namear": "ثمانية 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Thmanyah 1 | متعدد\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36\",\"position\":\"\",\"url\":\"https://alibaba-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJtSE5UeHB4UjFRaHpQUTJlUFg0cUd5a0t2emgyIiwiY2hhbm5lbE5hbWUiOiJjaDAxLWZ0YSIsImlwIjoiOTguOTMuNy41MSIsImlwX3Y0IjoiOTguOTMuNy41MSIsImlwX3Y2IjoiIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0My4wLjAuMCBTYWZhcmkvNTM3LjM2IiwibmJmIjoxNzY2ODQ4NDU4LCJleHAiOjE3NjY4NTkyNTgsImlhdCI6MTc2Njg0ODQ1OH0.6T3M5L7tc3RfGDg11dU8urvWxai_5M2qWJYQWl3VYbM/live/ch01-fta/ll-index.m3u8?auth_key\\u003d1766848488-6d19edd3d1184d6490527db5c7dd64c7-0-016e97b5f29801b7dfe6414800130408live/211582325G/380315/138759.m3u8\"},{\"license\":\"\",\"headers\":\"user-agent|thm akami|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Thmanyah 1 ᴿᴬᵂ\",\"Referer\":\"\",\"userAgent\":\"thm akami\",\"position\":\"\",\"label\":\"Server (HLS)\",\"url\":\"https://cast-x.com/token.php?id\\u003dthm1raw\\u0026type\\u003dhls\\u0026h\\u003dhttps%3A%2F%2Fcdn-js-mejarserver.aka-akamaized.net\\u0026ts\\u003d1766850274\\u0026sig\\u003dce7d052808d376f0a66d79a0d682c33c3e0bc2433087c8ef1a00baecf54bc335\"}]",
+    "logo": "https://yt3.googleusercontent.com/007YsJGAI1V1TdrVuZY0w01ZZEjwPw7HgkEb5DWudahx1-VFVZrE9-idCIlZufbzwBmKSA0w=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "ثمانية 1",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvthmanyah_events_only"
+  }
+]

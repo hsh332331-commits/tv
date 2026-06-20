@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "AL FAJER 1",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"AL FAJER 1\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/44.ts\"}]",
+    "logo": "https://www3.0zz0.com/2023/04/09/19/562803823.jpg",
+    "nameen": "AL FAJER 1",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidalok2al_fajer_tv"
+  },
+  {
+    "namear": "AL FAJER 2",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"AL FAJER 2\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/45.ts\"}]",
+    "logo": "https://www3.0zz0.com/2023/04/09/19/562803823.jpg",
+    "nameen": "AL FAJER 2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidalok2al_fajer_tv"
+  },
+  {
+    "namear": "AL FAJER 3",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"AL FAJER 3\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/46.ts\"}]",
+    "logo": "https://www3.0zz0.com/2023/04/09/19/562803823.jpg",
+    "nameen": "AL FAJER 3",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidalok2al_fajer_tv"
+  },
+  {
+    "namear": "AL FAJER 4",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"AL FAJER 4\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/47.ts\"}]",
+    "logo": "https://www3.0zz0.com/2023/04/09/19/562803823.jpg",
+    "nameen": "AL FAJER 4",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidalok2al_fajer_tv"
+  },
+  {
+    "namear": "AL FAJER 5",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"AL FAJER 5\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/48.ts\"}]",
+    "logo": "https://www3.0zz0.com/2023/04/09/19/562803823.jpg",
+    "nameen": "AL FAJER 5",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidalok2al_fajer_tv"
+  }
+]

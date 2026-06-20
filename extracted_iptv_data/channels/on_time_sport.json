@@ -1,0 +1,29 @@
+[
+  {
+    "namear": "ON Time Sports 1 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"On Time\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"http://141.98.247.253:80/app/ch3.m3u8\"},{\"headers\":\"Referer;http://foofootv.com/v/?id\\u003dontime1;user-agent;Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10; EML-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36;\",\"otherHeaders\":\"\",\"name\":\"On Time\",\"Referer\":\"http://foofootv.com/v/?id\\u003dontime1\",\"userAgent\":\"Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10; EML-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36\",\"position\":\"2\",\"url\":\"http://foofootv.com/live/foo/foo103/ontime.m3u8\"}]",
+    "logo": "https://www.iqraa.news/wp-content/uploads/2022/07/1463963_0.jpg",
+    "nameen": "ON Time Sports 1 HD",
+    "position": "2",
+    "type": "channel",
+    "key": "on_time_sport"
+  },
+  {
+    "namear": "ON Time Sports 2 HD",
+    "servers": "[{\"headers\":\"user-agent;damx;\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"damx\",\"position\":\"0\",\"url\":\"http://fxorexworld.com:8080/zSP5Ko25oC/mZU5dM6hYj/468\"},{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"On Time\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"1\",\"url\":\"http://foofootv.com/live/foo/foo103/ontime2.m3u8\"}]",
+    "logo": "https://www.iqraa.news/wp-content/uploads/2022/07/1463963_0.jpg",
+    "nameen": "ON Time Sports 2 HD",
+    "position": "5",
+    "type": "channel",
+    "key": "on_time_sport"
+  },
+  {
+    "namear": "ON Time Sports 3 HD",
+    "servers": "[{\"headers\":\"user-agent;damx;\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"damx\",\"position\":\"0\",\"url\":\"http://fxorexworld.com:8080/zSP5Ko25oC/mZU5dM6hYj/466\"},{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"On Time\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"1\",\"url\":\"http://foofootv.com/live/foo/foo103/ontime3.m3u8\"}]",
+    "logo": "https://www.iqraa.news/wp-content/uploads/2022/07/1463963_0.jpg",
+    "nameen": "ON Time Sports 3 HD",
+    "position": "7",
+    "type": "channel",
+    "key": "on_time_sport"
+  }
+]

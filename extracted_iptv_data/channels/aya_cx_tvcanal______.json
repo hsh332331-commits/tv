@@ -1,0 +1,74 @@
+[
+  {
+    "namear": "CANAL + SPORT",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://rutube.ru/api/play/options/411a1cd7ea784305f398adc4bb1aa859/?no_404\\u003dtrue\\u0026referer\\u003dhttps%253A%252F%252Frutube.ru\\u0026pver\\u003dv2|user-agent|Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36|origin|https://rutube.ru\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://rutube.ru\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"https://rutube.ru/api/play/options/411a1cd7ea784305f398adc4bb1aa859/?no_404\\u003dtrue\\u0026referer\\u003dhttps%253A%252F%252Frutube.ru\\u0026pver\\u003dv2\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36\",\"position\":\"0\",\"url\":\"https://bl.rutube.ru/livestream/411a1cd7ea784305f398adc4bb1aa859/index.m3u8?s\\u003d4xk7wSjDZMuanAQAjEyrQw\\u0026e\\u003d1746878726\\u0026scheme\\u003dhttps\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"http://a502.variety-buy.store/api/channel/259\"}]",
+    "logo": "https://thumb.canalplus.pro/http/unsafe/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/213X160/CHN43FB_177.PNG",
+    "nameen": "CANAL + SPORT",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvcanal_كانال"
+  },
+  {
+    "namear": "CANAL + CINEMA",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://a502.variety-buy.store/api/channel/260\"}]",
+    "logo": "https://thumb.canalplus.pro/http/unsafe/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/213X160/CHN43FB_198.PNG",
+    "nameen": "CANAL + CINEMA",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvcanal_كانال"
+  },
+  {
+    "namear": "CANAL + DECALE",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://a502.variety-buy.store/api/channel/261\"}]",
+    "logo": "https://thumb.canalplus.pro/http/unsafe/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/213X160/CHN43FB_257.PNG",
+    "nameen": "CANAL + DECALE",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvcanal_كانال"
+  },
+  {
+    "namear": "CANAL PLAY 3",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://a502.variety-buy.store/api/channel/267\"}]",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmOjdEyhOmgF4ggEihuLISwkM1kMFg6npotj_KGsDcclsjLclVAqT3cXXDF3udUJIS3rEi73VIHfNOO66Og3Jf6UPpeTsBUZKHvH1e0A_4jGpza0Ep0dPov-PUcwYcdxHpPHnmMZ1xD2S2U7HbtuVMpgFyKo56etoosjknSFDCyUigHAyGLZmWeNLH/s1600/canal_play_3.png",
+    "nameen": "CANAL PLAY 3",
+    "position": "7",
+    "type": "channel",
+    "key": "aya_cx_tvcanal_كانال"
+  },
+  {
+    "namear": "CANAL PLAY 4",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://a502.variety-buy.store/api/channel/268\"}]",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPBBU3sKd705_pW31e11bvB-wn8qAYUfzLM4gy8Y6vnQ-euyrRouRHi-wjwy8cas4IxrV0OILOUK-9EKqDicZsXNlVVqP7ieu8fhu4iSG0mPQzLIZE7yUqxWPaONe6KWPlsbtnjLnUnWI0ubelUYSVPLoNBPwEHTiO9RvoRywiUemi-73ER14RcwY5/s1600/canal_play_4.png",
+    "nameen": "CANAL PLAY 4",
+    "position": "8",
+    "type": "channel",
+    "key": "aya_cx_tvcanal_كانال"
+  },
+  {
+    "namear": "CANAL PLAY 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://a502.variety-buy.store/api/channel/265\"}]",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEF64-3MIZZPB4_wluIL-3eqYCtQhymzYnSvGku4ksiMY7-yc-PEN4dsLN0yVWyoUSwubdMfBXcH5W9RGOryFgRQch8U1T3r9TJZrzTxgdJfnN7VpXe5omfioVW7cQqWhqvAk0BfsUB8R2FufkIByinX70mbrYCeLVI8XWB1ezY4jQO-d1ZPStAGev/s1600/canal_play_1.png",
+    "nameen": "CANAL PLAY 1",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_cx_tvcanal_كانال"
+  },
+  {
+    "namear": "CANAL + SERIES",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://a502.variety-buy.store/api/channel/262\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://a501.variety-buy.store/api/channel/263\"}]",
+    "logo": "https://thumb.canalplus.pro/http/unsafe/epg.canal-plus.com/mycanal/img/CHN43FB/PNG/213X160/CHN43FB_481.PNG",
+    "nameen": "CANAL + SERIES",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvcanal_كانال"
+  },
+  {
+    "namear": "CANAL PLUS",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://a502.variety-buy.store/api/channel/258\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"rr\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://aa.gggsjmjh756hgffreewguiijnbvcfg7.store/bein1/tracks-v1a1/mono.m3u8\"},{\"license\":\"\",\"headers\":\"Referer|https://truncatedactivitiplay.xyz/|user-agent|Mozilla/5.0 (Linux; Android 14; BRP-NX1 Build/HONORBRP-N21; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.113 Mobile Safari/537.36|origin|https://truncatedactivitiplay.xyz\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://truncatedactivitiplay.xyz\",\"isWeb\":\"false\",\"name\":\"tt\",\"Referer\":\"https://truncatedactivitiplay.xyz/\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 14; BRP-NX1 Build/HONORBRP-N21; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.113 Mobile Safari/537.36\",\"position\":\"\",\"url\":\"https://top1new.newkso.ru/top1/aflam4/mono.m3u8\"}]",
+    "logo": "https://i.imgur.com/c7sEUYE.png",
+    "nameen": "CANAL PLUS",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvcanal_كانال"
+  }
+]

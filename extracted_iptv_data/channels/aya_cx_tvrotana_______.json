@@ -1,0 +1,101 @@
+[
+  {
+    "namear": "خليجية",
+    "servers": "[{\"license\":\"ce4e01ce30988babcc4ed18ceeef01bc:a5c1b40cae897024745e56343cf43b50\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://akmrwb-live.cdn.intigral-ott.net/ROTK/ROTK.isml/manifest.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH39M_5QjmRRjYiLKucWOF4RqOY8DM_ALUG5y_QiH4Ew&s=10",
+    "nameen": "خليجية",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvrotana_روتانا"
+  },
+  {
+    "namear": "روتانا بلص+",
+    "servers": "[{\"license\":\"a5c68634296f78f98dc51695f41926af:bc9b482e1188d3f5e702c49fcd598615\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://akmrwb-live.cdn.intigral-ott.net/ROTP/ROTP.isml/manifest.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEXdheaBYD9GDKIAGdinNhvbH4QcB409sJb9OKCcfXvg&s=10",
+    "nameen": "روتانا بلص+",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvrotana_روتانا"
+  },
+  {
+    "namear": "دراما",
+    "servers": "[{\"license\":\"9a5b1526dfcde755556044faed10009a:8ac2555f230e92cd5bb79eb984710e19\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"https://akmrwb-live.cdn.intigral-ott.net/ROTD/ROTD.isml/manifest.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ2lCDXofWBvD53BjhPEeL-EB7c38l-XDKnVLFI80Mmw&s=10",
+    "nameen": "دراما",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvrotana_روتانا"
+  },
+  {
+    "namear": "كوميدي",
+    "servers": "[{\"license\":\"\",\"headers\":\"find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://www.giniko.com/xml/secure/plist.php?ch\\u003d1035\"},{\"license\":\"\",\"headers\":\"Referer|https://rotana.hibridcdn.net/|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"M+\",\"Referer\":\"https://rotana.hibridcdn.net/\",\"userAgent\":\"\",\"position\":\"5\",\"url\":\"https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7SSUvB4pyPdBjRysqljoOWKmhLRPyaS5GQi3f4Od5kQ&s=10",
+    "nameen": "كوميدي",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvrotana_روتانا"
+  },
+  {
+    "namear": "سينما",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://rotana.net/|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Restream\",\"Referer\":\"https://rotana.net/\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8\"},{\"license\":\"3681ebddd4d011f323310b47bb1e845c:932ba3a0ad67d2ff4ff607e939f562cc\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://akmrwb-live.cdn.intigral-ott.net/ROTCM/ROTCM.isml/manifest.mpd\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWNena8ox2-jJEPn-TtsVHVco88QPhdRmPnQ&s",
+    "nameen": "سينما",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvrotana_روتانا"
+  },
+  {
+    "namear": "سينما 2",
+    "servers": "[{\"license\":\"28d6e48b26bccaa8031dd2325ad75d4d:fc6013bcf409865329e2bd44cf1010cf\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://akmrwb-live.cdn.intigral-ott.net/ROTCK/ROTCK.isml/manifest.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWNena8ox2-jJEPn-TtsVHVco88QPhdRmPnQ&s",
+    "nameen": "سينما 2",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_cx_tvrotana_روتانا"
+  },
+  {
+    "namear": "أفلام+",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/chunks.m3u8?\\u0026token\\u003ddemo\"}]",
+    "logo": "https://media0050.elcinema.com/tvguide/1218_1.png",
+    "nameen": "أفلام+",
+    "position": "6",
+    "type": "channel",
+    "key": "aya_cx_tvrotana_روتانا"
+  },
+  {
+    "namear": "كلاسيك",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/playlist.m3u8\"},{\"license\":\"c3b50db52999b0b5b90653812a13a66b:302c1d641a38a8f30b4fda466d70acc2\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://akmrwb-live.cdn.intigral-ott.net/ROTZ/ROTZ.isml/manifest.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4NIlO5URDGLE2JikmC4N3ARISzHfpR2vjUg&s",
+    "nameen": "كلاسيك",
+    "position": "7",
+    "type": "channel",
+    "key": "aya_cx_tvrotana_روتانا"
+  },
+  {
+    "namear": "Cinema+Us",
+    "servers": "[{\"license\":\"f9c253bf54bbdf0a6d1c648f8c2f3612:5bf4a3ebcffc6115abf82312707f28ae\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://akmrwb-live.cdn.intigral-ott.net/ROTCU/ROTCU.isml/manifest.mpd\"}]",
+    "logo": "https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402587.webp",
+    "nameen": "Cinema+Us",
+    "position": "8",
+    "type": "channel",
+    "key": "aya_cx_tvrotana_روتانا"
+  },
+  {
+    "namear": "Kids",
+    "servers": "[{\"license\":\"2abdaccade913849b5d49f66a0dc5ec0:66a14430097ac3a49564cefd4a18047d\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://akmrwb-live.cdn.intigral-ott.net/ROTI/ROTI.isml/manifest.mpd\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/chunks.m3u8?\\u0026token\\u003ddemo\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzgD0oLl9M0Iv5ubF_DYEQ4MCoqWuAAT1oVUIhAruoVA&s=10",
+    "nameen": "Kids",
+    "position": "9",
+    "type": "channel",
+    "key": "aya_cx_tvrotana_روتانا"
+  },
+  {
+    "namear": "كليب",
+    "servers": "[{\"license\":\"ed918632eb4ebfb816465238003ecc5e:d9c30b4c097a2a09e9dc65e84661e76b\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://akmrwb-live.cdn.intigral-ott.net/ROTV/ROTV.isml/manifest.mpd\"}]",
+    "logo": "https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402593.webp",
+    "nameen": "كليب",
+    "position": "11",
+    "type": "channel",
+    "key": "aya_cx_tvrotana_روتانا"
+  }
+]

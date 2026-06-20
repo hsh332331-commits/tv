@@ -1,0 +1,1172 @@
+[
+  {
+    "namear": "Live Naplouse Palestine((إذاعة القرآن الكريم نابلس)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Live Naplouse Palestine((إذاعة القرآن الكريم نابلس)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://streaming.zaytonatube.com:8080/holyquran/holyquran/index.m3u8\"}]",
+    "logo": "http://127.0.0.1/",
+    "nameen": "Live Naplouse Palestine((إذاعة القرآن الكريم نابلس)",
+    "position": "1",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "---Récitations courtes et incroyables---",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"---Récitations courtes et incroyables---\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/tarateel\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "---Récitations courtes et incroyables---",
+    "position": "2",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "--Tafsir du Coran--",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"--Tafsir du Coran--\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.mp3quran.net:9718/;\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "--Tafsir du Coran--",
+    "position": "3",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "-Belles Récitations-",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"-Belles Récitations-\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.mp3quran.net:9992/;\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "-Belles Récitations-",
+    "position": "4",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "-Radio principale-",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"-Radio principale-\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.mp3quran.net:8006/;\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "-Radio principale-",
+    "position": "5",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "-Sourate Al-Baqarah - Nombreux récitants-",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"-Sourate Al-Baqarah - Nombreux récitants-\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.mp3quran.net:9722/;\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "-Sourate Al-Baqarah - Nombreux récitants-",
+    "position": "6",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "CORAN",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CORAN\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.mp3quran.net:8028/;\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "CORAN",
+    "position": "7",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Abdelbari Al-Toubayti_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Abdelbari Al-Toubayti_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/abdelbari_altoubayti\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Abdelbari Al-Toubayti_Rewayat Hafs A'n Assem",
+    "position": "8",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Abdul Aziz Al-Ahmad_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Abdul Aziz Al-Ahmad_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/abdul_aziz_alahmad\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Abdul Aziz Al-Ahmad_Rewayat Hafs A'n Assem",
+    "position": "9",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Abdulbari Mohammad_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Abdulbari Mohammad_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/abdulbari_mohammad\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Abdulbari Mohammad_Rewayat Hafs A'n Assem",
+    "position": "10",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Abdulbasit Abdulsamad_Rewayat Warsh A'n Nafi'",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Abdulbasit Abdulsamad_Rewayat Warsh A\\u0027n Nafi\\u0027\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/abdulbasit_abdulsamad_warsh\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Abdulbasit Abdulsamad_Rewayat Warsh A'n Nafi'",
+    "position": "11",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Abdulbasit Abdulsamad_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Abdulbasit Abdulsamad_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/abdulbasit_abdulsamad\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Abdulbasit Abdulsamad_Rewayat Hafs A'n Assem",
+    "position": "12",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Abdulbasit Abdulsamad_Almusshaf Al Mojawwad",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Abdulbasit Abdulsamad_Almusshaf Al Mojawwad\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/abdulbasit_abdulsamad_mojawwad\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Abdulbasit Abdulsamad_Almusshaf Al Mojawwad",
+    "position": "13",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Abdulhadi Kanakeri_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Abdulhadi Kanakeri_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/abdulhadi_kanakeri\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Abdulhadi Kanakeri_Rewayat Hafs A'n Assem",
+    "position": "14",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Abdullah Al-Johany_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Abdullah Al-Johany_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/abdullah_aljohany\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Abdullah Al-Johany_Rewayat Hafs A'n Assem",
+    "position": "15",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Abdullah Al-Kandari_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Abdullah Al-Kandari_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/abdullah_alkandari\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Abdullah Al-Kandari_Rewayat Hafs A'n Assem",
+    "position": "16",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Abdullah Al-Khalaf_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Abdullah Al-Khalaf_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/abdullah_alkhalaf\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Abdullah Al-Khalaf_Rewayat Hafs A'n Assem",
+    "position": "17",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Abdullah Al-Mattrod_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Abdullah Al-Mattrod_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/abdullah_almattrod\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Abdullah Al-Mattrod_Rewayat Hafs A'n Assem",
+    "position": "18",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Abdullah Al-Mousa - Radio_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Abdullah Al-Mousa - Radio_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.mp3quran.net:9706/;\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Abdullah Al-Mousa - Radio_Rewayat Hafs A'n Assem",
+    "position": "19",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Abdullah Basfer_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Abdullah Basfer_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/abdullah_basfer\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Abdullah Basfer_Rewayat Hafs A'n Assem",
+    "position": "20",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Abdullah Khayyat_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Abdullah Khayyat_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/abdullah_khayyat\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Abdullah Khayyat_Rewayat Hafs A'n Assem",
+    "position": "21",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Abdulmohsen Al-Qasim_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Abdulmohsen Al-Qasim_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/abdulmohsen_alqasim\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Abdulmohsen Al-Qasim_Rewayat Hafs A'n Assem",
+    "position": "22",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Abdulmohsin Al-Harthy_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Abdulmohsin Al-Harthy_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/abdulmohsin_alharthy\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Abdulmohsin Al-Harthy_Rewayat Hafs A'n Assem",
+    "position": "23",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Abdulmohsin Al-Obaikan_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Abdulmohsin Al-Obaikan_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/abdulmohsin_alobaikan\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Abdulmohsin Al-Obaikan_Rewayat Hafs A'n Assem",
+    "position": "24",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Abdulrahman Al-Majed_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Abdulrahman Al-Majed_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/abdulrahman_almajed\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Abdulrahman Al-Majed_Rewayat Hafs A'n Assem",
+    "position": "25",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Abdulrahman Alsudaes_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Abdulrahman Alsudaes_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/abdulrahman_alsudaes\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Abdulrahman Alsudaes_Rewayat Hafs A'n Assem",
+    "position": "26",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Abdulrasheed Soufi_Rewayat Khalaf A'n Hamzah",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Abdulrasheed Soufi_Rewayat Khalaf A\\u0027n Hamzah\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/abdulrasheed_soufi_assosi\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Abdulrasheed Soufi_Rewayat Khalaf A'n Hamzah",
+    "position": "27",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Abdulrasheed Soufi_Rewayat Assosi A'n Abi Amr",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Abdulrasheed Soufi_Rewayat Assosi A\\u0027n Abi Amr\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/abdulrasheed_soufi_khalaf\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Abdulrasheed Soufi_Rewayat Assosi A'n Abi Amr",
+    "position": "28",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Abdulwadood Haneef_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Abdulwadood Haneef_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/abdulwadood_haneef\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Abdulwadood Haneef_Rewayat Hafs A'n Assem",
+    "position": "29",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Addokali Mohammad Alalim_Rewayat Qalon A'n Nafi'",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Addokali Mohammad Alalim_Rewayat Qalon A\\u0027n Nafi\\u0027\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/addokali_mohammad_alalim\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Addokali Mohammad Alalim_Rewayat Qalon A'n Nafi'",
+    "position": "30",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Adel Al-Khalbany_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Adel Al-Khalbany_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/adel_alkhalbany\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Adel Al-Khalbany_Rewayat Hafs A'n Assem",
+    "position": "31",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Adel Ryyan_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Adel Ryyan_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/adel_ryyan\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Adel Ryyan_Rewayat Hafs A'n Assem",
+    "position": "32",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Ahmad Al-Ajmy_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Ahmad Al-Ajmy_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/ahmad_alajmy\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Ahmad Al-Ajmy_Rewayat Hafs A'n Assem",
+    "position": "33",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Ahmad Al-Hawashi_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Ahmad Al-Hawashi_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/ahmad_alhawashi\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Ahmad Al-Hawashi_Rewayat Hafs A'n Assem",
+    "position": "34",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Ahmad Khader Al-Tarabulsi_Rewayat Qalon A'n Nafi'",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Ahmad Khader Al-Tarabulsi_Rewayat Qalon A\\u0027n Nafi\\u0027\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/ahmad_khader_altarabulsi\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Ahmad Khader Al-Tarabulsi_Rewayat Qalon A'n Nafi'",
+    "position": "35",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Ahmad Nauina_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Ahmad Nauina_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/ahmad_nauina\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Ahmad Nauina_Rewayat Hafs A'n Assem",
+    "position": "36",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Ahmad Saber_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Ahmad Saber_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/ahmad_saber\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Ahmad Saber_Rewayat Hafs A'n Assem",
+    "position": "37",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Ahmad Shaheen_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Ahmad Shaheen_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/ahmad_shaheen\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Ahmad Shaheen_Rewayat Hafs A'n Assem",
+    "position": "38",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Ahmed Al-trabulsi_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Ahmed Al-trabulsi_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/ahmed_altrabulsi\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Ahmed Al-trabulsi_Rewayat Hafs A'n Assem",
+    "position": "39",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Ahmed Amer_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Ahmed Amer_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/ahmed_amer\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Ahmed Amer_Rewayat Hafs A'n Assem",
+    "position": "40",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Akram Alalaqmi_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Akram Alalaqmi_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/akram_alalaqmi\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Akram Alalaqmi_Rewayat Hafs A'n Assem",
+    "position": "41",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Al-Qaria Yassen_Rewayat Warsh A'n Nafi'",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Al-Qaria Yassen_Rewayat Warsh A\\u0027n Nafi\\u0027\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/alqaria_yassen\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Al-Qaria Yassen_Rewayat Warsh A'n Nafi'",
+    "position": "42",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Alfateh Alzubair_Rewayat Aldori A'n Abi Amr",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Alfateh Alzubair_Rewayat Aldori A\\u0027n Abi Amr\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/alfateh_alzubair\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Alfateh Alzubair_Rewayat Aldori A'n Abi Amr",
+    "position": "43",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Ali Alhuthaifi_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Ali Alhuthaifi_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/ali_alhuthaifi\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Ali Alhuthaifi_Rewayat Hafs A'n Assem",
+    "position": "44",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Ali Alhuthaifi_Rewayat Qalon A'n Nafi'",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Ali Alhuthaifi_Rewayat Qalon A\\u0027n Nafi\\u0027\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/ali_alhuthaifi_qalon\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Ali Alhuthaifi_Rewayat Qalon A'n Nafi'",
+    "position": "45",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Ali Hajjaj Alsouasi_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Ali Hajjaj Alsouasi_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/ali_hajjaj_alsouasi\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Ali Hajjaj Alsouasi_Rewayat Hafs A'n Assem",
+    "position": "46",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Ali Jaber_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Ali Jaber_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/ali_jaber\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Ali Jaber_Rewayat Hafs A'n Assem",
+    "position": "47",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Aloyoon Al-Koshi_Rewayat Warsh A'n Nafi'",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Aloyoon Al-Koshi_Rewayat Warsh A\\u0027n Nafi\\u0027\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/aloyoon_alkoshi\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Aloyoon Al-Koshi_Rewayat Warsh A'n Nafi'",
+    "position": "48",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Alzain Mohammad Ahmad_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Alzain Mohammad Ahmad_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/alzain_mohammad_ahmad\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Alzain Mohammad Ahmad_Rewayat Hafs A'n Assem",
+    "position": "49",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Emad Hafez_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Emad Hafez_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/emad_hafez\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Emad Hafez_Rewayat Hafs A'n Assem",
+    "position": "50",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Fares Abbad_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Fares Abbad_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/fares_abbad\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Fares Abbad_Rewayat Hafs A'n Assem",
+    "position": "51",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Hani Arrifai_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Hani Arrifai_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/hani_arrifai\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Hani Arrifai_Rewayat Hafs A'n Assem",
+    "position": "52",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Hatem Fareed Alwaer_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Hatem Fareed Alwaer_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/hatem_fareed_alwaer\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Hatem Fareed Alwaer_Rewayat Hafs A'n Assem",
+    "position": "53",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Hitham Aljadani_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Hitham Aljadani_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/hitham_aljadani\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Hitham Aljadani_Rewayat Hafs A'n Assem",
+    "position": "54",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Ibrahim Al-Akdar_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Ibrahim Al-Akdar_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/ibrahim_alakdar\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Ibrahim Al-Akdar_Rewayat Hafs A'n Assem",
+    "position": "55",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Ibrahim Aldosari_Rewayat Warsh A'n Nafi'",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Ibrahim Aldosari_Rewayat Warsh A\\u0027n Nafi\\u0027\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/ibrahim_aldosari\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Ibrahim Aldosari_Rewayat Warsh A'n Nafi'",
+    "position": "56",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Idrees Abkr_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Idrees Abkr_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/idrees_abkr\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Idrees Abkr_Rewayat Hafs A'n Assem",
+    "position": "57",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Jamaan Alosaimi_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Jamaan Alosaimi_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/jamaan_alosaimi\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Jamaan Alosaimi_Rewayat Hafs A'n Assem",
+    "position": "58",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Jamal Shaker Abdullah_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Jamal Shaker Abdullah_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/jamal_shaker_abdullah\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Jamal Shaker Abdullah_Rewayat Hafs A'n Assem",
+    "position": "59",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Khaled Al-Qahtani_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Khaled Al-Qahtani_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/khaled_alqahtani\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Khaled Al-Qahtani_Rewayat Hafs A'n Assem",
+    "position": "60",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Khalid Abdulkafi_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Khalid Abdulkafi_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/khalid_abdulkafi\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Khalid Abdulkafi_Rewayat Hafs A'n Assem",
+    "position": "61",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Khalid Al-Jileel_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Khalid Al-Jileel_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/khalid_aljileel\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Khalid Al-Jileel_Rewayat Hafs A'n Assem",
+    "position": "62",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Khalid Almohana_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Khalid Almohana_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/khalid_almohana\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Khalid Almohana_Rewayat Hafs A'n Assem",
+    "position": "63",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Khalifa Altunaiji_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Khalifa Altunaiji_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/khalifa_altunaiji\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Khalifa Altunaiji_Rewayat Hafs A'n Assem",
+    "position": "64",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Maher Al Meaqli_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Maher Al Meaqli_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/maher_al_meaqli\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Maher Al Meaqli_Rewayat Hafs A'n Assem",
+    "position": "65",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Maher Shakhashero_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Maher Shakhashero_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/maher_shakhashero\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Maher Shakhashero_Rewayat Hafs A'n Assem",
+    "position": "66",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Mahmood Al rifai_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Mahmood Al rifai_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/mahmood_al_rifai\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Mahmood Al rifai_Rewayat Hafs A'n Assem",
+    "position": "67",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Mahmood AlSheimy_Rewayat AlDorai A'n Al-Kisa'ai",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Mahmood AlSheimy_Rewayat AlDorai A\\u0027n Al-Kisa\\u0027ai\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/mahmood_alsheimy\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Mahmood AlSheimy_Rewayat AlDorai A'n Al-Kisa'ai",
+    "position": "68",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Mahmoud AliAlbanna_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Mahmoud AliAlbanna_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/mahmoud_ali__albanna\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Mahmoud AliAlbanna_Rewayat Hafs A'n Assem",
+    "position": "69",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Mahmoud AliAlbanna_Almusshaf Al Mojawwad",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Mahmoud AliAlbanna_Almusshaf Al Mojawwad\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/mahmoud_ali__albanna_mojawwad\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Mahmoud AliAlbanna_Almusshaf Al Mojawwad",
+    "position": "70",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Mahmoud Khalil Al-Hussary_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Mahmoud Khalil Al-Hussary_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/mahmoud_khalil_alhussary\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Mahmoud Khalil Al-Hussary_Rewayat Hafs A'n Assem",
+    "position": "71",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Mahmoud Khalil Al-Hussary_Almusshaf Al Mojawwad",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Mahmoud Khalil Al-Hussary_Almusshaf Al Mojawwad\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/mahmoud_khalil_alhussary_mojawwad\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Mahmoud Khalil Al-Hussary_Almusshaf Al Mojawwad",
+    "position": "72",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Mahmoud Khalil Al-Hussary_Rewayat Warsh A'n Nafi'",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Mahmoud Khalil Al-Hussary_Rewayat Warsh A\\u0027n Nafi\\u0027\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/mahmoud_khalil_alhussary_warsh\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Mahmoud Khalil Al-Hussary_Rewayat Warsh A'n Nafi'",
+    "position": "73",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Mishary Alafasi_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Mishary Alafasi_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/mishary_alafasi\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Mishary Alafasi_Rewayat Hafs A'n Assem",
+    "position": "74",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Moeedh Alharthi_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Moeedh Alharthi_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/moeedh_alharthi\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Moeedh Alharthi_Rewayat Hafs A'n Assem",
+    "position": "75",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Mohammad Abdulkarem_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Mohammad Abdulkarem_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/mohammad_abdullkarem\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Mohammad Abdulkarem_Rewayat Hafs A'n Assem",
+    "position": "76",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Mohammad Abdulkarem_Rewayat Warsh A'n Nafi' MenTariq Abi Baker Alasbahani",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Mohammad Abdulkarem_Rewayat Warsh A\\u0027n Nafi\\u0027 MenTariq Abi Baker Alasbahani\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/mohammad_abdullkarem_alasbahani\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Mohammad Abdulkarem_Rewayat Warsh A'n Nafi' MenTariq Abi Baker Alasbahani",
+    "position": "77",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Mohammad Al-Abdullah_Rewayat AlDorai A'n Al-Kisa'ai",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Mohammad Al-Abdullah_Rewayat AlDorai A\\u0027n Al-Kisa\\u0027ai\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/mohammad_alabdullah_aldorai\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Mohammad Al-Abdullah_Rewayat AlDorai A'n Al-Kisa'ai",
+    "position": "78",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Mohammad Al-Abdullah_Rewayat Albizi et Qunbol A'n Ibn Katheer",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Mohammad Al-Abdullah_Rewayat Albizi et Qunbol A\\u0027n Ibn Katheer\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/mohammad_alabdullah_albizi\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Mohammad Al-Abdullah_Rewayat Albizi et Qunbol A'n Ibn Katheer",
+    "position": "79",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Mohammad Al-Tablaway_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Mohammad Al-Tablaway_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/mohammad_altablaway\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Mohammad Al-Tablaway_Rewayat Hafs A'n Assem",
+    "position": "80",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Mohammad Rashad Alshareef_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Mohammad Rashad Alshareef_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/mohammad_rashad_alshareef\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Mohammad Rashad Alshareef_Rewayat Hafs A'n Assem",
+    "position": "81",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Mohammad Saleh Alim Shah_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Mohammad Saleh Alim Shah_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/mohammad_saleh_alim_shah\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Mohammad Saleh Alim Shah_Rewayat Hafs A'n Assem",
+    "position": "82",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Mohammed Al-Lohaidan_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Mohammed Al-Lohaidan_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/mohammed_allohaidan\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Mohammed Al-Lohaidan_Rewayat Hafs A'n Assem",
+    "position": "83",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Mohammed Ayyub_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Mohammed Ayyub_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/mohammed_ayyub\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Mohammed Ayyub_Rewayat Hafs A'n Assem",
+    "position": "84",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Mohammed Jibreel_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Mohammed Jibreel_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/mohammed_jibreel\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Mohammed Jibreel_Rewayat Hafs A'n Assem",
+    "position": "85",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Mohammed Osman Khan_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Mohammed Osman Khan_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/mohammed_osman_khan\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Mohammed Osman Khan_Rewayat Hafs A'n Assem",
+    "position": "86",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Mohammed Siddiq Al-Minshawi_Almusshaf Al Mojawwad",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Mohammed Siddiq Al-Minshawi_Almusshaf Al Mojawwad\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/mohammed_siddiq_alminshawi_mojawwad\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Mohammed Siddiq Al-Minshawi_Almusshaf Al Mojawwad",
+    "position": "87",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Mohammed Siddiq Al-Minshawi_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Mohammed Siddiq Al-Minshawi_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/mohammed_siddiq_alminshawi\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Mohammed Siddiq Al-Minshawi_Rewayat Hafs A'n Assem",
+    "position": "88",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Mousa Bilal_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Mousa Bilal_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/mousa_bilal\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Mousa Bilal_Rewayat Hafs A'n Assem",
+    "position": "89",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Muftah Alsaltany_Ibn Thakwan A'n Ibn Amer",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Muftah Alsaltany_Ibn Thakwan A\\u0027n Ibn Amer\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/muftah_alsaltany_ibn_thakwan_an_ibn_amr\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Muftah Alsaltany_Ibn Thakwan A'n Ibn Amer",
+    "position": "90",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Muftah Alsaltany_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Muftah Alsaltany_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/muftah_alsaltany\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Muftah Alsaltany_Rewayat Hafs A'n Assem",
+    "position": "91",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Muftah Alsaltany_Rewayat AlDorai A'n Al-Kisa'ai",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Muftah Alsaltany_Rewayat AlDorai A\\u0027n Al-Kisa\\u0027ai\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/muftah_alsaltany_aldorai\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Muftah Alsaltany_Rewayat AlDorai A'n Al-Kisa'ai",
+    "position": "92",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Muftah Alsaltany_Rewayat Aldori A'n Abi Amr",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Muftah Alsaltany_Rewayat Aldori A\\u0027n Abi Amr\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/muftah_alsaltany_aldori_an_abi_amr\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Muftah Alsaltany_Rewayat Aldori A'n Abi Amr",
+    "position": "93",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Mustafa Al-Lahoni_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Mustafa Al-Lahoni_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/mustafa_allahoni\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Mustafa Al-Lahoni_Rewayat Hafs A'n Assem",
+    "position": "94",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Mustafa Ismail_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Mustafa Ismail_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/mustafa_ismail\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Mustafa Ismail_Rewayat Hafs A'n Assem",
+    "position": "95",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Mustafa raad Alazawy_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Mustafa raad Alazawy_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/mustafa_raad_alazawy\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Mustafa raad Alazawy_Rewayat Hafs A'n Assem",
+    "position": "96",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Nabil Al Rifay_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Nabil Al Rifay_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/nabil_al_rifay\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Nabil Al Rifay_Rewayat Hafs A'n Assem",
+    "position": "97",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Nasser Almajed_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Nasser Almajed_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/nasser_almajed\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Nasser Almajed_Rewayat Hafs A'n Assem",
+    "position": "98",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Nasser Alqatami_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Nasser Alqatami_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/nasser_alqatami\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Nasser Alqatami_Rewayat Hafs A'n Assem",
+    "position": "99",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Neamah Al-Hassan_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Neamah Al-Hassan_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/neamah_alhassan\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Neamah Al-Hassan_Rewayat Hafs A'n Assem",
+    "position": "100",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Omar Al-Qazabri_Rew ayat Warsh A'n Nafi'",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Omar Al-Qazabri_Rew ayat Warsh A\\u0027n Nafi\\u0027\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/omar_alqazabri\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Omar Al-Qazabri_Rew ayat Warsh A'n Nafi'",
+    "position": "101",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Saad Al-Ghamdi_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Saad Al-Ghamdi_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/saad_alghamdi\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Saad Al-Ghamdi_Rewayat Hafs A'n Assem",
+    "position": "102",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Sabre Abdulhakm_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Sabre Abdulhakm_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/saber_abdulhakm\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Sabre Abdulhakm_Rewayat Hafs A'n Assem",
+    "position": "103",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Sahl Yassin_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Sahl Yassin_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/sahl_yassin\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Sahl Yassin_Rewayat Hafs A'n Assem",
+    "position": "104",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Salah Albudair_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Salah Albudair_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/salah_albudair\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Salah Albudair_Rewayat Hafs A'n Assem",
+    "position": "105",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Salah Alhashim_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Salah Alhashim_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/salah_alhashim\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Salah Alhashim_Rewayat Hafs A'n Assem",
+    "position": "106",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Saud Al-Shuraim_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Saud Al-Shuraim_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/saud_alshuraim\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Saud Al-Shuraim_Rewayat Hafs A'n Assem",
+    "position": "107",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Sayeed Ramadan_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Sayeed Ramadan_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/sayeed_ramadan\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Sayeed Ramadan_Rewayat Hafs A'n Assem",
+    "position": "108",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Shaik Abu Bakr Al Shatri_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Shaik Abu Bakr Al Shatri_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/shaik_abu_bakr_al_shatri\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Shaik Abu Bakr Al Shatri_Rewayat Hafs A'n Assem",
+    "position": "109",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Shirazad Taher_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Shirazad Taher_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/shirazad_taher\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Shirazad Taher_Rewayat Hafs A'n Assem",
+    "position": "110",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Slaah Bukhatir_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Slaah Bukhatir_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/slaah_bukhatir\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Slaah Bukhatir_Rewayat Hafs A'n Assem",
+    "position": "111",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Tareq Abdulgani daawob_Rewayat Qalon A'n Nafi'",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Tareq Abdulgani daawob_Rewayat Qalon A\\u0027n Nafi\\u0027\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/tareq_abdulgani_daawob\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Tareq Abdulgani daawob_Rewayat Qalon A'n Nafi'",
+    "position": "112",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Tawfeeq As-Sayegh_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Tawfeeq As-Sayegh_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/tawfeeq_assayegh\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Tawfeeq As-Sayegh_Rewayat Hafs A'n Assem",
+    "position": "113",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Waleed Alnaehi_Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Waleed Alnaehi_Rewayat Qalon A\\u0027n Nafi\\u0027 Men Tariq Abi Nasheet\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/waleed_alnaehi\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Waleed Alnaehi_Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet",
+    "position": "114",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Yahya Hawwa_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Yahya Hawwa_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/yahya_hawwa\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Yahya Hawwa_Rewayat Hafs A'n Assem",
+    "position": "115",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Yasser Al-Dosari_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Yasser Al-Dosari_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/yasser_aldosari\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Yasser Al-Dosari_Rewayat Hafs A'n Assem",
+    "position": "116",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Yasser Al-Mazroyee_Rewayat Rowis et Rawh A'n Yakoob Al Hadrami",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Yasser Al-Mazroyee_Rewayat Rowis et Rawh A\\u0027n Yakoob Al Hadrami\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/yasser_almazroyee\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Yasser Al-Mazroyee_Rewayat Rowis et Rawh A'n Yakoob Al Hadrami",
+    "position": "117",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Yasser Al-Qurashi_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Yasser Al-Qurashi_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/yasser_alqurashi\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Yasser Al-Qurashi_Rewayat Hafs A'n Assem",
+    "position": "118",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Yousef Alshoaey_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Yousef Alshoaey_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/yousef_alshoaey\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Yousef Alshoaey_Rewayat Hafs A'n Assem",
+    "position": "119",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Yousef Bin Noah Ahmad_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Yousef Bin Noah Ahmad_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/yousef_bin_noah_ahmad\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Yousef Bin Noah Ahmad_Rewayat Hafs A'n Assem",
+    "position": "120",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Radio Zaki Daghistani_Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Radio Zaki Daghistani_Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/zaki_daghistani\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Radio Zaki Daghistani_Rewayat Hafs A'n Assem",
+    "position": "121",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.mp3quran.net:8030/;\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Rewayat Hafs A'n Assem",
+    "position": "122",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.mp3quran.net:8024/;\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Rewayat Hafs A'n Assem",
+    "position": "123",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "CORAN",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CORAN\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.mp3quran.net:9936/;\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "CORAN",
+    "position": "124",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "CORAN",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CORAN\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.mp3quran.net:8014/;\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "CORAN",
+    "position": "125",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "CORAN",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CORAN\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.mp3quran.net:9728/;\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "CORAN",
+    "position": "126",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.mp3quran.net:8026/;\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Rewayat Hafs A'n Assem",
+    "position": "127",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.mp3quran.net:8022/;\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Rewayat Hafs A'n Assem",
+    "position": "128",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.mp3quran.net:9700/;\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Rewayat Hafs A'n Assem",
+    "position": "129",
+    "type": "channel",
+    "key": "radio_quran"
+  },
+  {
+    "namear": "Rewayat Hafs A'n Assem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rewayat Hafs A\\u0027n Assem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://Qurango.net/radio/nasser_alosfor\"}]",
+    "logo": "https://i.imgur.com/WIa5TN4.jpg",
+    "nameen": "Rewayat Hafs A'n Assem",
+    "position": "130",
+    "type": "channel",
+    "key": "radio_quran"
+  }
+]

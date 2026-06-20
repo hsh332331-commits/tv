@@ -1,0 +1,56 @@
+[
+  {
+    "namear": "Arryadia TNT",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://stream-lb.livemedia.ma/arryadia-tnt/hls/master.m3u8\"}]",
+    "logo": "https://livemedia.ma/static/img/channels/arryadia-tnt.png",
+    "nameen": "Arryadia TNT",
+    "position": "0",
+    "type": "channel",
+    "key": "arryadia_sport"
+  },
+  {
+    "namear": "Arryadia",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://stream-lb.livemedia.ma/arryadia/hls/master.m3u8\"}]",
+    "logo": "https://yt3.googleusercontent.com/ZvdsfeYl_U-N1ECyfqJPWYYswIc9eHE6sVd2qP5sPq7cq0hm401BE_H6RYlju3V1juC9p_Cl=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "Arryadia",
+    "position": "1",
+    "type": "channel",
+    "key": "arryadia_sport"
+  },
+  {
+    "namear": "Arryadia HD1",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://stream-lb.livemedia.ma/arryadia-hd-01/hls/master.m3u8\"}]",
+    "logo": "https://yt3.googleusercontent.com/ZvdsfeYl_U-N1ECyfqJPWYYswIc9eHE6sVd2qP5sPq7cq0hm401BE_H6RYlju3V1juC9p_Cl=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "Arryadia HD1",
+    "position": "2",
+    "type": "channel",
+    "key": "arryadia_sport"
+  },
+  {
+    "namear": "Arryadia HD2",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://stream-lb.livemedia.ma/arryadia-hd-02/hls/master.m3u8\"}]",
+    "logo": "https://yt3.googleusercontent.com/ZvdsfeYl_U-N1ECyfqJPWYYswIc9eHE6sVd2qP5sPq7cq0hm401BE_H6RYlju3V1juC9p_Cl=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "Arryadia HD2",
+    "position": "3",
+    "type": "channel",
+    "key": "arryadia_sport"
+  },
+  {
+    "namear": "Arryadia HD3",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://stream-lb.livemedia.ma/arryadia-hd-03/hls/master.m3u8\"}]",
+    "logo": "https://yt3.googleusercontent.com/ZvdsfeYl_U-N1ECyfqJPWYYswIc9eHE6sVd2qP5sPq7cq0hm401BE_H6RYlju3V1juC9p_Cl=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "Arryadia HD3",
+    "position": "4",
+    "type": "channel",
+    "key": "arryadia_sport"
+  },
+  {
+    "namear": "Almghribia",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://stream-lb.livemediama.com/almaghribia/hls/master.m3u8\"}]",
+    "logo": "",
+    "nameen": "Almghribia",
+    "position": "5",
+    "type": "channel",
+    "key": "arryadia_sport"
+  }
+]

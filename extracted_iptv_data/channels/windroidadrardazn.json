@@ -1,0 +1,65 @@
+[
+  {
+    "namear": "DAZN 1",
+    "servers": "[{\"headers\":\"LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5user-Agent|LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5user-Agent|LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5user-Agent|LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5\",\"otherHeaders\":\"\",\"name\":\"DAZN 1\",\"Referer\":\"\",\"userAgent\":\"LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5user-Agent|LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5\",\"position\":\"0\",\"url\":\"http://live.budtvlight.com:25461/live/bud-185308/acbd5173b7/11775.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18719158_ico.png",
+    "nameen": "DAZN 1",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrardazn"
+  },
+  {
+    "namear": "DAZN 2",
+    "servers": "[{\"headers\":\"LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5user-Agent|LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5user-Agent|LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5user-Agent|LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5\",\"otherHeaders\":\"\",\"name\":\"DAZN 2\",\"Referer\":\"\",\"userAgent\":\"LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5user-Agent|LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5\",\"position\":\"0\",\"url\":\"http://live.budtvlight.com:25461/live/bud-185308/acbd5173b7/11776.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18719167_ico.png",
+    "nameen": "DAZN 2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrardazn"
+  },
+  {
+    "namear": "Dazn 1 ES",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Dazn 1 ES\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1147\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21864320_ico.png",
+    "nameen": "Dazn 1 ES",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrardazn"
+  },
+  {
+    "namear": "Dazn 2 ES",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Dazn 2 ES\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1148\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21864322_ico.png",
+    "nameen": "Dazn 2 ES",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrardazn"
+  },
+  {
+    "namear": "Dazn 3 ES",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Dazn 3 ES\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1183\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21864330_ico.png",
+    "nameen": "Dazn 3 ES",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrardazn"
+  },
+  {
+    "namear": "Dazn 4 ES",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Dazn 4 ES\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1182\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21864343_ico.png",
+    "nameen": "Dazn 4 ES",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrardazn"
+  },
+  {
+    "namear": "Dazn F1",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Dazn F1\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1181\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21864357_ico.png",
+    "nameen": "Dazn F1",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrardazn"
+  }
+]

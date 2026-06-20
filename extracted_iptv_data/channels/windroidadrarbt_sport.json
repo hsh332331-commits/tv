@@ -1,0 +1,92 @@
+[
+  {
+    "namear": "BT Sport 1",
+    "servers": "[{\"headers\":\"LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5user-Agent|LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5user-Agent|LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5user-Agent|LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5\",\"otherHeaders\":\"\",\"name\":\"BT Sport 1\",\"Referer\":\"\",\"userAgent\":\"LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5user-Agent|LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5\",\"position\":\"0\",\"url\":\"https://sky.hlsjs.ru/sky/premium98/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2946604_ico.png",
+    "nameen": "BT Sport 1",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarbt_sport"
+  },
+  {
+    "namear": "BT Sport 2",
+    "servers": "[{\"headers\":\"LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5user-Agent|LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5user-Agent|LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5user-Agent|LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5\",\"otherHeaders\":\"\",\"name\":\"BT Sport 2\",\"Referer\":\"\",\"userAgent\":\"LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5user-Agent|LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5\",\"position\":\"0\",\"url\":\"https://sky.hlsjs.ru/sky/premium99/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2977411_ico.png",
+    "nameen": "BT Sport 2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarbt_sport"
+  },
+  {
+    "namear": "BT Sport 3",
+    "servers": "[{\"headers\":\"LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5user-Agent|LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5user-Agent|LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5user-Agent|LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5\",\"otherHeaders\":\"\",\"name\":\"BT Sport 3\",\"Referer\":\"\",\"userAgent\":\"LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5user-Agent|LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5\",\"position\":\"0\",\"url\":\"https://sky.hlsjs.ru/sky/premium33/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2977419_ico.png",
+    "nameen": "BT Sport 3",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarbt_sport"
+  },
+  {
+    "namear": "BT Sport ESPN",
+    "servers": "[{\"headers\":\"REDLINECLIENTdfdfdfdfdquser-Agent|REDLINECLIENTdfdfdfdfdquser-Agent|REDLINECLIENTdfdfdfdfdquser-Agent|REDLINECLIENTdfdfdfdfdq\",\"otherHeaders\":\"\",\"name\":\"BT Sport ESPN\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTdfdfdfdfdquser-Agent|REDLINECLIENTdfdfdfdfdq\",\"position\":\"0\",\"url\":\"http://javaprotcol.com:2082/mac_8074173/vXFFqxF6ugFm5fTJkuX4/32196\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/5608103_ico.png",
+    "nameen": "BT Sport ESPN",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarbt_sport"
+  },
+  {
+    "namear": "BT SPORT 1+",
+    "servers": "[{\"headers\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premiumuser-Agent|https://forcedtoplay.xyz/server_lookup.php?channel_id=premiumuser-Agent|https://forcedtoplay.xyz/server_lookup.php?channel_id=premiumuser-Agent|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"otherHeaders\":\"\",\"name\":\"BT SPORT 1+\",\"Referer\":\"\",\"userAgent\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premiumuser-Agent|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"position\":\"0\",\"url\":\"https://sky.hlsjs.ru/sky/premium31/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7693964_ico.png",
+    "nameen": "BT SPORT 1+",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarbt_sport"
+  },
+  {
+    "namear": "BT SPORT 2+",
+    "servers": "[{\"headers\":\"mediaPlayerhttp/1.1 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10) ExoPlayerLib/2.10.0user-Agent|mediaPlayerhttp/1.1 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10) ExoPlayerLib/2.10.0user-Agent|mediaPlayerhttp/1.1 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10) ExoPlayerLib/2.10.0user-Agent|mediaPlayerhttp/1.1 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10) ExoPlayerLib/2.10.0\",\"otherHeaders\":\"\",\"name\":\"BT SPORT 2+\",\"Referer\":\"\",\"userAgent\":\"mediaPlayerhttp/1.1 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10) ExoPlayerLib/2.10.0user-Agent|mediaPlayerhttp/1.1 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 10) ExoPlayerLib/2.10.0\",\"position\":\"0\",\"url\":\"http://212.8.253.117/BTSport2HD/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7693978_ico.png",
+    "nameen": "BT SPORT 2+",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarbt_sport"
+  },
+  {
+    "namear": "BT Sport 1*",
+    "servers": "[{\"headers\":\"CHANNEL4_34user-Agent|CHANNEL4_34user-Agent|CHANNEL4_34user-Agent|CHANNEL4_34\",\"otherHeaders\":\"\",\"name\":\"BT Sport 1*\",\"Referer\":\"\",\"userAgent\":\"CHANNEL4_34user-Agent|CHANNEL4_34\",\"position\":\"0\",\"url\":\"http://pizztv.xyz:8000/BEINTSPORTS/T4z9GmQJEqw6/44\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/17491627_ico.png",
+    "nameen": "BT Sport 1*",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarbt_sport"
+  },
+  {
+    "namear": "BT Sport 2*",
+    "servers": "[{\"headers\":\"CHANNEL4_34user-Agent|CHANNEL4_34user-Agent|CHANNEL4_34user-Agent|CHANNEL4_34\",\"otherHeaders\":\"\",\"name\":\"BT Sport 2*\",\"Referer\":\"\",\"userAgent\":\"CHANNEL4_34user-Agent|CHANNEL4_34\",\"position\":\"0\",\"url\":\"http://pizztv.xyz:8000/BEINTSPORTS/T4z9GmQJEqw6/45\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/17491639_ico.png",
+    "nameen": "BT Sport 2*",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarbt_sport"
+  },
+  {
+    "namear": "BT Sport 3*",
+    "servers": "[{\"headers\":\"CHANNEL4_34user-Agent|CHANNEL4_34user-Agent|CHANNEL4_34user-Agent|CHANNEL4_34\",\"otherHeaders\":\"\",\"name\":\"BT Sport 3*\",\"Referer\":\"\",\"userAgent\":\"CHANNEL4_34user-Agent|CHANNEL4_34\",\"position\":\"0\",\"url\":\"http://pizztv.xyz:8000/BEINTSPORTS/T4z9GmQJEqw6/266\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/17491648_ico.png",
+    "nameen": "BT Sport 3*",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarbt_sport"
+  },
+  {
+    "namear": "BT ESPN SD",
+    "servers": "[{\"headers\":\"dVZcVkpkZAuser-Agent|dVZcVkpkZAuser-Agent|dVZcVkpkZAuser-Agent|dVZcVkpkZA\",\"otherHeaders\":\"\",\"name\":\"BT ESPN SD\",\"Referer\":\"\",\"userAgent\":\"dVZcVkpkZAuser-Agent|dVZcVkpkZA\",\"position\":\"0\",\"url\":\"http://195.154.179.234:1234/stream/btsport4/master.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/17491660_ico.png",
+    "nameen": "BT ESPN SD",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadrarbt_sport"
+  }
+]

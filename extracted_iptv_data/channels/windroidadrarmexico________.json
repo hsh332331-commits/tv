@@ -1,0 +1,290 @@
+[
+  {
+    "namear": "ADN 40",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ADN 40\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12351474_ico.png",
+    "nameen": "ADN 40",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarmexico_المكسيك"
+  },
+  {
+    "namear": "RTQ Queretaro",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"RTQ Queretaro\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12351763_ico.png",
+    "nameen": "RTQ Queretaro",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarmexico_المكسيك"
+  },
+  {
+    "namear": "Canal Mundo+",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Canal Mundo+\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://vcp1.myplaytv.com:1935/mundomas/mundomas/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/453431_ico.png",
+    "nameen": "Canal Mundo+",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarmexico_المكسيك"
+  },
+  {
+    "namear": "Monte Maria",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Monte Maria\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://rbaca.livestreamingcdn.com/envivo3/smil:live.smil/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/454556_ico.png",
+    "nameen": "Monte Maria",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarmexico_المكسيك"
+  },
+  {
+    "namear": "Fox Sports 1 MX",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Fox Sports 1 MX\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/799.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/600713_ico.png",
+    "nameen": "Fox Sports 1 MX",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarmexico_المكسيك"
+  },
+  {
+    "namear": "Fox Sports 2 MX",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Fox Sports 2 MX\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/800.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/600744_ico.png",
+    "nameen": "Fox Sports 2 MX",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarmexico_المكسيك"
+  },
+  {
+    "namear": "Fox Sports 3 MX",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Fox Sports 3 MX\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/801.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/600802_ico.png",
+    "nameen": "Fox Sports 3 MX",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarmexico_المكسيك"
+  },
+  {
+    "namear": "ESPN 1 MX",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"ESPN 1 MX\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/780.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/600972_ico.png",
+    "nameen": "ESPN 1 MX",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarmexico_المكسيك"
+  },
+  {
+    "namear": "ESPN 2 MX",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"ESPN 2 MX\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/796.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/600983_ico.png",
+    "nameen": "ESPN 2 MX",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarmexico_المكسيك"
+  },
+  {
+    "namear": "ESPN 3 MX",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"ESPN 3 MX\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/797.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/601374_ico.png",
+    "nameen": "ESPN 3 MX",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadrarmexico_المكسيك"
+  },
+  {
+    "namear": "ESPN X Sur",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"ESPN X Sur\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/721.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/600989_ico.png",
+    "nameen": "ESPN X Sur",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidadrarmexico_المكسيك"
+  },
+  {
+    "namear": "Az Clic",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Az Clic\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/538.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/604802_ico.png",
+    "nameen": "Az Clic",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidadrarmexico_المكسيك"
+  },
+  {
+    "namear": "Az Cinema",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Az Cinema\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/539.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/604818_ico.png",
+    "nameen": "Az Cinema",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidadrarmexico_المكسيك"
+  },
+  {
+    "namear": "A3 Series",
+    "servers": "[{\"headers\":\"elplayeruser-Agent|elplayeruser-Agent|elplayeruser-Agent|elplayer\",\"otherHeaders\":\"\",\"name\":\"A3 Series\",\"Referer\":\"\",\"userAgent\":\"elplayeruser-Agent|elplayer\",\"position\":\"0\",\"url\":\"https://xxxmain.cinedecalidad.xyz:443/elplayer/QWXcqM4gJQ/141\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/604825_ico.png",
+    "nameen": "A3 Series",
+    "position": "13",
+    "type": "channel",
+    "key": "windroidadrarmexico_المكسيك"
+  },
+  {
+    "namear": "Golden TV",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Golden TV\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/1020.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7056125_ico.png",
+    "nameen": "Golden TV",
+    "position": "14",
+    "type": "channel",
+    "key": "windroidadrarmexico_المكسيك"
+  },
+  {
+    "namear": "Golden Edge",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Golden Edge\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/1019.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7057274_ico.png",
+    "nameen": "Golden Edge",
+    "position": "15",
+    "type": "channel",
+    "key": "windroidadrarmexico_المكسيك"
+  },
+  {
+    "namear": "Azteca 7",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Azteca 7\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/534.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7056536_ico.png",
+    "nameen": "Azteca 7",
+    "position": "16",
+    "type": "channel",
+    "key": "windroidadrarmexico_المكسيك"
+  },
+  {
+    "namear": "Azteca Uno",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Azteca Uno\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/537.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7056569_ico.png",
+    "nameen": "Azteca Uno",
+    "position": "17",
+    "type": "channel",
+    "key": "windroidadrarmexico_المكسيك"
+  },
+  {
+    "namear": "Canal 5",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Canal 5\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/30.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7056629_ico.png",
+    "nameen": "Canal 5",
+    "position": "18",
+    "type": "channel",
+    "key": "windroidadrarmexico_المكسيك"
+  },
+  {
+    "namear": "Nueve MX",
+    "servers": "[{\"headers\":\"elplayeruser-Agent|elplayeruser-Agent|elplayeruser-Agent|elplayer\",\"otherHeaders\":\"\",\"name\":\"Nueve MX\",\"Referer\":\"\",\"userAgent\":\"elplayeruser-Agent|elplayer\",\"position\":\"0\",\"url\":\"https://xxxmain.cinedecalidad.xyz:443/elplayer/QWXcqM4gJQ/146\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7056645_ico.png",
+    "nameen": "Nueve MX",
+    "position": "19",
+    "type": "channel",
+    "key": "windroidadrarmexico_المكسيك"
+  },
+  {
+    "namear": "Foro TV",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Foro TV\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/541.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7056715_ico.png",
+    "nameen": "Foro TV",
+    "position": "20",
+    "type": "channel",
+    "key": "windroidadrarmexico_المكسيك"
+  },
+  {
+    "namear": "Europa Europa",
+    "servers": "[{\"headers\":\"elplayeruser-Agent|elplayeruser-Agent|elplayeruser-Agent|elplayer\",\"otherHeaders\":\"\",\"name\":\"Europa Europa\",\"Referer\":\"\",\"userAgent\":\"elplayeruser-Agent|elplayer\",\"position\":\"0\",\"url\":\"https://xxxmain.cinedecalidad.xyz:443/elplayer/QWXcqM4gJQ/148\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7056751_ico.png",
+    "nameen": "Europa Europa",
+    "position": "21",
+    "type": "channel",
+    "key": "windroidadrarmexico_المكسيك"
+  },
+  {
+    "namear": "Distrito Comedia",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Distrito Comedia\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/540.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7056792_ico.png",
+    "nameen": "Distrito Comedia",
+    "position": "22",
+    "type": "channel",
+    "key": "windroidadrarmexico_المكسيك"
+  },
+  {
+    "namear": "Garage TV",
+    "servers": "[{\"headers\":\"elplayeruser-Agent|elplayeruser-Agent|elplayeruser-Agent|elplayer\",\"otherHeaders\":\"\",\"name\":\"Garage TV\",\"Referer\":\"\",\"userAgent\":\"elplayeruser-Agent|elplayer\",\"position\":\"0\",\"url\":\"https://xxxmain.cinedecalidad.xyz:443/elplayer/QWXcqM4gJQ/152\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7057014_ico.png",
+    "nameen": "Garage TV",
+    "position": "23",
+    "type": "channel",
+    "key": "windroidadrarmexico_المكسيك"
+  },
+  {
+    "namear": "la Unión",
+    "servers": "[{\"headers\":\"elplayeruser-Agent|elplayeruser-Agent|elplayeruser-Agent|elplayer\",\"otherHeaders\":\"\",\"name\":\"la Unión\",\"Referer\":\"\",\"userAgent\":\"elplayeruser-Agent|elplayer\",\"position\":\"0\",\"url\":\"https://xxxmain.cinedecalidad.xyz:443/elplayer/QWXcqM4gJQ/153\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7057032_ico.png",
+    "nameen": "la Unión",
+    "position": "24",
+    "type": "channel",
+    "key": "windroidadrarmexico_المكسيك"
+  },
+  {
+    "namear": "Imagen TV",
+    "servers": "[{\"headers\":\"elplayeruser-Agent|elplayeruser-Agent|elplayeruser-Agent|elplayer\",\"otherHeaders\":\"\",\"name\":\"Imagen TV\",\"Referer\":\"\",\"userAgent\":\"elplayeruser-Agent|elplayer\",\"position\":\"0\",\"url\":\"https://xxxmain.cinedecalidad.xyz:443/elplayer/QWXcqM4gJQ/154\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7057066_ico.png",
+    "nameen": "Imagen TV",
+    "position": "25",
+    "type": "channel",
+    "key": "windroidadrarmexico_المكسيك"
+  },
+  {
+    "namear": "Tl Novelas",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Tl Novelas\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/533.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7057101_ico.png",
+    "nameen": "Tl Novelas",
+    "position": "26",
+    "type": "channel",
+    "key": "windroidadrarmexico_المكسيك"
+  },
+  {
+    "namear": "Cinemax ES",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Cinemax ES\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/55.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7057126_ico.png",
+    "nameen": "Cinemax ES",
+    "position": "27",
+    "type": "channel",
+    "key": "windroidadrarmexico_المكسيك"
+  },
+  {
+    "namear": "Bandamax",
+    "servers": "[{\"headers\":\"elplayeruser-Agent|elplayeruser-Agent|elplayeruser-Agent|elplayer\",\"otherHeaders\":\"\",\"name\":\"Bandamax\",\"Referer\":\"\",\"userAgent\":\"elplayeruser-Agent|elplayer\",\"position\":\"0\",\"url\":\"https://xxxmain.cinedecalidad.xyz:443/elplayer/QWXcqM4gJQ/173\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7057143_ico.png",
+    "nameen": "Bandamax",
+    "position": "28",
+    "type": "channel",
+    "key": "windroidadrarmexico_المكسيك"
+  },
+  {
+    "namear": "Food Network",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Food Network\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/700.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7057187_ico.png",
+    "nameen": "Food Network",
+    "position": "29",
+    "type": "channel",
+    "key": "windroidadrarmexico_المكسيك"
+  },
+  {
+    "namear": "A más +",
+    "servers": "[{\"headers\":\"elplayeruser-Agent|elplayeruser-Agent|elplayeruser-Agent|elplayer\",\"otherHeaders\":\"\",\"name\":\"A más +\",\"Referer\":\"\",\"userAgent\":\"elplayeruser-Agent|elplayer\",\"position\":\"0\",\"url\":\"https://xxxmain.cinedecalidad.xyz:443/elplayer/QWXcqM4gJQ/170\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7057197_ico.png",
+    "nameen": "A más +",
+    "position": "30",
+    "type": "channel",
+    "key": "windroidadrarmexico_المكسيك"
+  },
+  {
+    "namear": "Telehit+",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Telehit+\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/542.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7057226_ico.png",
+    "nameen": "Telehit+",
+    "position": "31",
+    "type": "channel",
+    "key": "windroidadrarmexico_المكسيك"
+  }
+]

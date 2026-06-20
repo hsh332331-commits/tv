@@ -1,0 +1,65 @@
+[
+  {
+    "namear": "Bein 1",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.27.230.251:8000/play/bein1/index.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOehIsd11vYaI81tX664HY7Lm6-_v69unRzmdQzLfX4zvSZtqVihqOB255&s=10",
+    "nameen": "Bein 1",
+    "position": "0",
+    "type": "channel",
+    "key": "bein_sports_turky"
+  },
+  {
+    "namear": "Bein 2",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.27.230.251:8000/play/bein2/index.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOehIsd11vYaI81tX664HY7Lm6-_v69unRzmdQzLfX4zvSZtqVihqOB255&s=10",
+    "nameen": "Bein 2",
+    "position": "1",
+    "type": "channel",
+    "key": "bein_sports_turky"
+  },
+  {
+    "namear": "Bein 3",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.27.230.251:8000/play/bein3/index.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOehIsd11vYaI81tX664HY7Lm6-_v69unRzmdQzLfX4zvSZtqVihqOB255&s=10",
+    "nameen": "Bein 3",
+    "position": "2",
+    "type": "channel",
+    "key": "bein_sports_turky"
+  },
+  {
+    "namear": "Bein 4",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.27.230.251:8000/play/bein4/index.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOehIsd11vYaI81tX664HY7Lm6-_v69unRzmdQzLfX4zvSZtqVihqOB255&s=10",
+    "nameen": "Bein 4",
+    "position": "3",
+    "type": "channel",
+    "key": "bein_sports_turky"
+  },
+  {
+    "namear": "Bein 5",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.27.230.251:8000/play/bein5/index.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOehIsd11vYaI81tX664HY7Lm6-_v69unRzmdQzLfX4zvSZtqVihqOB255&s=10",
+    "nameen": "Bein 5",
+    "position": "4",
+    "type": "channel",
+    "key": "bein_sports_turky"
+  },
+  {
+    "namear": "Max 1",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.27.230.251:8000/play/max1/index.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOehIsd11vYaI81tX664HY7Lm6-_v69unRzmdQzLfX4zvSZtqVihqOB255&s=10",
+    "nameen": "Max 1",
+    "position": "5",
+    "type": "channel",
+    "key": "bein_sports_turky"
+  },
+  {
+    "namear": "Max 2",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://37.27.230.251:8000/play/max2/index.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOehIsd11vYaI81tX664HY7Lm6-_v69unRzmdQzLfX4zvSZtqVihqOB255&s=10",
+    "nameen": "Max 2",
+    "position": "6",
+    "type": "channel",
+    "key": "bein_sports_turky"
+  }
+]

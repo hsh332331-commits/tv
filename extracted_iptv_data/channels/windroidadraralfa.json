@@ -1,0 +1,56 @@
+[
+  {
+    "namear": "Alfa Alyoum",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Alfa Alyoum\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/80.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12161276_ico.png",
+    "nameen": "Alfa Alyoum",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadraralfa"
+  },
+  {
+    "namear": "Alfa Cinema 1",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Alfa Cinema 1\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/81.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12161486_ico.png",
+    "nameen": "Alfa Cinema 1",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadraralfa"
+  },
+  {
+    "namear": "Alfa Cinema 2",
+    "servers": "[{\"headers\":\"dmaxuser-Agent|dmaxuser-Agent|dmaxuser-Agent|dmax\",\"otherHeaders\":\"\",\"name\":\"Alfa Cinema 2\",\"Referer\":\"\",\"userAgent\":\"dmaxuser-Agent|dmax\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/219\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12161497_ico.png",
+    "nameen": "Alfa Cinema 2",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadraralfa"
+  },
+  {
+    "namear": "Alfa Mosalsalat",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"Alfa Mosalsalat\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/166\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12161512_ico.png",
+    "nameen": "Alfa Mosalsalat",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadraralfa"
+  },
+  {
+    "namear": "Alfa Safwa",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Alfa Safwa\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/82.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12161525_ico.png",
+    "nameen": "Alfa Safwa",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadraralfa"
+  },
+  {
+    "namear": "Alfa Fann",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"Alfa Fann\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/167\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12161505_ico.png",
+    "nameen": "Alfa Fann",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadraralfa"
+  }
+]

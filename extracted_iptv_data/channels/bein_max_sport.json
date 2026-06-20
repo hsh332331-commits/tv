@@ -1,0 +1,74 @@
+[
+  {
+    "namear": "Max1",
+    "servers": "[{\"headers\":\"Referer|http://23370wa.xyz/|user-agent|Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"MAX\",\"Referer\":\"http://23370wa.xyz/\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15\",\"position\":\"0\",\"url\":\"http://185.160.192.14/live/171348492752/5S6HGsea3j/255224.m3u8\"},{\"headers\":\"user-agent|stagefright/1.2 (Linux;Android 9)|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"Aya2\",\"Referer\":\"\",\"userAgent\":\"stagefright/1.2 (Linux;Android 9)\",\"position\":\"0\",\"url\":\"http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1063488.m3u8\"},{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"NM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.160.192.14/live/171348492752/5S6HGsea3j/255236.m3u8\"},{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"Aya5\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cp11.adabmedia.com/hls1/sport.m3u8\"},{\"headers\":\"user-agent|Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"MAX1\",\"Referer\":\"\",\"userAgent\":\"Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)\",\"position\":\"1\",\"url\":\"http://185.160.192.14/live/171348492752/5S6HGsea3j/255224.m3u8\"}]",
+    "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+    "nameen": "Max1",
+    "position": "0",
+    "type": "channel",
+    "key": "bein_max_sport"
+  },
+  {
+    "namear": "Max2",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"MAX\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1\",\"position\":\"0\",\"url\":\"http://185.160.192.14/live/206923845871/mI45UxamwN/255225.m3u8\"},{\"headers\":\"user-agent|Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"HD1\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15\",\"position\":\"1\",\"url\":\"https://cp11.adabmedia.com/hls2/sport.m3u8\"},{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"MAX2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"http://185.160.192.14/live/206923845871/mI45UxamwN/255243.m3u8\"},{\"headers\":\"user-agent|stagefright/1.2 (Linux;Android 9)|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"Aya2\",\"Referer\":\"\",\"userAgent\":\"stagefright/1.2 (Linux;Android 9)\",\"position\":\"3\",\"url\":\"http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1063489.m3u8\"}]",
+    "logo": "https://static.wikia.nocookie.net/logo-chaines/images/9/9b/Logo-bein-sport-max.jpg/revision/latest?cb=20190816135427&path-prefix=fr",
+    "nameen": "Max2",
+    "position": "1",
+    "type": "channel",
+    "key": "bein_max_sport"
+  },
+  {
+    "namear": "Max 1",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"Bein Sports Max 1\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://het4444.ycn-redirect.com/live/610303030/index.m3u8?t\\u003dXgTsAjb1QkrYQQnjbPWlsw\\u0026e\\u003d1781176238|User-Agent\\u003dMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\"}]",
+    "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",
+    "nameen": "Max 1",
+    "position": "1",
+    "type": "channel",
+    "key": "bein_max_sport"
+  },
+  {
+    "namear": "MAX2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BEIN SPORTS MAX\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://github.com/ON2026/1smas/raw/refs/heads/main/mx2app2.m3u8\"}]",
+    "logo": "https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png",
+    "nameen": "MAX2",
+    "position": "1",
+    "type": "channel",
+    "key": "bein_max_sport"
+  },
+  {
+    "namear": "MAX1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BEIN SPORTS MAX1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://github.com/ON2026/1smas/raw/refs/heads/main/mx1app2.m3u8\"}]",
+    "logo": "https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png",
+    "nameen": "MAX1",
+    "position": "1",
+    "type": "channel",
+    "key": "bein_max_sport"
+  },
+  {
+    "namear": "Bein Sports Max 2",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"Bein Sports Max 2\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://het4444.ycn-redirect.com/live/1515000000/index.m3u8?t\\u003dGL6h-5KFWoH5-xlxp4aZqw\\u0026e\\u003d1781180635|User-Agent\\u003dMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\"}]",
+    "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",
+    "nameen": "Max 2",
+    "position": "2",
+    "type": "channel",
+    "key": "bein_max_sport"
+  },
+  {
+    "namear": "Max 3",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"Bein Sports Max 3\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://het107a.ycn-redirect.com/live/33523510/index.m3u8?t\\u003dD3ELE-i9GsmOuKSnXG0bOQ\\u0026e\\u003d1781182200|User-Agent\\u003dMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\"}]",
+    "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",
+    "nameen": "Max 3",
+    "position": "3",
+    "type": "channel",
+    "key": "bein_max_sport"
+  },
+  {
+    "namear": "Kurd TV",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"Next\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://next.badinan.xyz/nexttv/FHD/playlist.m3u8\"},{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"IRB\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-aburayhan1107.telewebion.ir/ek/faratar/live/108050p/index.m3u8\"},{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"Zaxo\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"3\",\"url\":\"https://cdn.karwan.tv/biner-zaxo/index.m3u8\"}]",
+    "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",
+    "nameen": "Kurd TV",
+    "position": "222",
+    "type": "channel",
+    "key": "bein_max_sport"
+  }
+]

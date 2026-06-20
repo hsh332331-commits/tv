@@ -1,0 +1,21 @@
+Loaded 1 categories with entries
+Category-to-channel mappings: 19
+  arabic_tv                       22 entries (20 m3u, 2 ch, 0 other)
+    en='NILESAT 1' type=m3u key=nilesat_1
+    en='MOROOCO' type=m3u key=morooco
+    en='MOROCCO 2' type= key=aya_cx_tvالقنوات_المغربية
+
+=== Summary ===
+Categories: 2
+Total entries with streams: 14848
+HLS streams: 8726
+DASH streams: 499
+DRM streams: 376
+M3U lines: 48999
+
+Saved: E:\aya_tv_final_package\extracted_iptv_data\aya_tv_organized.m3u
+Mapping saved: E:\aya_tv_final_package\extracted_iptv_data\channel_category_map.json
+
+=== Category Breakdown ===
+  Uncategorized: 14284 channels
+  arabic_tv: 564 channels

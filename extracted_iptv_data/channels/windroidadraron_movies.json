@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "ON Movie",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"ON Movie\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/370\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/5818534_ico.png",
+    "nameen": "ON Movie",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadraron_movies"
+  },
+  {
+    "namear": "ON Cinema",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"ON Cinema\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/366\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/5818544_ico.png",
+    "nameen": "ON Cinema",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadraron_movies"
+  },
+  {
+    "namear": "ON Turkey",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"ON Turkey\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/119.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/5816363_ico.png",
+    "nameen": "ON Turkey",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadraron_movies"
+  },
+  {
+    "namear": "ON Arabic",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"ON Arabic\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/365\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/5816405_ico.png",
+    "nameen": "ON Arabic",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadraron_movies"
+  },
+  {
+    "namear": "ON Asia",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"ON Asia\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/121.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/5816381_ico.png",
+    "nameen": "ON Asia",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadraron_movies"
+  }
+]

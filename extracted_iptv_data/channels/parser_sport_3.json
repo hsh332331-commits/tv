@@ -1,0 +1,538 @@
+[
+  {
+    "namear": "beIN Sports Max 1 4K",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460861.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sports Max 1 4K",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Sports Max 2 4K",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460864.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sports Max 2 4K",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Sports Max 3 4K",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460867.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sports Max 3 4K",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Sports Max 4 4K",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460870.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sports Max 4 4K",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Sports Max 5 4K",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460873.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sports Max 5 4K",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Sports Max 6 4K",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460876.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sports Max 6 4K",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Sports Max 1 HD",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460862.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sports Max 1 HD",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Sports Max 2 HD",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460865.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sports Max 2 HD",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Sports Max 3 HD",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460868.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sports Max 3 HD",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Sports Max 4 HD",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460871.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sports Max 4 HD",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Sports Max 5 HD",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460874.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sports Max 5 HD",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Sports Max 6 HD",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460877.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sports Max 6 HD",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Sports Max 1 SD",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460863.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sports Max 1 SD",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Sports Max 2 SD",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460866.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sports Max 2 SD",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Sports Max 3 SD",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460869.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sports Max 3 SD",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Sports Max 4 SD",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460872.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sports Max 4 SD",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Sports Max 5 SD",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460875.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sports Max 5 SD",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Sports Max 6 SD",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460878.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sports Max 6 SD",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "Alwan Sport 1 4K",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/418111.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg",
+    "nameen": "Alwan Sport 1 4K",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "Alwan Sport 1 HD",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/418112.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg",
+    "nameen": "Alwan Sport 1 HD",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "Alwan Sport 1 SD",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/418113.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg",
+    "nameen": "Alwan Sport 1 SD",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "Alwan Sport 2 4K",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/418114.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg",
+    "nameen": "Alwan Sport 2 4K",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "Alwan Sport 2 HD",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/418115.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg",
+    "nameen": "Alwan Sport 2 HD",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "Alwan Sport 2 SD",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/418116.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg",
+    "nameen": "Alwan Sport 2 SD",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "Alwan Sport 3 4K",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/418117.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg",
+    "nameen": "Alwan Sport 3 4K",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "Alwan Sport 3 HD",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/418118.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg",
+    "nameen": "Alwan Sport 3 HD",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "Alwan Sport 3 SD",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/418119.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg",
+    "nameen": "Alwan Sport 3 SD",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "Alwan Sport 4 4K",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/418120.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg",
+    "nameen": "Alwan Sport 4 4K",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "Alwan Sport 4 HD",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/418121.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg",
+    "nameen": "Alwan Sport 4 HD",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "Alwan Sport 4 SD",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/418122.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg",
+    "nameen": "Alwan Sport 4 SD",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "Alwan Sport 5 4K",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/418123.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg",
+    "nameen": "Alwan Sport 5 4K",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "Alwan Sport 5 HD",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/418124.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg",
+    "nameen": "Alwan Sport 5 HD",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "Alwan Sport 5 SD",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/418125.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg",
+    "nameen": "Alwan Sport 5 SD",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "Alwan Sport 6 4K",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/418126.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg",
+    "nameen": "Alwan Sport 6 4K",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "Alwan Sport 6 HD",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/418127.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg",
+    "nameen": "Alwan Sport 6 HD",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "Alwan Sport 6 SD",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/418128.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg",
+    "nameen": "Alwan Sport 6 SD",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "Fajer TV 1",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/463532.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "Fajer TV 1",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "Fajer TV 2",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/463533.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "Fajer TV 2",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "Fajer TV 3",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/463534.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "Fajer TV 3",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "Fajer TV 4",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/463535.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "Fajer TV 4",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "Faher TV 5",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/317793269XTINF:-1 tvg-id=\\\"\\\" tvg-name=\\\"POST 1\\\" tvg-logo=\\\"https://up6.cc/2026/06/178159107274521.png\\\" group-title=\\\"بوست الرياضية\\\",POST 1\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "Faher TV 5",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "POST 2",
+    "servers": "[{\"url\":\"http://palestine.vibertv.cyou/post2/index.m3u8\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "https://up6.cc/2026/06/178159107274521.png",
+    "nameen": "POST 2",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "POST 3",
+    "servers": "[{\"url\":\"http://palestine.vibertv.cyou/post3/index.m3u8\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "https://up6.cc/2026/06/178159107274521.png",
+    "nameen": "POST 3",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "POST 4",
+    "servers": "[{\"url\":\"http://palestine.vibertv.cyou/post4/index.m3u8\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "https://up6.cc/2026/06/178159107274521.png",
+    "nameen": "POST 4",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "POST 5",
+    "servers": "[{\"url\":\"http://palestine.vibertv.cyou/post5/index.m3u8\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "https://up6.cc/2026/06/178159107274521.png",
+    "nameen": "POST 5",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "POST 6",
+    "servers": "[{\"url\":\"http://palestine.vibertv.cyou/post6/index.m3u8\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "https://up6.cc/2026/06/178159107274521.png",
+    "nameen": "POST 6",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Tod 4k",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460835.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Tod 4k",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Sport Tod 1",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460836.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sport Tod 1",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Sport Tod 2",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460837.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sport Tod 2",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Sport Tod 3",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460838.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sport Tod 3",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Sport Tod 4",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460839.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sport Tod 4",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Sport Tod 5",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460840.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sport Tod 5",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Sport Tod 6",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460841.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sport Tod 6",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Sport Tod 7",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460842.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sport Tod 7",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Sport Tod 8",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460843.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sport Tod 8",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Sport Tod 9",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460844.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sport Tod 9",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Sport Tod English 1",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460845.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sport Tod English 1",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Sport Tod English 2",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460846.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sport Tod English 2",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Sport Tod Extra 1",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460847.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sport Tod Extra 1",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Sport Tod Extra 2",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460848.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sport Tod Extra 2",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Sport Tod Extra 3",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460849.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sport Tod Extra 3",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Sport Tod Extra 4",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460850.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sport Tod Extra 4",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Sport Tod Extra 5",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460851.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sport Tod Extra 5",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Sport Tod Extra 6",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460852.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sport Tod Extra 6",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Sport Tod Extra 7",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460853.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sport Tod Extra 7",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Sport Tod Extra 8",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460854.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sport Tod Extra 8",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  },
+  {
+    "namear": "beIN Sport Tod Extra 9",
+    "servers": "[{\"url\":\"http://akar13.xyz/live/4750034742512197/3177932697568638/460855.ts\",\"name\":\"Serveur Principal\",\"position\":\"0\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"direct\",\"player_type\":\"web\"}]",
+    "logo": "",
+    "nameen": "beIN Sport Tod Extra 9",
+    "type": "movie-api",
+    "key": "parser_sport_3"
+  }
+]

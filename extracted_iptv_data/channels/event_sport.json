@@ -1,0 +1,137 @@
+[
+  {
+    "namear": "AYA1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://1nyaler.screenistream.xyz/stream/1/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA1",
+    "position": "1",
+    "type": "channel",
+    "key": "event_sport"
+  },
+  {
+    "namear": "AYA2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://1nyaler.screenistream.xyz/stream/2/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA2",
+    "position": "2",
+    "type": "channel",
+    "key": "event_sport"
+  },
+  {
+    "namear": "AYA3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://1nyaler.screenistream.xyz/stream/3/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA3",
+    "position": "3",
+    "type": "channel",
+    "key": "event_sport"
+  },
+  {
+    "namear": "AYA4",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA4\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://1nyaler.screenistream.xyz/stream/4/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA4",
+    "position": "4",
+    "type": "channel",
+    "key": "event_sport"
+  },
+  {
+    "namear": "AYA5",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA5\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://1nyaler.screenistream.xyz/stream/5/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA5",
+    "position": "5",
+    "type": "channel",
+    "key": "event_sport"
+  },
+  {
+    "namear": "AYA6",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA6\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://1nyaler.screenistream.xyz/stream/6/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA6",
+    "position": "6",
+    "type": "channel",
+    "key": "event_sport"
+  },
+  {
+    "namear": "AYA7",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA7\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://1nyaler.screenistream.xyz/stream/7/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA7",
+    "position": "7",
+    "type": "channel",
+    "key": "event_sport"
+  },
+  {
+    "namear": "AYA8",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA8\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://1nyaler.screenistream.xyz/stream/8/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA8",
+    "position": "8",
+    "type": "channel",
+    "key": "event_sport"
+  },
+  {
+    "namear": "AYA9",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA9\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://1nyaler.screenistream.xyz/stream/9/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA9",
+    "position": "9",
+    "type": "channel",
+    "key": "event_sport"
+  },
+  {
+    "namear": "AYA10",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA10\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://1nyaler.screenistream.xyz/stream/10/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA10",
+    "position": "10",
+    "type": "channel",
+    "key": "event_sport"
+  },
+  {
+    "namear": "AYA11",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA11\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://1nyaler.screenistream.xyz/stream/11/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA11",
+    "position": "11",
+    "type": "channel",
+    "key": "event_sport"
+  },
+  {
+    "namear": "AYA12",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA12\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://1nyaler.screenistream.xyz/stream/12/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA12",
+    "position": "12",
+    "type": "channel",
+    "key": "event_sport"
+  },
+  {
+    "namear": "AYA13",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA13\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://1nyaler.screenistream.xyz/stream/13/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA13",
+    "position": "13",
+    "type": "channel",
+    "key": "event_sport"
+  },
+  {
+    "namear": "AYA14",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA14\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://1nyaler.screenistream.xyz/stream/14/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA14",
+    "position": "14",
+    "type": "channel",
+    "key": "event_sport"
+  },
+  {
+    "namear": "AYA15",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA15\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://1nyaler.screenistream.xyz/stream/15/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA15",
+    "position": "15",
+    "type": "channel",
+    "key": "event_sport"
+  }
+]

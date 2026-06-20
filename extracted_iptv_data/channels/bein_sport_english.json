@@ -1,0 +1,29 @@
+[
+  {
+    "namear": "Bein1 En",
+    "servers": "[{\"headers\":\"\",\"license\":\"335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4D6h0S-wcI1ZnkIHOVEWNnG8uFPK1jnc21spsXBKtLQ&s=10",
+    "nameen": "Bein1 En",
+    "position": "0",
+    "type": "channel",
+    "key": "bein_sport_english"
+  },
+  {
+    "namear": "Bein2 En",
+    "servers": "[{\"headers\":\"Referer|https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|\",\"license\":\"0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF_7I0pRKTzSFBJ-J86YuRufQXEqoyrFRraVTRLJ1snA&s=10",
+    "nameen": "Bein2 En",
+    "position": "1",
+    "type": "channel",
+    "key": "bein_sport_english"
+  },
+  {
+    "namear": "Bein3 En",
+    "servers": "[{\"headers\":\"\",\"license\":\"7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBFEGJGXRZarw_9qPudc23DCzkHHuZlcgClgDd5kIkRA&s=10",
+    "nameen": "Bein3 En",
+    "position": "2",
+    "type": "channel",
+    "key": "bein_sport_english"
+  }
+]

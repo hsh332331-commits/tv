@@ -1,0 +1,182 @@
+[
+  {
+    "namear": "beIN Sports 1 HD",
+    "servers": "[{\"headers\":\"user-agent|qaaa|referer|vvv|\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 1 HD\",\"Referer\":\"vvv\",\"userAgent\":\"qaaa\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/518.ts\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
+    "nameen": "beIN Sports 1 HD",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidalok2bein_sports_hd"
+  },
+  {
+    "namear": "beIN Sports 2 HD",
+    "servers": "[{\"headers\":\"user-agent|qaaa|referer|vvv|\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 2 HD\",\"Referer\":\"vvv\",\"userAgent\":\"qaaa\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/519.ts\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",
+    "nameen": "beIN Sports 2 HD",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidalok2bein_sports_hd"
+  },
+  {
+    "namear": "beIN Sports 3 HD",
+    "servers": "[{\"headers\":\"user-agent|qaaa|referer|vvv|\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 3 HD\",\"Referer\":\"vvv\",\"userAgent\":\"qaaa\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/520.ts\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
+    "nameen": "beIN Sports 3 HD",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidalok2bein_sports_hd"
+  },
+  {
+    "namear": "beIN Sports 4 HD",
+    "servers": "[{\"headers\":\"user-agent|qaaa|referer|vvv|\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 4 HD\",\"Referer\":\"vvv\",\"userAgent\":\"qaaa\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/521.ts\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",
+    "nameen": "beIN Sports 4 HD",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidalok2bein_sports_hd"
+  },
+  {
+    "namear": "beIN Sports 5 HD",
+    "servers": "[{\"headers\":\"user-agent|qaaa|referer|vvv|\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 5 HD\",\"Referer\":\"vvv\",\"userAgent\":\"qaaa\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/522.ts\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",
+    "nameen": "beIN Sports 5 HD",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidalok2bein_sports_hd"
+  },
+  {
+    "namear": "beIN Sports 6 HD",
+    "servers": "[{\"headers\":\"user-agent|qaaa|referer|vvv|\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 6 HD\",\"Referer\":\"vvv\",\"userAgent\":\"qaaa\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/523.ts\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png",
+    "nameen": "beIN Sports 6 HD",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidalok2bein_sports_hd"
+  },
+  {
+    "namear": "beIN Sports 7 HD",
+    "servers": "[{\"headers\":\"user-agent|qaaa|referer|vvv|\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 7 HD\",\"Referer\":\"vvv\",\"userAgent\":\"qaaa\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/524.ts\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",
+    "nameen": "beIN Sports 7 HD",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidalok2bein_sports_hd"
+  },
+  {
+    "namear": "beIN Sports 8 HD",
+    "servers": "[{\"headers\":\"user-agent|qaaa|referer|vvv|\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 8 HD\",\"Referer\":\"vvv\",\"userAgent\":\"qaaa\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/525.ts\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",
+    "nameen": "beIN Sports 8 HD",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidalok2bein_sports_hd"
+  },
+  {
+    "namear": "beIN Sports 9 HD",
+    "servers": "[{\"headers\":\"user-agent|qaaa|referer|vvv|\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 9 HD\",\"Referer\":\"vvv\",\"userAgent\":\"qaaa\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/526.ts\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",
+    "nameen": "beIN Sports 9 HD",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidalok2bein_sports_hd"
+  },
+  {
+    "namear": "beIN SPORTS XTRA 1 HD",
+    "servers": "[{\"headers\":\"user-agent|qaaa|referer|vvv|\",\"otherHeaders\":\"\",\"name\":\"beIN SPORTS XTRA 1 HD\",\"Referer\":\"vvv\",\"userAgent\":\"qaaa\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/534.ts\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png",
+    "nameen": "beIN SPORTS XTRA 1 HD",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidalok2bein_sports_hd"
+  },
+  {
+    "namear": "beIN SPORTS XTRA 2 HD",
+    "servers": "[{\"headers\":\"user-agent|qaaa|referer|vvv|\",\"otherHeaders\":\"\",\"name\":\"beIN SPORTS XTRA 2 HD\",\"Referer\":\"vvv\",\"userAgent\":\"qaaa\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/535.ts\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png",
+    "nameen": "beIN SPORTS XTRA 2 HD",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidalok2bein_sports_hd"
+  },
+  {
+    "namear": "beIN SPORTS XTRA 3 HD",
+    "servers": "[{\"headers\":\"user-agent|qaaa|referer|vvv|\",\"otherHeaders\":\"\",\"name\":\"beIN SPORTS XTRA 3 HD\",\"Referer\":\"vvv\",\"userAgent\":\"qaaa\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/536.ts\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTSXTRA3.png",
+    "nameen": "beIN SPORTS XTRA 3 HD",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidalok2bein_sports_hd"
+  },
+  {
+    "namear": "BEIN SPORTS NEW",
+    "servers": "[{\"headers\":\"user-agent|qaaa|referer|vvv|\",\"otherHeaders\":\"\",\"name\":\"BEIN SPORTS NEW\",\"Referer\":\"vvv\",\"userAgent\":\"qaaa\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/539.ts\"}]",
+    "logo": "https://i.ibb.co/D9zPQ6k/bein-news.png",
+    "nameen": "BEIN SPORTS NEW",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidalok2bein_sports_hd"
+  },
+  {
+    "namear": "BEIN SPORTS OPEN",
+    "servers": "[{\"headers\":\"user-agent|qaaa|referer|vvv|\",\"otherHeaders\":\"\",\"name\":\"BEIN SPORTS OPEN\",\"Referer\":\"vvv\",\"userAgent\":\"qaaa\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/540.ts\"}]",
+    "logo": "https://i.ibb.co/7bTKf4V/bein.png",
+    "nameen": "BEIN SPORTS OPEN",
+    "position": "13",
+    "type": "channel",
+    "key": "windroidalok2bein_sports_hd"
+  },
+  {
+    "namear": "beIN French 1 ",
+    "servers": "[{\"headers\":\"user-agent|qaaa|referer|vvv|\",\"otherHeaders\":\"\",\"name\":\"beIN French 1 \",\"Referer\":\"vvv\",\"userAgent\":\"qaaa\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/541.ts\"}]",
+    "logo": "https://i.ibb.co/Pg1WRdr/1frhd.png",
+    "nameen": "beIN French 1 ",
+    "position": "14",
+    "type": "channel",
+    "key": "windroidalok2bein_sports_hd"
+  },
+  {
+    "namear": "beIN French 2",
+    "servers": "[{\"headers\":\"user-agent|qaaa|referer|vvv|\",\"otherHeaders\":\"\",\"name\":\"beIN French 2\",\"Referer\":\"vvv\",\"userAgent\":\"qaaa\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/542.ts\"}]",
+    "logo": "https://i.ibb.co/8dXBFjJ/2frhd.png",
+    "nameen": "beIN French 2",
+    "position": "15",
+    "type": "channel",
+    "key": "windroidalok2bein_sports_hd"
+  },
+  {
+    "namear": "beIN AFC",
+    "servers": "[{\"headers\":\"user-agent|qaaa|referer|vvv|\",\"otherHeaders\":\"\",\"name\":\"beIN AFC\",\"Referer\":\"vvv\",\"userAgent\":\"qaaa\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/551.ts\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2022/03/bein.com-05.png",
+    "nameen": "beIN AFC",
+    "position": "16",
+    "type": "channel",
+    "key": "windroidalok2bein_sports_hd"
+  },
+  {
+    "namear": "beIN AFC 1",
+    "servers": "[{\"headers\":\"user-agent|qaaa|referer|vvv|\",\"otherHeaders\":\"\",\"name\":\"beIN AFC 1\",\"Referer\":\"vvv\",\"userAgent\":\"qaaa\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/552.ts\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2022/03/bein.com-06.png",
+    "nameen": "beIN AFC 1",
+    "position": "17",
+    "type": "channel",
+    "key": "windroidalok2bein_sports_hd"
+  },
+  {
+    "namear": "beIN AFC 2",
+    "servers": "[{\"headers\":\"user-agent|qaaa|referer|vvv|\",\"otherHeaders\":\"\",\"name\":\"beIN AFC 2\",\"Referer\":\"vvv\",\"userAgent\":\"qaaa\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/553.ts\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2022/03/bein.com-07.png",
+    "nameen": "beIN AFC 2",
+    "position": "18",
+    "type": "channel",
+    "key": "windroidalok2bein_sports_hd"
+  },
+  {
+    "namear": "beIN AFC 3",
+    "servers": "[{\"headers\":\"user-agent|qaaa|referer|vvv|\",\"otherHeaders\":\"\",\"name\":\"beIN AFC 3\",\"Referer\":\"vvv\",\"userAgent\":\"qaaa\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/554.ts\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2022/03/bein.com-08.png",
+    "nameen": "beIN AFC 3",
+    "position": "19",
+    "type": "channel",
+    "key": "windroidalok2bein_sports_hd"
+  }
+]

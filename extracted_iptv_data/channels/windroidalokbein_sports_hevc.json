@@ -1,0 +1,65 @@
+[
+  {
+    "namear": "Arena sports 1 FHD",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena sports 1 FHD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/11.m3u8\"}]",
+    "logo": "https://i.ibb.co/Dfv3xLH/1k.png",
+    "nameen": "Arena sports 1 FHD",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidalokbein_sports_hevc"
+  },
+  {
+    "namear": "Arena sports 2 FHD",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena sports 2 FHD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/12.m3u8\"}]",
+    "logo": "https://i.ibb.co/rGCGS6Y/2k.png",
+    "nameen": "Arena sports 2 FHD",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidalokbein_sports_hevc"
+  },
+  {
+    "namear": "Arena sports 3 FHD",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena sports 3 FHD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/13.m3u8\"}]",
+    "logo": "https://i.ibb.co/zPWFmCH/3k.png",
+    "nameen": "Arena sports 3 FHD",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidalokbein_sports_hevc"
+  },
+  {
+    "namear": "Arena sports 4 FHD",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena sports 4 FHD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/14.m3u8\"}]",
+    "logo": "https://i.ibb.co/ypQq51X/4k.png",
+    "nameen": "Arena sports 4 FHD",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidalokbein_sports_hevc"
+  },
+  {
+    "namear": "Arena sports 5 FHD",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena sports 5 FHD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/15.m3u8\"}]",
+    "logo": "https://i.ibb.co/s5NmDrv/5k.png",
+    "nameen": "Arena sports 5 FHD",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidalokbein_sports_hevc"
+  },
+  {
+    "namear": "Arena sports 6 FHD",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena sports 6 FHD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/16.m3u8\"}]",
+    "logo": "https://i.ibb.co/mzt0Tf6/6k.png",
+    "nameen": "Arena sports 6 FHD",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidalokbein_sports_hevc"
+  },
+  {
+    "namear": "Arena sports 7 FHD",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena sports 7 FHD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/17.m3u8\"}]",
+    "logo": "https://i.ibb.co/gdZQf2K/7k.png",
+    "nameen": "Arena sports 7 FHD",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidalokbein_sports_hevc"
+  }
+]

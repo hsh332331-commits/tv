@@ -1,0 +1,416 @@
+[
+  {
+    "namear": "BeIN Pr FHD 1",
+    "servers": "[{\"headers\":\"‎CHANNEL4_34user-Agent|‎CHANNEL4_34user-Agent|‎CHANNEL4_34user-Agent|‎CHANNEL4_34\",\"otherHeaders\":\"\",\"name\":\"BeIN Pr FHD 1\",\"Referer\":\"\",\"userAgent\":\"‎CHANNEL4_34user-Agent|‎CHANNEL4_34\",\"position\":\"0\",\"url\":\"http://w.bs-share.com:8000/247179867825237/23141543216575/329310\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9543797_ico.png",
+    "nameen": "BeIN Pr FHD 1",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "BeIN Pr FHD 2",
+    "servers": "[{\"headers\":\"CHANNEL4_34user-Agent|CHANNEL4_34user-Agent|CHANNEL4_34user-Agent|CHANNEL4_34\",\"otherHeaders\":\"\",\"name\":\"BeIN Pr FHD 2\",\"Referer\":\"\",\"userAgent\":\"CHANNEL4_34user-Agent|CHANNEL4_34\",\"position\":\"0\",\"url\":\"http://w.bs-share.com:8000/247179867825237/23141543216575/329311\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9543798_ico.png",
+    "nameen": "BeIN Pr FHD 2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "BeIN Pr FHD 3",
+    "servers": "[{\"headers\":\"dVpUVkZsZAuser-Agent|dVpUVkZsZAuser-Agent|dVpUVkZsZAuser-Agent|dVpUVkZsZA\",\"otherHeaders\":\"\",\"name\":\"BeIN Pr FHD 3\",\"Referer\":\"\",\"userAgent\":\"dVpUVkZsZAuser-Agent|dVpUVkZsZA\",\"position\":\"0\",\"url\":\"http://w.bs-share.com:8000/247179867825237/23141543216575/329312\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9543801_ico.png",
+    "nameen": "BeIN Pr FHD 3",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "BeIN Pre1 SD",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"BeIN Pre1 SD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/19.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9543878_ico.png",
+    "nameen": "BeIN Pre1 SD",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "BeIN Pre2 SD",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"BeIN Pre2 SD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/20.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9543883_ico.png",
+    "nameen": "BeIN Pre2 SD",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "BeIN Pre3 SD",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"BeIN Pre3 SD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/21.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9543895_ico.png",
+    "nameen": "BeIN Pre3 SD",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "Bein Pr1 Fhd",
+    "servers": "[{\"headers\":\"ㅤuser-Agent|ㅤuser-Agent|ㅤuser-Agent|ㅤ\",\"otherHeaders\":\"\",\"name\":\"Bein Pr1 Fhd\",\"Referer\":\"\",\"userAgent\":\"ㅤuser-Agent|ㅤ\",\"position\":\"0\",\"url\":\"https://sky.hlsjs.ru/sky/premium98/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9543712_ico.png",
+    "nameen": "Bein Pr1 Fhd",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "Bein Pr2 Fhd",
+    "servers": "[{\"headers\":\"ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Bein Pr2 Fhd\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"http://pizztv.xyz:8000/RUSH-81404004/VLstCMcXNtBL/9\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9543717_ico.png",
+    "nameen": "Bein Pr2 Fhd",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "Bein Pr3 Fhd",
+    "servers": "[{\"headers\":\"ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Bein Pr3 Fhd\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"http://pizztv.xyz:8000/RUSH-81404004/VLstCMcXNtBL/10\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9543724_ico.png",
+    "nameen": "Bein Pr3 Fhd",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "Bein Pre SD1",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Bein Pre SD1\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/72\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9544010_ico.png",
+    "nameen": "Bein Pre SD1",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "Bein Pre SD2",
+    "servers": "[{\"headers\":\"Hguser-Agent|Hguser-Agent|Hguser-Agent|Hg\",\"otherHeaders\":\"\",\"name\":\"Bein Pre SD2\",\"Referer\":\"\",\"userAgent\":\"Hguser-Agent|Hg\",\"position\":\"0\",\"url\":\"https://yeszet1x1cdn23.goalarab.site/livebp2/bp2/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9544021_ico.png",
+    "nameen": "Bein Pre SD2",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "Bein Pre SD3",
+    "servers": "[{\"headers\":\"Ffuser-Agent|Ffuser-Agent|Ffuser-Agent|Ff\",\"otherHeaders\":\"\",\"name\":\"Bein Pre SD3\",\"Referer\":\"\",\"userAgent\":\"Ffuser-Agent|Ff\",\"position\":\"0\",\"url\":\"https://yeszet1x1cdn23.goalarab.site/livebp3/bp3/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9544033_ico.png",
+    "nameen": "Bein Pre SD3",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "Bein Pre1 HD",
+    "servers": "[{\"headers\":\"CHANNEL4_34Suser-Agent|CHANNEL4_34Suser-Agent|CHANNEL4_34Suser-Agent|CHANNEL4_34S\",\"otherHeaders\":\"\",\"name\":\"Bein Pre1 HD\",\"Referer\":\"\",\"userAgent\":\"CHANNEL4_34Suser-Agent|CHANNEL4_34S\",\"position\":\"0\",\"url\":\"https://cdn7.livehd720.com/hlsbeinp1/ben/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/441357_ico.png",
+    "nameen": "Bein Pre1 HD",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "Bein Pre2 HD",
+    "servers": "[{\"headers\":\"ㅤㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Bein Pre2 HD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://cdn7.livehd720.com/hlsbeinp1/ben/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/441401_ico.png",
+    "nameen": "Bein Pre2 HD",
+    "position": "13",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "Bein Pre3 HD",
+    "servers": "[{\"headers\":\"ㅤㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Bein Pre3 HD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://mo3ad@cdn2.livehd720.com/hlsbeinp3/ben/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/441462_ico.png",
+    "nameen": "Bein Pre3 HD",
+    "position": "14",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "beIN 1 Pre FHD",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"beIN 1 Pre FHD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/1.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4607680_ico.png",
+    "nameen": "beIN 1 Pre FHD",
+    "position": "15",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "beIN 2 Pre FHD",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"beIN 2 Pre FHD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/12.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4607695_ico.png",
+    "nameen": "beIN 2 Pre FHD",
+    "position": "16",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "beIN 3 Pre FHD",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"beIN 3 Pre FHD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/13.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4607703_ico.png",
+    "nameen": "beIN 3 Pre FHD",
+    "position": "17",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "bein Pr HD1",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"bein Pr HD1\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://fd2f5da9.edmonst.net/iptv/3Z4H4E9X3XN79G/6131/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4632445_ico.png",
+    "nameen": "bein Pr HD1",
+    "position": "18",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "bein Pr HD2",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"bein Pr HD2\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1202\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4632462_ico.png",
+    "nameen": "bein Pr HD2",
+    "position": "19",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "bein Pr HD3",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"bein Pr HD3\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1203\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4632470_ico.png",
+    "nameen": "bein Pr HD3",
+    "position": "20",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "beIN Pre 1 LW",
+    "servers": "[{\"headers\":\"ㅤyacineee55000user-Agent|ㅤyacineee55000user-Agent|ㅤyacineee55000user-Agent|ㅤyacineee55000\",\"otherHeaders\":\"\",\"name\":\"beIN Pre 1 LW\",\"Referer\":\"\",\"userAgent\":\"ㅤyacineee55000user-Agent|ㅤyacineee55000\",\"position\":\"0\",\"url\":\"https://lb.buy-global.store/live22/tw.m3u8?s\\u003daHR0cHM6Ly9wcm9kLWVjLWV1LXdlc3QtMy52aWRlby5wc2NwLnR2L1RyYW5zY29kaW5nL3YxL2hscy84d1hhRlU2WHlpeVlXNWRvYTdTRk55NFNnZlU4Z3FRY3p6Mm5QQ1JzWTFRdFZjZDc5MEtqVjVSeWdFZWR0Nm1CM3hIZ3NfYmtNWDFWYVRta1dVM0xKdy90cmFuc2NvZGUvZXUtd2VzdC0zL3BlcmlzY29wZS1yZXBsYXktZGlyZWN0LWxpdmUvZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0lzSW5abGNuTnBiMjRpT2lJeUluMC5leUpGYm1OdlpHVnlVMlYwZEdsdVp5STZJbVZ1WTI5a1pYSmZjMlYwZEdsdVoxOHpNakJ3TXpCZk1UQWlMQ0pJWldsbmFIUWlPak15TUN3aVMySndjeUk2TmpBd0xDSlVjbUZ1YzJOdlpHVkJkV1JwYnlJNmRISjFaU3dpVjJsa2RHZ2lPalUyT0gwLmVzX1hwTnYzSjEyaEZYVTRXckN3bUgyOEdtVG9ZQVBEUGRUX0VqZXJIQ1Uvc3RfZHluYW1pY19oaWdobGF0ZW5jeS5tM3U4P3R5cGU9bGl2ZQ%3D%3D\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4632659_ico.png",
+    "nameen": "beIN Pre 1 LW",
+    "position": "21",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "beIN Pre 2 LW",
+    "servers": "[{\"headers\":\"NSPlayer/9.0.0.3268user-Agent|NSPlayer/9.0.0.3268user-Agent|NSPlayer/9.0.0.3268user-Agent|NSPlayer/9.0.0.3268\",\"otherHeaders\":\"\",\"name\":\"beIN Pre 2 LW\",\"Referer\":\"\",\"userAgent\":\"NSPlayer/9.0.0.3268user-Agent|NSPlayer/9.0.0.3268\",\"position\":\"0\",\"url\":\"http://live2022.business:8080/tigeri330jo0775/61cc929756377/35777\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4632665_ico.png",
+    "nameen": "beIN Pre 2 LW",
+    "position": "22",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "beIN Pre 3 LW",
+    "servers": "[{\"headers\":\"NSPlayer/9.0.0.3268user-Agent|NSPlayer/9.0.0.3268user-Agent|NSPlayer/9.0.0.3268user-Agent|NSPlayer/9.0.0.3268\",\"otherHeaders\":\"\",\"name\":\"beIN Pre 3 LW\",\"Referer\":\"\",\"userAgent\":\"NSPlayer/9.0.0.3268user-Agent|NSPlayer/9.0.0.3268\",\"position\":\"0\",\"url\":\"http://live2022.business:8080/tigeri330jo0775/61cc929756377/35778\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4632673_ico.png",
+    "nameen": "beIN Pre 3 LW",
+    "position": "23",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "beIN Pre 1SD",
+    "servers": "[{\"headers\":\"ㅤyacineee55000user-Agent|ㅤyacineee55000user-Agent|ㅤyacineee55000user-Agent|ㅤyacineee55000\",\"otherHeaders\":\"\",\"name\":\"beIN Pre 1SD\",\"Referer\":\"\",\"userAgent\":\"ㅤyacineee55000user-Agent|ㅤyacineee55000\",\"position\":\"0\",\"url\":\"https://lb.buy-global.store/live22/tw.m3u8?s\\u003daHR0cHM6Ly9wcm9kLWVjLWV1LXdlc3QtMy52aWRlby5wc2NwLnR2L1RyYW5zY29kaW5nL3YxL2hscy84d1hhRlU2WHlpeVlXNWRvYTdTRk55NFNnZlU4Z3FRY3p6Mm5QQ1JzWTFRdFZjZDc5MEtqVjVSeWdFZWR0Nm1CM3hIZ3NfYmtNWDFWYVRta1dVM0xKdy90cmFuc2NvZGUvZXUtd2VzdC0zL3BlcmlzY29wZS1yZXBsYXktZGlyZWN0LWxpdmUvZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0lzSW5abGNuTnBiMjRpT2lJeUluMC5leUpGYm1OdlpHVnlVMlYwZEdsdVp5STZJbVZ1WTI5a1pYSmZjMlYwZEdsdVoxODBPREJ3TXpCZk1UQWlMQ0pJWldsbmFIUWlPalE0TUN3aVMySndjeUk2TVRJd01Dd2lWMmxrZEdnaU9qZzBPSDAuMExKaTF1c1diaVBxcDBRSWNwcTdNZDVnMVd4dkpjUHFWV05xc0t3NW5oQS9zdF9keW5hbWljX2hpZ2hsYXRlbmN5Lm0zdTg%2FdHlwZT1saXZl\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/5253941_ico.png",
+    "nameen": "beIN Pre 1SD",
+    "position": "24",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "beIN Pre 2SD",
+    "servers": "[{\"headers\":\"ㅤyacineee55000user-Agent|ㅤyacineee55000user-Agent|ㅤyacineee55000user-Agent|ㅤyacineee55000\",\"otherHeaders\":\"\",\"name\":\"beIN Pre 2SD\",\"Referer\":\"\",\"userAgent\":\"ㅤyacineee55000user-Agent|ㅤyacineee55000\",\"position\":\"0\",\"url\":\"https://lb.buy-global.store/live/lb666/bp2-360.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/5253947_ico.png",
+    "nameen": "beIN Pre 2SD",
+    "position": "25",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "beIN Pre 3SD",
+    "servers": "[{\"headers\":\"ㅤyacineee55000user-Agent|ㅤyacineee55000user-Agent|ㅤyacineee55000user-Agent|ㅤyacineee55000\",\"otherHeaders\":\"\",\"name\":\"beIN Pre 3SD\",\"Referer\":\"\",\"userAgent\":\"ㅤyacineee55000user-Agent|ㅤyacineee55000\",\"position\":\"0\",\"url\":\"https://lb.buy-global.store/live/lb666/bp3-360.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/5253952_ico.png",
+    "nameen": "beIN Pre 3SD",
+    "position": "26",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "bein Pre hd1",
+    "servers": "[{\"headers\":\"airmaxtvprouser-Agent|airmaxtvprouser-Agent|airmaxtvprouser-Agent|airmaxtvpro\",\"otherHeaders\":\"\",\"name\":\"bein Pre hd1\",\"Referer\":\"\",\"userAgent\":\"airmaxtvprouser-Agent|airmaxtvpro\",\"position\":\"0\",\"url\":\"http://ultra-pro.live:8080/kokylive/jcxOeskEpp/153237\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/6670647_ico.png",
+    "nameen": "bein Pre hd1",
+    "position": "27",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "bein Pre hd2",
+    "servers": "[{\"headers\":\"airmaxtvprouser-Agent|airmaxtvprouser-Agent|airmaxtvprouser-Agent|airmaxtvpro\",\"otherHeaders\":\"\",\"name\":\"bein Pre hd2\",\"Referer\":\"\",\"userAgent\":\"airmaxtvprouser-Agent|airmaxtvpro\",\"position\":\"0\",\"url\":\"http://ultra-pro.live:8080/kokylive/jcxOeskEpp/153238\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/6670654_ico.png",
+    "nameen": "bein Pre hd2",
+    "position": "28",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "bein Pre hd3",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"bein Pre hd3\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://ultra-pro.live:8080/kokylive/jcxOeskEpp/153239\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/6670662_ico.png",
+    "nameen": "bein Pre hd3",
+    "position": "29",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "beIN Pre LW1",
+    "servers": "[{\"headers\":\"ㅤuser-Agent|ㅤuser-Agent|ㅤuser-Agent|ㅤ\",\"otherHeaders\":\"\",\"name\":\"beIN Pre LW1\",\"Referer\":\"\",\"userAgent\":\"ㅤuser-Agent|ㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/27.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/6671330_ico.png",
+    "nameen": "beIN Pre LW1",
+    "position": "30",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "beIN Pre LW2",
+    "servers": "[{\"headers\":\"ㅤuser-Agent|ㅤuser-Agent|ㅤuser-Agent|ㅤ\",\"otherHeaders\":\"\",\"name\":\"beIN Pre LW2\",\"Referer\":\"\",\"userAgent\":\"ㅤuser-Agent|ㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/xx28.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/6671334_ico.png",
+    "nameen": "beIN Pre LW2",
+    "position": "31",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "beIN Pre LW3",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"beIN Pre LW3\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/85\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/6671351_ico.png",
+    "nameen": "beIN Pre LW3",
+    "position": "32",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "Bein prm1SD",
+    "servers": "[{\"headers\":\"Tres15user-Agent|Tres15user-Agent|Tres15user-Agent|Tres15\",\"otherHeaders\":\"\",\"name\":\"Bein prm1SD\",\"Referer\":\"\",\"userAgent\":\"Tres15user-Agent|Tres15\",\"position\":\"0\",\"url\":\"http://obsfullhd.tv:25461/ahmedax100/l2CuGRvhci/47298\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9143882_ico.png",
+    "nameen": "Bein prm1SD",
+    "position": "33",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "Bein prm2SD",
+    "servers": "[{\"headers\":\"Tres15user-Agent|Tres15user-Agent|Tres15user-Agent|Tres15\",\"otherHeaders\":\"\",\"name\":\"Bein prm2SD\",\"Referer\":\"\",\"userAgent\":\"Tres15user-Agent|Tres15\",\"position\":\"0\",\"url\":\"http://obsfullhd.tv:25461/ahmedax100/l2CuGRvhci/47299\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9143943_ico.png",
+    "nameen": "Bein prm2SD",
+    "position": "34",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "Bein prm3SD",
+    "servers": "[{\"headers\":\"Tres15user-Agent|Tres15user-Agent|Tres15user-Agent|Tres15\",\"otherHeaders\":\"\",\"name\":\"Bein prm3SD\",\"Referer\":\"\",\"userAgent\":\"Tres15user-Agent|Tres15\",\"position\":\"0\",\"url\":\"http://obsfullhd.tv:25461/ahmedax100/l2CuGRvhci/47300\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9143969_ico.png",
+    "nameen": "Bein prm3SD",
+    "position": "35",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "beIN XTRA 1*",
+    "servers": "[{\"headers\":\"REDLINECLIENT ed5zs4d5sd41user-Agent|REDLINECLIENT ed5zs4d5sd41user-Agent|REDLINECLIENT ed5zs4d5sd41user-Agent|REDLINECLIENT ed5zs4d5sd41\",\"otherHeaders\":\"\",\"name\":\"beIN XTRA 1*\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT ed5zs4d5sd41user-Agent|REDLINECLIENT ed5zs4d5sd41\",\"position\":\"0\",\"url\":\"http://87.120.36.196:28888/udp/239.17.1.26:1234\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14729397_ico.png",
+    "nameen": "beIN XTRA 1*",
+    "position": "36",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "beIN XTRA 2*",
+    "servers": "[{\"headers\":\"REDLINECLIENT ed5zs4d5sd41user-Agent|REDLINECLIENT ed5zs4d5sd41user-Agent|REDLINECLIENT ed5zs4d5sd41user-Agent|REDLINECLIENT ed5zs4d5sd41\",\"otherHeaders\":\"\",\"name\":\"beIN XTRA 2*\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT ed5zs4d5sd41user-Agent|REDLINECLIENT ed5zs4d5sd41\",\"position\":\"0\",\"url\":\"http://87.120.36.196:28888/udp/239.17.1.27:1234\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14770840_ico.png",
+    "nameen": "beIN XTRA 2*",
+    "position": "37",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "beIN Xtra 1+",
+    "servers": "[{\"headers\":\"airmaxtvprouser-Agent|airmaxtvprouser-Agent|airmaxtvprouser-Agent|airmaxtvpro\",\"otherHeaders\":\"\",\"name\":\"beIN Xtra 1+\",\"Referer\":\"\",\"userAgent\":\"airmaxtvprouser-Agent|airmaxtvpro\",\"position\":\"0\",\"url\":\"https://airmaxtv.online:25463/airmaxtvbein936/8uEw8a9Rw262/305\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14795156_ico.png",
+    "nameen": "beIN Xtra 1+",
+    "position": "38",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "beIN Xtra 2+",
+    "servers": "[{\"headers\":\"airmaxtvprouser-Agent|airmaxtvprouser-Agent|airmaxtvprouser-Agent|airmaxtvpro\",\"otherHeaders\":\"\",\"name\":\"beIN Xtra 2+\",\"Referer\":\"\",\"userAgent\":\"airmaxtvprouser-Agent|airmaxtvpro\",\"position\":\"0\",\"url\":\"https://airmaxtv.online:25463/airmaxtvbein936/8uEw8a9Rw262/306\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14795181_ico.png",
+    "nameen": "beIN Xtra 2+",
+    "position": "39",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "Xtra SD 1*",
+    "servers": "[{\"headers\":\"BLACK TV 1.0.0 (4)user-Agent|BLACK TV 1.0.0 (4)user-Agent|BLACK TV 1.0.0 (4)user-Agent|BLACK TV 1.0.0 (4)\",\"otherHeaders\":\"\",\"name\":\"Xtra SD 1*\",\"Referer\":\"\",\"userAgent\":\"BLACK TV 1.0.0 (4)user-Agent|BLACK TV 1.0.0 (4)\",\"position\":\"0\",\"url\":\"http://bobolacko.live:80/N6TscgmCP84w/VLruTsaH7DqX/2365\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14817065_ico.png",
+    "nameen": "Xtra SD 1*",
+    "position": "40",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "Xtra SD 2*",
+    "servers": "[{\"headers\":\"BLACK TV 1.0.0 (4)user-Agent|BLACK TV 1.0.0 (4)user-Agent|BLACK TV 1.0.0 (4)user-Agent|BLACK TV 1.0.0 (4)\",\"otherHeaders\":\"\",\"name\":\"Xtra SD 2*\",\"Referer\":\"\",\"userAgent\":\"BLACK TV 1.0.0 (4)user-Agent|BLACK TV 1.0.0 (4)\",\"position\":\"0\",\"url\":\"http://bobolacko.live:80/N6TscgmCP84w/VLruTsaH7DqX/2366\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14817074_ico.png",
+    "nameen": "Xtra SD 2*",
+    "position": "41",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "XTRA 1 SD",
+    "servers": "[{\"headers\":\"rardauser-Agent|rardauser-Agent|rardauser-Agent|rarda\",\"otherHeaders\":\"\",\"name\":\"XTRA 1 SD\",\"Referer\":\"\",\"userAgent\":\"rardauser-Agent|rarda\",\"position\":\"0\",\"url\":\"http://lb.yacinetvkora.com/live/tw.m3u8?s\\u003daHR0cHM6Ly9wcm9kLWZhc3RseS1hcC1zb3V0aGVhc3QtMi52aWRlby5wc2NwLnR2L1RyYW5zY29kaW5nL3YxL2hscy81SlNoS1FjMFhBdGptdF9Ka3FTSE45STVzSzFFbktfNmxSWlJlckpFN3RMN3IxZzVvUjhJNkllYTZUWDFaRUdBRG9aY25BUnJVTTY5blJiM3JYVklmdy90cmFuc2NvZGUvYXAtc291dGhlYXN0LTIvcGVyaXNjb3BlLXJlcGxheS1kaXJlY3QtcHJvZC1hcC1zb3V0aGVhc3QtMi1wcml2YXRlL2V5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNJc0luWmxjbk5wYjI0aU9pSXlJbjAuZXlKRmJtTnZaR1Z5VTJWMGRHbHVaeUk2SW1WdVkyOWtaWEpmYzJWMGRHbHVaMTh6TWpCd016QmZNVEFpTENKSVpXbG5hSFFpT2pNeU1Dd2lTMkp3Y3lJNk5qQXdMQ0pVY21GdWMyTnZaR1ZCZFdScGJ5STZkSEoxWlN3aVYybGtkR2dpT2pVMk9IMC5lc19YcE52M0oxMmhGWFU0V3JDd21IMjhHbVRvWUFQRFBkVF9FamVySENVL3N0X2R5bmFtaWNfaGlnaGxhdGVuY3kubTN1OD90eXBlPWxpdmU\\u003d\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/15688182_ico.png",
+    "nameen": "XTRA 1 SD",
+    "position": "42",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "XTRA 2 SD",
+    "servers": "[{\"headers\":\"rardauser-Agent|rardauser-Agent|rardauser-Agent|rarda\",\"otherHeaders\":\"\",\"name\":\"XTRA 2 SD\",\"Referer\":\"\",\"userAgent\":\"rardauser-Agent|rarda\",\"position\":\"0\",\"url\":\"http://lb.yacinetvkora.com/live/tw.m3u8?s\\u003daHR0cHM6Ly9wcm9kLWZhc3RseS1ldS13ZXN0LTEudmlkZW8ucHNjcC50di9UcmFuc2NvZGluZy92MS9obHMvS1VJb0M2Z2RBby1lNnhxQVQ2eFhWWHFzaThWZW9qcHRTR29GbFRrdWtQRlhLajNBRk1LalJKV0RpU3N3VWQzUllGN0FxcHdtdC00SXdfSnpVVjd4bUEvdHJhbnNjb2RlL2V1LXdlc3QtMS9wZXJpc2NvcGUtcmVwbGF5LWRpcmVjdC1wcm9kLWV1LXdlc3QtMS1wcml2YXRlL2V5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNJc0luWmxjbk5wYjI0aU9pSXlJbjAuZXlKRmJtTnZaR1Z5VTJWMGRHbHVaeUk2SW1WdVkyOWtaWEpmYzJWMGRHbHVaMTh6TWpCd016QmZNVEFpTENKSVpXbG5hSFFpT2pNeU1Dd2lTMkp3Y3lJNk5qQXdMQ0pVY21GdWMyTnZaR1ZCZFdScGJ5STZkSEoxWlN3aVYybGtkR2dpT2pVMk9IMC5lc19YcE52M0oxMmhGWFU0V3JDd21IMjhHbVRvWUFQRFBkVF9FamVySENVL3N0X2R5bmFtaWNfaGlnaGxhdGVuY3kubTN1OD90eXBlPWxpdmU\\u003d\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/15688194_ico.png",
+    "nameen": "XTRA 2 SD",
+    "position": "43",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "BeIN 1 Xtra++",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"BeIN 1 Xtra++\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/845\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/16392869_ico.png",
+    "nameen": "BeIN 1 Xtra++",
+    "position": "44",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  },
+  {
+    "namear": "BeIN 2 Xtra++",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"BeIN 2 Xtra++\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/849\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/16392878_ico.png",
+    "nameen": "BeIN 2 Xtra++",
+    "position": "45",
+    "type": "channel",
+    "key": "windroidadrarbein_premiums_+_xtra"
+  }
+]

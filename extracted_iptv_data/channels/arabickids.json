@@ -1,0 +1,101 @@
+[
+  {
+    "namear": "Atfal Wa Mawaheb (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/mono.m3u8\"}]",
+    "logo": "https://atfal1.com/wp-content/uploads/2018/02/logo.png",
+    "nameen": "Atfal Wa Mawaheb (1080p)",
+    "position": "1",
+    "type": "channel",
+    "key": "arabickids"
+  },
+  {
+    "namear": "Toyor Aljanah",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"Toyor Aljanah\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://ar116.ab-cdn.com:80/live/110/mono.m3u8 ?\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Toyor Aljanah",
+    "position": "1",
+    "type": "channel",
+    "key": "arabickids"
+  },
+  {
+    "namear": "ATFAL",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://ar116.ab-cdn.com:80/live/111/mono.m3u8 \"}]",
+    "logo": "https://i.imgur.com/z5E8vLR.png",
+    "nameen": "Atfall",
+    "position": "3",
+    "type": "channel",
+    "key": "arabickids"
+  },
+  {
+    "namear": "Cartoon Network Arabia (1080p)",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://ar116.ab-cdn.com:80/live/112/mono.m3u8 \"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png",
+    "nameen": "Cartoon Network Arabia (1080p)",
+    "position": "4",
+    "type": "channel",
+    "key": "arabickids"
+  },
+  {
+    "namear": "Cartoon Network Arabia (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/mono.m3u8 \"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png",
+    "nameen": "Cartoon Network Arabia (1080p)",
+    "position": "5",
+    "type": "channel",
+    "key": "arabickids"
+  },
+  {
+    "namear": "Gulli Bil Arabi (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/mono.m3u8 \"}]",
+    "logo": "https://www.lyngsat.com/logo/tv/gg/gulli-bil-arabie.png",
+    "nameen": "Gulli Bil Arabi (1080p)",
+    "position": "6",
+    "type": "channel",
+    "key": "arabickids"
+  },
+  {
+    "namear": "Koogi TV (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/mono.m3u8\"}]",
+    "logo": "https://i.imgur.com/I5A1mMZ.jpg",
+    "nameen": "Koogi TV (1080p)",
+    "position": "7",
+    "type": "channel",
+    "key": "arabickids"
+  },
+  {
+    "namear": "Majid TV (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/mono.m3u8\"}]",
+    "logo": "https://i.imgur.com/9Bun2IX.png",
+    "nameen": "Majid TV (1080p)",
+    "position": "8",
+    "type": "channel",
+    "key": "arabickids"
+  },
+  {
+    "namear": "MBC 3 EUR (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/mono.m3u8 \"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MBC_3_Transparent_Background_Logo.png/512px-MBC_3_Transparent_Background_Logo.png",
+    "nameen": "MBC 3 EUR (1080p)",
+    "position": "9",
+    "type": "channel",
+    "key": "arabickids"
+  },
+  {
+    "namear": "Rotana Kids (1080p)",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://ar116.ab-cdn.com:80/live/114/mono.m3u8 \"}]",
+    "logo": "https://i.imgur.com/GQnNjlu.png",
+    "nameen": "Rotana Kids (1080p)",
+    "position": "10",
+    "type": "channel",
+    "key": "arabickids"
+  },
+  {
+    "namear": "Spacetoon (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/mono.m3u8 \"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png",
+    "nameen": "Spacetoon (1080p)",
+    "position": "11",
+    "type": "channel",
+    "key": "arabickids"
+  }
+]

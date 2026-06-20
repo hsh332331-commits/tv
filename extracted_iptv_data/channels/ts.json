@@ -1,0 +1,11 @@
+[
+  {
+    "namear": "tt",
+    "servers": "[{\"headers\":\"user-agent|mozilla|find|m3u8\",\"otherHeaders\":\"find|m3u8\",\"name\":\"t1\",\"Referer\":\"\",\"userAgent\":\"mozilla\",\"position\":\"0\",\"url\":\"https://streamsoccer.site/new/ch5.php\"},{\"headers\":\"user-agent|Mozilla|find|m3u8|use_web|true\",\"otherHeaders\":\"find|m3u8|use_web|true\",\"name\":\"t2\",\"Referer\":\"\",\"userAgent\":\"Mozilla\",\"position\":\"1\",\"url\":\"https://streamsoccer.site/new/ch4.php\"},{\"headers\":\"find|m3u8\",\"otherHeaders\":\"find|m3u8\",\"name\":\"t3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"https://scorevisit.com/match/porto-vs-gil-vicente-19160502\"}]",
+    "logo": "",
+    "nameen": "tt",
+    "position": "0",
+    "type": "channel",
+    "key": "ts"
+  }
+]

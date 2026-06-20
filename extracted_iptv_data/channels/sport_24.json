@@ -1,0 +1,281 @@
+[
+  {
+    "namear": "ACISPORT TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ACISPORT TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://45.65.112.49:8000/play/a0ns\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ACISPORT TV",
+    "position": "2",
+    "type": "channel",
+    "key": "sport_24"
+  },
+  {
+    "namear": "CANAL+ SPORT 2 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CANAL+ SPORT 2 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://45.65.112.49:8000/play/a04j\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "CANAL+ SPORT 2 HD",
+    "position": "16",
+    "type": "channel",
+    "key": "sport_24"
+  },
+  {
+    "namear": "CANAL+ SPORT 3 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CANAL+ SPORT 3 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://45.65.112.49:8000/play/a0kq\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "CANAL+ SPORT 3 HD",
+    "position": "17",
+    "type": "channel",
+    "key": "sport_24"
+  },
+  {
+    "namear": "CANAL+ SPORT 4 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CANAL+ SPORT 4 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://45.65.112.49:8000/play/a0kr\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "CANAL+ SPORT 4 HD",
+    "position": "18",
+    "type": "channel",
+    "key": "sport_24"
+  },
+  {
+    "namear": "CANAL+ SPORT 5 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CANAL+ SPORT 5 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://45.65.112.49:8000/play/a0ku\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "CANAL+ SPORT 5 HD",
+    "position": "19",
+    "type": "channel",
+    "key": "sport_24"
+  },
+  {
+    "namear": "CANAL+ SPORT HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CANAL+ SPORT HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://45.65.112.49:8000/play/a03a\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "CANAL+ SPORT HD",
+    "position": "20",
+    "type": "channel",
+    "key": "sport_24"
+  },
+  {
+    "namear": "CANAL+1 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CANAL+1 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://45.65.112.49:8000/play/a04i\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "CANAL+1 HD",
+    "position": "21",
+    "type": "channel",
+    "key": "sport_24"
+  },
+  {
+    "namear": "ELEVEN SPORTS 4 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ELEVEN SPORTS 4 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://45.65.112.49:8000/play/a02s\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ELEVEN SPORTS 4 HD",
+    "position": "26",
+    "type": "channel",
+    "key": "sport_24"
+  },
+  {
+    "namear": "ESC",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ESC\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://45.65.112.49:8000/play/a0ne\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ESC",
+    "position": "27",
+    "type": "channel",
+    "key": "sport_24"
+  },
+  {
+    "namear": "Eleven Sports 1 4K",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Eleven Sports 1 4K\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://45.65.112.49:8000/play/a0bt\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Eleven Sports 1 4K",
+    "position": "28",
+    "type": "channel",
+    "key": "sport_24"
+  },
+  {
+    "namear": "Eleven Sports 1 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Eleven Sports 1 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://45.65.112.49:8000/play/a05d\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Eleven Sports 1 HD",
+    "position": "29",
+    "type": "channel",
+    "key": "sport_24"
+  },
+  {
+    "namear": "Eleven Sports 2 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Eleven Sports 2 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://45.65.112.49:8000/play/a052\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Eleven Sports 2 HD",
+    "position": "30",
+    "type": "channel",
+    "key": "sport_24"
+  },
+  {
+    "namear": "Eleven Sports 3 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Eleven Sports 3 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://45.65.112.49:8000/play/a04r\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Eleven Sports 3 HD",
+    "position": "31",
+    "type": "channel",
+    "key": "sport_24"
+  },
+  {
+    "namear": "Eurosport 1 Poland HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Eurosport 1 Poland HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://45.65.112.49:8000/play/a0ke\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Eurosport 1 Poland HD",
+    "position": "32",
+    "type": "channel",
+    "key": "sport_24"
+  },
+  {
+    "namear": "Eurosport 2 Poland HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Eurosport 2 Poland HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://45.65.112.49:8000/play/a0kf\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Eurosport 2 Poland HD",
+    "position": "33",
+    "type": "channel",
+    "key": "sport_24"
+  },
+  {
+    "namear": "Polsat Sport Extra HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Polsat Sport Extra HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://45.65.112.49:8000/play/a08h\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Polsat Sport Extra HD",
+    "position": "55",
+    "type": "channel",
+    "key": "sport_24"
+  },
+  {
+    "namear": "Polsat Sport HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Polsat Sport HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://45.65.112.49:8000/play/a08n\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Polsat Sport HD",
+    "position": "56",
+    "type": "channel",
+    "key": "sport_24"
+  },
+  {
+    "namear": "Polsat Sport Premium 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Polsat Sport Premium 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://45.65.112.49:8000/play/a0br\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Polsat Sport Premium 1",
+    "position": "57",
+    "type": "channel",
+    "key": "sport_24"
+  },
+  {
+    "namear": "Polsat Sport Premium 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Polsat Sport Premium 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://45.65.112.49:8000/play/a0bs\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Polsat Sport Premium 2",
+    "position": "58",
+    "type": "channel",
+    "key": "sport_24"
+  },
+  {
+    "namear": "Polsat Sport Premium PPV3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Polsat Sport Premium PPV3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://45.65.112.49:8000/play/a0js\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Polsat Sport Premium PPV3",
+    "position": "59",
+    "type": "channel",
+    "key": "sport_24"
+  },
+  {
+    "namear": "Polsat Sport Premium PPV4",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Polsat Sport Premium PPV4\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://45.65.112.49:8000/play/a0jt\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Polsat Sport Premium PPV4",
+    "position": "60",
+    "type": "channel",
+    "key": "sport_24"
+  },
+  {
+    "namear": "Polsat Sport Premium PPV5",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Polsat Sport Premium PPV5\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://45.65.112.49:8000/play/a08s\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Polsat Sport Premium PPV5",
+    "position": "61",
+    "type": "channel",
+    "key": "sport_24"
+  },
+  {
+    "namear": "Polsat Sport Premium PPV6",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Polsat Sport Premium PPV6\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://45.65.112.49:8000/play/a08t\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Polsat Sport Premium PPV6",
+    "position": "62",
+    "type": "channel",
+    "key": "sport_24"
+  },
+  {
+    "namear": "RSI LA 1 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"RSI LA 1 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://45.65.112.49:8000/play/a094\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "RSI LA 1 HD",
+    "position": "65",
+    "type": "channel",
+    "key": "sport_24"
+  },
+  {
+    "namear": "RSI LA 2 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"RSI LA 2 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://45.65.112.49:8000/play/a095\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "RSI LA 2 HD",
+    "position": "66",
+    "type": "channel",
+    "key": "sport_24"
+  },
+  {
+    "namear": "RTS Deux HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"RTS Deux HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://45.65.112.49:8000/play/a091\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "RTS Deux HD",
+    "position": "67",
+    "type": "channel",
+    "key": "sport_24"
+  },
+  {
+    "namear": "Rai 1 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rai 1 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://45.65.112.49:8000/play/a078\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Rai 1 HD",
+    "position": "72",
+    "type": "channel",
+    "key": "sport_24"
+  },
+  {
+    "namear": "Rai Sport HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rai Sport HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://45.65.112.49:8000/play/a0ma\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Rai Sport HD",
+    "position": "107",
+    "type": "channel",
+    "key": "sport_24"
+  },
+  {
+    "namear": "SRF 1 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SRF 1 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://45.65.112.49:8000/play/a08y\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "SRF 1 HD",
+    "position": "112",
+    "type": "channel",
+    "key": "sport_24"
+  },
+  {
+    "namear": "SRF zwei HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SRF zwei HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://45.65.112.49:8000/play/a08z\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "SRF zwei HD",
+    "position": "114",
+    "type": "channel",
+    "key": "sport_24"
+  },
+  {
+    "namear": "TVP Sport HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TVP Sport HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://45.65.112.49:8000/play/a0ko\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "TVP Sport HD",
+    "position": "122",
+    "type": "channel",
+    "key": "sport_24"
+  }
+]

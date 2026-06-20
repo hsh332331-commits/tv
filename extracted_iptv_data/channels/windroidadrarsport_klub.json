@@ -1,0 +1,65 @@
+[
+  {
+    "namear": "Sport Klub 1",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"Sport Klub 1\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://185.205.201.141:80/gooldstv.com/PbmDzbnBiM/12547\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/23536592_ico.png",
+    "nameen": "Sport Klub 1",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarsport_klub"
+  },
+  {
+    "namear": "Sport Klub 2",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"Sport Klub 2\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://185.205.201.141:80/gooldstv.com/PbmDzbnBiM/12548\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/23536600_ico.png",
+    "nameen": "Sport Klub 2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarsport_klub"
+  },
+  {
+    "namear": "Sport Klub 3",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"Sport Klub 3\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://185.205.201.141:80/gooldstv.com/PbmDzbnBiM/12549\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/23536608_ico.png",
+    "nameen": "Sport Klub 3",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarsport_klub"
+  },
+  {
+    "namear": "Sport Klub 1+",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"Sport Klub 1+\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/3473\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24319257_ico.png",
+    "nameen": "Sport Klub 1+",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarsport_klub"
+  },
+  {
+    "namear": "Sport Klub 2+",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"Sport Klub 2+\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/279841\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24319260_ico.png",
+    "nameen": "Sport Klub 2+",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarsport_klub"
+  },
+  {
+    "namear": "Sport Klub 3+",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"Sport Klub 3+\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/279840\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24319262_ico.png",
+    "nameen": "Sport Klub 3+",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarsport_klub"
+  },
+  {
+    "namear": "Sport Klub 4+",
+    "servers": "[{\"headers\":\"VVuser-Agent|VVuser-Agent|VVuser-Agent|VV\",\"otherHeaders\":\"\",\"name\":\"Sport Klub 4+\",\"Referer\":\"\",\"userAgent\":\"VVuser-Agent|VV\",\"position\":\"0\",\"url\":\"http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/279839\"}]",
+    "logo": "R.drawable.app_icon",
+    "nameen": "Sport Klub 4+",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarsport_klub"
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "namear": "RT USA",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"RT USA\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://rt-usa.rttv.com/live/rtusa/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/13083766_ico.png",
+    "nameen": "RT USA",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "BigLife TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BigLife TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://biglife.sinclair.wurl.com/manifest/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12405326_ico.png",
+    "nameen": "BigLife TV",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "The Asylum",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"The Asylum\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dai2.xumo.com/xumocdn/p\\u003droku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12405350_ico.png",
+    "nameen": "The Asylum",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "FOX News",
+    "servers": "[{\"headers\":\"Hhuser-Agent|Hhuser-Agent|Hhuser-Agent|Hh\",\"otherHeaders\":\"\",\"name\":\"FOX News\",\"Referer\":\"\",\"userAgent\":\"Hhuser-Agent|Hh\",\"position\":\"0\",\"url\":\"http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1611\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12405372_ico.png",
+    "nameen": "FOX News",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "ABC News",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ABC News\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12405392_ico.png",
+    "nameen": "ABC News",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "Newsy",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Newsy\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad\\u003dnewsyweb\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12405399_ico.png",
+    "nameen": "Newsy",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "New Orleans TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"New Orleans TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://media4.tripsmarter.com:1935/TvTV/NOTVHD/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12405600_ico.png",
+    "nameen": "New Orleans TV",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "Chive TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Chive TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12405691_ico.png",
+    "nameen": "Chive TV",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "American Horrors",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"American Horrors\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://170.178.189.66:1935/live/Stream1/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12405701_ico.png",
+    "nameen": "American Horrors",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "Docurama",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Docurama\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12405910_ico.png",
+    "nameen": "Docurama",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "Monarch Channel",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Monarch Channel\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/low/c.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12405957_ico.png",
+    "nameen": "Monarch Channel",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "Movie Kingdom",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Movie Kingdom\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12405960_ico.png",
+    "nameen": "Movie Kingdom",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "CBS News",
+    "servers": "[{\"headers\":\"Gguser-Agent|Gguser-Agent|Gguser-Agent|Gg\",\"otherHeaders\":\"\",\"name\":\"CBS News\",\"Referer\":\"\",\"userAgent\":\"Gguser-Agent|Gg\",\"position\":\"0\",\"url\":\"https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12406589_ico.png",
+    "nameen": "CBS News",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "CMC-USA",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CMC-USA\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12406712_ico.png",
+    "nameen": "CMC-USA",
+    "position": "13",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "Cheddar News",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Cheddar News\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live.chdrstatic.com/cbn/primary/1.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12406737_ico.png",
+    "nameen": "Cheddar News",
+    "position": "14",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "ET Tv",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ET Tv\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12406859_ico.png",
+    "nameen": "ET Tv",
+    "position": "15",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "Fox News Radio",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Fox News Radio\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12406908_ico.png",
+    "nameen": "Fox News Radio",
+    "position": "16",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "Hunt Channel",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Hunt Channel\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12407103_ico.png",
+    "nameen": "Hunt Channel",
+    "position": "17",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "MLB Network",
+    "servers": "[{\"headers\":\"BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUTuser-Agent|BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUTuser-Agent|BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUTuser-Agent|BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT\",\"otherHeaders\":\"\",\"name\":\"MLB Network\",\"Referer\":\"\",\"userAgent\":\"BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUTuser-Agent|BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT\",\"position\":\"0\",\"url\":\"http://166.0.208.24:3473/eventox5/lista/chunk_Auth\\u003dix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c\\u003d1/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12407105_ico.png",
+    "nameen": "MLB Network",
+    "position": "18",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "Red Bull TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Red Bull TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12407176_ico.png",
+    "nameen": "Red Bull TV",
+    "position": "19",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "Newsmax TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Newsmax TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://nmxlive.akamaized.net/hls/live/529965/Tv_1/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12407187_ico.png",
+    "nameen": "Newsmax TV",
+    "position": "20",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "Voice of America",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Voice of America\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12407331_ico.png",
+    "nameen": "Voice of America",
+    "position": "21",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "CNN Int'",
+    "servers": "[{\"headers\":\"elplayeruser-Agent|elplayeruser-Agent|elplayeruser-Agent|elplayer\",\"otherHeaders\":\"\",\"name\":\"CNN Int\\u0027\",\"Referer\":\"\",\"userAgent\":\"elplayeruser-Agent|elplayer\",\"position\":\"0\",\"url\":\"https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/576577_ico.png",
+    "nameen": "CNN Int'",
+    "position": "22",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "3ABN Kids TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"3ABN Kids TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/656725_ico.png",
+    "nameen": "3ABN Kids TV",
+    "position": "23",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "NFL Network",
+    "servers": "[{\"headers\":\"ttttttttttuser-Agent|ttttttttttuser-Agent|ttttttttttuser-Agent|tttttttttt\",\"otherHeaders\":\"\",\"name\":\"NFL Network\",\"Referer\":\"\",\"userAgent\":\"ttttttttttuser-Agent|tttttttttt\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceId\\u003dchannel\\u0026deviceModel\\u003dweb\\u0026deviceVersion\\u003d1.0\\u0026appVersion\\u003d1.0\\u0026deviceType\\u003drokuChannel\\u0026deviceMake\\u003drokuChannel\\u0026deviceDNT\\u003d1\\u0026advertisingId\\u003dchannel\\u0026embedPartner\\u003drokuChannel\\u0026appName\\u003drokuchannel\\u0026is_lat\\u003d1\\u0026bmodel\\u003dbm1\\u0026content\\u003dchannel\\u0026platform\\u003dweb\\u0026tags\\u003dROKU_CONTENT_TAGS\\u0026coppa\\u003dfalse\\u0026content_type\\u003dlivefeed\\u0026rdid\\u003dchannel\\u0026genre\\u003dROKU_ADS_CONTENT_GENRE\\u0026content_rating\\u003dROKU_ADS_CONTENT_RATING\\u0026studio_id\\u003dviacom\\u0026channel_id\\u003dchannel\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2980305_ico.png",
+    "nameen": "NFL Network",
+    "position": "24",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "WWE Network",
+    "servers": "[{\"headers\":\"@10086liveuser-Agent|@10086liveuser-Agent|@10086liveuser-Agent|@10086live\",\"otherHeaders\":\"\",\"name\":\"WWE Network\",\"Referer\":\"\",\"userAgent\":\"@10086liveuser-Agent|@10086live\",\"position\":\"0\",\"url\":\"http://pizztv.xyz:8000/3421omoeqappy/omohaktv-apk/63\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2980320_ico.png",
+    "nameen": "WWE Network",
+    "position": "25",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "Syfy US",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Syfy US\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://51.79.82.231:8080/US_SYFY_EAST_USA/video.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/5714241_ico.png",
+    "nameen": "Syfy US",
+    "position": "26",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "Disney DX US",
+    "servers": "[{\"headers\":\"BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUTuser-Agent|BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUTuser-Agent|BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUTuser-Agent|BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT\",\"otherHeaders\":\"\",\"name\":\"Disney DX US\",\"Referer\":\"\",\"userAgent\":\"BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUTuser-Agent|BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT\",\"position\":\"0\",\"url\":\"http://51.79.82.231:8080/US_DISNEY_XD_EAST_USA/video.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/5714248_ico.png",
+    "nameen": "Disney DX US",
+    "position": "27",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "FXX",
+    "servers": "[{\"headers\":\"BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUTuser-Agent|BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUTuser-Agent|BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUTuser-Agent|BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT\",\"otherHeaders\":\"\",\"name\":\"FXX\",\"Referer\":\"\",\"userAgent\":\"BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUTuser-Agent|BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT\",\"position\":\"0\",\"url\":\"http://166.0.208.23:3473/9520FXX/transcob9/chunk_Auth\\u003dix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c\\u003d1/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/5744465_ico.png",
+    "nameen": "FXX",
+    "position": "28",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "Epix US",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Epix US\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://51.79.82.231:8080/US_EPIX_USA/video.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/5744553_ico.png",
+    "nameen": "Epix US",
+    "position": "29",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "AMC US",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AMC US\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?advertisingId\\u003d\\u0026appName\\u003dweb\\u0026appVersion\\u003d5.3.0-e3758f07a78fd8164177c00fbbebcd583ecf4900\\u0026architecture\\u003d\\u0026buildVersion\\u003d\\u0026clientTime\\u003d\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003db702181a-c1d6-4ee2-9481-753f471e2ce7\\u0026deviceLat\\u003d40.8364\\u0026deviceLon\\u003d-74.1403\\u0026deviceMake\\u003dOpera\\u0026deviceModel\\u003dOpera\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003d68.0.3618.63\\u0026includeExtendedEvents\\u003dfalse\\u0026marketingRegion\\u003dUS\\u0026sid\\u003d3053e2d1-b24b-4567-8093-8b28d8a46194\\u0026userId\\u003d\\u0026serverSideAds\\u003dtrue\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/6996969_ico.png",
+    "nameen": "AMC US",
+    "position": "30",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "Epix 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Epix 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://51.79.82.231:8080/US_EPIX2_USA/video.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7004047_ico.png",
+    "nameen": "Epix 2",
+    "position": "31",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "Cinemax US",
+    "servers": "[{\"headers\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36user-Agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36user-Agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36user-Agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36\",\"otherHeaders\":\"\",\"name\":\"Cinemax US\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36user-Agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36\",\"position\":\"0\",\"url\":\"https://livecdn.fptplay.net/hda1/cinemax_hls.smil/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7004577_ico.png",
+    "nameen": "Cinemax US",
+    "position": "32",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "FS1",
+    "servers": "[{\"headers\":\"CHANNEL4_34user-Agent|CHANNEL4_34user-Agent|CHANNEL4_34user-Agent|CHANNEL4_34\",\"otherHeaders\":\"\",\"name\":\"FS1\",\"Referer\":\"\",\"userAgent\":\"CHANNEL4_34user-Agent|CHANNEL4_34\",\"position\":\"0\",\"url\":\"http://143.244.60.30/Fox_Sports_1/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7305483_ico.png",
+    "nameen": "FS1",
+    "position": "33",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "FS2",
+    "servers": "[{\"headers\":\"CHANNEL4_34user-Agent|CHANNEL4_34user-Agent|CHANNEL4_34user-Agent|CHANNEL4_34\",\"otherHeaders\":\"\",\"name\":\"FS2\",\"Referer\":\"\",\"userAgent\":\"CHANNEL4_34user-Agent|CHANNEL4_34\",\"position\":\"0\",\"url\":\"http://143.244.60.30/Fox_Sports_2/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7305491_ico.png",
+    "nameen": "FS2",
+    "position": "34",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "MLS",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MLS\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType\\u003dweb\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dChrome\\u0026sid\\u003dd1634607-2892-447a-b316-17a106f905fb\\u0026deviceId\\u003d9f228953-21cb-4b82-a393-dd32d047379f\\u0026deviceVersion\\u003d76.0.3809.132\\u0026appVersion\\u003d2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b\\u0026deviceDNT\\u003d0\\u0026userId\\u003d\\u0026advertisingId\\u003d\\u0026deviceLat\\u003d45.4994\\u0026deviceLon\\u003d-73.5703\\u0026app_name\\u003d\\u0026appName\\u003dweb\\u0026buildVersion\\u003d\\u0026appStoreUrl\\u003d\\u0026architecture\\u003d\\u0026serverSideAds\\u003dtrue\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7490237_ico.png",
+    "nameen": "MLS",
+    "position": "35",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "UFC Fightpass",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"UFC Fightpass\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_USACAN/s5YzKEjK/3714\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7490304_ico.png",
+    "nameen": "UFC Fightpass",
+    "position": "36",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "TNT US",
+    "servers": "[{\"headers\":\"ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"TNT US\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"http://pizztv.xyz:8000/RUSH-81404004/VLstCMcXNtBL/273\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/8074710_ico.png",
+    "nameen": "TNT US",
+    "position": "37",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "Destination Amer",
+    "servers": "[{\"headers\":\"BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUTuser-Agent|BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUTuser-Agent|BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUTuser-Agent|BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT\",\"otherHeaders\":\"\",\"name\":\"Destination Amer\",\"Referer\":\"\",\"userAgent\":\"BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUTuser-Agent|BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT\",\"position\":\"0\",\"url\":\"http://166.0.208.23:3473/9457AMERI/transco8/chunk_Auth\\u003dix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c\\u003d1/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/8074732_ico.png",
+    "nameen": "Destination Amer",
+    "position": "38",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "AMC Us",
+    "servers": "[{\"headers\":\"BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUTuser-Agent|BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUTuser-Agent|BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUTuser-Agent|BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT\",\"otherHeaders\":\"\",\"name\":\"AMC Us\",\"Referer\":\"\",\"userAgent\":\"BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUTuser-Agent|BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT\",\"position\":\"0\",\"url\":\"http://166.0.208.23:3473/transco9/9417AMC/chunk_Auth\\u003dix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c\\u003d1/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/8074745_ico.png",
+    "nameen": "AMC Us",
+    "position": "39",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "A&E US",
+    "servers": "[{\"headers\":\"BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUTuser-Agent|BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUTuser-Agent|BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUTuser-Agent|BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT\",\"otherHeaders\":\"\",\"name\":\"A\\u0026E US\",\"Referer\":\"\",\"userAgent\":\"BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUTuser-Agent|BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT\",\"position\":\"0\",\"url\":\"http://166.0.208.23:3473/9419AE/transcob9/chunk_Auth\\u003dix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c\\u003d1/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/8074773_ico.png",
+    "nameen": "A&E US",
+    "position": "40",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "CNBC",
+    "servers": "[{\"headers\":\"BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUTuser-Agent|BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUTuser-Agent|BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUTuser-Agent|BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT\",\"otherHeaders\":\"\",\"name\":\"CNBC\",\"Referer\":\"\",\"userAgent\":\"BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUTuser-Agent|BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT\",\"position\":\"0\",\"url\":\"http://166.0.208.23:3473/9439CNBC/transcob9/chunk_Auth\\u003dix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c\\u003d1/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/8074817_ico.png",
+    "nameen": "CNBC",
+    "position": "41",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "NBA TV",
+    "servers": "[{\"headers\":\"@MEME4646@user-Agent|@MEME4646@user-Agent|@MEME4646@user-Agent|@MEME4646@\",\"otherHeaders\":\"\",\"name\":\"NBA TV\",\"Referer\":\"\",\"userAgent\":\"@MEME4646@user-Agent|@MEME4646@\",\"position\":\"0\",\"url\":\"http://pizztv.xyz:8000/NETFLIX342/TXWFdZDzeuKW/413\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/8271402_ico.png",
+    "nameen": "NBA TV",
+    "position": "42",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "Super Toons",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Super Toons\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/3000.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14753365_ico.png",
+    "nameen": "Super Toons",
+    "position": "43",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "RT News",
+    "servers": "[{\"headers\":\"ZZZZZZZZZZZZuser-Agent|ZZZZZZZZZZZZuser-Agent|ZZZZZZZZZZZZuser-Agent|ZZZZZZZZZZZZ\",\"otherHeaders\":\"\",\"name\":\"RT News\",\"Referer\":\"\",\"userAgent\":\"ZZZZZZZZZZZZuser-Agent|ZZZZZZZZZZZZ\",\"position\":\"0\",\"url\":\"https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/16596152_ico.png",
+    "nameen": "RT News",
+    "position": "44",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "Disney Ch. US",
+    "servers": "[{\"headers\":\"EEEEEuser-Agent|EEEEEuser-Agent|EEEEEuser-Agent|EEEEE\",\"otherHeaders\":\"\",\"name\":\"Disney Ch. US\",\"Referer\":\"\",\"userAgent\":\"EEEEEuser-Agent|EEEEE\",\"position\":\"0\",\"url\":\"http://51.79.82.231:8080/US_DISNEY_CHANNEL_EAST_USA/video.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/16596217_ico.png",
+    "nameen": "Disney Ch. US",
+    "position": "45",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "Disney JR US",
+    "servers": "[{\"headers\":\"EEEEuser-Agent|EEEEuser-Agent|EEEEuser-Agent|EEEE\",\"otherHeaders\":\"\",\"name\":\"Disney JR US\",\"Referer\":\"\",\"userAgent\":\"EEEEuser-Agent|EEEE\",\"position\":\"0\",\"url\":\"http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/16596224_ico.png",
+    "nameen": "Disney JR US",
+    "position": "46",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "DW English",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"DW English\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/16596651_ico.png",
+    "nameen": "DW English",
+    "position": "47",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  },
+  {
+    "namear": "DocuBox",
+    "servers": "[{\"headers\":\"GGuser-Agent|GGuser-Agent|GGuser-Agent|GG\",\"otherHeaders\":\"\",\"name\":\"DocuBox\",\"Referer\":\"\",\"userAgent\":\"GGuser-Agent|GG\",\"position\":\"0\",\"url\":\"http://iptv.prosto.tv:7000/ch93/video.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26666424_ico.png",
+    "nameen": "DocuBox",
+    "position": "48",
+    "type": "channel",
+    "key": "windroidadrarusa_امريكا"
+  }
+]

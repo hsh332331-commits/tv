@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "SSC SPORT 1HD",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"SSC SPORT 1HD\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://homeip.biz/KSA_SSC1/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "SSC SPORT 1HD",
+    "position": "1",
+    "type": "channel",
+    "key": "ssc_hd"
+  },
+  {
+    "namear": "SSC SPORT 2HD",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"SSC SPORT 2HD\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"http://homeip.biz/KSA_SSC2/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "SSC SPORT 2HD",
+    "position": "2",
+    "type": "channel",
+    "key": "ssc_hd"
+  },
+  {
+    "namear": "SSC SPORT 3HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SSC SPORT 3HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://homeip.biz/KSA_SSC3/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "SSC SPORT 3HD",
+    "position": "3",
+    "type": "channel",
+    "key": "ssc_hd"
+  },
+  {
+    "namear": "SSC SPORT 4HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SSC SPORT 4HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://homeip.biz/KSA_SSC4/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "SSC SPORT 4HD",
+    "position": "4",
+    "type": "channel",
+    "key": "ssc_hd"
+  },
+  {
+    "namear": "SSC SPORT 5HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SSC SPORT 5HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://homeip.biz/KSA_SSC5/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "SSC SPORT 5HD",
+    "position": "5",
+    "type": "channel",
+    "key": "ssc_hd"
+  }
+]

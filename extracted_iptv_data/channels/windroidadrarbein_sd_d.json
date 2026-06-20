@@ -1,0 +1,65 @@
+[
+  {
+    "namear": "Bein prm1SD",
+    "servers": "[{\"headers\":\"Tres15user-Agent|Tres15user-Agent|Tres15user-Agent|Tres15\",\"otherHeaders\":\"\",\"name\":\"Bein prm1SD\",\"Referer\":\"\",\"userAgent\":\"Tres15user-Agent|Tres15\",\"position\":\"0\",\"url\":\"http://obsfullhd.tv:25461/ahmedax100/l2CuGRvhci/47298\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9143882_ico.png",
+    "nameen": "Bein prm1SD",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarbein_sd_d"
+  },
+  {
+    "namear": "Bein prm2SD",
+    "servers": "[{\"headers\":\"Tres15user-Agent|Tres15user-Agent|Tres15user-Agent|Tres15\",\"otherHeaders\":\"\",\"name\":\"Bein prm2SD\",\"Referer\":\"\",\"userAgent\":\"Tres15user-Agent|Tres15\",\"position\":\"0\",\"url\":\"http://obsfullhd.tv:25461/ahmedax100/l2CuGRvhci/47299\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9143943_ico.png",
+    "nameen": "Bein prm2SD",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarbein_sd_d"
+  },
+  {
+    "namear": "Bein prm3SD",
+    "servers": "[{\"headers\":\"Tres15user-Agent|Tres15user-Agent|Tres15user-Agent|Tres15\",\"otherHeaders\":\"\",\"name\":\"Bein prm3SD\",\"Referer\":\"\",\"userAgent\":\"Tres15user-Agent|Tres15\",\"position\":\"0\",\"url\":\"http://obsfullhd.tv:25461/ahmedax100/l2CuGRvhci/47300\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9143969_ico.png",
+    "nameen": "Bein prm3SD",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarbein_sd_d"
+  },
+  {
+    "namear": "Bein1SD",
+    "servers": "[{\"headers\":\"Tres15user-Agent|Tres15user-Agent|Tres15user-Agent|Tres15\",\"otherHeaders\":\"\",\"name\":\"Bein1SD\",\"Referer\":\"\",\"userAgent\":\"Tres15user-Agent|Tres15\",\"position\":\"0\",\"url\":\"http://a36m.net:8080/YYRSIJPBS/1234567/130522\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9215883_ico.png",
+    "nameen": "Bein1SD",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarbein_sd_d"
+  },
+  {
+    "namear": "Bein2SD",
+    "servers": "[{\"headers\":\"dairak301user-Agent|dairak301user-Agent|dairak301user-Agent|dairak301\",\"otherHeaders\":\"\",\"name\":\"Bein2SD\",\"Referer\":\"\",\"userAgent\":\"dairak301user-Agent|dairak301\",\"position\":\"0\",\"url\":\"http://a36m.net:8080/YYRSIJPBS/1234567/130523\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9215907_ico.png",
+    "nameen": "Bein2SD",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarbein_sd_d"
+  },
+  {
+    "namear": "Bein3SD",
+    "servers": "[{\"headers\":\"Tres15user-Agent|Tres15user-Agent|Tres15user-Agent|Tres15\",\"otherHeaders\":\"\",\"name\":\"Bein3SD\",\"Referer\":\"\",\"userAgent\":\"Tres15user-Agent|Tres15\",\"position\":\"0\",\"url\":\"http://a36m.net:8080/YYRSIJPBS/1234567/130524\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9215935_ico.png",
+    "nameen": "Bein3SD",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarbein_sd_d"
+  },
+  {
+    "namear": "Bein4SD",
+    "servers": "[{\"headers\":\"Tres15user-Agent|Tres15user-Agent|Tres15user-Agent|Tres15\",\"otherHeaders\":\"\",\"name\":\"Bein4SD\",\"Referer\":\"\",\"userAgent\":\"Tres15user-Agent|Tres15\",\"position\":\"0\",\"url\":\"http://a36m.net:8080/YYRSIJPBS/1234567/130525\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9215948_ico.png",
+    "nameen": "Bein4SD",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarbein_sd_d"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "namear": "Abu Dhabi Sports 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Abu Dhabi Sports 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://admdn1.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12137336_ico.png",
+    "nameen": "Abu Dhabi Sports 1",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarad_sports"
+  },
+  {
+    "namear": "Abu Dhabi Sports 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Abu Dhabi Sports 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA\\u003d\\u003d.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12137444_ico.png",
+    "nameen": "Abu Dhabi Sports 2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarad_sports"
+  },
+  {
+    "namear": "Abu Dhabi PR 1",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Abu Dhabi PR 1\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"http://w.bs-share.com:8000/247179867825237/23141543216575/438681\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12137469_ico.png",
+    "nameen": "Abu Dhabi PR 1",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarad_sports"
+  },
+  {
+    "namear": "Abu Dhabi PR 2",
+    "servers": "[{\"headers\":\"ㅤuser-Agent|ㅤuser-Agent|ㅤuser-Agent|ㅤ\",\"otherHeaders\":\"\",\"name\":\"Abu Dhabi PR 2\",\"Referer\":\"\",\"userAgent\":\"ㅤuser-Agent|ㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/43.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12137474_ico.png",
+    "nameen": "Abu Dhabi PR 2",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarad_sports"
+  },
+  {
+    "namear": "AD ASIA 1",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"AD ASIA 1\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://javaprotcol.com:2082/mac_8074173/vXFFqxF6ugFm5fTJkuX4/138062\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/15672681_ico.png",
+    "nameen": "AD ASIA 1",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarad_sports"
+  },
+  {
+    "namear": "AD ASIA 2",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"AD ASIA 2\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://javaprotcol.com:2082/mac_8074173/vXFFqxF6ugFm5fTJkuX4/138061\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/15672695_ico.png",
+    "nameen": "AD ASIA 2",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarad_sports"
+  },
+  {
+    "namear": "AD Premium 1",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"AD Premium 1\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"https://mo3ad@cc07d03d6ebc.us-east-1.playback.live-video.net/api/video/v1/us-east-1.303361279054.channel.NcVW4Ujs7OlW.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21919068_ico.png",
+    "nameen": "AD Premium 1",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarad_sports"
+  },
+  {
+    "namear": "AD Premium 2",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"AD Premium 2\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/337\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21919107_ico.png",
+    "nameen": "AD Premium 2",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarad_sports"
+  },
+  {
+    "namear": "AD Prem 1",
+    "servers": "[{\"headers\":\"NSPlayer/9.0.0.3268user-Agent|NSPlayer/9.0.0.3268user-Agent|NSPlayer/9.0.0.3268user-Agent|NSPlayer/9.0.0.3268\",\"otherHeaders\":\"\",\"name\":\"AD Prem 1\",\"Referer\":\"\",\"userAgent\":\"NSPlayer/9.0.0.3268user-Agent|NSPlayer/9.0.0.3268\",\"position\":\"0\",\"url\":\"https://cdn7.livehd720.com/hlsstarz/starz/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/22023988_ico.png",
+    "nameen": "AD Prem 1",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarad_sports"
+  },
+  {
+    "namear": "AD Prem 2",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"AD Prem 2\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://javaprotcol.com:2082/mac_8074173/vXFFqxF6ugFm5fTJkuX4/154939\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/22024036_ico.png",
+    "nameen": "AD Prem 2",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadrarad_sports"
+  },
+  {
+    "namear": "AD Prem 1+",
+    "servers": "[{\"headers\":\"Y3oq0V7Ppvfuser-Agent|Y3oq0V7Ppvfuser-Agent|Y3oq0V7Ppvfuser-Agent|Y3oq0V7Ppvf\",\"otherHeaders\":\"\",\"name\":\"AD Prem 1+\",\"Referer\":\"\",\"userAgent\":\"Y3oq0V7Ppvfuser-Agent|Y3oq0V7Ppvf\",\"position\":\"0\",\"url\":\"https://yeszet1x1cdn23.goalarab.site/livead1p/ad1p/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24285285_ico.png",
+    "nameen": "AD Prem 1+",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidadrarad_sports"
+  },
+  {
+    "namear": "AD Prem 2+",
+    "servers": "[{\"headers\":\"Y3oq0V7Ppvuser-Agent|Y3oq0V7Ppvuser-Agent|Y3oq0V7Ppvuser-Agent|Y3oq0V7Ppv\",\"otherHeaders\":\"\",\"name\":\"AD Prem 2+\",\"Referer\":\"\",\"userAgent\":\"Y3oq0V7Ppvuser-Agent|Y3oq0V7Ppv\",\"position\":\"0\",\"url\":\"https://yeszet1x1cdn23.goalarab.site/livead2p/ad2p/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24285290_ico.png",
+    "nameen": "AD Prem 2+",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidadrarad_sports"
+  },
+  {
+    "namear": "AD Pr 1 SD",
+    "servers": "[{\"headers\":\"ㅤuser-Agent|ㅤuser-Agent|ㅤuser-Agent|ㅤ\",\"otherHeaders\":\"\",\"name\":\"AD Pr 1 SD\",\"Referer\":\"\",\"userAgent\":\"ㅤuser-Agent|ㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/475.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24285399_ico.png",
+    "nameen": "AD Pr 1 SD",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidadrarad_sports"
+  },
+  {
+    "namear": "AD Pr 2 Multi",
+    "servers": "[{\"headers\":\"ㅤyacineee55000user-Agent|ㅤyacineee55000user-Agent|ㅤyacineee55000user-Agent|ㅤyacineee55000\",\"otherHeaders\":\"\",\"name\":\"AD Pr 2 Multi\",\"Referer\":\"\",\"userAgent\":\"ㅤyacineee55000user-Agent|ㅤyacineee55000\",\"position\":\"0\",\"url\":\"http://w.bs-share.com:8000/247179867825237/23141543216575/438687\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24285403_ico.png",
+    "nameen": "AD Pr 2 Multi",
+    "position": "13",
+    "type": "channel",
+    "key": "windroidadrarad_sports"
+  }
+]

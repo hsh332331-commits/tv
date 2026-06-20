@@ -1,0 +1,65 @@
+[
+  {
+    "namear": "HBO Action",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"HBO Action\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/494.m3u8\"}]",
+    "logo": "https://1000logos.net/wp-content/uploads/2021/04/HBO-logo.png",
+    "nameen": "HBO Action",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidalokhbo_tv"
+  },
+  {
+    "namear": "HBO Arabic",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"HBO Arabic\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/495.m3u8\"}]",
+    "logo": "https://1000logos.net/wp-content/uploads/2021/04/HBO-logo.png",
+    "nameen": "HBO Arabic",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidalokhbo_tv"
+  },
+  {
+    "namear": "HBO India",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"HBO India\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/496.m3u8\"}]",
+    "logo": "https://1000logos.net/wp-content/uploads/2021/04/HBO-logo.png",
+    "nameen": "HBO India",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidalokhbo_tv"
+  },
+  {
+    "namear": "HBO Crime",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"HBO Crime\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/498.m3u8\"}]",
+    "logo": "https://1000logos.net/wp-content/uploads/2021/04/HBO-logo.png",
+    "nameen": "HBO Crime",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidalokhbo_tv"
+  },
+  {
+    "namear": "HBO Thriller",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"HBO Thriller\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/499.m3u8\"}]",
+    "logo": "https://1000logos.net/wp-content/uploads/2021/04/HBO-logo.png",
+    "nameen": "HBO Thriller",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidalokhbo_tv"
+  },
+  {
+    "namear": "HBO Horror",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"HBO Horror\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/500.m3u8\"}]",
+    "logo": "https://1000logos.net/wp-content/uploads/2021/04/HBO-logo.png",
+    "nameen": "HBO Horror",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidalokhbo_tv"
+  },
+  {
+    "namear": "HBO Cartoon Zaman",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"HBO Cartoon Zaman\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/501.m3u8\"}]",
+    "logo": "https://1000logos.net/wp-content/uploads/2021/04/HBO-logo.png",
+    "nameen": "HBO Cartoon Zaman",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidalokhbo_tv"
+  }
+]

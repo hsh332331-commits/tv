@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "TV 1",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://webuit.cdnhks.lol/lb/wiki118/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC45xZgRtYZEBIIwIuhb_QzNGSPapOhKmCKA&usqp=CAU",
+    "nameen": "TV 1",
+    "position": "0",
+    "type": "channel",
+    "key": "roland_garros"
+  },
+  {
+    "namear": "TV 2",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://sky.hlsjs.ru/sky/premium53/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC45xZgRtYZEBIIwIuhb_QzNGSPapOhKmCKA&usqp=CAU",
+    "nameen": "TV 2",
+    "position": "1",
+    "type": "channel",
+    "key": "roland_garros"
+  },
+  {
+    "namear": "TV 3",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://webuit.cdnhks.lol/lb/tc_plus_1/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC45xZgRtYZEBIIwIuhb_QzNGSPapOhKmCKA&usqp=CAU",
+    "nameen": "TV 3",
+    "position": "2",
+    "type": "channel",
+    "key": "roland_garros"
+  },
+  {
+    "namear": "beIN 5 HD",
+    "servers": "[{\"headers\":\"user-agent|damx|\",\"otherHeaders\":\"\",\"name\":\"beIN 5 HD\",\"Referer\":\"\",\"userAgent\":\"damx\",\"position\":\"0\",\"url\":\"http://warkop.cf/89/bein/05.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC45xZgRtYZEBIIwIuhb_QzNGSPapOhKmCKA&usqp=CAU",
+    "nameen": "beIN 5 HD",
+    "position": "3",
+    "type": "channel",
+    "key": "roland_garros"
+  },
+  {
+    "namear": "BeIN 6",
+    "servers": "[{\"headers\":\"user-agent|damx|\",\"otherHeaders\":\"\",\"name\":\"BeIN HD\",\"Referer\":\"\",\"userAgent\":\"damx\",\"position\":\"1\",\"url\":\"http://warkop.cf/89/bein/06.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC45xZgRtYZEBIIwIuhb_QzNGSPapOhKmCKA&usqp=CAU",
+    "nameen": "BeIN 6",
+    "position": "4",
+    "type": "channel",
+    "key": "roland_garros"
+  }
+]

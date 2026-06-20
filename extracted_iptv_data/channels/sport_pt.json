@@ -1,0 +1,38 @@
+[
+  {
+    "namear": "Sport 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://213.13.16.138/shls/LIVE$SPORTTV1_HD/mono.m3u8 ?device\\u003dTVOS_Tv\\u0026start\\u003dLIVE\\u0026end\\u003dEND\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8luNVZGZc9U5y8-ra2jpFGOs8Wq2hp1UUQ&usqp=CAU",
+    "nameen": "Sport 1",
+    "position": "0",
+    "type": "channel",
+    "key": "sport_pt"
+  },
+  {
+    "namear": "Sport 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://213.13.16.138/shls/LIVE$SPORTTV2_HD/mono.m3u8 ?device\\u003dTVOS_Tv\\u0026start\\u003dLIVE\\u0026end\\u003dEND\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8luNVZGZc9U5y8-ra2jpFGOs8Wq2hp1UUQ&usqp=CAU",
+    "nameen": "Sport 2",
+    "position": "1",
+    "type": "channel",
+    "key": "sport_pt"
+  },
+  {
+    "namear": "Sport 3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://213.13.16.138/shls/LIVE$SPORTTV3_HD/mono.m3u8 ?device\\u003dTVOS_Tv\\u0026start\\u003dLIVE\\u0026end\\u003dEND\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8luNVZGZc9U5y8-ra2jpFGOs8Wq2hp1UUQ&usqp=CAU",
+    "nameen": "Sport 3",
+    "position": "2",
+    "type": "channel",
+    "key": "sport_pt"
+  },
+  {
+    "namear": "Sport 4",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://213.13.16.138/shls/LIVE$SPORTTV4_HD/mono.m3u8 ?device\\u003dTVOS_Tv\\u0026start\\u003dLIVE\\u0026end\\u003dEND\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8luNVZGZc9U5y8-ra2jpFGOs8Wq2hp1UUQ&usqp=CAU",
+    "nameen": "Sport 4",
+    "position": "3",
+    "type": "channel",
+    "key": "sport_pt"
+  }
+]

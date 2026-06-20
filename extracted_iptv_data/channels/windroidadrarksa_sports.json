@@ -1,0 +1,38 @@
+[
+  {
+    "namear": "KSA Sport 1",
+    "servers": "[{\"headers\":\"Mozilla/5.0user-Agent|Mozilla/5.0user-Agent|Mozilla/5.0user-Agent|Mozilla/5.0\",\"otherHeaders\":\"\",\"name\":\"KSA Sport 1\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0user-Agent|Mozilla/5.0\",\"position\":\"0\",\"url\":\"https://edge.taghtia.com/sa/9.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/399808_ico.png",
+    "nameen": "KSA Sport 1",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarksa_sports"
+  },
+  {
+    "namear": "KSA Sport 2",
+    "servers": "[{\"headers\":\"Mozilla/5.0user-Agent|Mozilla/5.0user-Agent|Mozilla/5.0user-Agent|Mozilla/5.0\",\"otherHeaders\":\"\",\"name\":\"KSA Sport 2\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0user-Agent|Mozilla/5.0\",\"position\":\"0\",\"url\":\"https://edge.taghtia.com/sa/10.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/399860_ico.png",
+    "nameen": "KSA Sport 2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarksa_sports"
+  },
+  {
+    "namear": "KSA Sport 3",
+    "servers": "[{\"headers\":\"Rfuser-Agent|Rfuser-Agent|Rfuser-Agent|Rf\",\"otherHeaders\":\"\",\"name\":\"KSA Sport 3\",\"Referer\":\"\",\"userAgent\":\"Rfuser-Agent|Rf\",\"position\":\"0\",\"url\":\"https://edge.taghtia.com/sa/16.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2944960_ico.png",
+    "nameen": "KSA Sport 3",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarksa_sports"
+  },
+  {
+    "namear": "KSA Sport 4",
+    "servers": "[{\"headers\":\"Rfguser-Agent|Rfguser-Agent|Rfguser-Agent|Rfg\",\"otherHeaders\":\"\",\"name\":\"KSA Sport 4\",\"Referer\":\"\",\"userAgent\":\"Rfguser-Agent|Rfg\",\"position\":\"0\",\"url\":\"https://edge.taghtia.com/sa/17.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2944969_ico.png",
+    "nameen": "KSA Sport 4",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarksa_sports"
+  }
+]

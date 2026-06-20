@@ -1,0 +1,60 @@
+  category_arabic_tv.json                                   6068B OK list items=22
+  category_arabic_tv_decrypted.json                         7532B OK list items=22
+  category_arabic_vip.json                                  3738B OK list items=14
+  category_arabic_vip_decrypted.json                        6088B FAIL 'yo#f\x05vꙀ���!M\x19\x10]RӯҴ��\x1aQ(?%<ī����E\n\x12>?\x07������)\x1d_F}q�����Ps\x02x`u'
+  category_aya_pro_tv.json                                  3295B OK list items=11
+  category_aya_pro_tv_decrypted.json                        5327B FAIL 'yo#f\x05vꙀ���!M\x19\x10]RӯҴ��\x1aQ)\x12\x05}�����\x08\x06\x12{j\x07����ݜu\x08\x05\x19tp�����]3\x13~g$�'
+  category_aya_sport.json                                      2B OK list items=0
+  category_aya_tv_pro.json                                  1104B OK list items=4
+  category_aya_tv_pro_decrypted.json                        1795B FAIL "yo#f\x05vꙀ���!M\x19\x10]RӯҴ��\x1aQ$$'<��Ը��\x06H\x11sbJ����ݘvA\x10\x19>w������]i\t\x7fmz"
+  category_aya_tv_radio.json                                2619B OK list items=10
+  category_aya_tv_radio_decrypted.json                      4336B FAIL 'yo#f\x05vꙀ���!M\x19\x10]RӯҴ��\x1aQ (4S������E\n\x12>?\x07������)\x1d]Af0�����\x17|\x023e'
+  category_aya_vip.json                                      311B OK list items=2
+  category_aya_vip_decrypted.json                            523B FAIL 'yo#x\x05h������V\x06CH\x1a\x1c攕���O\x14\n_\\>�ѹ��O\x0f\x13>?\x07������Rd\x08\x1a3m�����r{\x1e>3'
+  category_bein_group.json                                  2613B OK list items=9
+  category_bein_group_decrypted.json                        4284B FAIL "yo#f\x05vꙀ���!M\x19\x10]RӯҴ��\x1aQ'\x18\x0fr����\x93yJ<NDg���Ƌi\x10\x10\x14yj�郠��Ps\x00o8:���"
+  category_bein_sport.json                                     2B OK list items=0
+  category_club_world_cup.json                               298B OK list items=1
+  category_club_world_cup_decrypted.json                     501B FAIL 'yo#f\x05vꙀ���!M\x19\x10]RӯҴ��\x1aQ \x0b\x03r������^HQ>iJ������rFZE+1�����V|\x15}g'
+  category_cup_world_2026.json                              5564B OK list items=19
+  category_cup_world_2026_decrypted.json                    9044B FAIL 'yo#f\x05vꙀ���!M\x19\x10]RӯҴ��\x1aQ(\x1c\x1e<ċ����E\n\x12>?\x07������)\x1dYBpj�����P\x7fIrfw'
+  category_cx_tv.json                                          2B OK list items=0
+  category_documentary_.json                                 526B OK list items=2
+  category_documentary__decrypted.json                       868B FAIL 'yo#x\x05h��������㍧�kH����O\x14\n_\\>������\x05E\x04h6\x0b������e]G\x19hj�����vR3'
+  category_euro_2024.json                                    774B OK list items=3
+  category_euro_2024_decrypted.json                         1229B FAIL 'yo#x\x05h������Y\nRR_o\xadš��a+GQDp������B\x1e\tlv\x1f����ŃgV\x04Axu�����\x17q\x15{'
+  category_event_stream.json                                3473B OK list items=13
+  category_event_stream_decrypted.json                      5693B FAIL 'yo#f\x05vꙀ���!M\x19\x10]RӯҴ��\x1aQ \x0b\x03r������^J.uq@�����oPFS3$������\x1b2Epf'
+  category_gold_cup_concacaf.json                              2B OK list items=0
+  category_highlights_football.json                          997B OK list items=3
+  category_highlights_football_decrypted.json               1607B FAIL 'yo#f\x05vꙀ���!M\x19\x10]RӯҴ��\x1aQ����HSC-�\x1f���Ł�N\x1e7[\x055����}AY���Uq\x00s+.�'
+  category_iptv.json                                         888B OK list items=4
+  category_iptv_decrypted.json                              1423B FAIL 'yo#x\x05h������R?oj]\x10��ز��\x1aQ\n\t\x12l�Ǵ���D\x19\x10}wQ������i_\x05Aa3�����M1\x12'
+  category_iptv_free.json                                   1829B OK list items=9
+  category_iptv_free_decrypted.json                         2899B FAIL 'yo#f\x05vꙀ���!M\x19\x10]RӯҴ��\x1aQ����HRB\x12��\x08\x06\x12{j\x07����ݜu\x08\x05\x19tp�����]3\x13~g$'
+  category_iptv_live_.json                                  2944B OK list items=10
+  category_iptv_live__decrypted.json                        4818B FAIL "yo#f\x05vꙀ���!M\x19\x10]RӯҴ��\x1aQ����HNB\x12IE��_0'I��ޡ��nF^Fb$ض���\x14r\x0f2n{�"
+  category_islam_tv.json                                    1626B OK list items=5
+  category_islam_tv_decrypted.json                          2625B FAIL 'yo#f\x05vꙀ���!M\x19\x10]RӯҴ��\x1aQ����H_B\x1e�\x1e���ŀ�o坡Ńa]\x08\x0c3v����\x16{\t\x7f{m����'
+  category_kids_tv.json                                     1117B OK list items=4
+  category_kids_tv_decrypted.json                           1826B FAIL 'yo#f\x05vꙀ���!M\x19\x10]RӯҴ��\x1aQ�\u07be�I|C?IC\n��Ĵ�C\x1e;[\x00�*\x10FYvqգ����Im]3&}�'
+  category_live_match.json                                  2514B OK list items=10
+  category_live_match_decrypted.json                        3974B FAIL 'yo#f\x05vꙀ���!M\x19\x10]RӯҴ��\x1aQ�\u05fe�IyB\x12IE\n��Ĵ�C\x1e;���p[Y_sr��ʸ��L{E0+x�'
+  category_match_time.json                                 10395B OK list items=36
+  category_match_time_decrypted.json                       16818B FAIL 'yo#f\x05vꙀ���!M\x19\x10]RӯҴ��\x1aQ$1*<í����z82>)\x07����ˀc\x10\x10\x14w\x7f�ꕸ��Uq\x00s+.��'
+  category_news.json                                         926B OK list items=3
+  category_news_decrypted.json                              1480B FAIL "yo#f\x05vꙀ���!M\x19\x10]RӯҴ��\x1aQ$/'^پ����\x06H\x11sbJ����ݘvA\x10\x19>g�����QjI\x7ffy�"
+  category_pluto_tv.json                                    1587B OK list items=6
+  category_pluto_tv_decrypted.json                          2595B FAIL 'yo#x\x05h������Y=zf6p�\ue579ոOQ__\x0eh�袿�O\x04\x1en|U��ծݎh\x02\x04Qbj�����VsHudu���'
+  category_smart_iptv.json                                     2B OK list items=0
+  category_smart_tv.json                                    1004B OK list items=4
+  category_smart_tv_decrypted.json                          1656B FAIL 'yo#x\x05h������R?oj_\n�\ue579ոOQ__\x0eh�袿�Z\x18\x18jl@������tT\x04U~s����J1\x14}{u��'
+  category_sport.json                                          2B OK list items=0
+  category_sport_.json                                      2862B OK list items=10
+  category_sport__decrypted.json                            4682B FAIL "yo#f\x05vꙀ���!M\x19\x10]RӯҴ��\x1aQ$/'^����\x93\x08F_pjB�勡��rBY\x0c>1������Ps\x002j{�"
+  category_sport_world.json                                    2B OK list items=0
+  category_sports_live.json                                  178B OK list items=1
+  category_sports_live_decrypted.json                        282B FAIL 'yo#x\x05h������H\x1fTN\x0b\x1cӦŴ��\x0cQ\t\x12\x01s�ǹ���D\x0b\x10y`K����كtF\nWul��Ҷ��\\}\x13uf'
+  category_sports_test_vip.json                                2B OK list items=0
+  category_world_tv.json                                    5438B OK list items=22
+  category_world_tv_decrypted.json                          8971B FAIL 'yo#f\x05vꙀ���!M\x19\x10]RӯҴ��\x1aQ$;4UӼ����E\n\x12>?\x07������)\x1dIR\x7f3������Ip\x002o'

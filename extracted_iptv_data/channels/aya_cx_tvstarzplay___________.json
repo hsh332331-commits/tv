@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "STZ1 AR",
+    "servers": "[{\"headers\":\"\",\"license\":\"b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"Multi STARz Play\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUnCsuEMLjdzQOtvRzqiFwFbcdLxsi6ZDUZ661HtmvZg&s=10",
+    "nameen": "STZ1 AR",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvstarzplay_ستارز_بلاي"
+  },
+  {
+    "namear": "STZ2 AR",
+    "servers": "[{\"headers\":\".\",\"license\":\"ee861edcd99093153a763a94b14c2c5a:ab3991f6a7729ba1ea4bcdba0c1ae6c0\",\"scheme\":\"clearkey\",\"otherHeaders\":\".\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://sps2.starzplayarabia.com/out/v1/15e7d1ffb99746dda03f71dbbbc3c08b/index.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUnCsuEMLjdzQOtvRzqiFwFbcdLxsi6ZDUZ661HtmvZg&s=10",
+    "nameen": "STZ2 AR",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvstarzplay_ستارز_بلاي"
+  },
+  {
+    "namear": "STZ3 AR",
+    "servers": "[{\"headers\":\"\",\"license\":\"117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUnCsuEMLjdzQOtvRzqiFwFbcdLxsi6ZDUZ661HtmvZg&s=10",
+    "nameen": "STZ3 AR",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvstarzplay_ستارز_بلاي"
+  },
+  {
+    "namear": "STZSD",
+    "servers": "[{\"headers\":\"Referer|https://11.sportsurges.cc/ad-premium-1/|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://11.sportsurges.cc/ad-premium-1/\",\"userAgent\":\"\",\"position\":\"08\",\"url\":\"https://s3.eu-north-1.amazonaws.com/45.b55/hls/1/stream.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzLUEWUh15A8TtXFxQifGwcaCcVeRngN6qdxjBeVx5Iw&s=10",
+    "nameen": "STZSD",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvstarzplay_ستارز_بلاي"
+  },
+  {
+    "namear": "STZHD",
+    "servers": "[{\"headers\":\"Referer|https://11.sportsurges.cc/ad-premium-1/|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://11.sportsurges.cc/ad-premium-1/\",\"userAgent\":\"\",\"position\":\"08\",\"url\":\"https://s3.eu-north-1.amazonaws.com/45.b55/hls/0/stream.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzLUEWUh15A8TtXFxQifGwcaCcVeRngN6qdxjBeVx5Iw&s=10",
+    "nameen": "STZHD",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvstarzplay_ستارز_بلاي"
+  }
+]

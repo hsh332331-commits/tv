@@ -1,0 +1,83 @@
+[
+  {
+    "namear": "BeIN FHD 5",
+    "servers": "[{\"headers\":\"dVpUVkZsZAuser-Agent|dVpUVkZsZAuser-Agent|dVpUVkZsZAuser-Agent|dVpUVkZsZA\",\"otherHeaders\":\"\",\"name\":\"BeIN FHD 5\",\"Referer\":\"\",\"userAgent\":\"dVpUVkZsZAuser-Agent|dVpUVkZsZA\",\"position\":\"0\",\"url\":\"http://w.bs-share.com:8000/247179867825237/23141543216575/329317\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9543820_ico.png",
+    "nameen": "BeIN FHD 5",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarbein_5"
+  },
+  {
+    "namear": "BeIN 5 SD",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"BeIN 5 SD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/26.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9219308_ico.png",
+    "nameen": "BeIN 5 SD",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarbein_5"
+  },
+  {
+    "namear": "Bein 5 FHD",
+    "servers": "[{\"headers\":\"ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Bein 5 FHD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"http://pizztv.xyz:8000/RUSH-81404004/VLstCMcXNtBL/5\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9543756_ico.png",
+    "nameen": "Bein 5 FHD",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarbein_5"
+  },
+  {
+    "namear": "Bein SD 5",
+    "servers": "[{\"headers\":\"airmaxtvpro1user-Agent|airmaxtvpro1user-Agent|airmaxtvpro1user-Agent|airmaxtvpro1\",\"otherHeaders\":\"\",\"name\":\"Bein SD 5\",\"Referer\":\"\",\"userAgent\":\"airmaxtvpro1user-Agent|airmaxtvpro1\",\"position\":\"0\",\"url\":\"https://airmaxtv.online:25463/airmaxtvbein936/8uEw8a9Rw262/17\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9544055_ico.png",
+    "nameen": "Bein SD 5",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarbein_5"
+  },
+  {
+    "namear": "Bein 5 HD",
+    "servers": "[{\"headers\":\"ㅤㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Bein 5 HD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://eas4.gcdn.co/UKS13/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/444343_ico.png",
+    "nameen": "Bein 5 HD",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarbein_5"
+  },
+  {
+    "namear": "beIN 5 FHD",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"beIN 5 FHD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/8.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4607744_ico.png",
+    "nameen": "beIN 5 FHD",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarbein_5"
+  },
+  {
+    "namear": "bein 5HD",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"bein 5HD\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1208\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4632507_ico.png",
+    "nameen": "bein 5HD",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarbein_5"
+  },
+  {
+    "namear": "beIN SD5",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"beIN SD5\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/79\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/5253985_ico.png",
+    "nameen": "beIN SD5",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarbein_5"
+  },
+  {
+    "namear": "bein 5 HD",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"bein 5 HD\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://ultra-pro.live:8080/kokylive/jcxOeskEpp/153244\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/6670711_ico.png",
+    "nameen": "bein 5 HD",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarbein_5"
+  }
+]

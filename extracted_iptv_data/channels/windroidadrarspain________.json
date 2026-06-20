@@ -1,0 +1,173 @@
+[
+  {
+    "namear": "DW Español",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"DW Español\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12234630_ico.png",
+    "nameen": "DW Español",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarspain_إسبانيا"
+  },
+  {
+    "namear": "RT Español",
+    "servers": "[{\"headers\":\"ZZZZZZZZZZZZuser-Agent|ZZZZZZZZZZZZuser-Agent|ZZZZZZZZZZZZuser-Agent|ZZZZZZZZZZZZ\",\"otherHeaders\":\"\",\"name\":\"RT Español\",\"Referer\":\"\",\"userAgent\":\"ZZZZZZZZZZZZuser-Agent|ZZZZZZZZZZZZ\",\"position\":\"0\",\"url\":\"https://rt-esp.rttv.com/live/rtesp/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/78669_ico.png",
+    "nameen": "RT Español",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarspain_إسبانيا"
+  },
+  {
+    "namear": "Real Madrid TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Real Madrid TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_1.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/627137_ico.png",
+    "nameen": "Real Madrid TV",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarspain_إسبانيا"
+  },
+  {
+    "namear": "BeIN Sport Ñ",
+    "servers": "[{\"headers\":\"m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6Ruser-Agent|m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6Ruser-Agent|m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6Ruser-Agent|m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6R\",\"otherHeaders\":\"\",\"name\":\"BeIN Sport Ñ\",\"Referer\":\"\",\"userAgent\":\"m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6Ruser-Agent|m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6R\",\"position\":\"0\",\"url\":\"https://nffthex0kzt.xyz/rk/tGRY347Ph1/sFHHhdwS53/866.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7057499_ico.png",
+    "nameen": "BeIN Sport Ñ",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarspain_إسبانيا"
+  },
+  {
+    "namear": "Cuatro SP",
+    "servers": "[{\"headers\":\"cp_2531user-Agent|cp_2531user-Agent|cp_2531user-Agent|cp_2531\",\"otherHeaders\":\"\",\"name\":\"Cuatro SP\",\"Referer\":\"\",\"userAgent\":\"cp_2531user-Agent|cp_2531\",\"position\":\"0\",\"url\":\"http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/53.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7291168_ico.png",
+    "nameen": "Cuatro SP",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarspain_إسبانيا"
+  },
+  {
+    "namear": "Bein Sport Ñ SD",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"Bein Sport Ñ SD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/1242\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7739980_ico.png",
+    "nameen": "Bein Sport Ñ SD",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarspain_إسبانيا"
+  },
+  {
+    "namear": "TeleCinco",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"TeleCinco\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1136\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7905251_ico.png",
+    "nameen": "TeleCinco",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarspain_إسبانيا"
+  },
+  {
+    "namear": "Movistar Series",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Movistar Series\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1099\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7905363_ico.png",
+    "nameen": "Movistar Series",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarspain_إسبانيا"
+  },
+  {
+    "namear": "Movistar Drama",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Movistar Drama\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1180\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7905484_ico.png",
+    "nameen": "Movistar Drama",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarspain_إسبانيا"
+  },
+  {
+    "namear": "Movistar Estrenos",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Movistar Estrenos\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1102\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7905477_ico.png",
+    "nameen": "Movistar Estrenos",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadrarspain_إسبانيا"
+  },
+  {
+    "namear": "Movistar Action",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Movistar Action\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1094\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7905564_ico.png",
+    "nameen": "Movistar Action",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidadrarspain_إسبانيا"
+  },
+  {
+    "namear": "Movistar Comedia",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Movistar Comedia\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1200\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7905522_ico.png",
+    "nameen": "Movistar Comedia",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidadrarspain_إسبانيا"
+  },
+  {
+    "namear": "Movistar Cine Ñ",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Movistar Cine Ñ\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1097\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7905646_ico.png",
+    "nameen": "Movistar Cine Ñ",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidadrarspain_إسبانيا"
+  },
+  {
+    "namear": "Movistar Deportes",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Movistar Deportes\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1101\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7905502_ico.png",
+    "nameen": "Movistar Deportes",
+    "position": "13",
+    "type": "channel",
+    "key": "windroidadrarspain_إسبانيا"
+  },
+  {
+    "namear": "Liga Campeones",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Liga Campeones\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1104\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7905408_ico.png",
+    "nameen": "Liga Campeones",
+    "position": "14",
+    "type": "channel",
+    "key": "windroidadrarspain_إسبانيا"
+  },
+  {
+    "namear": "Movistar LaLiga",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Movistar LaLiga\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1125\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7905534_ico.png",
+    "nameen": "Movistar LaLiga",
+    "position": "15",
+    "type": "channel",
+    "key": "windroidadrarspain_إسبانيا"
+  },
+  {
+    "namear": "Movistar F1",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Movistar F1\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1109\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7905451_ico.png",
+    "nameen": "Movistar F1",
+    "position": "16",
+    "type": "channel",
+    "key": "windroidadrarspain_إسبانيا"
+  },
+  {
+    "namear": "Movistar Golf",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Movistar Golf\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1098\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7905437_ico.png",
+    "nameen": "Movistar Golf",
+    "position": "17",
+    "type": "channel",
+    "key": "windroidadrarspain_إسبانيا"
+  },
+  {
+    "namear": "TOROS",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"TOROS\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1132\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7905287_ico.png",
+    "nameen": "TOROS",
+    "position": "18",
+    "type": "channel",
+    "key": "windroidadrarspain_إسبانيا"
+  }
+]

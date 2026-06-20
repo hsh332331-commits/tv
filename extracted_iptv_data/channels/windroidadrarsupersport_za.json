@@ -1,0 +1,290 @@
+[
+  {
+    "namear": "SS PL+",
+    "servers": "[{\"headers\":\"@MEME4646@user-Agent|@MEME4646@user-Agent|@MEME4646@user-Agent|@MEME4646@\",\"otherHeaders\":\"\",\"name\":\"SS PL+\",\"Referer\":\"\",\"userAgent\":\"@MEME4646@user-Agent|@MEME4646@\",\"position\":\"0\",\"url\":\"http://pizztv.xyz:8000/NETFLIX342/TXWFdZDzeuKW/244\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/22130432_ico.png",
+    "nameen": "SS PL+",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarsupersport_za"
+  },
+  {
+    "namear": "SS Premier League",
+    "servers": "[{\"headers\":\"@MEME4646@user-Agent|@MEME4646@user-Agent|@MEME4646@user-Agent|@MEME4646@\",\"otherHeaders\":\"\",\"name\":\"SS Premier League\",\"Referer\":\"\",\"userAgent\":\"@MEME4646@user-Agent|@MEME4646@\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3350.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2961630_ico.png",
+    "nameen": "SS Premier League",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarsupersport_za"
+  },
+  {
+    "namear": "SS Football",
+    "servers": "[{\"headers\":\"SSuser-Agent|SSuser-Agent|SSuser-Agent|SS\",\"otherHeaders\":\"\",\"name\":\"SS Football\",\"Referer\":\"\",\"userAgent\":\"SSuser-Agent|SS\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3343.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2961096_ico.png",
+    "nameen": "SS Football",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarsupersport_za"
+  },
+  {
+    "namear": "SS LaLiga",
+    "servers": "[{\"headers\":\"ssuser-Agent|ssuser-Agent|ssuser-Agent|ss\",\"otherHeaders\":\"\",\"name\":\"SS LaLiga\",\"Referer\":\"\",\"userAgent\":\"ssuser-Agent|ss\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3346.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2961131_ico.png",
+    "nameen": "SS LaLiga",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarsupersport_za"
+  },
+  {
+    "namear": "SS Grandstand",
+    "servers": "[{\"headers\":\"@MEME4646@user-Agent|@MEME4646@user-Agent|@MEME4646@user-Agent|@MEME4646@\",\"otherHeaders\":\"\",\"name\":\"SS Grandstand\",\"Referer\":\"\",\"userAgent\":\"@MEME4646@user-Agent|@MEME4646@\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3624.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2961120_ico.png",
+    "nameen": "SS Grandstand",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarsupersport_za"
+  },
+  {
+    "namear": "SS Action",
+    "servers": "[{\"headers\":\"@10086liveuser-Agent|@10086liveuser-Agent|@10086liveuser-Agent|@10086live\",\"otherHeaders\":\"\",\"name\":\"SS Action\",\"Referer\":\"\",\"userAgent\":\"@10086liveuser-Agent|@10086live\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3340.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2960908_ico.png",
+    "nameen": "SS Action",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarsupersport_za"
+  },
+  {
+    "namear": "SS Blitz",
+    "servers": "[{\"headers\":\"AMQ10086@meuser-Agent|AMQ10086@meuser-Agent|AMQ10086@meuser-Agent|AMQ10086@me\",\"otherHeaders\":\"\",\"name\":\"SS Blitz\",\"Referer\":\"\",\"userAgent\":\"AMQ10086@meuser-Agent|AMQ10086@me\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3341.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2960927_ico.png",
+    "nameen": "SS Blitz",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarsupersport_za"
+  },
+  {
+    "namear": "SS Cricket",
+    "servers": "[{\"headers\":\"@MEME4646@user-Agent|@MEME4646@user-Agent|@MEME4646@user-Agent|@MEME4646@\",\"otherHeaders\":\"\",\"name\":\"SS Cricket\",\"Referer\":\"\",\"userAgent\":\"@MEME4646@user-Agent|@MEME4646@\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3622.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2961065_ico.png",
+    "nameen": "SS Cricket",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarsupersport_za"
+  },
+  {
+    "namear": "SS Maximo 1",
+    "servers": "[{\"headers\":\"REDLINECLIENT ed5zs4d5sd41user-Agent|REDLINECLIENT ed5zs4d5sd41user-Agent|REDLINECLIENT ed5zs4d5sd41user-Agent|REDLINECLIENT ed5zs4d5sd41\",\"otherHeaders\":\"\",\"name\":\"SS Maximo 1\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT ed5zs4d5sd41user-Agent|REDLINECLIENT ed5zs4d5sd41\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3817.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2961504_ico.png",
+    "nameen": "SS Maximo 1",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarsupersport_za"
+  },
+  {
+    "namear": "SS Variety 1",
+    "servers": "[{\"headers\":\"Know@me18user-Agent|Know@me18user-Agent|Know@me18user-Agent|Know@me18\",\"otherHeaders\":\"\",\"name\":\"SS Variety 1\",\"Referer\":\"\",\"userAgent\":\"Know@me18user-Agent|Know@me18\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3354.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18519049_ico.png",
+    "nameen": "SS Variety 1",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadrarsupersport_za"
+  },
+  {
+    "namear": "SS Variety 2",
+    "servers": "[{\"headers\":\"@10086liveuser-Agent|@10086liveuser-Agent|@10086liveuser-Agent|@10086live\",\"otherHeaders\":\"\",\"name\":\"SS Variety 2\",\"Referer\":\"\",\"userAgent\":\"@10086liveuser-Agent|@10086live\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3355.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18519056_ico.png",
+    "nameen": "SS Variety 2",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidadrarsupersport_za"
+  },
+  {
+    "namear": "SS Variety 3",
+    "servers": "[{\"headers\":\"Know@me18user-Agent|Know@me18user-Agent|Know@me18user-Agent|Know@me18\",\"otherHeaders\":\"\",\"name\":\"SS Variety 3\",\"Referer\":\"\",\"userAgent\":\"Know@me18user-Agent|Know@me18\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3356.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18519067_ico.png",
+    "nameen": "SS Variety 3",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidadrarsupersport_za"
+  },
+  {
+    "namear": "SS Variety 4",
+    "servers": "[{\"headers\":\"@10086liveuser-Agent|@10086liveuser-Agent|@10086liveuser-Agent|@10086live\",\"otherHeaders\":\"\",\"name\":\"SS Variety 4\",\"Referer\":\"\",\"userAgent\":\"@10086liveuser-Agent|@10086live\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3357.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18519073_ico.png",
+    "nameen": "SS Variety 4",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidadrarsupersport_za"
+  },
+  {
+    "namear": "SS Play",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"SS Play\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3645.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2961105_ico.png",
+    "nameen": "SS Play",
+    "position": "13",
+    "type": "channel",
+    "key": "windroidadrarsupersport_za"
+  },
+  {
+    "namear": "SS PSL",
+    "servers": "[{\"headers\":\"@MEME4646@user-Agent|@MEME4646@user-Agent|@MEME4646@user-Agent|@MEME4646@\",\"otherHeaders\":\"\",\"name\":\"SS PSL\",\"Referer\":\"\",\"userAgent\":\"@MEME4646@user-Agent|@MEME4646@\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3628.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18195788_ico.png",
+    "nameen": "SS PSL",
+    "position": "14",
+    "type": "channel",
+    "key": "windroidadrarsupersport_za"
+  },
+  {
+    "namear": "SS Rugby",
+    "servers": "[{\"headers\":\"@10086liveuser-Agent|@10086liveuser-Agent|@10086liveuser-Agent|@10086live\",\"otherHeaders\":\"\",\"name\":\"SS Rugby\",\"Referer\":\"\",\"userAgent\":\"@10086liveuser-Agent|@10086live\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3352.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18195796_ico.png",
+    "nameen": "SS Rugby",
+    "position": "15",
+    "type": "channel",
+    "key": "windroidadrarsupersport_za"
+  },
+  {
+    "namear": "SS Tennis",
+    "servers": "[{\"headers\":\"@MEME4646@user-Agent|@MEME4646@user-Agent|@MEME4646@user-Agent|@MEME4646@\",\"otherHeaders\":\"\",\"name\":\"SS Tennis\",\"Referer\":\"\",\"userAgent\":\"@MEME4646@user-Agent|@MEME4646@\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3630.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18519043_ico.png",
+    "nameen": "SS Tennis",
+    "position": "16",
+    "type": "channel",
+    "key": "windroidadrarsupersport_za"
+  },
+  {
+    "namear": "SS Golf",
+    "servers": "[{\"headers\":\"@MEME4646@user-Agent|@MEME4646@user-Agent|@MEME4646@user-Agent|@MEME4646@\",\"otherHeaders\":\"\",\"name\":\"SS Golf\",\"Referer\":\"\",\"userAgent\":\"@MEME4646@user-Agent|@MEME4646@\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3623.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/22134019_ico.png",
+    "nameen": "SS Golf",
+    "position": "17",
+    "type": "channel",
+    "key": "windroidadrarsupersport_za"
+  },
+  {
+    "namear": "SS Motorsport",
+    "servers": "[{\"headers\":\"@MEME4646@user-Agent|@MEME4646@user-Agent|@MEME4646@user-Agent|@MEME4646@\",\"otherHeaders\":\"\",\"name\":\"SS Motorsport\",\"Referer\":\"\",\"userAgent\":\"@MEME4646@user-Agent|@MEME4646@\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3626.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2961610_ico.png",
+    "nameen": "SS Motorsport",
+    "position": "18",
+    "type": "channel",
+    "key": "windroidadrarsupersport_za"
+  },
+  {
+    "namear": "SS WWE",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"SS WWE\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3660.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/22236001_ico.png",
+    "nameen": "SS WWE",
+    "position": "19",
+    "type": "channel",
+    "key": "windroidadrarsupersport_za"
+  },
+  {
+    "namear": "SS Pre L+",
+    "servers": "[{\"headers\":\"ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"SS Pre L+\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"http://pizztv.xyz:8000/RUSH-81404004/VLstCMcXNtBL/306\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26261665_ico.png",
+    "nameen": "SS Pre L+",
+    "position": "20",
+    "type": "channel",
+    "key": "windroidadrarsupersport_za"
+  },
+  {
+    "namear": "SS Action+",
+    "servers": "[{\"headers\":\"ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"SS Action+\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"http://pizztv.xyz:8000/RUSH-81404004/VLstCMcXNtBL/14\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26261685_ico.png",
+    "nameen": "SS Action+",
+    "position": "21",
+    "type": "channel",
+    "key": "windroidadrarsupersport_za"
+  },
+  {
+    "namear": "SS Liga+",
+    "servers": "[{\"headers\":\"ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"SS Liga+\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"http://pizztv.xyz:8000/RUSH-81404004/VLstCMcXNtBL/17\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26262139_ico.png",
+    "nameen": "SS Liga+",
+    "position": "22",
+    "type": "channel",
+    "key": "windroidadrarsupersport_za"
+  },
+  {
+    "namear": "SS Blitz+",
+    "servers": "[{\"headers\":\"ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"SS Blitz+\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"http://pizztv.xyz:8000/RUSH-81404004/VLstCMcXNtBL/238\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26261660_ico.png",
+    "nameen": "SS Blitz+",
+    "position": "23",
+    "type": "channel",
+    "key": "windroidadrarsupersport_za"
+  },
+  {
+    "namear": "SS Maximo+",
+    "servers": "[{\"headers\":\"ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"SS Maximo+\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"http://pizztv.xyz:8000/RUSH-81404004/VLstCMcXNtBL/19\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26261671_ico.png",
+    "nameen": "SS Maximo+",
+    "position": "24",
+    "type": "channel",
+    "key": "windroidadrarsupersport_za"
+  },
+  {
+    "namear": "SS Variety1+",
+    "servers": "[{\"headers\":\"ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"SS Variety1+\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"http://af.rpstv.xyz:8081/us1new/superspv1/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26261693_ico.png",
+    "nameen": "SS Variety1+",
+    "position": "25",
+    "type": "channel",
+    "key": "windroidadrarsupersport_za"
+  },
+  {
+    "namear": "SS Variety2+",
+    "servers": "[{\"headers\":\"ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"SS Variety2+\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"http://af.rpstv.xyz:8081/us1new/superspv2/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26261698_ico.png",
+    "nameen": "SS Variety2+",
+    "position": "26",
+    "type": "channel",
+    "key": "windroidadrarsupersport_za"
+  },
+  {
+    "namear": "SS Variety3+",
+    "servers": "[{\"headers\":\"ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"SS Variety3+\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"http://af.rpstv.xyz:8081/us1new/superspv3/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26262418_ico.png",
+    "nameen": "SS Variety3+",
+    "position": "27",
+    "type": "channel",
+    "key": "windroidadrarsupersport_za"
+  },
+  {
+    "namear": "SS Variety4+",
+    "servers": "[{\"headers\":\"ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"SS Variety4+\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"http://af.rpstv.xyz:8081/us1new/superspv4/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26262419_ico.png",
+    "nameen": "SS Variety4+",
+    "position": "28",
+    "type": "channel",
+    "key": "windroidadrarsupersport_za"
+  },
+  {
+    "namear": "SS Football+",
+    "servers": "[{\"headers\":\"ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"SS Football+\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"http://pizztv.xyz:8000/RUSH-81404004/VLstCMcXNtBL/15\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26910167_ico.png",
+    "nameen": "SS Football+",
+    "position": "29",
+    "type": "channel",
+    "key": "windroidadrarsupersport_za"
+  },
+  {
+    "namear": "SS Football*",
+    "servers": "[{\"headers\":\"ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"SS Football*\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤuser-Agent|ㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://tvnow.best/api/stream/rsjanisse@yahoo.com/Thelordsservant72/livetv.epg/ss.football.ze.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26910208_ico.png",
+    "nameen": "SS Football*",
+    "position": "30",
+    "type": "channel",
+    "key": "windroidadrarsupersport_za"
+  },
+  {
+    "namear": "SS EPL",
+    "servers": "[{\"headers\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36user-Agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36user-Agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36user-Agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"otherHeaders\":\"\",\"name\":\"SS EPL\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36user-Agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://asdfasdft.cdnhks.lol/lb/premium414/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/27809136_ico.png",
+    "nameen": "SS EPL",
+    "position": "31",
+    "type": "channel",
+    "key": "windroidadrarsupersport_za"
+  }
+]

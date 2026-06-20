@@ -1,0 +1,20 @@
+[
+  {
+    "namear": "AD SPORTS 2",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"متعدد الجودات\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index.m3u8\"}]",
+    "logo": "https://j.top4top.io/p_3323nv0jv1.jpg",
+    "nameen": "AD SPORTS 2",
+    "position": "23",
+    "type": "channel",
+    "key": "aya_cx_tvad_sports_ᴹᵁᴸᵀᴵ"
+  },
+  {
+    "namear": "AD SPORTS 1",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"متعددد الجودات\",\"userAgent\":\"\",\"position\":\"222\",\"url\":\"https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8\"}]",
+    "logo": "https://up6.cc/2025/04/174510674057621.png",
+    "nameen": "AD SPORTS 1",
+    "position": "22",
+    "type": "channel",
+    "key": "aya_cx_tvad_sports_ᴹᵁᴸᵀᴵ"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "namear": "beIN Sport 3 SD",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"SD FAM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"300\",\"url\":\"http://a502.variety-buy.store/api/channel/26\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
+    "nameen": "beIN Sport 3 SD",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_sd"
+  },
+  {
+    "namear": "beIN Sport 4 SD",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"SD FAM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"300\",\"url\":\"http://a502.variety-buy.store/api/channel/27\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",
+    "nameen": "beIN Sport 4 SD",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_sd"
+  },
+  {
+    "namear": "beIN Sport 6 SD",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"SD FAM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"300\",\"url\":\"http://a502.variety-buy.store/api/channel/29\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png",
+    "nameen": "beIN Sport 6 SD",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_sd"
+  },
+  {
+    "namear": "beIN Sport 5 SD",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"SD FAM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"300\",\"url\":\"http://a502.variety-buy.store/api/channel/28\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",
+    "nameen": "beIN Sport 5 SD",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_sd"
+  },
+  {
+    "namear": "beIN Sport 1 SD",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"SD FAM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"300\",\"url\":\"http://a502.variety-buy.store/api/channel/24\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
+    "nameen": "beIN Sport 1 SD",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_sd"
+  },
+  {
+    "namear": "beIN Sport 8 SD",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"SD FAM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"300\",\"url\":\"http://a502.variety-buy.store/api/channel/31\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",
+    "nameen": "beIN Sport 8 SD",
+    "position": "7",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_sd"
+  },
+  {
+    "namear": "beIN Sport 2 SD",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"SD FAM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"300\",\"url\":\"http://a502.variety-buy.store/api/channel/25\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",
+    "nameen": "beIN Sport 2 SD",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_sd"
+  },
+  {
+    "namear": "beIN Sport 7 SD",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"SD FAM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"300\",\"url\":\"http://a502.variety-buy.store/api/channel/30\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",
+    "nameen": "beIN Sport 7 SD",
+    "position": "6",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_sd"
+  },
+  {
+    "namear": "beIN NEWS",
+    "servers": "[{\"license\":\"\",\"headers\":\"find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"isWeb\":\"false\",\"name\":\"Local Stream\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://www.youtube.com/watch?v\\u003dumCCh6e7eXI\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png",
+    "nameen": "beIN NEWS",
+    "position": "9",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_sd"
+  },
+  {
+    "namear": "beIN Global",
+    "servers": "[{\"license\":\"\",\"headers\":\"find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://www.youtube.com/live/AiQasdSrZVo?si\\u003dxPTrXb2bBYkG7r8L\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png",
+    "nameen": "beIN Global",
+    "position": "9",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_sd"
+  }
+]

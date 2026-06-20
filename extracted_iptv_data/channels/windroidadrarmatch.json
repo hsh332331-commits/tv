@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "Match! TV",
+    "servers": "[{\"headers\":\"VLC/2.2.4 LibVLC/2.2.4user-Agent|VLC/2.2.4 LibVLC/2.2.4user-Agent|VLC/2.2.4 LibVLC/2.2.4user-Agent|VLC/2.2.4 LibVLC/2.2.4\",\"otherHeaders\":\"\",\"name\":\"Match! TV\",\"Referer\":\"\",\"userAgent\":\"VLC/2.2.4 LibVLC/2.2.4user-Agent|VLC/2.2.4 LibVLC/2.2.4\",\"position\":\"0\",\"url\":\"http://194.143.148.28/MatchHD/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/22271358_ico.png",
+    "nameen": "Match! TV",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarmatch!"
+  },
+  {
+    "namear": "Match! TV\"",
+    "servers": "[{\"headers\":\"VVuser-Agent|VVuser-Agent|VVuser-Agent|VV\",\"otherHeaders\":\"\",\"name\":\"Match! TV\\\"\",\"Referer\":\"\",\"userAgent\":\"VVuser-Agent|VV\",\"position\":\"0\",\"url\":\"https://bl.uma.media/live/312119/HLS/4614144_3/2/1/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/23585278_ico.png",
+    "nameen": "Match! TV\"",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarmatch!"
+  },
+  {
+    "namear": "Match Футбол 1",
+    "servers": "[{\"headers\":\"LLuser-Agent|LLuser-Agent|LLuser-Agent|LL\",\"otherHeaders\":\"\",\"name\":\"Match Футбол 1\",\"Referer\":\"\",\"userAgent\":\"LLuser-Agent|LL\",\"position\":\"0\",\"url\":\"http://bl.uma.media/live/126863/HLS/6866944_4/2/1/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24466366_ico.png",
+    "nameen": "Match Футбол 1",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarmatch!"
+  },
+  {
+    "namear": "Match Футбол 2",
+    "servers": "[{\"headers\":\"OOuser-Agent|OOuser-Agent|OOuser-Agent|OO\",\"otherHeaders\":\"\",\"name\":\"Match Футбол 2\",\"Referer\":\"\",\"userAgent\":\"OOuser-Agent|OO\",\"position\":\"0\",\"url\":\"http://bl.uma.media/live/126864/HLS/6866944_4/2/1/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24466374_ico.png",
+    "nameen": "Match Футбол 2",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarmatch!"
+  },
+  {
+    "namear": "Match Футбол 3",
+    "servers": "[{\"headers\":\"GGuser-Agent|GGuser-Agent|GGuser-Agent|GG\",\"otherHeaders\":\"\",\"name\":\"Match Футбол 3\",\"Referer\":\"\",\"userAgent\":\"GGuser-Agent|GG\",\"position\":\"0\",\"url\":\"http://bl.uma.media/live/126865/HLS/6866944_4/2/1/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24466385_ico.png",
+    "nameen": "Match Футбол 3",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarmatch!"
+  }
+]

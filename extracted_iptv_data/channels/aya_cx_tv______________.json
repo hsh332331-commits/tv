@@ -1,0 +1,218 @@
+[
+  {
+    "namear": "Iraq TV",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://63b03f7689049.streamlock.net/live/_definst_/1tv/playlist.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://63b03f7689049.streamlock.net/live/_definst_/1tv/playlist.m3u8\"}]",
+    "logo": "https://www.lyngsat.com/logo/tv/num/1tv-iq.png",
+    "nameen": "Iraq TV",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_الــعراق"
+  },
+  {
+    "namear": "قناة آفاق",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"W\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://95.216.180.111:1935/live/1/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://95.216.180.111:1935/live/1/index.m3u8\"}]",
+    "logo": "https://bit.ly/3WYPBq5",
+    "nameen": "قناة آفاق",
+    "position": "13",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_الــعراق"
+  },
+  {
+    "namear": "الشرقية العراقية",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/2NvDjpV",
+    "nameen": "الشرقية العراقية",
+    "position": "6",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_الــعراق"
+  },
+  {
+    "namear": "قناة الرافدين",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://51.255.84.28:8081/arrafidaintv/source2/chunks.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://51.255.84.28:8081/arrafidaintv/source2/chunks.m3u8\"}]",
+    "logo": "https://bit.ly/3I0cLqH",
+    "nameen": "قناة الرافدين",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_الــعراق"
+  },
+  {
+    "namear": "الشرقية الإخبارية",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://ns8.indexforce.com:1935/alsharqiyalive/mystream/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://ns8.indexforce.com:1935/alsharqiyalive/mystream/index.m3u8\"}]",
+    "logo": "https://bit.ly/42Ry1ap",
+    "nameen": "الشرقية الإخبارية",
+    "position": "7",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_الــعراق"
+  },
+  {
+    "namear": "قناة دجلة",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://ghaasiflu.online/Dijlah/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://ghaasiflu.online/Dijlah/index.m3u8\"}]",
+    "logo": "https://bit.ly/3c6GdLY",
+    "nameen": "قناة دجلة",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_الــعراق"
+  },
+  {
+    "namear": "قناة الإتجاه",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://95.216.180.111:1935/live/33/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://95.216.180.111:1935/live/33/index.m3u8\"}]",
+    "logo": "https://bit.ly/3NLCeEq",
+    "nameen": "قناة الإتجاه",
+    "position": "11",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_الــعراق"
+  },
+  {
+    "namear": "كربلاء الفضائية",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://95.216.180.111:1935/live/45/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"9\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://95.216.180.111:1935/live/45/index.m3u8\"}]",
+    "logo": "https://bit.ly/3HVhdH3",
+    "nameen": "كربلاء الفضائية",
+    "position": "18",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_الــعراق"
+  },
+  {
+    "namear": "العراقية الإخبارية",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/news1/chunks.m3u8\"}]",
+    "logo": "",
+    "nameen": "العراقية الإخبارية",
+    "position": "23",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_الــعراق"
+  },
+  {
+    "namear": "قناة الأيام",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://95.216.180.111:1935/live/6/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://95.216.180.111:1935/live/6/index.m3u8\"}]",
+    "logo": "https://bit.ly/3lcOF32",
+    "nameen": "قناة الأيام",
+    "position": "15",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_الــعراق"
+  },
+  {
+    "namear": "الرشيد",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8\"}]",
+    "logo": "https://file.rafalnht.com/f9e6edbe568e46f24b348c2cf0105710.photo.jpg",
+    "nameen": "الرشيد",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_الــعراق"
+  },
+  {
+    "namear": "العراق بلادي",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://95.216.180.111:1935/live/68/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://95.216.180.111:1935/live/68/index.m3u8\"}]",
+    "logo": "https://bit.ly/3wXutEM",
+    "nameen": "العراق بلادي",
+    "position": "12",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_الــعراق"
+  },
+  {
+    "namear": "وكالة أنباء الفرات نيوز",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://95.216.180.111:1935/live/10/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://95.216.180.111:1935/live/10/index.m3u8\"}]",
+    "logo": "https://bit.ly/3HVAabF",
+    "nameen": "وكالة أنباء الفرات نيوز",
+    "position": "19",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_الــعراق"
+  },
+  {
+    "namear": "Zagros TV",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8\"}]",
+    "logo": "https://bit.ly/2LZOCpM",
+    "nameen": "Zagros TV",
+    "position": "10",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_الــعراق"
+  },
+  {
+    "namear": "قناة عشتار",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://ishtar.cdncast.xyz:1935/live/iShtarHD/chunklist.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://ishtar.cdncast.xyz:1935/live/iShtarHD/chunklist.m3u8\"}]",
+    "logo": "https://bit.ly/3E59nbN",
+    "nameen": "قناة عشتار",
+    "position": "14",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_الــعراق"
+  },
+  {
+    "namear": "UTV tV",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8\"}]",
+    "logo": "https://bit.ly/3wZ9QYM",
+    "nameen": "UTV tV",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_الــعراق"
+  },
+  {
+    "namear": "قناة عراق المستقبل",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"x\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://webstreaming-3.viewmedia.tv/web_040/Stream/live40_1/low/chunks.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://webstreaming-3.viewmedia.tv/web_040/Stream/live40_1/low/chunks.m3u8\"}]",
+    "logo": "https://bit.ly/3HASo1Q",
+    "nameen": "قناة عراق المستقبل",
+    "position": "21",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_الــعراق"
+  },
+  {
+    "namear": "قناة الفرات",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://95.216.180.111:1935/live/10/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://95.216.180.111:1935/live/10/index.m3u8\"}]",
+    "logo": "https://bit.ly/3O3obuC",
+    "nameen": "قناة الفرات",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_الــعراق"
+  },
+  {
+    "namear": "قناة الجنوب",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"ا\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://95.216.180.111:1935/live/18/index.m3u8\"}]",
+    "logo": "https://bit.ly/3X4ilfR",
+    "nameen": "قناة الجنوب",
+    "position": "17",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_الــعراق"
+  },
+  {
+    "namear": "قناة الموصلية",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"q\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://95.216.180.111:1935/live/3/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://95.216.180.111:1935/live/3/index.m3u8\"}]",
+    "logo": "https://bit.ly/3jvcrH1",
+    "nameen": "قناة الموصلية",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_الــعراق"
+  },
+  {
+    "namear": "قناة الحرة",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8\"}]",
+    "logo": "https://bit.ly/364rE7I",
+    "nameen": "قناة الحرة",
+    "position": "8",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_الــعراق"
+  },
+  {
+    "namear": "قناة العهد",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://95.216.180.111:1935/live/7/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://95.216.180.111:1935/live/7/index.m3u8\"}]",
+    "logo": "https://bit.ly/3UyLTSx",
+    "nameen": "قناة العهد",
+    "position": "16",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_الــعراق"
+  },
+  {
+    "namear": "قناة الطليعة الفضائية",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://95.216.180.111:1935/live/36/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"y\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://95.216.180.111:1935/live/36/index.m3u8\"}]",
+    "logo": "https://bit.ly/3HElhKq",
+    "nameen": "قناة الطليعة الفضائية",
+    "position": "20",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_الــعراق"
+  },
+  {
+    "namear": "الرابعة",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://stream.castr.com/|user-agent|Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRhls Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36A58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36|origin|https://stream.castr.com\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://stream.castr.com\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"https://stream.castr.com/\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRhls Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36A58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36\",\"position\":\"0\",\"url\":\"https://stream.castr.com/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/index.m3u8\"}]",
+    "logo": "https://file.rafalnht.com/6498756d125e4bbbaca269fffbe46deb.photo.jpg",
+    "nameen": "الرابعة",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_الــعراق"
+  }
+]

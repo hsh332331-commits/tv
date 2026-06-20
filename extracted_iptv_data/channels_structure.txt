@@ -1,0 +1,14 @@
+Keys: ['namear', 'servers', 'logo', 'nameen', 'position', 'type', 'key']
+type: channel
+servers: 711 items
+  server[0]: "["
+  server[1]: "{"
+  server[2]: "\""
+  server[3]: "h"
+  server[4]: "e"
+
+Total items: 549
+Types: {'channel': 549}
+Total server entries: 370755
+
+Unique stream URLs found: 0

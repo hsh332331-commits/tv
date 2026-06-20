@@ -1,0 +1,200 @@
+[
+  {
+    "namear": "Al Jazeera (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Jazeera (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Jazeera (1080p)",
+    "position": "0",
+    "type": "channel",
+    "key": "aljazeera"
+  },
+  {
+    "namear": "Al Jazeera Mubasher Broadcast 2 (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Jazeera Mubasher Broadcast 2 (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Jazeera Mubasher Broadcast 2 (1080p)",
+    "position": "0",
+    "type": "channel",
+    "key": "aljazeera"
+  },
+  {
+    "namear": "Al Jazeera (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Jazeera (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Jazeera (1080p)",
+    "position": "1",
+    "type": "channel",
+    "key": "aljazeera"
+  },
+  {
+    "namear": "Al Jazeera Mubasher Broadcast 2 (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Jazeera Mubasher Broadcast 2 (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Jazeera Mubasher Broadcast 2 (1080p)",
+    "position": "1",
+    "type": "channel",
+    "key": "aljazeera"
+  },
+  {
+    "namear": "Al Jazeera (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Jazeera (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-jazeera/playlist.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Jazeera (720p)",
+    "position": "2",
+    "type": "channel",
+    "key": "aljazeera"
+  },
+  {
+    "namear": "Al Jazeera Mubasher 24 (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Jazeera Mubasher 24 (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Jazeera Mubasher 24 (1080p)",
+    "position": "2",
+    "type": "channel",
+    "key": "aljazeera"
+  },
+  {
+    "namear": "Al Jazeera Arabic (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Jazeera Arabic (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Jazeera Arabic (1080p)",
+    "position": "3",
+    "type": "channel",
+    "key": "aljazeera"
+  },
+  {
+    "namear": "Al Jazeera Mubasher 24 (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Jazeera Mubasher 24 (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Jazeera Mubasher 24 (1080p)",
+    "position": "3",
+    "type": "channel",
+    "key": "aljazeera"
+  },
+  {
+    "namear": "Al Jazeera Arabic (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Jazeera Arabic (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-hls-web-aja.getaj.net/AJA/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Jazeera Arabic (1080p)",
+    "position": "4",
+    "type": "channel",
+    "key": "aljazeera"
+  },
+  {
+    "namear": "Al Jazeera Balkans (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Jazeera Balkans (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-hls-web-ajb.getaj.net/AJB/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Jazeera Balkans (1080p)",
+    "position": "5",
+    "type": "channel",
+    "key": "aljazeera"
+  },
+  {
+    "namear": "Al Jazeera Documentary (1080p) [Geo-blocked]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Jazeera Documentary (1080p) [Geo-blocked]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Jazeera Documentary (1080p) [Geo-blocked]",
+    "position": "6",
+    "type": "channel",
+    "key": "aljazeera"
+  },
+  {
+    "namear": "Al Jazeera Documentary (1080p) [Geo-blocked]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Jazeera Documentary (1080p) [Geo-blocked]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-hls-apps-ajd-v3-fa.getaj.net/AJD/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Jazeera Documentary (1080p) [Geo-blocked]",
+    "position": "7",
+    "type": "channel",
+    "key": "aljazeera"
+  },
+  {
+    "namear": "Al Jazeera Documentary (1080p) [Geo-blocked]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Jazeera Documentary (1080p) [Geo-blocked]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-hls-web-ajd.getaj.net/AJD/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Jazeera Documentary (1080p) [Geo-blocked]",
+    "position": "8",
+    "type": "channel",
+    "key": "aljazeera"
+  },
+  {
+    "namear": "Al Jazeera English",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Jazeera English\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Jazeera English",
+    "position": "9",
+    "type": "channel",
+    "key": "aljazeera"
+  },
+  {
+    "namear": "Al Jazeera English (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Jazeera English (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-jazeera-english/playlist.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Jazeera English (1080p)",
+    "position": "10",
+    "type": "channel",
+    "key": "aljazeera"
+  },
+  {
+    "namear": "Al Jazeera English (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Jazeera English (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Jazeera English (1080p)",
+    "position": "11",
+    "type": "channel",
+    "key": "aljazeera"
+  },
+  {
+    "namear": "Al Jazeera English (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Jazeera English (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Jazeera English (1080p)",
+    "position": "12",
+    "type": "channel",
+    "key": "aljazeera"
+  },
+  {
+    "namear": "Al Jazeera English (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Jazeera English (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Jazeera English (1080p)",
+    "position": "13",
+    "type": "channel",
+    "key": "aljazeera"
+  },
+  {
+    "namear": "Al Jazeera English (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Jazeera English (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-hls-web-aje.getaj.net/AJE/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Jazeera English (1080p)",
+    "position": "14",
+    "type": "channel",
+    "key": "aljazeera"
+  },
+  {
+    "namear": "Al Jazeera Mubasher (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Jazeera Mubasher (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Jazeera Mubasher (1080p)",
+    "position": "15",
+    "type": "channel",
+    "key": "aljazeera"
+  },
+  {
+    "namear": "Al Jazeera Mubasher (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Jazeera Mubasher (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Jazeera Mubasher (1080p)",
+    "position": "16",
+    "type": "channel",
+    "key": "aljazeera"
+  },
+  {
+    "namear": "Al Jazeera Mubasher (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Jazeera Mubasher (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-hls-web-ajm.getaj.net/AJM/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Jazeera Mubasher (1080p)",
+    "position": "17",
+    "type": "channel",
+    "key": "aljazeera"
+  }
+]

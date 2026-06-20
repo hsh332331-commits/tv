@@ -1,0 +1,119 @@
+[
+  {
+    "namear": "FR: BEIN SPORT 1 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"FR: BEIN SPORT 1 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/17.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "FR: BEIN SPORT 1 HD",
+    "position": "1",
+    "type": "channel",
+    "key": "bein_fr"
+  },
+  {
+    "namear": "FR: BEIN SPORT 2 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"FR: BEIN SPORT 2 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/18.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "FR: BEIN SPORT 2 HD",
+    "position": "2",
+    "type": "channel",
+    "key": "bein_fr"
+  },
+  {
+    "namear": "FR: BEIN SPORT 3 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"FR: BEIN SPORT 3 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/19.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "FR: BEIN SPORT 3 HD",
+    "position": "3",
+    "type": "channel",
+    "key": "bein_fr"
+  },
+  {
+    "namear": "FR: BeIN Sport Max 4 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"FR: BeIN Sport Max 4 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/3902.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "FR: BeIN Sport Max 4 HD",
+    "position": "4",
+    "type": "channel",
+    "key": "bein_fr"
+  },
+  {
+    "namear": "FR: BeIN Sport Max 5 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"FR: BeIN Sport Max 5 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/135399.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "FR: BeIN Sport Max 5 HD",
+    "position": "5",
+    "type": "channel",
+    "key": "bein_fr"
+  },
+  {
+    "namear": "FR: BeIN Sport Max 6 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"FR: BeIN Sport Max 6 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/3904.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "FR: BeIN Sport Max 6 HD",
+    "position": "6",
+    "type": "channel",
+    "key": "bein_fr"
+  },
+  {
+    "namear": "FR: BeIN Sport Max 7 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"FR: BeIN Sport Max 7 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/3965.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "FR: BeIN Sport Max 7 HD",
+    "position": "7",
+    "type": "channel",
+    "key": "bein_fr"
+  },
+  {
+    "namear": "FR: BeIN Sport Max 8 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"FR: BeIN Sport Max 8 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/135400.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "FR: BeIN Sport Max 8 HD",
+    "position": "8",
+    "type": "channel",
+    "key": "bein_fr"
+  },
+  {
+    "namear": "FR: BeIN Sport Max 9 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"FR: BeIN Sport Max 9 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/135401.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "FR: BeIN Sport Max 9 HD",
+    "position": "9",
+    "type": "channel",
+    "key": "bein_fr"
+  },
+  {
+    "namear": "FR: BeIN Sport Max 10 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"FR: BeIN Sport Max 10 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/135402.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "FR: BeIN Sport Max 10 HD",
+    "position": "10",
+    "type": "channel",
+    "key": "bein_fr"
+  },
+  {
+    "namear": "FR: BEIN SPORTS 1 SD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"FR: BEIN SPORTS 1 SD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/157873.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "FR: BEIN SPORTS 1 SD",
+    "position": "11",
+    "type": "channel",
+    "key": "bein_fr"
+  },
+  {
+    "namear": "FR: BEIN SPORTS 2 SD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"FR: BEIN SPORTS 2 SD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/157874.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "FR: BEIN SPORTS 2 SD",
+    "position": "12",
+    "type": "channel",
+    "key": "bein_fr"
+  },
+  {
+    "namear": "FR: BEIN SPORTS 3 SD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"FR: BEIN SPORTS 3 SD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.lynxiptv.xyz/live/redouane66/123456/157875.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "FR: BEIN SPORTS 3 SD",
+    "position": "13",
+    "type": "channel",
+    "key": "bein_fr"
+  }
+]

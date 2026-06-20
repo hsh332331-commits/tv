@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "Movie 4 ᴿᴬᵂ",
+    "servers": "[{\"license\":\"\",\"headers\":\"user-agent|mejar akami cdn|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Movie 4\",\"Referer\":\"\",\"userAgent\":\"mejar akami cdn\",\"position\":\"\",\"label\":\"Server (HLS)\",\"url\":\"https://cast-x.com/token.php?id\\u003dent-4\\u0026type\\u003dhls\\u0026h\\u003dhttps%3A%2F%2Fcdn-js-mejarserver.aka-akamaized.net\\u0026ts\\u003d1767620357\\u0026sig\\u003df86962f17272fc72935b0843cb0cd1f3edbed0dd2abc25b77bad58d0ee83e95b\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/MOVIES4_FAMILY_DIGITAL_Mono.png",
+    "nameen": "Movie 4 ᴿᴬᵂ",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvbein_entertainment_ᴿᴬᵂ"
+  },
+  {
+    "namear": "Movie 1 ᴿᴬᵂ",
+    "servers": "[{\"license\":\"\",\"headers\":\"user-agent|mejar akami cdn|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"movie 1 ᴿᴬᵂ\",\"Referer\":\"\",\"userAgent\":\"mejar akami cdn\",\"position\":\"\",\"label\":\"Server (HLS)\",\"url\":\"https://cast-x.com/token.php?id\\u003dent-1\\u0026type\\u003dhls\\u0026h\\u003dhttps%3A%2F%2Fcdn-js-mejarserver.aka-akamaized.net\\u0026ts\\u003d1767620357\\u0026sig\\u003d905a00fb1d88745f810bd3df15399bdd69c56b1bd3ac7c6bd1419db32d4fd867\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/MOVIES1_PREMIERE_DIGITAL_Mono.png",
+    "nameen": "Movie 1 ᴿᴬᵂ",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvbein_entertainment_ᴿᴬᵂ"
+  },
+  {
+    "namear": "DRAMA ᴿᴬᵂ",
+    "servers": "[{\"license\":\"\",\"headers\":\"user-agent|akami drama|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"drama\",\"Referer\":\"\",\"userAgent\":\"akami drama\",\"position\":\"\",\"url\":\"https://akamaized.live/drama/index.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2021/02/Drama_Stacked_nov_2024_200x200.png",
+    "nameen": "DRAMA ᴿᴬᵂ",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvbein_entertainment_ᴿᴬᵂ"
+  },
+  {
+    "namear": "Movie 2 ᴿᴬᵂ",
+    "servers": "[{\"license\":\"\",\"headers\":\"user-agent|mejar akami cdn|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Movie 2\",\"Referer\":\"\",\"userAgent\":\"mejar akami cdn\",\"position\":\"\",\"label\":\"Server (HLS)\",\"url\":\"https://cast-x.com/token.php?id\\u003dent-2\\u0026type\\u003dhls\\u0026h\\u003dhttps%3A%2F%2Fcdn-js-mejarserver.aka-akamaized.net\\u0026ts\\u003d1767620357\\u0026sig\\u003dd9cc95bac7b17a9bb28901641c193b98ba68579bc654d81a8f0e85285c388395\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/MOVIES2_ACTION_DIGITAL_Mono.png",
+    "nameen": "Movie 2 ᴿᴬᵂ",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvbein_entertainment_ᴿᴬᵂ"
+  },
+  {
+    "namear": "Movie 3 ᴿᴬᵂ",
+    "servers": "[{\"license\":\"\",\"headers\":\"user-agent|mejar akami cdn|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Movie 3\",\"Referer\":\"\",\"userAgent\":\"mejar akami cdn\",\"position\":\"\",\"label\":\"Server (HLS)\",\"url\":\"https://cast-x.com/token.php?id\\u003dent-3\\u0026type\\u003dhls\\u0026h\\u003dhttps%3A%2F%2Fcdn-js-mejarserver.aka-akamaized.net\\u0026ts\\u003d1767620357\\u0026sig\\u003d8c0109fbdcd6972c745d4fa227359d468af45931ca7cb0d6aa28cd6ba43485d9\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/MOVIES3_DRAMA_DIGITAL_Mono.png",
+    "nameen": "Movie 3 ᴿᴬᵂ",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvbein_entertainment_ᴿᴬᵂ"
+  }
+]

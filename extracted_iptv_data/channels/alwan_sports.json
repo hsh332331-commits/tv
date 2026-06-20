@@ -1,0 +1,56 @@
+[
+  {
+    "namear": "AL1",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://stream.goalxtv.workers.dev/alw1/hd.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUPMAW68z2n_pschRQ0I_w_PxrX1vE7nPsWJ-Fw7NwsA&s",
+    "nameen": "AL1",
+    "position": "0",
+    "type": "channel",
+    "key": "alwan_sports"
+  },
+  {
+    "namear": "AL2",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://stream.goalxtv.workers.dev/alw2/hd.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUPMAW68z2n_pschRQ0I_w_PxrX1vE7nPsWJ-Fw7NwsA&s",
+    "nameen": "AL2",
+    "position": "1",
+    "type": "channel",
+    "key": "alwan_sports"
+  },
+  {
+    "namear": "AL3",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://stream.goalxtv.workers.dev/alw3/hd.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUPMAW68z2n_pschRQ0I_w_PxrX1vE7nPsWJ-Fw7NwsA&s",
+    "nameen": "AL3",
+    "position": "2",
+    "type": "channel",
+    "key": "alwan_sports"
+  },
+  {
+    "namear": "AL4",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://stream.goalxtv.workers.dev/alw4/hd.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUPMAW68z2n_pschRQ0I_w_PxrX1vE7nPsWJ-Fw7NwsA&s",
+    "nameen": "AL4",
+    "position": "3",
+    "type": "channel",
+    "key": "alwan_sports"
+  },
+  {
+    "namear": "AL5",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://stream.goalxtv.workers.dev/alw5/hd.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUPMAW68z2n_pschRQ0I_w_PxrX1vE7nPsWJ-Fw7NwsA&s",
+    "nameen": "AL5",
+    "position": "4",
+    "type": "channel",
+    "key": "alwan_sports"
+  },
+  {
+    "namear": "AL6",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://stream.goalxtv.workers.dev/alw6/hd.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUPMAW68z2n_pschRQ0I_w_PxrX1vE7nPsWJ-Fw7NwsA&s",
+    "nameen": "AL6",
+    "position": "5",
+    "type": "channel",
+    "key": "alwan_sports"
+  }
+]

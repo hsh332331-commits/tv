@@ -1,0 +1,101 @@
+[
+  {
+    "namear": "beIN Sport 1 HD",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"HD FAM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"200\",\"url\":\"https://prod-fastly-eu-central-1.video.pscp.tv:443/Transcoding/v1/hls/Ozl9eei_79-HW10_b6E_0SY-Gp74OtjT_lFme7LPF92Bjs4TtYOqVvL7QbDPPfTKdJyaOg-gf7CSGMX5SDZRFQ/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type\\u003dlive\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
+    "nameen": "beIN Sport 1 HD",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_hd"
+  },
+  {
+    "namear": "beIN Global you",
+    "servers": "[{\"license\":\"\",\"headers\":\"find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"isWeb\":\"false\",\"name\":\"Multi YouTube\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://www.youtube.com/live/AiQasdSrZVo\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png",
+    "nameen": "beIN Global you",
+    "position": "10",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_hd"
+  },
+  {
+    "namear": "beIN Sport 6 HD",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"HD FAM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"200\",\"url\":\"http://a502.variety-buy.store/api/channel/9\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png",
+    "nameen": "beIN Sport 6 HD",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_hd"
+  },
+  {
+    "namear": "beIN Sport 9",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://pkpakiplay.xyz/|origin|https://pkpakiplay.xyz\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://pkpakiplay.xyz\",\"isWeb\":\"false\",\"name\":\"S1\",\"Referer\":\"https://pkpakiplay.xyz/\",\"userAgent\":\"\",\"position\":\"201\",\"url\":\"https://ddy6new.newkso.ru/ddy6/premium99/mono.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"S2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"20000\",\"url\":\"http://a502.variety-buy.store/api/channel/12\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",
+    "nameen": "beIN Sport 9",
+    "position": "8",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_hd"
+  },
+  {
+    "namear": "beIN NEWS",
+    "servers": "[{\"license\":\"\",\"headers\":\"find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"isWeb\":\"false\",\"name\":\"Multi YT\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://www.youtube.com/watch?v\\u003dumCCh6e7eXI\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png",
+    "nameen": "beIN NEWS",
+    "position": "9",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_hd"
+  },
+  {
+    "namear": "beIN Sport 4 HD",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"HD FAM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"200\",\"url\":\"http://a502.variety-buy.store/api/channel/7\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",
+    "nameen": "beIN Sport 4 HD",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_hd"
+  },
+  {
+    "namear": "beIN Sport 5 HD",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"HD FAM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"200\",\"url\":\"http://a502.variety-buy.store/api/channel/8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",
+    "nameen": "beIN Sport 5 HD",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_hd"
+  },
+  {
+    "namear": "beIN Sport 2 HD",
+    "servers": "[{\"license\":\"\",\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"HD FAM\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\",\"position\":\"200\",\"url\":\"https://a1.apk-api.com/api/channel/5\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",
+    "nameen": "beIN Sport 2 HD",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_hd"
+  },
+  {
+    "namear": "beIN Sport 3 HD",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"HD FAM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"200\",\"url\":\"http://a502.variety-buy.store/api/channel/6\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
+    "nameen": "beIN Sport 3 HD",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_hd"
+  },
+  {
+    "namear": "beIN Sport 7 HD",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"HD FAM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"200\",\"url\":\"http://a502.variety-buy.store/api/channel/10\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",
+    "nameen": "beIN Sport 7 HD",
+    "position": "6",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_hd"
+  },
+  {
+    "namear": "beIN Sport 8 HD",
+    "servers": "[{\"license\":\"https://news-api-gen.lol/iip/\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"HD FAM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a502.variety-buy.store/api/channel/11\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",
+    "nameen": "beIN Sport 8 HD",
+    "position": "7",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sports_hd"
+  }
+]

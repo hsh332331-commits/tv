@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "Oman TV",
+    "servers": "[{\"headers\":\"ttuser-Agent|ttuser-Agent|ttuser-Agent|tt\",\"otherHeaders\":\"\",\"name\":\"Oman TV\",\"Referer\":\"\",\"userAgent\":\"ttuser-Agent|tt\",\"position\":\"0\",\"url\":\"https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12135746_ico.png",
+    "nameen": "Oman TV",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadraroman_سلطنة_عُمان"
+  },
+  {
+    "namear": "Oman TV Tv",
+    "servers": "[{\"headers\":\"gguser-Agent|gguser-Agent|gguser-Agent|gg\",\"otherHeaders\":\"\",\"name\":\"Oman TV Tv\",\"Referer\":\"\",\"userAgent\":\"gguser-Agent|gg\",\"position\":\"0\",\"url\":\"https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12135758_ico.png",
+    "nameen": "Oman TV Tv",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadraroman_سلطنة_عُمان"
+  },
+  {
+    "namear": "Oman Cultural",
+    "servers": "[{\"headers\":\"ssssuser-Agent|ssssuser-Agent|ssssuser-Agent|ssss\",\"otherHeaders\":\"\",\"name\":\"Oman Cultural\",\"Referer\":\"\",\"userAgent\":\"ssssuser-Agent|ssss\",\"position\":\"0\",\"url\":\"https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12135766_ico.png",
+    "nameen": "Oman Cultural",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadraroman_سلطنة_عُمان"
+  },
+  {
+    "namear": "Oman Sports",
+    "servers": "[{\"headers\":\"ffuser-Agent|ffuser-Agent|ffuser-Agent|ff\",\"otherHeaders\":\"\",\"name\":\"Oman Sports\",\"Referer\":\"\",\"userAgent\":\"ffuser-Agent|ff\",\"position\":\"0\",\"url\":\"https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12135770_ico.png",
+    "nameen": "Oman Sports",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadraroman_سلطنة_عُمان"
+  },
+  {
+    "namear": "Alistiqama",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Alistiqama\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12135735_ico.png",
+    "nameen": "Alistiqama",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadraroman_سلطنة_عُمان"
+  }
+]

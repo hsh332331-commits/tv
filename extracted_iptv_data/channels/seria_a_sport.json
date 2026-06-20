@@ -1,0 +1,83 @@
+[
+  {
+    "namear": "Seta",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://158.101.222.193:88/georgia_play.php?id\\u003dsetanta_georgia\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKcslylbPJzNBHWt5-URcXEz_D229jUtF1jvnrG7T54A&s=10",
+    "nameen": "Seta",
+    "position": "3",
+    "type": "channel",
+    "key": "seria_a_sport"
+  },
+  {
+    "namear": "CBS1",
+    "servers": "[{\"headers\":\"\",\"license\":\"d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKcslylbPJzNBHWt5-URcXEz_D229jUtF1jvnrG7T54A&s=10",
+    "nameen": "CBS1",
+    "position": "3",
+    "type": "channel",
+    "key": "seria_a_sport"
+  },
+  {
+    "namear": "CBS",
+    "servers": "[{\"headers\":\"\",\"license\":\"d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKcslylbPJzNBHWt5-URcXEz_D229jUtF1jvnrG7T54A&s=10",
+    "nameen": "CBS",
+    "position": "4",
+    "type": "channel",
+    "key": "seria_a_sport"
+  },
+  {
+    "namear": "Futbol",
+    "servers": "[{\"headers\":\"\",\"license\":\"a518c629bd683a4eba5f2a793bcb48d6:49642d2151ac6c3f8453bbfc4b3fdfc0\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"05\",\"url\":\"https://live.streaming.a2d.tv/asset/20465725.isml/dash.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKcslylbPJzNBHWt5-URcXEz_D229jUtF1jvnrG7T54A&s=10",
+    "nameen": "Futbol",
+    "position": "4",
+    "type": "channel",
+    "key": "seria_a_sport"
+  },
+  {
+    "namear": "Fox",
+    "servers": "[{\"headers\":\"\",\"license\":\"d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKcslylbPJzNBHWt5-URcXEz_D229jUtF1jvnrG7T54A&s=10",
+    "nameen": "Fox",
+    "position": "4",
+    "type": "channel",
+    "key": "seria_a_sport"
+  },
+  {
+    "namear": "Calcio",
+    "servers": "[{\"headers\":\"Referer|https://runginfect.net/embed/71urpyq|user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36|find|m3u8\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"name\":\"\",\"Referer\":\"https://runginfect.net/embed/71urpyq\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://runginfect.net/embed/71urpyq\"}]",
+    "logo": "",
+    "nameen": "Calcio",
+    "position": "5",
+    "type": "channel",
+    "key": "seria_a_sport"
+  },
+  {
+    "namear": "Rabiaa2",
+    "servers": "[{\"headers\":\"user-agent|Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)\",\"position\":\"0\",\"url\":\"http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/239247.m3u8\"}]",
+    "logo": "",
+    "nameen": "Rabiaa2",
+    "position": "7",
+    "type": "channel",
+    "key": "seria_a_sport"
+  },
+  {
+    "namear": "STRZSD",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"SD1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://turbo.wizgan2013.workers.dev/\"}]",
+    "logo": "",
+    "nameen": "STRZSD",
+    "position": "8",
+    "type": "channel",
+    "key": "seria_a_sport"
+  },
+  {
+    "namear": "STRZHD",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ayatv.online/ayatv/api/items/tv/tv.m3u8\"}]",
+    "logo": "",
+    "nameen": "STRZHD",
+    "position": "8",
+    "type": "channel",
+    "key": "seria_a_sport"
+  }
+]

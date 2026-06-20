@@ -1,0 +1,83 @@
+[
+  {
+    "namear": "Love Nature",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXkrl51IFKhOMoBO17L8DrU2O5HSyng6rHZ5FGCOOrJjSTa9mh70pvmNsuyy-t3lAtGf4&usqp=CAU",
+    "nameen": "Love Nature",
+    "position": "4",
+    "type": "channel",
+    "key": "document_arab"
+  },
+  {
+    "namear": "Documentaire d'Al Jazeera",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Documentaire d\\u0027Al Jazeera\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-hls-web-ajd.getaj.net/AJD/01.m3u8\"}]",
+    "logo": "https://i.ibb.co/gFX6Fx2r/icon-44.png",
+    "nameen": "Documentaire d'Al Jazeera",
+    "position": "7",
+    "type": "channel",
+    "key": "document_arab"
+  },
+  {
+    "namear": "National Geographic",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"National Geographic\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8\"}]",
+    "logo": "https://i.ibb.co/tTCGJxSf/icon-35.png",
+    "nameen": "National Geographic",
+    "position": "8",
+    "type": "channel",
+    "key": "document_arab"
+  },
+  {
+    "namear": "Documentaire CGTN",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Documentaire CGTN\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master1080p.m3u8\"}]",
+    "logo": "https://i.ibb.co/rRnZhSL3/icon-116.png",
+    "nameen": "Documentaire CGTN",
+    "position": "9",
+    "type": "channel",
+    "key": "document_arab"
+  },
+  {
+    "namear": "Documentaire Asharq",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Documentaire Asharq\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8\"}]",
+    "logo": "https://i.ibb.co/sp8wF4YF/icon-26.jpg",
+    "nameen": "Documentaire Asharq",
+    "position": "10",
+    "type": "channel",
+    "key": "document_arab"
+  },
+  {
+    "namear": "Asharq Discovery",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Asharq Discovery\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_source/chunks_dvr.m3u8\"}]",
+    "logo": "https://i.ibb.co/LXPDQv6B/icon-102s.jpg",
+    "nameen": "Asharq Discovery",
+    "position": "11",
+    "type": "channel",
+    "key": "document_arab"
+  },
+  {
+    "namear": "Pluton Amour Nature",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluton Amour Nature\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5be1c3f9851dd5632e2c91b2/3321280/playlist.m3u8\"}]",
+    "logo": "https://i.ibb.co/Jw8dtyZw/icon-117.jpg",
+    "nameen": "Pluton Amour Nature",
+    "position": "12",
+    "type": "channel",
+    "key": "document_arab"
+  },
+  {
+    "namear": "BBC Earth",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BBC Earth\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist1080p.m3u8\"}]",
+    "logo": "https://i.ibb.co/qLK7Xywr/BBC-Earth.png",
+    "nameen": "BBC Earth",
+    "position": "13",
+    "type": "channel",
+    "key": "document_arab"
+  },
+  {
+    "namear": "Documentaire Asharq (Backup)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Documentaire Asharq (Backup)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentarypublish/asharqdocumentary_source/chunks_dvr.m3u8\"}]",
+    "logo": "https://i.ibb.co/r2Y9qp6V/icon-54.png",
+    "nameen": "Documentaire Asharq (Backup)",
+    "position": "14",
+    "type": "channel",
+    "key": "document_arab"
+  }
+]

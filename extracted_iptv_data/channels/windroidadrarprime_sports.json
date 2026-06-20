@@ -1,0 +1,29 @@
+[
+  {
+    "namear": "Prime Video 1",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Prime Video 1\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/899\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/15269203_ico.png",
+    "nameen": "Prime Video 1",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarprime_sports"
+  },
+  {
+    "namear": "Prime Video 2",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Prime Video 2\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/900\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/15272424_ico.png",
+    "nameen": "Prime Video 2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarprime_sports"
+  },
+  {
+    "namear": "Prime Video 3",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Prime Video 3\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/901\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24219498_ico.png",
+    "nameen": "Prime Video 3",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarprime_sports"
+  }
+]

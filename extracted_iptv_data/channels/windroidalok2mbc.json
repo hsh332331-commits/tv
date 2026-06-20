@@ -1,0 +1,119 @@
+[
+  {
+    "namear": "MBC 1",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"MBC 1\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://shls-mbcdramaksa-ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_8.m3u8\"}]",
+    "logo": "https://i.ibb.co/K02JWC3/mbc1.png",
+    "nameen": "MBC 1",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidalok2mbc"
+  },
+  {
+    "namear": "MBC 2",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"MBC 2\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/95.ts\"}]",
+    "logo": "https://i.ibb.co/nsxrQsb/mbc-2.png",
+    "nameen": "MBC 2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidalok2mbc"
+  },
+  {
+    "namear": "MBC 3",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"MBC 3\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8\"}]",
+    "logo": "https://i.ibb.co/nmbqRYx/mbc3.png",
+    "nameen": "MBC 3",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidalok2mbc"
+  },
+  {
+    "namear": "MBC 4",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"MBC 4\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_2.m3u8\"}]",
+    "logo": "https://i.ibb.co/Q9Zw5gf/mbc4.png",
+    "nameen": "MBC 4",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidalok2mbc"
+  },
+  {
+    "namear": "MBC 5",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"MBC 5\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/92.ts\"}]",
+    "logo": "https://i.ibb.co/Zhw49Hd/mbc5.png",
+    "nameen": "MBC 5",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidalok2mbc"
+  },
+  {
+    "namear": "MBC ACTION",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"MBC ACTION\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/88.ts\"}]",
+    "logo": "https://i.ibb.co/c8Fs3M2/mbc-action.png",
+    "nameen": "MBC ACTION",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidalok2mbc"
+  },
+  {
+    "namear": "MBC MAX",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"MBC MAX\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/89.ts\"}]",
+    "logo": "https://i.ibb.co/Lrq7tLn/mbc-max.png",
+    "nameen": "MBC MAX",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidalok2mbc"
+  },
+  {
+    "namear": "MBC BOLLYWOOD",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"MBC BOLLYWOOD\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/84.ts\"}]",
+    "logo": "https://i.ibb.co/Ph50yfz/mbc-bollywood.png",
+    "nameen": "MBC BOLLYWOOD",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidalok2mbc"
+  },
+  {
+    "namear": "MBC DRAMA",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"MBC DRAMA\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/91.ts\"}]",
+    "logo": "https://i.ibb.co/55WzJL0/mbc-drama.png",
+    "nameen": "MBC DRAMA",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidalok2mbc"
+  },
+  {
+    "namear": "MBC DRAMA PLUS",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"MBC DRAMA PLUS\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_2.m3u8\"}]",
+    "logo": "https://i.ibb.co/5Ysjpmz/mbc-drama.png",
+    "nameen": "MBC DRAMA PLUS",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidalok2mbc"
+  },
+  {
+    "namear": "MBC MASR 1",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"MBC MASR 1\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_2.m3u8\"}]",
+    "logo": "https://i.ibb.co/PCDpdHb/mbc-masr1.png",
+    "nameen": "MBC MASR 1",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidalok2mbc"
+  },
+  {
+    "namear": "MBC MASR 2",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"MBC MASR 2\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8\"}]",
+    "logo": "https://i.ibb.co/Cvj4j7z/mbc-masr2.png",
+    "nameen": "MBC MASR 2",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidalok2mbc"
+  },
+  {
+    "namear": "MBC IRAQ",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"MBC IRAQ\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_2.m3u8\"}]",
+    "logo": "https://i.ibb.co/THXGyQV/mbc-iraq.png",
+    "nameen": "MBC IRAQ",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidalok2mbc"
+  }
+]

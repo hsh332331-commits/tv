@@ -1,0 +1,56 @@
+[
+  {
+    "namear": "Weyyak Action",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"Weyyak Action\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"https://weyyak-live.akamaized.net/weyyak_action/tracks-v2a1/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14912211_ico.png",
+    "nameen": "Weyyak Action",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarweyyak"
+  },
+  {
+    "namear": "Weyyak Drama",
+    "servers": "[{\"headers\":\"ExoPlayerLib/2.8.4user-Agent|ExoPlayerLib/2.8.4user-Agent|ExoPlayerLib/2.8.4user-Agent|ExoPlayerLib/2.8.4\",\"otherHeaders\":\"\",\"name\":\"Weyyak Drama\",\"Referer\":\"\",\"userAgent\":\"ExoPlayerLib/2.8.4user-Agent|ExoPlayerLib/2.8.4\",\"position\":\"0\",\"url\":\"https://weyyak-live.akamaized.net/weyyak_drama/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14912217_ico.png",
+    "nameen": "Weyyak Drama",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarweyyak"
+  },
+  {
+    "namear": "Weyyak Mix",
+    "servers": "[{\"headers\":\"ExoPlayerLib/2.8.4user-Agent|ExoPlayerLib/2.8.4user-Agent|ExoPlayerLib/2.8.4user-Agent|ExoPlayerLib/2.8.4\",\"otherHeaders\":\"\",\"name\":\"Weyyak Mix\",\"Referer\":\"\",\"userAgent\":\"ExoPlayerLib/2.8.4user-Agent|ExoPlayerLib/2.8.4\",\"position\":\"0\",\"url\":\"https://weyyak-live.akamaized.net/weyyak_mix/tracks-v2a1/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14912221_ico.png",
+    "nameen": "Weyyak Mix",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarweyyak"
+  },
+  {
+    "namear": "Weyyak Nawaem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Weyyak Nawaem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://weyyak-live.akamaized.net/weyyak_nawaem/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14817925_ico.png",
+    "nameen": "Weyyak Nawaem",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarweyyak"
+  },
+  {
+    "namear": "Zee Aflam",
+    "servers": "[{\"headers\":\"best.play.ps/3.2 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.8.4user-Agent|best.play.ps/3.2 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.8.4user-Agent|best.play.ps/3.2 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.8.4user-Agent|best.play.ps/3.2 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.8.4\",\"otherHeaders\":\"\",\"name\":\"Zee Aflam\",\"Referer\":\"\",\"userAgent\":\"best.play.ps/3.2 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.8.4user-Agent|best.play.ps/3.2 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.8.4\",\"position\":\"0\",\"url\":\"https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v2a1/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/400418_ico.png",
+    "nameen": "Zee Aflam",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarweyyak"
+  },
+  {
+    "namear": "Zee Alwan",
+    "servers": "[{\"headers\":\"best.play.ps/3.2 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.8.4user-Agent|best.play.ps/3.2 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.8.4user-Agent|best.play.ps/3.2 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.8.4user-Agent|best.play.ps/3.2 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.8.4\",\"otherHeaders\":\"\",\"name\":\"Zee Alwan\",\"Referer\":\"\",\"userAgent\":\"best.play.ps/3.2 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.8.4user-Agent|best.play.ps/3.2 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.8.4\",\"position\":\"0\",\"url\":\"https://weyyak-live.akamaized.net/weyyak_zee_alwan/tracks-v2a1/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/400463_ico.png",
+    "nameen": "Zee Alwan",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarweyyak"
+  }
+]

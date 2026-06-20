@@ -1,0 +1,92 @@
+[
+  {
+    "namear": "Qatar TV",
+    "servers": "[{\"headers\":\"AdrarTVuser-Agent|AdrarTVuser-Agent|AdrarTVuser-Agent|AdrarTV\",\"otherHeaders\":\"\",\"name\":\"Qatar TV\",\"Referer\":\"\",\"userAgent\":\"AdrarTVuser-Agent|AdrarTV\",\"position\":\"0\",\"url\":\"https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12135306_ico.png",
+    "nameen": "Qatar TV",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarqatar_قطر"
+  },
+  {
+    "namear": "Qatar TV 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Qatar TV 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/258899_ico.png",
+    "nameen": "Qatar TV 2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarqatar_قطر"
+  },
+  {
+    "namear": "Alrayyan",
+    "servers": "[{\"headers\":\"genius.tvoffic10/11 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.14.0tvuser-Agent|genius.tvoffic10/11 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.14.0tvuser-Agent|genius.tvoffic10/11 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.14.0tvuser-Agent|genius.tvoffic10/11 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.14.0tv\",\"otherHeaders\":\"\",\"name\":\"Alrayyan\",\"Referer\":\"\",\"userAgent\":\"genius.tvoffic10/11 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.14.0tvuser-Agent|genius.tvoffic10/11 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.14.0tv\",\"position\":\"0\",\"url\":\"https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12135267_ico.png",
+    "nameen": "Alrayyan",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarqatar_قطر"
+  },
+  {
+    "namear": "Al Rayyan Al Qadeem",
+    "servers": "[{\"headers\":\"uuuser-Agent|uuuser-Agent|uuuser-Agent|uu\",\"otherHeaders\":\"\",\"name\":\"Al Rayyan Al Qadeem\",\"Referer\":\"\",\"userAgent\":\"uuuser-Agent|uu\",\"position\":\"0\",\"url\":\"https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9553265_ico.png",
+    "nameen": "Al Rayyan Al Qadeem",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarqatar_قطر"
+  },
+  {
+    "namear": "Aljazeera HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Aljazeera HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-hls-web-aja.getaj.net/AJA/01.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12135321_ico.png",
+    "nameen": "Aljazeera HD",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarqatar_قطر"
+  },
+  {
+    "namear": "Aljazeera SD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Aljazeera SD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-hls-web-aja.getaj.net/AJA/06.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14165249_ico.png",
+    "nameen": "Aljazeera SD",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarqatar_قطر"
+  },
+  {
+    "namear": "Aljazeera Mubasher",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Aljazeera Mubasher\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-hls-web-ajm.getaj.net/AJM/03.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12135349_ico.png",
+    "nameen": "Aljazeera Mubasher",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarqatar_قطر"
+  },
+  {
+    "namear": "Al Jazeera Doc",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Jazeera Doc\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-hls-web-ajd.getaj.net/AJD/03.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12135378_ico.png",
+    "nameen": "Al Jazeera Doc",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarqatar_قطر"
+  },
+  {
+    "namear": "Aljazeera English",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Aljazeera English\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-hls-web-aje.getaj.net/AJE/03.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12135339_ico.png",
+    "nameen": "Aljazeera English",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarqatar_قطر"
+  },
+  {
+    "namear": "Aljazeera Balkans",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Aljazeera Balkans\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-hls-web-ajb.getaj.net/AJB/03.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12135330_ico.png",
+    "nameen": "Aljazeera Balkans",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadrarqatar_قطر"
+  }
+]

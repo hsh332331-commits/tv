@@ -1,0 +1,56 @@
+[
+  {
+    "namear": "ON MOVIES",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"ON MOVIES\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://aloka-arena.online:443/live/KXqdHymFRA/KXqdHymFRA/115.m3u8\"}]",
+    "logo": "https://www3.0zz0.com/2023/07/02/13/518982429.png",
+    "nameen": "ON MOVIES",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidalokon_tv"
+  },
+  {
+    "namear": "ON ARABIC",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"ON ARABIC\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://aloka-arena.online:443/live/KXqdHymFRA/KXqdHymFRA/118.m3u8\"}]",
+    "logo": "https://www3.0zz0.com/2023/07/02/13/518982429.png",
+    "nameen": "ON ARABIC",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidalokon_tv"
+  },
+  {
+    "namear": "ON HISTORY",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"ON HISTORY\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://aloka-arena.online:443/live/KXqdHymFRA/KXqdHymFRA/119.m3u8\"}]",
+    "logo": "https://www3.0zz0.com/2023/07/02/13/518982429.png",
+    "nameen": "ON HISTORY",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidalokon_tv"
+  },
+  {
+    "namear": "ON HORROR",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"ON HORROR\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://aloka-arena.online:443/live/KXqdHymFRA/KXqdHymFRA/120.m3u8\"}]",
+    "logo": "https://www3.0zz0.com/2023/07/02/13/518982429.png",
+    "nameen": "ON HORROR",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidalokon_tv"
+  },
+  {
+    "namear": "ON ASIA",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"ON ASIA\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://aloka-arena.online:443/live/KXqdHymFRA/KXqdHymFRA/121.m3u8\"}]",
+    "logo": "https://www3.0zz0.com/2023/07/02/13/518982429.png",
+    "nameen": "ON ASIA",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidalokon_tv"
+  },
+  {
+    "namear": "ON ANIMATION",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"ON ANIMATION\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://aloka-arena.online:443/live/KXqdHymFRA/KXqdHymFRA/122.m3u8\"}]",
+    "logo": "https://www3.0zz0.com/2023/07/02/13/518982429.png",
+    "nameen": "ON ANIMATION",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidalokon_tv"
+  }
+]

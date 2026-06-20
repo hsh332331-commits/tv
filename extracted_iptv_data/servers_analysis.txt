@@ -1,0 +1,19 @@
+Item 0: {"namear": "http://cdn.hqth.me/vthanhmovies_schedule.xml\" billed-msg=\"Tham gia group Zalo để nhận thông báo:", "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|ReactNativeVideo/3.4.4 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.13.3|\",\"otherHeaders\":\"\",\"name\":\"http://cdn.hqth.me/vthanhmovies_schedule.xml\\\" billed-msg\\u003d\\\"Tham gia group Zalo để nhận thông báo:\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"ReactNativeVideo/3.4.4 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 9) ExoPlayerLib/2.13.3\",\"position\":\"0\",\"url\":\"https://zalo.me/g/kubelh130\\\"\"}]", "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png", "nameen": "http://c
+
+Servers types:
+  [0] type=str, value="["
+  [1] type=str, value="{"
+  [2] type=str, value="\""
+  [3] type=str, value="h"
+  [4] type=str, value="e"
+
+Items without servers: 0
+
+Items with url key: 0
+
+Server value types: {'str'}
+Server dict keys: set()
+
+
+Items by type:
+  channel: 549

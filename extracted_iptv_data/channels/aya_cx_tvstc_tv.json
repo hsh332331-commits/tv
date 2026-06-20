@@ -1,0 +1,92 @@
+[
+  {
+    "namear": "ESports 2",
+    "servers": "[{\"license\":\"https://wv.drm.intigral-ott.net:8063/?deviceId\\u003dMGEzNDAzZTUtMzM2Zi0zMDc5LWI0ODQtMzQyYjcwMGRhZGZh/\",\"headers\":\"\",\"scheme\":\"widevine\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://edgiolive.cdn.intigral-ott.net/EWC2/EWC2.isml/manifest.mpd\"}]",
+    "logo": "https://store-images.s-microsoft.com/image/apps.62984.13675133441460582.d20f15a9-0cd7-46f8-b38d-bf9c968fe21b.b2149374-f0a9-4ccc-8b98-bfd24f14814d",
+    "nameen": "ESports 2",
+    "position": "7",
+    "type": "channel",
+    "key": "aya_cx_tvstc_tv"
+  },
+  {
+    "namear": "ESports 1",
+    "servers": "[{\"license\":\"https://wv.drm.intigral-ott.net:8063/?deviceId\\u003dMGEzNDAzZTUtMzM2Zi0zMDc5LWI0ODQtMzQyYjcwMGRhZGZh/\",\"headers\":\"\",\"scheme\":\"widevine\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://edgiolive.cdn.intigral-ott.net/EWC1/EWC1.isml/manifest.mpd\"}]",
+    "logo": "https://store-images.s-microsoft.com/image/apps.62984.13675133441460582.d20f15a9-0cd7-46f8-b38d-bf9c968fe21b.b2149374-f0a9-4ccc-8b98-bfd24f14814d",
+    "nameen": "ESports 1",
+    "position": "6",
+    "type": "channel",
+    "key": "aya_cx_tvstc_tv"
+  },
+  {
+    "namear": "STC Anime",
+    "servers": "[{\"license\":\"f97e8bbcd6fd657755d65c583eb7bb90:5002f35f03d5b1079b7eccf7fda26dbe\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://edgiolive.cdn.intigral-ott.net/STCA/STCA.isml/manifest.mpd\"},{\"license\":\"f97e8bbcd6fd657755d65c583eb7bb90:5002f35f03d5b1079b7eccf7fda26dbe\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://uselector.cdn.intigral-ott.net/STCA/STCA.isml/manifest.mpd\"},{\"license\":\"f97e8bbcd6fd657755d65c583eb7bb90:5002f35f03d5b1079b7eccf7fda26dbe\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://fastly-live.cdn.intigral-ott.net/STCA/STCA.isml/manifest.mpd\"}]",
+    "logo": "https://www.jawwy.sa/content/dam/jawwy/products/jawwy-pay/stctv-icon.png.thumb.1280.1280.png",
+    "nameen": "STC Anime",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvstc_tv"
+  },
+  {
+    "namear": "STC Sport 1",
+    "servers": "[{\"license\":\"47f0ab58f5a81c20b5b69dc494cbe102:1e0719da653c2b4652f0b0bf84d96c74\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"3\",\"url\":\"https://fastly-live.cdn.intigral-ott.net/STC/STC.isml/manifest.mpd\"},{\"license\":\"47f0ab58f5a81c20b5b69dc494cbe102:1e0719da653c2b4652f0b0bf84d96c74\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://uselector.cdn.intigral-ott.net/STC/STC.isml/manifest.mpd\"},{\"license\":\"47f0ab58f5a81c20b5b69dc494cbe102:1e0719da653c2b4652f0b0bf84d96c74\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"https://akm-live.cdn.intigral-ott.net/STC/STC.isml/manifest.mpd\"}]",
+    "logo": "https://store-images.s-microsoft.com/image/apps.62984.13675133441460582.d20f15a9-0cd7-46f8-b38d-bf9c968fe21b.b2149374-f0a9-4ccc-8b98-bfd24f14814d",
+    "nameen": "STC Sport 1",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvstc_tv"
+  },
+  {
+    "namear": "STC Cienma",
+    "servers": "[{\"license\":\"27941c358897e06211225526fd7d7a64:386f6b34cd5f1a8b27696fd58ed35613\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://uselector.cdn.intigral-ott.net/STCC/STCC.isml/manifest.mpd\"},{\"license\":\"27941c358897e06211225526fd7d7a64:386f6b34cd5f1a8b27696fd58ed35613\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://edgiolive.cdn.intigral-ott.net/STCC/STCC.isml/manifest.mpd\"},{\"license\":\"27941c358897e06211225526fd7d7a64:386f6b34cd5f1a8b27696fd58ed35613\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://pop1e10.cdn.intigral-ott.net/bpk-token/2ao@ulbet51kfqm4pfahc3hiocig5h3kaz25u3wxs2da/STCC/STCC.isml/manifest.mpd\"}]",
+    "logo": "https://www.jawwy.sa/content/dam/jawwy/products/jawwy-pay/stctv-icon.png.thumb.1280.1280.png",
+    "nameen": "STC Cienma",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvstc_tv"
+  },
+  {
+    "namear": "STC Drama",
+    "servers": "[{\"license\":\"4307d51136956e78dd17fe4884ba66d1:e81223c66a46efacd95b83c9ebbb8c1c\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://uselector.cdn.intigral-ott.net/STCD/STCD.isml/manifest.mpd\"},{\"license\":\"4307d51136956e78dd17fe4884ba66d1:e81223c66a46efacd95b83c9ebbb8c1c\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://edgiolive.cdn.intigral-ott.net/STCD/STCD.isml/manifest.mpd\"},{\"license\":\"4307d51136956e78dd17fe4884ba66d1:e81223c66a46efacd95b83c9ebbb8c1c\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://fastly-live.cdn.intigral-ott.net/STCD/STCD.isml/manifest.mpd\"}]",
+    "logo": "https://www.jawwy.sa/content/dam/jawwy/products/jawwy-pay/stctv-icon.png.thumb.1280.1280.png",
+    "nameen": "STC Drama",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvstc_tv"
+  },
+  {
+    "namear": "STC Sport 2",
+    "servers": "[{\"license\":\"e74c7d697bd26595b196c6b96e2d4f5b:e288110233737502e8af9184098ab50b\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://uselector.cdn.intigral-ott.net/JAW1/JAW1.isml/manifest.mpd\"}]",
+    "logo": "https://store-images.s-microsoft.com/image/apps.62984.13675133441460582.d20f15a9-0cd7-46f8-b38d-bf9c968fe21b.b2149374-f0a9-4ccc-8b98-bfd24f14814d",
+    "nameen": "STC Sport 2",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvstc_tv"
+  },
+  {
+    "namear": "STC Legnds",
+    "servers": "[]",
+    "logo": "https://store-images.s-microsoft.com/image/apps.62984.13675133441460582.d20f15a9-0cd7-46f8-b38d-bf9c968fe21b.b2149374-f0a9-4ccc-8b98-bfd24f14814d",
+    "nameen": "STC Legnds",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_cx_tvstc_tv"
+  },
+  {
+    "namear": "ESports 3",
+    "servers": "[{\"license\":\"https://wv.drm.intigral-ott.net:8063/?deviceId\\u003dMGEzNDAzZTUtMzM2Zi0zMDc5LWI0ODQtMzQyYjcwMGRhZGZh/\",\"headers\":\"\",\"scheme\":\"widevine\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://edgiolive.cdn.intigral-ott.net/EWC3/EWC3.isml/manifest.mpd\"}]",
+    "logo": "https://store-images.s-microsoft.com/image/apps.62984.13675133441460582.d20f15a9-0cd7-46f8-b38d-bf9c968fe21b.b2149374-f0a9-4ccc-8b98-bfd24f14814d",
+    "nameen": "ESports 3",
+    "position": "8",
+    "type": "channel",
+    "key": "aya_cx_tvstc_tv"
+  },
+  {
+    "namear": "STC Family",
+    "servers": "[{\"license\":\"5b743d2a372f811f09c7fa55b9f842df:c5a1e1a129825f6cf52521c5217126a4\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://uselector.cdn.intigral-ott.net/STCF/STCF.isml/manifest.mpd\"},{\"license\":\"5b743d2a372f811f09c7fa55b9f842df:c5a1e1a129825f6cf52521c5217126a4\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://edgiolive.cdn.intigral-ott.net/STCF/STCF.isml/manifest.mpd\"},{\"license\":\"5b743d2a372f811f09c7fa55b9f842df:c5a1e1a129825f6cf52521c5217126a4\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://fastly-live.cdn.intigral-ott.net/STCF/STCF.isml/manifest.mpd\"}]",
+    "logo": "https://www.jawwy.sa/content/dam/jawwy/products/jawwy-pay/stctv-icon.png.thumb.1280.1280.png",
+    "nameen": "STC Family",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvstc_tv"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "namear": "Diema Sport 1",
+    "servers": "[{\"headers\":\"XXuser-Agent|XXuser-Agent|XXuser-Agent|XX\",\"otherHeaders\":\"\",\"name\":\"Diema Sport 1\",\"Referer\":\"\",\"userAgent\":\"XXuser-Agent|XX\",\"position\":\"0\",\"url\":\"http://212.5.59.2:9882/play/a015/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/25141005_ico.png",
+    "nameen": "Diema Sport 1",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrardiema_sport"
+  },
+  {
+    "namear": "Diema Sport 2",
+    "servers": "[{\"headers\":\"CCuser-Agent|CCuser-Agent|CCuser-Agent|CC\",\"otherHeaders\":\"\",\"name\":\"Diema Sport 2\",\"Referer\":\"\",\"userAgent\":\"CCuser-Agent|CC\",\"position\":\"0\",\"url\":\"http://212.5.59.2:9882/play/a016/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/25141013_ico.png",
+    "nameen": "Diema Sport 2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrardiema_sport"
+  },
+  {
+    "namear": "Diema Sport 3",
+    "servers": "[{\"headers\":\"OOuser-Agent|OOuser-Agent|OOuser-Agent|OO\",\"otherHeaders\":\"\",\"name\":\"Diema Sport 3\",\"Referer\":\"\",\"userAgent\":\"OOuser-Agent|OO\",\"position\":\"0\",\"url\":\"http://212.5.59.2:9882/play/a017/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/25141016_ico.png",
+    "nameen": "Diema Sport 3",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrardiema_sport"
+  }
+]

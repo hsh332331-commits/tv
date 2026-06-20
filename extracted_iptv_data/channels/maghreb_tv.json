@@ -1,0 +1,497 @@
+[
+  {
+    "namear": "4Kids TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"4Kids TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a00u/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "4Kids TV",
+    "position": "1",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "A3 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"A3 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a00c/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "A3 HD",
+    "position": "2",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "AL24 News",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AL24 News\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a00d/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AL24 News",
+    "position": "3",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "Al Aoula Inter HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Aoula Inter HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a015/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Aoula Inter HD",
+    "position": "4",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "Al Insen TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Insen TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a01o/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Insen TV",
+    "position": "5",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "Al JANOUBIA TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al JANOUBIA TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a01m/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al JANOUBIA TV",
+    "position": "6",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "Al Maghribia HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Maghribia HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a019/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al Maghribia HD",
+    "position": "7",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "Al24 News",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al24 News\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a00o/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Al24 News",
+    "position": "8",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "Almagharibia TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Almagharibia TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a01x/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Almagharibia TV",
+    "position": "9",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "Amou Yazid TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Amou Yazid TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a00q/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Amou Yazid TV",
+    "position": "10",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "Arryadia HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Arryadia HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a017/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Arryadia HD",
+    "position": "11",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "Asil TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Asil TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a01y/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Asil TV",
+    "position": "12",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "Assadissa HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Assadissa HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a01a/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Assadissa HD",
+    "position": "13",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "Athaqafia HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Athaqafia HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a018/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Athaqafia HD",
+    "position": "14",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "Attessia TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Attessia TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a01i/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Attessia TV",
+    "position": "15",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "Bahia TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Bahia TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a00i/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Bahia TV",
+    "position": "16",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "Canal Algerie HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Canal Algerie HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a004/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Canal Algerie HD",
+    "position": "17",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "Carthage+",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Carthage+\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a01n/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Carthage+",
+    "position": "18",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "ELIKTISSADIA OULA",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ELIKTISSADIA OULA\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a00h/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ELIKTISSADIA OULA",
+    "position": "19",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "Echorouk TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Echorouk TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a00g/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Echorouk TV",
+    "position": "20",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "Echourouk NEWS",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Echourouk NEWS\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a00f/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Echourouk NEWS",
+    "position": "21",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "El Barlamaniya",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"El Barlamaniya\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a00a/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "El Barlamaniya",
+    "position": "22",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "El Bilad TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"El Bilad TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a00p/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "El Bilad TV",
+    "position": "23",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "El Djazair N1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"El Djazair N1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a00n/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "El Djazair N1",
+    "position": "24",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "El Haddaf TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"El Haddaf TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a00l/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "El Haddaf TV",
+    "position": "25",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "El Hayat TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"El Hayat TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a00k/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "El Hayat TV",
+    "position": "26",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "El Watania TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"El Watania TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a00j/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "El Watania TV",
+    "position": "27",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "Elhiwar Ettounsi",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Elhiwar Ettounsi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a01g/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Elhiwar Ettounsi",
+    "position": "28",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "Ennahar TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Ennahar TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a00s/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Ennahar TV",
+    "position": "29",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "HANNIBAL TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"HANNIBAL TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a01p/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "HANNIBAL TV",
+    "position": "30",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "Ifrikya FM",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Ifrikya FM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a00b/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Ifrikya FM",
+    "position": "31",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "Jawhara FM-TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Jawhara FM-TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a01q/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Jawhara FM-TV",
+    "position": "32",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "Laayoune TV HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Laayoune TV HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a016/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Laayoune TV HD",
+    "position": "33",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "Medi1 Radio Maghreb",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Medi1 Radio Maghreb\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a01d/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Medi1 Radio Maghreb",
+    "position": "34",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "Medi1 TV Maghreb HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Medi1 TV Maghreb HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a01c/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Medi1 TV Maghreb HD",
+    "position": "35",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "Nessma Ejdida",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Nessma Ejdida\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a01s/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Nessma Ejdida",
+    "position": "36",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "One TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"One TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a02f/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "One TV",
+    "position": "37",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "Programe National HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Programe National HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a003/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Programe National HD",
+    "position": "38",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "R Tunisie Culture",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"R Tunisie Culture\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a01u/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "R Tunisie Culture",
+    "position": "39",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "R Tunisie Nationale",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"R Tunisie Nationale\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a01r/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "R Tunisie Nationale",
+    "position": "40",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "R Tunisie internationale",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"R Tunisie internationale\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a01t/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "R Tunisie internationale",
+    "position": "41",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "Salam TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Salam TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a00m/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Salam TV",
+    "position": "42",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "Samira TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Samira TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a00r/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Samira TV",
+    "position": "43",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "TUNISNA",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TUNISNA\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a01h/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "TUNISNA",
+    "position": "44",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "TV 5",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TV 5\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a006/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "TV 5",
+    "position": "45",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "TV 6 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TV 6 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a007/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "TV 6 HD",
+    "position": "46",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "TV4",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TV4\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a005/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "TV4",
+    "position": "47",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "TV7 ELMAARIFA",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TV7 ELMAARIFA\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a008/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "TV7 ELMAARIFA",
+    "position": "48",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "TV8 EDHAKIRA",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TV8 EDHAKIRA\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a009/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "TV8 EDHAKIRA",
+    "position": "49",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "Tamazight HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Tamazight HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a01b/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Tamazight HD",
+    "position": "50",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "Telvza TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Telvza TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a01l/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Telvza TV",
+    "position": "51",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "Tunisia Educ1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Tunisia Educ1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a01j/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Tunisia Educ1",
+    "position": "52",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "Tunisia NAT 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Tunisia NAT 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a01f/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Tunisia NAT 1",
+    "position": "53",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "Tunisia NAT 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Tunisia NAT 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a01k/mono.m3u8 \"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Tunisia NAT 2",
+    "position": "54",
+    "type": "channel",
+    "key": "maghreb_tv"
+  },
+  {
+    "namear": "Zahra TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Zahra TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.236.229.117:8000/play/a00t/mono.m3u8  Découvrez du contenu intéressant Connectez-vous et suivez les créateurs et communautés populaires\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Zahra TV",
+    "position": "55",
+    "type": "channel",
+    "key": "maghreb_tv"
+  }
+]

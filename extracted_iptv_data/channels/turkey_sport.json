@@ -1,0 +1,38 @@
+[
+  {
+    "namear": "|TR| FOX HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"|TR| FOX HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://theking365tv.ws:2103/live/Galy/hS3GxqP/466.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|TR| FOX HD",
+    "position": "1",
+    "type": "channel",
+    "key": "turkey_sport"
+  },
+  {
+    "namear": "TRT Spor",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TRT Spor\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://mfe.cliptv.az/dash/TRT_SPOR_HD.ism/playlist.mpd\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "TRT Spor",
+    "position": "2",
+    "type": "channel",
+    "key": "turkey_sport"
+  },
+  {
+    "namear": "A Spor",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"A Spor\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://mfe.cliptv.az/dash/A_Spor_HD.ism/playlist.mpd\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "A Spor",
+    "position": "3",
+    "type": "channel",
+    "key": "turkey_sport"
+  },
+  {
+    "namear": "CBC Sport",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CBC Sport\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "CBC Sport",
+    "position": "4",
+    "type": "channel",
+    "key": "turkey_sport"
+  }
+]

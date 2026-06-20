@@ -1,0 +1,83 @@
+[
+  {
+    "namear": "SSC SPORTS 1 HD",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"SSC SPORTS 1 HD\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/34.ts\"}]",
+    "logo": "https://i.ibb.co/3sdqXVN/1.png",
+    "nameen": "SSC SPORTS 1 HD",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidalok2ssc_sports"
+  },
+  {
+    "namear": "SSC SPORTS 1 SD ",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"SSC SPORTS 1 SD \",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/41.ts\"}]",
+    "logo": "https://i.ibb.co/3sdqXVN/1.png",
+    "nameen": "SSC SPORTS 1 SD ",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidalok2ssc_sports"
+  },
+  {
+    "namear": "SSC SPORTS 2 HD ",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"SSC SPORTS 2 HD \",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/35.ts\"}]",
+    "logo": "https://i.ibb.co/tXB6gXq/2.png",
+    "nameen": "SSC SPORTS 2 HD ",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidalok2ssc_sports"
+  },
+  {
+    "namear": "SSC SPORTS 3 HD",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"SSC SPORTS 3 HD\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/36.ts\"}]",
+    "logo": "https://i.ibb.co/928M358/3.png",
+    "nameen": "SSC SPORTS 3 HD",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidalok2ssc_sports"
+  },
+  {
+    "namear": "SSC SPORTS 4 HD",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"SSC SPORTS 4 HD\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/37.ts\"}]",
+    "logo": "https://i.ibb.co/0m0rp6D/4.png",
+    "nameen": "SSC SPORTS 4 HD",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidalok2ssc_sports"
+  },
+  {
+    "namear": "SSC SPORTS 5 HD",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"SSC SPORTS 5 HD\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/38.ts\"}]",
+    "logo": "https://i.ibb.co/84G7tkY/5.png",
+    "nameen": "SSC SPORTS 5 HD",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidalok2ssc_sports"
+  },
+  {
+    "namear": "SSC EXTRA 1",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"SSC EXTRA 1\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/39.ts\"}]",
+    "logo": "https://i.ibb.co/hZRBfKc/6.png",
+    "nameen": "SSC EXTRA 1",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidalok2ssc_sports"
+  },
+  {
+    "namear": "SSC EXTRA 2",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"SSC EXTRA 2\",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/40.ts\"}]",
+    "logo": "https://i.ibb.co/rvQD86Z/7.png",
+    "nameen": "SSC EXTRA 2",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidalok2ssc_sports"
+  },
+  {
+    "namear": "SSC EXTRA 3 ",
+    "servers": "[{\"headers\":\"user-agent|q|\",\"otherHeaders\":\"\",\"name\":\"SSC EXTRA 3 \",\"Referer\":\"\",\"userAgent\":\"q\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/551.ts\"}]",
+    "logo": "q",
+    "nameen": "SSC EXTRA 3 ",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidalok2ssc_sports"
+  }
+]

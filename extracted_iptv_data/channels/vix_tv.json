@@ -1,0 +1,38 @@
+[
+  {
+    "namear": "Vix 90",
+    "servers": "[{\"headers\":\"\",\"license\":\"75074a0cbd83f5b72fb3e5c1495252a9:a4a0df04b2d28f2160cead2ecdeb7203\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6VEa_JrsoIcPZLZTXVgtaGOranOowWf8Mug_E3OQY3Q&s=10",
+    "nameen": "Vix 90",
+    "position": "0",
+    "type": "channel",
+    "key": "vix_tv"
+  },
+  {
+    "namear": "Vix 91",
+    "servers": "[{\"headers\":\"\",\"license\":\"11f486ca7df20d63ff3aaecf4d87d132:9271506950313bab2ced7522891aa022\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-91-HD/default.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6VEa_JrsoIcPZLZTXVgtaGOranOowWf8Mug_E3OQY3Q&s=10",
+    "nameen": "Vix 91",
+    "position": "1",
+    "type": "channel",
+    "key": "vix_tv"
+  },
+  {
+    "namear": "Vix 92",
+    "servers": "[]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6VEa_JrsoIcPZLZTXVgtaGOranOowWf8Mug_E3OQY3Q&s=10",
+    "nameen": "Vix 92",
+    "position": "2",
+    "type": "channel",
+    "key": "vix_tv"
+  },
+  {
+    "namear": "Vix 93",
+    "servers": "[{\"headers\":\"\",\"license\":\"7ee1a23e40b456ebfdaa40c51a24b857:45ffaff5f3221a356c82c3d39bb327ac\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-93-HD/default.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6VEa_JrsoIcPZLZTXVgtaGOranOowWf8Mug_E3OQY3Q&s=10",
+    "nameen": "Vix 93",
+    "position": "3",
+    "type": "channel",
+    "key": "vix_tv"
+  }
+]

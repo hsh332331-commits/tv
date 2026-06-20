@@ -1,0 +1,83 @@
+[
+  {
+    "namear": "beIN Baraem",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Baraem\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii1/Aen4PSXzxZ/33.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/997-beIN%20Entertainment%20%2F1665004831503ymg.png?alt=media&token=b78021ef-aa2f-4366-b682-84a2736014f9",
+    "nameen": "beIN Baraem",
+    "position": "19",
+    "type": "channel",
+    "key": "bein"
+  },
+  {
+    "namear": "beIN Fatafeat",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Fatafeat\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii1/Aen4PSXzxZ/32.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/997-beIN%20Entertainment%20%2F1665004808070ymg.png?alt=media&token=e7d8d35c-6565-439c-a30d-c1d916da1d93",
+    "nameen": "beIN Fatafeat",
+    "position": "20",
+    "type": "channel",
+    "key": "bein"
+  },
+  {
+    "namear": "beIN Gourmet",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Gourmet\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii1/Aen4PSXzxZ/31.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/997-beIN%20Entertainment%20%2F1665004777694ymg.png?alt=media&token=e98ecc53-f229-41fb-98de-23bd94c33fbc",
+    "nameen": "beIN Gourmet",
+    "position": "21",
+    "type": "channel",
+    "key": "bein"
+  },
+  {
+    "namear": "beIN Series 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Series 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii1/Aen4PSXzxZ/30.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/997-beIN%20Entertainment%20%2F1665004695631ymg.png?alt=media&token=451adf29-285e-4355-af9b-e896bdcd995e",
+    "nameen": "beIN Series 2",
+    "position": "22",
+    "type": "channel",
+    "key": "bein"
+  },
+  {
+    "namear": "beIN Series 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Series 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii1/Aen4PSXzxZ/29.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/997-beIN%20Entertainment%20%2F1665004720102ymg.png?alt=media&token=17308fe2-e3fa-4eaf-8d40-22f97583cda6",
+    "nameen": "beIN Series 1",
+    "position": "23",
+    "type": "channel",
+    "key": "bein"
+  },
+  {
+    "namear": "beIN Movies HD 4 Family",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Movies HD 4 Family\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii1/Aen4PSXzxZ/37.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/997-beIN%20Entertainment%20%2FMOVIES4_FAMILY_G.png?alt=media&token=c2b4d40d-21ee-463d-8daa-bcef90c04347",
+    "nameen": "beIN Movies HD 4 Family",
+    "position": "24",
+    "type": "channel",
+    "key": "bein"
+  },
+  {
+    "namear": "beIN Movies HD 3 Drama",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Movies HD 3 Drama\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii1/Aen4PSXzxZ/36.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/997-beIN%20Entertainment%20%2F1665003005229ymg.png?alt=media&token=8cf69270-75ee-424c-b259-d04abd0e0ea9",
+    "nameen": "beIN Movies HD 3 Drama",
+    "position": "25",
+    "type": "channel",
+    "key": "bein"
+  },
+  {
+    "namear": "beIN Movies HD 2 Action",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Movies HD 2 Action\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii1/Aen4PSXzxZ/35.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/997-beIN%20Entertainment%20%2F1665002978781ymg.png?alt=media&token=7e007368-515d-4aa8-8aea-c444142b0955",
+    "nameen": "beIN Movies HD 2 Action",
+    "position": "26",
+    "type": "channel",
+    "key": "bein"
+  },
+  {
+    "namear": "beIN Movies HD 1 Premiere",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Movies HD 1 Premiere\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii1/Aen4PSXzxZ/34.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/997-beIN%20Entertainment%20%2F1665002949077ymg.png?alt=media&token=d322855e-3d89-42e4-bed4-15236b4822e3",
+    "nameen": "beIN Movies HD 1 Premiere",
+    "position": "27",
+    "type": "channel",
+    "key": "bein"
+  }
+]

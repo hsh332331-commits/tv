@@ -1,0 +1,245 @@
+[
+  {
+    "namear": "BBC Drama (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BBC Drama (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId\\u003dchannel\\u0026appName\\u003drokuchannel\\u0026appVersion\\u003d1.0\\u0026bmodel\\u003dbm1\\u0026channel_id\\u003dchannel\\u0026content\\u003dchannel\\u0026content_rating\\u003dROKU_ADS_CONTENT_RATING\\u0026content_type\\u003dlivefeed\\u0026coppa\\u003dfalse\\u0026deviceDNT\\u003d1\\u0026deviceId\\u003dchannel\\u0026deviceMake\\u003drokuChannel\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003drokuChannel\\u0026deviceVersion\\u003d1.0\\u0026embedPartner\\u003drokuChannel\\u0026genre\\u003dROKU_ADS_CONTENT_GENRE\\u0026is_lat\\u003d1\\u0026platform\\u003dweb\\u0026rdid\\u003dchannel\\u0026serverSideAds\\u003dfalse\\u0026studio_id\\u003dviacom\\u0026tags\\u003dROKU_CONTENT_TAGS\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "BBC Drama (720p)",
+    "position": "1",
+    "type": "channel",
+    "key": "spanish"
+  },
+  {
+    "namear": "Comedia Made in Spain (720p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Comedia Made in Spain (720p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId\\u003d\\u0026appName\\u003dweb\\u0026appStoreUrl\\u003d\\u0026appVersion\\u003dDNT\\u0026app_name\\u003d\\u0026architecture\\u003d\\u0026buildVersion\\u003d\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d5f1abce155a03d0007718834\\u0026deviceLat\\u003d41.1167\\u0026deviceLon\\u003d1.2500\\u0026deviceMake\\u003dweb\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dDNT\\u0026includeExtendedEvents\\u003dfalse\\u0026marketingRegion\\u003dES\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d505\\u0026terminate\\u003dfalse\\u0026userId\\u003d\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Comedia Made in Spain (720p) [Not 24/7]",
+    "position": "2",
+    "type": "channel",
+    "key": "spanish"
+  },
+  {
+    "namear": "Pluto TV Ana y los 7 (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Ana y los 7 (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acce7f17797000718f9be/master.m3u8?advertisingId\\u003dchannel\\u0026appName\\u003drokuchannel\\u0026appVersion\\u003d1.0\\u0026bmodel\\u003dbm1\\u0026content\\u003dchannel\\u0026content_rating\\u003dROKU_ADS_CONTENT_RATING\\u0026content_type\\u003dlivefeed\\u0026coppa\\u003dfalse\\u0026deviceDNT\\u003d1\\u0026deviceId\\u003dchannel\\u0026deviceMake\\u003drokuChannel\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003drokuChannel\\u0026deviceVersion\\u003d1.0\\u0026embedPartner\\u003drokuChannel\\u0026is_lat\\u003d1\\u0026platform\\u003dweb\\u0026rdid\\u003dchannel\\u0026tags\\u003dROKU_CONTENT_TAGS\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Ana y los 7 (720p)",
+    "position": "3",
+    "type": "channel",
+    "key": "spanish"
+  },
+  {
+    "namear": "Pluto TV Cine Acción (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Cine Acción (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?advertisingId\\u003dchannel\\u0026appName\\u003drokuchannel\\u0026appVersion\\u003d1.0\\u0026bmodel\\u003dbm1\\u0026content\\u003dchannel\\u0026content_rating\\u003dROKU_ADS_CONTENT_RATING\\u0026content_type\\u003dlivefeed\\u0026coppa\\u003dfalse\\u0026deviceDNT\\u003d1\\u0026deviceId\\u003dchannel\\u0026deviceMake\\u003drokuChannel\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003drokuChannel\\u0026deviceVersion\\u003d1.0\\u0026embedPartner\\u003drokuChannel\\u0026is_lat\\u003d1\\u0026platform\\u003dweb\\u0026rdid\\u003dchannel\\u0026tags\\u003dROKU_CONTENT_TAGS\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Cine Acción (720p)",
+    "position": "4",
+    "type": "channel",
+    "key": "spanish"
+  },
+  {
+    "namear": "Pluto TV Cine Clásico (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Cine Clásico (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?advertisingId\\u003dchannel\\u0026appName\\u003drokuchannel\\u0026appVersion\\u003d1.0\\u0026bmodel\\u003dbm1\\u0026content\\u003dchannel\\u0026content_rating\\u003dROKU_ADS_CONTENT_RATING\\u0026content_type\\u003dlivefeed\\u0026coppa\\u003dfalse\\u0026deviceDNT\\u003d1\\u0026deviceId\\u003dchannel\\u0026deviceMake\\u003drokuChannel\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003drokuChannel\\u0026deviceVersion\\u003d1.0\\u0026embedPartner\\u003drokuChannel\\u0026is_lat\\u003d1\\u0026platform\\u003dweb\\u0026rdid\\u003dchannel\\u0026tags\\u003dROKU_CONTENT_TAGS\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Cine Clásico (720p)",
+    "position": "5",
+    "type": "channel",
+    "key": "spanish"
+  },
+  {
+    "namear": "Pluto TV Cine Estelar (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Cine Estelar (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?advertisingId\\u003dchannel\\u0026appName\\u003drokuchannel\\u0026appVersion\\u003d1.0\\u0026bmodel\\u003dbm1\\u0026content\\u003dchannel\\u0026content_rating\\u003dROKU_ADS_CONTENT_RATING\\u0026content_type\\u003dlivefeed\\u0026coppa\\u003dfalse\\u0026deviceDNT\\u003d1\\u0026deviceId\\u003dchannel\\u0026deviceMake\\u003drokuChannel\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003drokuChannel\\u0026deviceVersion\\u003d1.0\\u0026embedPartner\\u003drokuChannel\\u0026is_lat\\u003d1\\u0026platform\\u003dweb\\u0026rdid\\u003dchannel\\u0026tags\\u003dROKU_CONTENT_TAGS\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Cine Estelar (720p)",
+    "position": "6",
+    "type": "channel",
+    "key": "spanish"
+  },
+  {
+    "namear": "Pluto TV Cocina (720p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Cocina (720p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?advertisingId\\u003d\\u0026appName\\u003dweb\\u0026appVersion\\u003d5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a\\u0026app_name\\u003dweb\\u0026clientDeviceType\\u003d0\\u0026clientID\\u003d6fbead95-26b1-415d-998f-1bdef62d10be\\u0026clientModelNumber\\u003dna\\u0026deviceDNT\\u003dfalse\\u0026deviceId\\u003d6fbead95-26b1-415d-998f-1bdef62d10be\\u0026deviceLat\\u003d19.4358\\u0026deviceLon\\u003d-99.1441\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003d88.0.4324.150\\u0026marketingRegion\\u003dVE\\u0026serverSideAds\\u003dfalse\\u0026sessionID\\u003db8e5a857-714a-11eb-b532-0242ac110002\\u0026sid\\u003db8e5a857-714a-11eb-b532-0242ac110002\\u0026userId\\u003d\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Cocina (720p) [Not 24/7]",
+    "position": "7",
+    "type": "channel",
+    "key": "spanish"
+  },
+  {
+    "namear": "Pluto TV Cocina (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Cocina (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId\\u003dchannel\\u0026appName\\u003drokuchannel\\u0026appVersion\\u003d1.0\\u0026bmodel\\u003dbm1\\u0026content\\u003dchannel\\u0026content_rating\\u003dROKU_ADS_CONTENT_RATING\\u0026content_type\\u003dlivefeed\\u0026coppa\\u003dfalse\\u0026deviceDNT\\u003d1\\u0026deviceId\\u003dchannel\\u0026deviceMake\\u003drokuChannel\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003drokuChannel\\u0026deviceVersion\\u003d1.0\\u0026embedPartner\\u003drokuChannel\\u0026is_lat\\u003d1\\u0026platform\\u003dweb\\u0026rdid\\u003dchannel\\u0026tags\\u003dROKU_CONTENT_TAGS\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Cocina (720p)",
+    "position": "8",
+    "type": "channel",
+    "key": "spanish"
+  },
+  {
+    "namear": "Pluto TV Cocina (Spain) (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Cocina (Spain) (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId\\u003d\\u0026appName\\u003dweb\\u0026appStoreUrl\\u003d\\u0026appVersion\\u003dDNT\\u0026app_name\\u003d\\u0026architecture\\u003d\\u0026buildVersion\\u003d\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d5f1acdaa8ba90f0007d5e760\\u0026deviceLat\\u003d41.1167\\u0026deviceLon\\u003d1.2500\\u0026deviceMake\\u003dweb\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dDNT\\u0026includeExtendedEvents\\u003dfalse\\u0026marketingRegion\\u003dES\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d700\\u0026terminate\\u003dfalse\\u0026userId\\u003d\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Cocina (Spain) (720p)",
+    "position": "9",
+    "type": "channel",
+    "key": "spanish"
+  },
+  {
+    "namear": "Pluto TV Comedia (Made in Spain) (720p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Comedia (Made in Spain) (720p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId\\u003dchannel\\u0026appName\\u003drokuchannel\\u0026appVersion\\u003d1.0\\u0026bmodel\\u003dbm1\\u0026content\\u003dchannel\\u0026content_rating\\u003dROKU_ADS_CONTENT_RATING\\u0026content_type\\u003dlivefeed\\u0026coppa\\u003dfalse\\u0026deviceDNT\\u003d1\\u0026deviceId\\u003dchannel\\u0026deviceMake\\u003drokuChannel\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003drokuChannel\\u0026deviceVersion\\u003d1.0\\u0026embedPartner\\u003drokuChannel\\u0026is_lat\\u003d1\\u0026platform\\u003dweb\\u0026rdid\\u003dchannel\\u0026tags\\u003dROKU_CONTENT_TAGS\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Comedia (Made in Spain) (720p) [Not 24/7]",
+    "position": "10",
+    "type": "channel",
+    "key": "spanish"
+  },
+  {
+    "namear": "Pluto TV Forensic Files en ESP (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Forensic Files en ESP (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?advertisingId\\u003d\\u0026appName\\u003dweb\\u0026appStoreUrl\\u003d\\u0026appVersion\\u003dDNT\\u0026app_name\\u003d\\u0026architecture\\u003d\\u0026buildVersion\\u003d\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d5e94cd036cc69d0007e8a1ba\\u0026deviceLat\\u003d\\u0026deviceLon\\u003d\\u0026deviceMake\\u003dweb\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dDNT\\u0026includeExtendedEvents\\u003dfalse\\u0026marketingRegion\\u003dUS\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d933\\u0026terminate\\u003dfalse\\u0026userId\\u003d\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Forensic Files en ESP (720p)",
+    "position": "11",
+    "type": "channel",
+    "key": "spanish"
+  },
+  {
+    "namear": "Pluto TV Forensic Files en ESP (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Forensic Files en ESP (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?advertisingId\\u003dchannel\\u0026appName\\u003drokuchannel\\u0026appVersion\\u003d1.0\\u0026bmodel\\u003dbm1\\u0026channel_id\\u003dchannel\\u0026content\\u003dchannel\\u0026content_rating\\u003dROKU_ADS_CONTENT_RATING\\u0026content_type\\u003dlivefeed\\u0026coppa\\u003dfalse\\u0026deviceDNT\\u003d1\\u0026deviceId\\u003dchannel\\u0026deviceMake\\u003drokuChannel\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003drokuChannel\\u0026deviceVersion\\u003d1.0\\u0026embedPartner\\u003drokuChannel\\u0026genre\\u003dROKU_ADS_CONTENT_GENRE\\u0026is_lat\\u003d1\\u0026platform\\u003dweb\\u0026rdid\\u003dchannel\\u0026studio_id\\u003dviacom\\u0026tags\\u003dROKU_CONTENT_TAGS\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Forensic Files en ESP (720p)",
+    "position": "12",
+    "type": "channel",
+    "key": "spanish"
+  },
+  {
+    "namear": "Pluto TV Kids (720p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Kids (720p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId\\u003d\\u0026appName\\u003dweb\\u0026appVersion\\u003d5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a\\u0026app_name\\u003dweb\\u0026clientDeviceType\\u003d0\\u0026clientID\\u003d6fbead95-26b1-415d-998f-1bdef62d10be\\u0026clientModelNumber\\u003dna\\u0026deviceDNT\\u003dfalse\\u0026deviceId\\u003d6fbead95-26b1-415d-998f-1bdef62d10be\\u0026deviceLat\\u003d19.4358\\u0026deviceLon\\u003d-99.1441\\u0026deviceMake\\u003dChrome\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003d88.0.4324.150\\u0026marketingRegion\\u003dVE\\u0026serverSideAds\\u003dfalse\\u0026sessionID\\u003db8e5a857-714a-11eb-b532-0242ac110002\\u0026sid\\u003db8e5a857-714a-11eb-b532-0242ac110002\\u0026userId\\u003d\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Kids (720p) [Not 24/7]",
+    "position": "13",
+    "type": "channel",
+    "key": "spanish"
+  },
+  {
+    "namear": "Pluto TV Kids (720p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Kids (720p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId\\u003dchannel\\u0026appName\\u003drokuchannel\\u0026appVersion\\u003d1.0\\u0026bmodel\\u003dbm1\\u0026channel_id\\u003dchannel\\u0026content\\u003dchannel\\u0026content_rating\\u003dROKU_ADS_CONTENT_RATING\\u0026content_type\\u003dlivefeed\\u0026coppa\\u003dfalse\\u0026deviceDNT\\u003d1\\u0026deviceId\\u003dchannel\\u0026deviceMake\\u003drokuChannel\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003drokuChannel\\u0026deviceVersion\\u003d1.0\\u0026embedPartner\\u003drokuChannel\\u0026genre\\u003dROKU_ADS_CONTENT_GENRE\\u0026is_lat\\u003d1\\u0026platform\\u003dweb\\u0026rdid\\u003dchannel\\u0026studio_id\\u003dviacom\\u0026tags\\u003dROKU_CONTENT_TAGS\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Kids (720p) [Not 24/7]",
+    "position": "14",
+    "type": "channel",
+    "key": "spanish"
+  },
+  {
+    "namear": "Pluto TV Kids (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Kids (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId\\u003d\\u0026appName\\u003dweb\\u0026appStoreUrl\\u003d\\u0026appVersion\\u003dDNT\\u0026app_name\\u003d\\u0026architecture\\u003d\\u0026buildVersion\\u003d\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d51c75f7bb6f26ba1cd00002f\\u0026deviceLat\\u003d\\u0026deviceLon\\u003d\\u0026deviceMake\\u003dweb\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dDNT\\u0026includeExtendedEvents\\u003dfalse\\u0026marketingRegion\\u003dUS\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d989\\u0026terminate\\u003dfalse\\u0026userId\\u003d\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Kids (720p)",
+    "position": "15",
+    "type": "channel",
+    "key": "spanish"
+  },
+  {
+    "namear": "Pluto TV Kids (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Kids (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d54be738977e2c310940/master.m3u8?advertisingId\\u003dchannel\\u0026appName\\u003drokuchannel\\u0026appVersion\\u003d1.0\\u0026bmodel\\u003dbm1\\u0026channel_id\\u003dchannel\\u0026content\\u003dchannel\\u0026content_rating\\u003dROKU_ADS_CONTENT_RATING\\u0026content_type\\u003dlivefeed\\u0026coppa\\u003dfalse\\u0026deviceDNT\\u003d1\\u0026deviceId\\u003dchannel\\u0026deviceMake\\u003drokuChannel\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003drokuChannel\\u0026deviceVersion\\u003d1.0\\u0026embedPartner\\u003drokuChannel\\u0026genre\\u003dROKU_ADS_CONTENT_GENRE\\u0026is_lat\\u003d1\\u0026platform\\u003dweb\\u0026rdid\\u003dchannel\\u0026studio_id\\u003dviacom\\u0026tags\\u003dROKU_CONTENT_TAGS\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Kids (720p)",
+    "position": "16",
+    "type": "channel",
+    "key": "spanish"
+  },
+  {
+    "namear": "Pluto TV Kids (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Kids (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aab1d29b39600073e243f/master.m3u8?advertisingId\\u003dchannel\\u0026appName\\u003drokuchannel\\u0026appVersion\\u003d1.0\\u0026bmodel\\u003dbm1\\u0026content\\u003dchannel\\u0026content_rating\\u003dROKU_ADS_CONTENT_RATING\\u0026content_type\\u003dlivefeed\\u0026coppa\\u003dfalse\\u0026deviceDNT\\u003d1\\u0026deviceId\\u003dchannel\\u0026deviceMake\\u003drokuChannel\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003drokuChannel\\u0026deviceVersion\\u003d1.0\\u0026embedPartner\\u003drokuChannel\\u0026is_lat\\u003d1\\u0026platform\\u003dweb\\u0026rdid\\u003dchannel\\u0026tags\\u003dROKU_CONTENT_TAGS\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Kids (720p)",
+    "position": "17",
+    "type": "channel",
+    "key": "spanish"
+  },
+  {
+    "namear": "Pluto TV Kids (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Kids (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId\\u003dchannel\\u0026appName\\u003drokuchannel\\u0026appVersion\\u003d1.0\\u0026bmodel\\u003dbm1\\u0026channel_id\\u003dchannel\\u0026content\\u003dchannel\\u0026content_rating\\u003dROKU_ADS_CONTENT_RATING\\u0026content_type\\u003dlivefeed\\u0026coppa\\u003dfalse\\u0026deviceDNT\\u003d1\\u0026deviceId\\u003dchannel\\u0026deviceMake\\u003drokuChannel\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003drokuChannel\\u0026deviceVersion\\u003d1.0\\u0026embedPartner\\u003drokuChannel\\u0026genre\\u003dROKU_ADS_CONTENT_GENRE\\u0026is_lat\\u003d1\\u0026platform\\u003dweb\\u0026rdid\\u003dchannel\\u0026studio_id\\u003dviacom\\u0026tags\\u003dROKU_CONTENT_TAGS\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Kids (720p)",
+    "position": "18",
+    "type": "channel",
+    "key": "spanish"
+  },
+  {
+    "namear": "Pluto TV Kids (Spain) (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Kids (Spain) (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aab1d29b39600073e243f/master.m3u8?advertisingId\\u003d\\u0026appName\\u003dweb\\u0026appStoreUrl\\u003d\\u0026appVersion\\u003dDNT\\u0026app_name\\u003d\\u0026architecture\\u003d\\u0026buildVersion\\u003d\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d5f1aab1d29b39600073e243f\\u0026deviceLat\\u003d41.1167\\u0026deviceLon\\u003d1.2500\\u0026deviceMake\\u003dweb\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dDNT\\u0026includeExtendedEvents\\u003dfalse\\u0026marketingRegion\\u003dES\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d910\\u0026terminate\\u003dfalse\\u0026userId\\u003d\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Kids (Spain) (720p)",
+    "position": "19",
+    "type": "channel",
+    "key": "spanish"
+  },
+  {
+    "namear": "Pluto TV MTV Catfish (Spain) (720p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV MTV Catfish (Spain) (720p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ab3c7778230000735cf41/master.m3u8?advertisingId\\u003d\\u0026appName\\u003dweb\\u0026appStoreUrl\\u003d\\u0026appVersion\\u003dDNT\\u0026app_name\\u003d\\u0026architecture\\u003d\\u0026buildVersion\\u003d\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d5f1ab3c7778230000735cf41\\u0026deviceLat\\u003d41.1167\\u0026deviceLon\\u003d1.2500\\u0026deviceMake\\u003dweb\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dDNT\\u0026includeExtendedEvents\\u003dfalse\\u0026marketingRegion\\u003dES\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d305\\u0026terminate\\u003dfalse\\u0026userId\\u003d\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV MTV Catfish (Spain) (720p) [Not 24/7]",
+    "position": "20",
+    "type": "channel",
+    "key": "spanish"
+  },
+  {
+    "namear": "Pluto TV MTV Music Made in Spain (720p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV MTV Music Made in Spain (720p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?advertisingId\\u003dchannel\\u0026appName\\u003drokuchannel\\u0026appVersion\\u003d1.0\\u0026bmodel\\u003dbm1\\u0026content\\u003dchannel\\u0026content_rating\\u003dROKU_ADS_CONTENT_RATING\\u0026content_type\\u003dlivefeed\\u0026coppa\\u003dfalse\\u0026deviceDNT\\u003d1\\u0026deviceId\\u003dchannel\\u0026deviceMake\\u003drokuChannel\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003drokuChannel\\u0026deviceVersion\\u003d1.0\\u0026embedPartner\\u003drokuChannel\\u0026is_lat\\u003d1\\u0026platform\\u003dweb\\u0026rdid\\u003dchannel\\u0026serverSideAds\\u003dfalse\\u0026tags\\u003dROKU_CONTENT_TAGS\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV MTV Music Made in Spain (720p) [Not 24/7]",
+    "position": "21",
+    "type": "channel",
+    "key": "spanish"
+  },
+  {
+    "namear": "Pluto TV MTV Originals (Spain) (480p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV MTV Originals (Spain) (480p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?advertisingId\\u003d\\u0026appName\\u003dweb\\u0026appStoreUrl\\u003d\\u0026appVersion\\u003dDNT\\u0026app_name\\u003d\\u0026architecture\\u003d\\u0026buildVersion\\u003d\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d5f1aadf373bed3000794d1d7\\u0026deviceLat\\u003d41.1167\\u0026deviceLon\\u003d1.2500\\u0026deviceMake\\u003dweb\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dDNT\\u0026includeExtendedEvents\\u003dfalse\\u0026marketingRegion\\u003dES\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d300\\u0026terminate\\u003dfalse\\u0026userId\\u003d\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV MTV Originals (Spain) (480p)",
+    "position": "22",
+    "type": "channel",
+    "key": "spanish"
+  },
+  {
+    "namear": "Pluto TV Telenovelas (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Telenovelas (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?advertisingId\\u003dchannel\\u0026appName\\u003drokuchannel\\u0026appVersion\\u003d1.0\\u0026bmodel\\u003dbm1\\u0026channel_id\\u003dchannel\\u0026content\\u003dchannel\\u0026content_rating\\u003dROKU_ADS_CONTENT_RATING\\u0026content_type\\u003dlivefeed\\u0026coppa\\u003dfalse\\u0026deviceDNT\\u003d1\\u0026deviceId\\u003dchannel\\u0026deviceMake\\u003drokuChannel\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003drokuChannel\\u0026deviceVersion\\u003d1.0\\u0026embedPartner\\u003drokuChannel\\u0026genre\\u003dROKU_ADS_CONTENT_GENRE\\u0026is_lat\\u003d1\\u0026platform\\u003dweb\\u0026rdid\\u003dchannel\\u0026serverSideAds\\u003dfalse\\u0026studio_id\\u003dviacom\\u0026tags\\u003dROKU_CONTENT_TAGS\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Telenovelas (720p)",
+    "position": "23",
+    "type": "channel",
+    "key": "spanish"
+  },
+  {
+    "namear": "Pluto TV The Walking Dead ESP (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV The Walking Dead ESP (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId\\u003d\\u0026appName\\u003dweb\\u0026appStoreUrl\\u003d\\u0026appVersion\\u003dDNT\\u0026app_name\\u003d\\u0026architecture\\u003d\\u0026buildVersion\\u003d\\u0026deviceDNT\\u003d0\\u0026deviceId\\u003d5e82bb378601b80007b4bd78\\u0026deviceLat\\u003d\\u0026deviceLon\\u003d\\u0026deviceMake\\u003dweb\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003dweb\\u0026deviceVersion\\u003dDNT\\u0026includeExtendedEvents\\u003dfalse\\u0026marketingRegion\\u003dUS\\u0026serverSideAds\\u003dfalse\\u0026sid\\u003d925\\u0026terminate\\u003dfalse\\u0026userId\\u003d\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV The Walking Dead ESP (720p)",
+    "position": "24",
+    "type": "channel",
+    "key": "spanish"
+  },
+  {
+    "namear": "Pluto TV The Walking Dead ESP (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV The Walking Dead ESP (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId\\u003dchannel\\u0026appName\\u003drokuchannel\\u0026appVersion\\u003d1.0\\u0026bmodel\\u003dbm1\\u0026channel_id\\u003dchannel\\u0026content\\u003dchannel\\u0026content_rating\\u003dROKU_ADS_CONTENT_RATING\\u0026content_type\\u003dlivefeed\\u0026coppa\\u003dfalse\\u0026deviceDNT\\u003d1\\u0026deviceId\\u003dchannel\\u0026deviceMake\\u003drokuChannel\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003drokuChannel\\u0026deviceVersion\\u003d1.0\\u0026embedPartner\\u003drokuChannel\\u0026genre\\u003dROKU_ADS_CONTENT_GENRE\\u0026is_lat\\u003d1\\u0026platform\\u003dweb\\u0026rdid\\u003dchannel\\u0026studio_id\\u003dviacom\\u0026tags\\u003dROKU_CONTENT_TAGS\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV The Walking Dead ESP (720p)",
+    "position": "25",
+    "type": "channel",
+    "key": "spanish"
+  },
+  {
+    "namear": "Pluto TV Toons Clásico (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pluto TV Toons Clásico (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId\\u003dchannel\\u0026appName\\u003drokuchannel\\u0026appVersion\\u003d1.0\\u0026bmodel\\u003dbm1\\u0026channel_id\\u003dchannel\\u0026content\\u003dchannel\\u0026content_rating\\u003dROKU_ADS_CONTENT_RATING\\u0026content_type\\u003dlivefeed\\u0026coppa\\u003dfalse\\u0026deviceDNT\\u003d1\\u0026deviceId\\u003dchannel\\u0026deviceMake\\u003drokuChannel\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003drokuChannel\\u0026deviceVersion\\u003d1.0\\u0026embedPartner\\u003drokuChannel\\u0026genre\\u003dROKU_ADS_CONTENT_GENRE\\u0026is_lat\\u003d1\\u0026platform\\u003dweb\\u0026rdid\\u003dchannel\\u0026studio_id\\u003dviacom\\u0026tags\\u003dROKU_CONTENT_TAGS\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Pluto TV Toons Clásico (720p)",
+    "position": "26",
+    "type": "channel",
+    "key": "spanish"
+  },
+  {
+    "namear": "Top Gear (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Top Gear (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?advertisingId\\u003dchannel\\u0026appName\\u003drokuchannel\\u0026appVersion\\u003d1.0\\u0026bmodel\\u003dbm1\\u0026channel_id\\u003dchannel\\u0026content\\u003dchannel\\u0026content_rating\\u003dROKU_ADS_CONTENT_RATING\\u0026content_type\\u003dlivefeed\\u0026coppa\\u003dfalse\\u0026deviceDNT\\u003d1\\u0026deviceId\\u003dchannel\\u0026deviceMake\\u003drokuChannel\\u0026deviceModel\\u003dweb\\u0026deviceType\\u003drokuChannel\\u0026deviceVersion\\u003d1.0\\u0026embedPartner\\u003drokuChannel\\u0026genre\\u003dROKU_ADS_CONTENT_GENRE\\u0026is_lat\\u003d1\\u0026platform\\u003dweb\\u0026rdid\\u003dchannel\\u0026serverSideAds\\u003dfalse\\u0026studio_id\\u003dviacom\\u0026tags\\u003dROKU_CONTENT_TAGS\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Top Gear (720p)",
+    "position": "27",
+    "type": "channel",
+    "key": "spanish"
+  }
+]

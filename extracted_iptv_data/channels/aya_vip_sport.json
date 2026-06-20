@@ -1,0 +1,209 @@
+[
+  {
+    "namear": "ADSport1Premium",
+    "servers": "[{\"headers\":\"user-agent;vipaya;\",\"otherHeaders\":\"\",\"name\":\"ADSport1Premium\",\"Referer\":\"\",\"userAgent\":\"vipaya\",\"position\":\"0\",\"url\":\"https://mixflixpro.online:443/vipaya/ayatv/19\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ADSport1Premium",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_vip_sport"
+  },
+  {
+    "namear": "ADSport2Premium",
+    "servers": "[{\"headers\":\"user-agent;vipaya;\",\"otherHeaders\":\"\",\"name\":\"ADSport2Premium\",\"Referer\":\"\",\"userAgent\":\"vipaya\",\"position\":\"0\",\"url\":\"https://mixflixpro.online:443/vipaya/ayatv/20\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ADSport2Premium",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_vip_sport"
+  },
+  {
+    "namear": "beinsportshd",
+    "servers": "[{\"headers\":\"user-agent;vipaya;\",\"otherHeaders\":\"\",\"name\":\"beinsportshd\",\"Referer\":\"\",\"userAgent\":\"vipaya\",\"position\":\"0\",\"url\":\"https://mixflixpro.online:443/vipaya/ayatv/23\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "beinsportshd",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_vip_sport"
+  },
+  {
+    "namear": "Bein Pr HD 1",
+    "servers": "[{\"headers\":\"user-agent;vipaya;\",\"otherHeaders\":\"\",\"name\":\"Bein Pr HD 1\",\"Referer\":\"\",\"userAgent\":\"vipaya\",\"position\":\"0\",\"url\":\"https://mixflixpro.online:443/vipaya/ayatv/24\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Bein Pr HD 1",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_vip_sport"
+  },
+  {
+    "namear": "Bein Pr SD 1",
+    "servers": "[{\"headers\":\"user-agent;vipaya;\",\"otherHeaders\":\"\",\"name\":\"Bein Pr SD 1\",\"Referer\":\"\",\"userAgent\":\"vipaya\",\"position\":\"0\",\"url\":\"https://mixflixpro.online:443/vipaya/ayatv/25\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Bein Pr SD 1",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_vip_sport"
+  },
+  {
+    "namear": "Bein Pr HD 2",
+    "servers": "[{\"headers\":\"user-agent;vipaya;\",\"otherHeaders\":\"\",\"name\":\"Bein Pr HD 2\",\"Referer\":\"\",\"userAgent\":\"vipaya\",\"position\":\"0\",\"url\":\"https://mixflixpro.online:443/vipaya/ayatv/26\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Bein Pr HD 2",
+    "position": "6",
+    "type": "channel",
+    "key": "aya_vip_sport"
+  },
+  {
+    "namear": "Bein Pr SD 2",
+    "servers": "[{\"headers\":\"user-agent;vipaya;\",\"otherHeaders\":\"\",\"name\":\"Bein Pr SD 2\",\"Referer\":\"\",\"userAgent\":\"vipaya\",\"position\":\"0\",\"url\":\"https://mixflixpro.online:443/vipaya/ayatv/27\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Bein Pr SD 2",
+    "position": "7",
+    "type": "channel",
+    "key": "aya_vip_sport"
+  },
+  {
+    "namear": "Bein Pr HD 3",
+    "servers": "[{\"headers\":\"user-agent;vipaya;\",\"otherHeaders\":\"\",\"name\":\"Bein Pr HD 3\",\"Referer\":\"\",\"userAgent\":\"vipaya\",\"position\":\"0\",\"url\":\"https://mixflixpro.online:443/vipaya/ayatv/28\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Bein Pr HD 3",
+    "position": "8",
+    "type": "channel",
+    "key": "aya_vip_sport"
+  },
+  {
+    "namear": "Bein Pr SD 3",
+    "servers": "[{\"headers\":\"user-agent;vipaya;\",\"otherHeaders\":\"\",\"name\":\"Bein Pr SD 3\",\"Referer\":\"\",\"userAgent\":\"vipaya\",\"position\":\"0\",\"url\":\"https://mixflixpro.online:443/vipaya/ayatv/29\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Bein Pr SD 3",
+    "position": "9",
+    "type": "channel",
+    "key": "aya_vip_sport"
+  },
+  {
+    "namear": "Bein Hd 1",
+    "servers": "[{\"headers\":\"user-agent;vipaya;\",\"otherHeaders\":\"\",\"name\":\"Bein Hd 1\",\"Referer\":\"\",\"userAgent\":\"vipaya\",\"position\":\"0\",\"url\":\"https://mixflixpro.online:443/vipaya/ayatv/30\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Bein Hd 1",
+    "position": "10",
+    "type": "channel",
+    "key": "aya_vip_sport"
+  },
+  {
+    "namear": "bein SD 1",
+    "servers": "[{\"headers\":\"user-agent;vipaya;\",\"otherHeaders\":\"\",\"name\":\"bein SD 1\",\"Referer\":\"\",\"userAgent\":\"vipaya\",\"position\":\"0\",\"url\":\"https://mixflixpro.online:443/vipaya/ayatv/31\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "bein SD 1",
+    "position": "11",
+    "type": "channel",
+    "key": "aya_vip_sport"
+  },
+  {
+    "namear": "Bein HD 2",
+    "servers": "[{\"headers\":\"user-agent;vipaya;\",\"otherHeaders\":\"\",\"name\":\"Bein HD 2\",\"Referer\":\"\",\"userAgent\":\"vipaya\",\"position\":\"0\",\"url\":\"https://mixflixpro.online:443/vipaya/ayatv/32\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Bein HD 2",
+    "position": "12",
+    "type": "channel",
+    "key": "aya_vip_sport"
+  },
+  {
+    "namear": "Bein SD 2",
+    "servers": "[{\"headers\":\"user-agent;vipaya;\",\"otherHeaders\":\"\",\"name\":\"Bein SD 2\",\"Referer\":\"\",\"userAgent\":\"vipaya\",\"position\":\"0\",\"url\":\"https://mixflixpro.online:443/vipaya/ayatv/33\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Bein SD 2",
+    "position": "13",
+    "type": "channel",
+    "key": "aya_vip_sport"
+  },
+  {
+    "namear": "Bein HD 3",
+    "servers": "[{\"headers\":\"user-agent;vipaya;\",\"otherHeaders\":\"\",\"name\":\"Bein HD 3\",\"Referer\":\"\",\"userAgent\":\"vipaya\",\"position\":\"0\",\"url\":\"https://mixflixpro.online:443/vipaya/ayatv/34\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Bein HD 3",
+    "position": "14",
+    "type": "channel",
+    "key": "aya_vip_sport"
+  },
+  {
+    "namear": "Bein HD 4",
+    "servers": "[{\"headers\":\"user-agent;vipaya;\",\"otherHeaders\":\"\",\"name\":\"Bein HD 4\",\"Referer\":\"\",\"userAgent\":\"vipaya\",\"position\":\"0\",\"url\":\"https://mixflixpro.online:443/vipaya/ayatv/36\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Bein HD 4",
+    "position": "15",
+    "type": "channel",
+    "key": "aya_vip_sport"
+  },
+  {
+    "namear": "Bein SD 4",
+    "servers": "[{\"headers\":\"user-agent;vipaya;\",\"otherHeaders\":\"\",\"name\":\"Bein SD 4\",\"Referer\":\"\",\"userAgent\":\"vipaya\",\"position\":\"0\",\"url\":\"https://mixflixpro.online:443/vipaya/ayatv/37\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Bein SD 4",
+    "position": "16",
+    "type": "channel",
+    "key": "aya_vip_sport"
+  },
+  {
+    "namear": "Bein HD 5",
+    "servers": "[{\"headers\":\"user-agent;vipaya;\",\"otherHeaders\":\"\",\"name\":\"Bein HD 5\",\"Referer\":\"\",\"userAgent\":\"vipaya\",\"position\":\"0\",\"url\":\"https://mixflixpro.online:443/vipaya/ayatv/38\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Bein HD 5",
+    "position": "17",
+    "type": "channel",
+    "key": "aya_vip_sport"
+  },
+  {
+    "namear": "Bein HD 6",
+    "servers": "[{\"headers\":\"user-agent;vipaya;\",\"otherHeaders\":\"\",\"name\":\"Bein HD 6\",\"Referer\":\"\",\"userAgent\":\"vipaya\",\"position\":\"0\",\"url\":\"https://mixflixpro.online:443/vipaya/ayatv/40\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Bein HD 6",
+    "position": "18",
+    "type": "channel",
+    "key": "aya_vip_sport"
+  },
+  {
+    "namear": "Bein SD 6",
+    "servers": "[{\"headers\":\"user-agent;vipaya;\",\"otherHeaders\":\"\",\"name\":\"Bein SD 6\",\"Referer\":\"\",\"userAgent\":\"vipaya\",\"position\":\"0\",\"url\":\"https://mixflixpro.online:443/vipaya/ayatv/41\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Bein SD 6",
+    "position": "19",
+    "type": "channel",
+    "key": "aya_vip_sport"
+  },
+  {
+    "namear": "Bein HD 7",
+    "servers": "[{\"headers\":\"user-agent;vipaya;\",\"otherHeaders\":\"\",\"name\":\"Bein HD 7\",\"Referer\":\"\",\"userAgent\":\"vipaya\",\"position\":\"0\",\"url\":\"https://mixflixpro.online:443/vipaya/ayatv/42\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Bein HD 7",
+    "position": "20",
+    "type": "channel",
+    "key": "aya_vip_sport"
+  },
+  {
+    "namear": "Bein SD 7",
+    "servers": "[{\"headers\":\"user-agent;vipaya;\",\"otherHeaders\":\"\",\"name\":\"Bein SD 7\",\"Referer\":\"\",\"userAgent\":\"vipaya\",\"position\":\"0\",\"url\":\"https://mixflixpro.online:443/vipaya/ayatv/43\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Bein SD 7",
+    "position": "21",
+    "type": "channel",
+    "key": "aya_vip_sport"
+  },
+  {
+    "namear": "Bein SD 3",
+    "servers": "[{\"headers\":\"user-agent;vipaya;\",\"otherHeaders\":\"\",\"name\":\"Bein SD 3\",\"Referer\":\"\",\"userAgent\":\"vipaya\",\"position\":\"0\",\"url\":\"https://mixflixpro.online:443/vipaya/ayatv/35\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Bein SD 3",
+    "position": "22",
+    "type": "channel",
+    "key": "aya_vip_sport"
+  },
+  {
+    "namear": "Bein SD 5",
+    "servers": "[{\"headers\":\"user-agent;vipaya;\",\"otherHeaders\":\"\",\"name\":\"Bein SD 5\",\"Referer\":\"\",\"userAgent\":\"vipaya\",\"position\":\"0\",\"url\":\"https://mixflixpro.online:443/vipaya/ayatv/39\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Bein SD 5",
+    "position": "23",
+    "type": "channel",
+    "key": "aya_vip_sport"
+  }
+]

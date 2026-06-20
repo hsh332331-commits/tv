@@ -1,0 +1,155 @@
+[
+  {
+    "namear": "DISENY JR",
+    "servers": "[{\"license\":\"f5df57914a0922d5d5ed6b0a4af6290a:c62b10a180d1770a355b3c4cb6506ca0\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://akmrwb-live.cdn.intigral-ott.net/DJR/DJR.isml/manifest.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjyZZCo4E3AGnmODRLHFDvu62a7C6M1EJyB3HZe7w2w&s=10",
+    "nameen": "DISENY JR",
+    "position": "13",
+    "type": "channel",
+    "key": "aya_cx_tvosn_أو_إس_إن"
+  },
+  {
+    "namear": "STAR World",
+    "servers": "[{\"license\":\"19cf49b59d662baf0359682aa503749f:af573556d33ef2f094b98c7d22e9ffce\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://uselector.cdn.intigral-ott.net/STW/STW.isml/manifest.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjyZZCo4E3AGnmODRLHFDvu62a7C6M1EJyB3HZe7w2w&s=10",
+    "nameen": "STAR World",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvosn_أو_إس_إن"
+  },
+  {
+    "namear": "NAT GEO",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"OSN NAT GEO HD SAT\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"http://176.119.29.49:80/04340158-8485-4a30-be4e-60c8bd59118f.m3u8\"},{\"license\":\"1ba94b93b39ab809b587237d7b60a049:e0f94dbfbf9e6e45c9567a7b50eb612c\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://akmrwb-live.cdn.intigral-ott.net/NGO/NGO.isml/manifest.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjyZZCo4E3AGnmODRLHFDvu62a7C6M1EJyB3HZe7w2w&s=10",
+    "nameen": "NAT GEO",
+    "position": "8",
+    "type": "channel",
+    "key": "aya_cx_tvosn_أو_إس_إن"
+  },
+  {
+    "namear": "FATAFET",
+    "servers": "[{\"license\":\"2809a502e0ff23f323ff75fcd6dd04ae:59588452aa32e3616a03e32addcdbc4a\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://akmrwb-live.cdn.intigral-ott.net/FAT/FAT.isml/manifest.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjyZZCo4E3AGnmODRLHFDvu62a7C6M1EJyB3HZe7w2w&s=10",
+    "nameen": "FATAFET",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvosn_أو_إس_إن"
+  },
+  {
+    "namear": "ANIMAL PLANET",
+    "servers": "[{\"license\":\"807d6b44b0ab6496877be8513313e3ce:a57d64d5e08284e52555f57b8e68b21c\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://akmrwb-live.cdn.intigral-ott.net/APL/APL.isml/manifest.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjyZZCo4E3AGnmODRLHFDvu62a7C6M1EJyB3HZe7w2w&s=10",
+    "nameen": "ANIMAL PLANET",
+    "position": "10",
+    "type": "channel",
+    "key": "aya_cx_tvosn_أو_إس_إن"
+  },
+  {
+    "namear": "STAR ACTION",
+    "servers": "[{\"license\":\"230af93fc61c0c170067c9d1b6538402:49a9bf0cfba1cb4e52de3d458f6fb3a2\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://uselector.cdn.intigral-ott.net/FMA/FMA.isml/manifest.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjyZZCo4E3AGnmODRLHFDvu62a7C6M1EJyB3HZe7w2w&s=10",
+    "nameen": "STAR ACTION",
+    "position": "6",
+    "type": "channel",
+    "key": "aya_cx_tvosn_أو_إس_إن"
+  },
+  {
+    "namear": "Cartoonito TV",
+    "servers": "[{\"license\":\"2802f3f0e4538e4e6b9085c179c15dce:5afbd95bb853cc2c104e3b960d51defe\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://uselector.cdn.intigral-ott.net/BOM/BOM.isml/manifest.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjyZZCo4E3AGnmODRLHFDvu62a7C6M1EJyB3HZe7w2w&s=10",
+    "nameen": "Cartoonito TV",
+    "position": "16",
+    "type": "channel",
+    "key": "aya_cx_tvosn_أو_إس_إن"
+  },
+  {
+    "namear": "NAT GEO ABUDHABI",
+    "servers": "[{\"license\":\"b1e2ae3754ced9e9258a8df46d261390:bc42486b5253920abdd0cb3e727852f5\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://akmrwb-live.cdn.intigral-ott.net/NGAD/NGAD.isml/manifest.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjyZZCo4E3AGnmODRLHFDvu62a7C6M1EJyB3HZe7w2w&s=10",
+    "nameen": "NAT GEO ABUDHABI",
+    "position": "9",
+    "type": "channel",
+    "key": "aya_cx_tvosn_أو_إس_إن"
+  },
+  {
+    "namear": "CARTOON NETWORK",
+    "servers": "[{\"license\":\"8442ea8da91e1d0f392515adc680a4f5:4e9b90ac2c26cb08cd34005e08ecf05c\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://uselector.cdn.intigral-ott.net/TCN/TCN.isml/manifest.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjyZZCo4E3AGnmODRLHFDvu62a7C6M1EJyB3HZe7w2w&s=10",
+    "nameen": "CARTOON NETWORK",
+    "position": "14",
+    "type": "channel",
+    "key": "aya_cx_tvosn_أو_إس_إن"
+  },
+  {
+    "namear": "TLC",
+    "servers": "[{\"license\":\"c7742eb49b93c8241631be8920cc07ba:819bcbdf2d6606a3345a2adb1cbbfa57\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://akmrwb-live.cdn.intigral-ott.net/TLC/TLC.isml/manifest.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjyZZCo4E3AGnmODRLHFDvu62a7C6M1EJyB3HZe7w2w&s=10",
+    "nameen": "TLC",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvosn_أو_إس_إن"
+  },
+  {
+    "namear": "Star Live",
+    "servers": "[{\"license\":\"6614a52b865d3b2fd5202aeece2983b5:c56950cff44f8f3b7d03e4ec2a1431dd\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://uselector.cdn.intigral-ott.net/FXL/FXL.isml/manifest.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjyZZCo4E3AGnmODRLHFDvu62a7C6M1EJyB3HZe7w2w&s=10",
+    "nameen": "Star Live",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvosn_أو_إس_إن"
+  },
+  {
+    "namear": "FOOD NETWORK",
+    "servers": "[{\"license\":\"781c82a71b2bc5a1ca0a53d97940bab1:3269cae876ddfb30440760e0239cc923\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://uselector.cdn.intigral-ott.net/FNH/FNH.isml/manifest.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjyZZCo4E3AGnmODRLHFDvu62a7C6M1EJyB3HZe7w2w&s=10",
+    "nameen": "FOOD NETWORK",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvosn_أو_إس_إن"
+  },
+  {
+    "namear": "STAR MOVIE",
+    "servers": "[{\"license\":\"4b7a662d7132679630f3a3f1862a859c:0651bc37e705349a2848278ae3ad7bf4\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://uselector.cdn.intigral-ott.net/STM/STM.isml/manifest.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjyZZCo4E3AGnmODRLHFDvu62a7C6M1EJyB3HZe7w2w&s=10",
+    "nameen": "STAR MOVIE",
+    "position": "7",
+    "type": "channel",
+    "key": "aya_cx_tvosn_أو_إس_إن"
+  },
+  {
+    "namear": "DISENY CHANNEL",
+    "servers": "[{\"license\":\"72800c62fcf2bfbedd9af27d79ed35d6:b6ccb9facb2c1c81ebe4dfaab8a45195\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://uselector.cdn.intigral-ott.net/DIS/DIS.isml/manifest.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjyZZCo4E3AGnmODRLHFDvu62a7C6M1EJyB3HZe7w2w&s=10",
+    "nameen": "DISENY CHANNEL",
+    "position": "12",
+    "type": "channel",
+    "key": "aya_cx_tvosn_أو_إس_إن"
+  },
+  {
+    "namear": "NAT WILD",
+    "servers": "[{\"license\":\"276e56bc14095f327bbf0c936eb7b38c:63127eaddb18c596db05657424849519\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://akmrwb-live.cdn.intigral-ott.net/NHD/NHD.isml/manifest.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjyZZCo4E3AGnmODRLHFDvu62a7C6M1EJyB3HZe7w2w&s=10",
+    "nameen": "NAT WILD",
+    "position": "8",
+    "type": "channel",
+    "key": "aya_cx_tvosn_أو_إس_إن"
+  },
+  {
+    "namear": "Discovery TV",
+    "servers": "[{\"license\":\"1eecd547ede99578bdef60af3195929d:f6907d65b8405097d477e0e0b69007f2\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://akmrwb-live.cdn.intigral-ott.net/DSC/DSC.isml/manifest.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjyZZCo4E3AGnmODRLHFDvu62a7C6M1EJyB3HZe7w2w&s=10",
+    "nameen": "Discovery TV",
+    "position": "11",
+    "type": "channel",
+    "key": "aya_cx_tvosn_أو_إس_إن"
+  },
+  {
+    "namear": "C NETWORK ARABIC",
+    "servers": "[{\"license\":\"ece7bbc683eb35d1e6b3e32cccbd8fb0:f72bd6ea26e243524d58993b58122313\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://uselector.cdn.intigral-ott.net/CNA/CNA.isml/manifest.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjyZZCo4E3AGnmODRLHFDvu62a7C6M1EJyB3HZe7w2w&s=10",
+    "nameen": "C NETWORK ARABIC",
+    "position": "15",
+    "type": "channel",
+    "key": "aya_cx_tvosn_أو_إس_إن"
+  }
+]

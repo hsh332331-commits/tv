@@ -1,0 +1,29 @@
+[
+  {
+    "namear": "ثمانية 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"SD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/sv22cH11HQcYlgSyr_W1r049qnNtpn4qZoMzfqhyS6hWlLKecyQMys_vzLuL4hKG26pCzlN9EIM2SFpaDcKh9Q/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type\\u003dlive\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/sv22cH11HQcYlgSyr_W1r049qnNtpn4qZoMzfqhyS6hWlLKecyQMys_vzLuL4hKG26pCzlN9EIM2SFpaDcKh9Q/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type\\u003dlive\"},{\"license\":\"\",\"headers\":\"remo|stream-of-REMO\",\"scheme\":\"\",\"otherHeaders\":\"remo|stream-of-REMO\",\"isWeb\":\"false\",\"name\":\"Low\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/sv22cH11HQcYlgSyr_W1r049qnNtpn4qZoMzfqhyS6hWlLKecyQMys_vzLuL4hKG26pCzlN9EIM2SFpaDcKh9Q/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/dynamic_highlatency.m3u8?type\\u003dlive\"}]",
+    "logo": "https://i.postimg.cc/7YprHCyx/1761852465156.jpg",
+    "nameen": "ثمانية 1",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvثمانية_mejarserver"
+  },
+  {
+    "namear": "ثمانية 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"remo|stream-of-REMO\",\"scheme\":\"\",\"otherHeaders\":\"remo|stream-of-REMO\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://st.remotv.xyz/tmh/2.m3u8\"}]",
+    "logo": "https://i.postimg.cc/7YprHCyx/1761852465156.jpg",
+    "nameen": "ثمانية 2",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvثمانية_mejarserver"
+  },
+  {
+    "namear": "ثمانية 3",
+    "servers": "[{\"license\":\"\",\"headers\":\"remo|stream-of-REMO\",\"scheme\":\"\",\"otherHeaders\":\"remo|stream-of-REMO\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://st.remotv.xyz/tmh/3.m3u8\"}]",
+    "logo": "https://i.postimg.cc/7YprHCyx/1761852465156.jpg",
+    "nameen": "ثمانية 3",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvثمانية_mejarserver"
+  }
+]

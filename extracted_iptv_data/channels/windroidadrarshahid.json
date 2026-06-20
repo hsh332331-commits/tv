@@ -1,0 +1,164 @@
+[
+  {
+    "namear": "Shahid Action",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Shahid Action\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/131.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/1698667_ico.png",
+    "nameen": "Shahid Action",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarshahid"
+  },
+  {
+    "namear": "Shahid Horror",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Shahid Horror\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/136.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/1698807_ico.png",
+    "nameen": "Shahid Horror",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarshahid"
+  },
+  {
+    "namear": "Shahid India",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Shahid India\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/132.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/1698689_ico.png",
+    "nameen": "Shahid India",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarshahid"
+  },
+  {
+    "namear": "Shahid Arabic",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Shahid Arabic\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/133.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/1698696_ico.png",
+    "nameen": "Shahid Arabic",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarshahid"
+  },
+  {
+    "namear": "Shahid Turki",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Shahid Turki\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/134.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/1698749_ico.png",
+    "nameen": "Shahid Turki",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarshahid"
+  },
+  {
+    "namear": "Shahid Anime",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Shahid Anime\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/135.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26523736_ico.png",
+    "nameen": "Shahid Anime",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarshahid"
+  },
+  {
+    "namear": "Shahid Sci-Fi",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Shahid Sci-Fi\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/137.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26523737_ico.png",
+    "nameen": "Shahid Sci-Fi",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarshahid"
+  },
+  {
+    "namear": "Shahid War",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Shahid War\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/138.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26523739_ico.png",
+    "nameen": "Shahid War",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarshahid"
+  },
+  {
+    "namear": "Shahid Action+",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"Shahid Action+\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/80\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26523814_ico.png",
+    "nameen": "Shahid Action+",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarshahid"
+  },
+  {
+    "namear": "Shahid Adventure",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"Shahid Adventure\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/81\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26523822_ico.png",
+    "nameen": "Shahid Adventure",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadrarshahid"
+  },
+  {
+    "namear": "Shahid Comedy",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"Shahid Comedy\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/82\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26523823_ico.png",
+    "nameen": "Shahid Comedy",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidadrarshahid"
+  },
+  {
+    "namear": "Shahid Drama1",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"Shahid Drama1\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/83\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26523825_ico.png",
+    "nameen": "Shahid Drama1",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidadrarshahid"
+  },
+  {
+    "namear": "Shahid Drama2",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"Shahid Drama2\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/84\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26523826_ico.png",
+    "nameen": "Shahid Drama2",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidadrarshahid"
+  },
+  {
+    "namear": "Shahid Family",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"Shahid Family\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/85\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26523830_ico.png",
+    "nameen": "Shahid Family",
+    "position": "13",
+    "type": "channel",
+    "key": "windroidadrarshahid"
+  },
+  {
+    "namear": "Shahid Horror+",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"Shahid Horror+\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/86\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26523854_ico.png",
+    "nameen": "Shahid Horror+",
+    "position": "14",
+    "type": "channel",
+    "key": "windroidadrarshahid"
+  },
+  {
+    "namear": "Shahid Sci-Fi+",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"Shahid Sci-Fi+\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/87\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26523855_ico.png",
+    "nameen": "Shahid Sci-Fi+",
+    "position": "15",
+    "type": "channel",
+    "key": "windroidadrarshahid"
+  },
+  {
+    "namear": "Shahid Action\"",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"Shahid Action\\\"\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/88\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26523871_ico.png",
+    "nameen": "Shahid Action\"",
+    "position": "16",
+    "type": "channel",
+    "key": "windroidadrarshahid"
+  },
+  {
+    "namear": "Shahid Romance",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"Shahid Romance\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/90\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26523874_ico.png",
+    "nameen": "Shahid Romance",
+    "position": "17",
+    "type": "channel",
+    "key": "windroidadrarshahid"
+  }
+]

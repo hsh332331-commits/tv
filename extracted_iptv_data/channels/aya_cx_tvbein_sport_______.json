@@ -1,0 +1,128 @@
+[
+  {
+    "namear": "beIN Global CAST",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://cast-x.site/|user-agent|This Channel For Mejar Server|origin|https://cast-x.site/\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://cast-x.site/\",\"isWeb\":\"false\",\"name\":\"CAST X\",\"Referer\":\"https://cast-x.site/\",\"userAgent\":\"This Channel For Mejar Server\",\"position\":\"\",\"url\":\"https://cdnfest.com/Global-no/playlist.mpd\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png",
+    "nameen": "beIN Global CAST",
+    "position": "14",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sport_تلقائي"
+  },
+  {
+    "namear": "beIN 8",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi II\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/3Dvot5BSMKZrfTpWOU5zpdyQc32Hp8R4HQphtkZ8wnTgBEWBa8nwgwg6A8dpjCPkd4lHfhCsQ6QOMt_qaA6GHw/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type\\u003dlive\"},{\"license\":\"\",\"headers\":\"remo|stream-of-REMO\",\"scheme\":\"\",\"otherHeaders\":\"remo|stream-of-REMO\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"https://st.remotv.xyz/bein/b8hd.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",
+    "nameen": "beIN 8",
+    "position": "7",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sport_تلقائي"
+  },
+  {
+    "namear": "beIN Turk 3",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://bs.arectv33.sbs/static/bs3.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
+    "nameen": "beIN Turk 3",
+    "position": "13",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sport_تلقائي"
+  },
+  {
+    "namear": "beIN 9",
+    "servers": "[{\"license\":\"\",\"headers\":\"remo|stream-of-REMO\",\"scheme\":\"\",\"otherHeaders\":\"remo|stream-of-REMO\",\"isWeb\":\"false\",\"name\":\"Multi | متعدد\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://st.remotv.xyz/bein/b9hd.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",
+    "nameen": "beIN 9",
+    "position": "8",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sport_تلقائي"
+  },
+  {
+    "namear": "beIN 7",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/84BfjFFiPi8kcMbeFz9WCphzQAYknE41ioBD6ic_ItkLSiwz6EUT4TyBsKfRvNVes2thcowjdXUNC3ehQqCFog/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type\\u003dlive\"},{\"license\":\"\",\"headers\":\"remo|stream-of-REMO\",\"scheme\":\"\",\"otherHeaders\":\"remo|stream-of-REMO\",\"isWeb\":\"false\",\"name\":\"Multi | متعدد\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"https://st.remotv.xyz/bein/b7hd.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",
+    "nameen": "beIN 7",
+    "position": "6",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sport_تلقائي"
+  },
+  {
+    "namear": "beIN Turk 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://bs.arectv33.sbs/static/bs2.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",
+    "nameen": "beIN Turk 2",
+    "position": "12",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sport_تلقائي"
+  },
+  {
+    "namear": "beIN 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi KiNG 4\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/A54V3ODIExv1tznc2Xzta-0i8HTOpXFyQPIUWxyxtKTLXD_qBzmidOmBPErF1CT7FKg4ZNANEqSejTP2dhcmNA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type\\u003dlive\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi TOD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/r_alodxPmw3ydECxAaPjddLlS20pJbLO3S3cy3IyRi3J0VfQKkoQ4ldsPS6DGpqh6bMucCy1y2-AxzWXh-EKBw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type\\u003dlive\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi IiI\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"3\",\"url\":\"https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/tGD0tWJPUN-DOlD-a2jQ1JdpGByBYhdlaNiWlCEvSa_WQDeCbNBgmb6XBs3t3_nhQamE1F0qKy255r7yXb3dyw/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type\\u003dlive\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
+    "nameen": "beIN 1",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sport_تلقائي"
+  },
+  {
+    "namear": "beIN 4",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi II\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/UbIiT1O3U0paoa3gq7VSYP6GZqcD64agA8YJ_Q8heZOtwFABdmtOVDOGbK6o1Ohd7j9MW7Cb-jmHoywHD0tkCQ/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type\\u003dlive\"},{\"license\":\"\",\"headers\":\"remo|stream-of-REMO\",\"scheme\":\"\",\"otherHeaders\":\"remo|stream-of-REMO\",\"isWeb\":\"false\",\"name\":\"Multi III\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"3\",\"url\":\"https://st.remotv.xyz/bein/b4hd.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/gnVmQe0aGEOp0UdUc8sg2cLNN8nPNBNyWYbfD9V8llQF1pCMT-Z6GbAXNs0HE-mg6LUFCvDfq5p1QmdOJrQrvg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type\\u003dlive\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",
+    "nameen": "beIN 4",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sport_تلقائي"
+  },
+  {
+    "namear": "beIN Turk 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://bs.arectv33.sbs/static/bs1.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
+    "nameen": "beIN Turk 1",
+    "position": "11",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sport_تلقائي"
+  },
+  {
+    "namear": "beIN 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi II\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"3\",\"url\":\"https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/yt7h5dmhOuzyVjyYumaVQ0PKF5Rd0iBTv24hJqv8V6cmz29TktwU-6W4VkS5cv6qVAqdBurqw5C_VPk0xjHFNA/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type\\u003dlive\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi III\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"4\",\"url\":\"https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/XuVxTgIjt38ogJXIqKfmq1zJiD7zb9cfZOGJwY_vBU9INoiGT4nKI3GZZKQOMHCAZIC7V1vjzFW6IwO7uuD9xw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type\\u003dlive\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi King 4\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/bP6tBO_rXDpBdPPnMvhDshjX3bCq44SXcI0r-FVrQMb2G9my2rp3iPT7W_iZomf035eYskycIdY2Mmd1Tjml0A/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type\\u003dlive\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",
+    "nameen": "beIN 2",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sport_تلقائي"
+  },
+  {
+    "namear": "beIN 3",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi II\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/kBfJnVOKrIgt-pglk8sDLmeAODqkpxdQTCWAP8-G2AVq8kPVQQ1KO9cRllPK2YILYTIhU7IWa-ZX0FY_lORbsw/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type\\u003dlive\"},{\"license\":\"\",\"headers\":\"remo|stream-of-REMO\",\"scheme\":\"\",\"otherHeaders\":\"remo|stream-of-REMO\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/0qufdsjHYbuNeyv5KPQ2ZHwtJjjSpBJgbALo2jhhSiFKLoKJH1zjvSt3EYMaIT7Wy1Z8RFU-2YVp-CrGH_eX4A/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type\\u003dlive\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
+    "nameen": "beIN 3",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sport_تلقائي"
+  },
+  {
+    "namear": "beIN 6",
+    "servers": "[{\"license\":\"\",\"headers\":\"remo|stream-of-REMO\",\"scheme\":\"\",\"otherHeaders\":\"remo|stream-of-REMO\",\"isWeb\":\"false\",\"name\":\"متعدد كينج\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"3\",\"url\":\"https://st.remotv.xyz/bein/b6hd.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi | متعدد\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/iR8m3upgo6vBWP0FqPrdbWNrhzobdIC1EGkaX5MbKCKwcPpknujbHuck5uGD1bHxeiyDhkFRQn2NPdiWgI5r_Q/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type\\u003dlive\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png",
+    "nameen": "beIN 6",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sport_تلقائي"
+  },
+  {
+    "namear": "beIN 5",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/Wf6ftxjQbelB9LZCNgkNy05QasgnzJIImwSXh80cX-rESUvaDKMzXr2cZQ7YOpV2p45scoyr43POaR8dY38Szg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type\\u003dlive\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi II\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/Wf6ftxjQbelB9LZCNgkNy05QasgnzJIImwSXh80cX-rESUvaDKMzXr2cZQ7YOpV2p45scoyr43POaR8dY38Szg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type\\u003dlive\"},{\"license\":\"\",\"headers\":\"remo|stream-of-REMO\",\"scheme\":\"\",\"otherHeaders\":\"remo|stream-of-REMO\",\"isWeb\":\"false\",\"name\":\"Multi III\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"3\",\"url\":\"https://st.remotv.xyz/bein/b5hd.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",
+    "nameen": "beIN 5",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sport_تلقائي"
+  },
+  {
+    "namear": "beIN News",
+    "servers": "[{\"license\":\"\",\"headers\":\"find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://www.youtube.com/watch?v\\u003dumCCh6e7eXI\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png",
+    "nameen": "beIN News",
+    "position": "15",
+    "type": "channel",
+    "key": "aya_cx_tvbein_sport_تلقائي"
+  }
+]

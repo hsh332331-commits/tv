@@ -1,0 +1,56 @@
+[
+  {
+    "namear": "RSI 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"RSI La 2 (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSls0uizAF7Tph0YZGLMbvns-TMHzn-z0QqoUoZCdL_A4QmzcZAh25CcLo&s=10",
+    "nameen": "RSI 2",
+    "position": "1",
+    "type": "channel",
+    "key": "swizerland"
+  },
+  {
+    "namear": "RSI La 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"RSI La 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSls0uizAF7Tph0YZGLMbvns-TMHzn-z0QqoUoZCdL_A4QmzcZAh25CcLo&s=10",
+    "nameen": "RSI La 2",
+    "position": "2",
+    "type": "channel",
+    "key": "swizerland"
+  },
+  {
+    "namear": "RTS 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"RTS 2 (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVKdlI3sAmhJqnQXbvfyIBhnPNEwu6qLW_Z8J7ssL_AQ&s=10",
+    "nameen": "RTS 2",
+    "position": "3",
+    "type": "channel",
+    "key": "swizerland"
+  },
+  {
+    "namear": "RTS2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"RTS 2 (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVKdlI3sAmhJqnQXbvfyIBhnPNEwu6qLW_Z8J7ssL_AQ&s=10",
+    "nameen": "RTS2",
+    "position": "4",
+    "type": "channel",
+    "key": "swizerland"
+  },
+  {
+    "namear": "SRF zwei",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SRF zwei (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGBMh7f5Go3Ubbon8Y_FmQAH8np-eXmcOznpGeUguoCw&s=10",
+    "nameen": "SRF zwei",
+    "position": "5",
+    "type": "channel",
+    "key": "swizerland"
+  },
+  {
+    "namear": "SRF zwei",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SRF zwei\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGBMh7f5Go3Ubbon8Y_FmQAH8np-eXmcOznpGeUguoCw&s=10",
+    "nameen": "SRF Zwei",
+    "position": "6",
+    "type": "channel",
+    "key": "swizerland"
+  }
+]

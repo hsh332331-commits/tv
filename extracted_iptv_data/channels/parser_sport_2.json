@@ -1,0 +1,82 @@
+[
+  {
+    "namear": "الوان 1",
+    "servers": "[{\"url\":\"http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181661.ts\",\"name\":\"▶️ Fhd\",\"position\":\"1\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"hls\",\"player_type\":\"hls\"},{\"url\":\"http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181662.ts\",\"name\":\"▶️ SD\",\"position\":\"2\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"hls\",\"player_type\":\"hls\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s",
+    "nameen": "الوان 1",
+    "type": "movie-api",
+    "key": "parser_sport_2"
+  },
+  {
+    "namear": "الوان 2",
+    "servers": "[{\"url\":\"https://stream.camcloud.stream/stream/8dd8ad49bb05/playlist.m3u8\",\"name\":\"▶️ FHD\",\"position\":\"1\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"hls\",\"player_type\":\"hls\"},{\"url\":\"http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181663.ts\",\"name\":\"▶️ SD\",\"position\":\"2\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"hls\",\"player_type\":\"hls\"},{\"url\":\"http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181664.ts\",\"name\":\"▶️ اضافي\",\"position\":\"3\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"hls\",\"player_type\":\"hls\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s",
+    "nameen": "الوان 2",
+    "type": "movie-api",
+    "key": "parser_sport_2"
+  },
+  {
+    "namear": "الوان 3",
+    "servers": "[{\"url\":\"http://bouygues-cdn.r1v.us:8080/d49dc02ec79b/k5cfhnm1/237021\",\"name\":\"▶️ Fhd\",\"position\":\"1\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"hls\",\"player_type\":\"hls\"},{\"url\":\"https://stream.camcloud.stream/stream/456de69d002b/playlist.m3u8\",\"name\":\"▶️ HD\",\"position\":\"2\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"hls\",\"player_type\":\"hls\"},{\"url\":\"http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181666.ts\",\"name\":\"▶️ HLS\",\"position\":\"3\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"hls\",\"player_type\":\"hls\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s",
+    "nameen": "الوان 3",
+    "type": "movie-api",
+    "key": "parser_sport_2"
+  },
+  {
+    "namear": "الوان 4",
+    "servers": "[{\"url\":\"https://stream.camcloud.stream/stream/fd1979023964/playlist.m3u8\",\"name\":\"▶️ HD\",\"position\":\"1\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"hls\",\"player_type\":\"hls\"},{\"url\":\"http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181669.ts\",\"name\":\"▶️ SD\",\"position\":\"2\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"hls\",\"player_type\":\"hls\"},{\"url\":\"http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181671.ts\",\"name\":\"▶️ 4K\",\"position\":\"3\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"hls\",\"player_type\":\"hls\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s",
+    "nameen": "الوان 4",
+    "type": "movie-api",
+    "key": "parser_sport_2"
+  },
+  {
+    "namear": "الوان 5",
+    "servers": "[{\"url\":\"https://py.dencreak.com/alwan_hd5.m3u8\",\"name\":\"▶️ HD\",\"position\":\"1\",\"Referer\":\"https://cast-x.site/\",\"userAgent\":\"This Channel For Mejar Server\",\"headers\":\"Origin|https://cast-x.site/|Referer|https://cast-x.site/|User-Agent|This Channel For Mejar Server|Accept|application/dash+xml|Accept-Encoding|gzip|Connection|Keep-Alive\",\"type\":\"hls\",\"player_type\":\"hls\"},{\"url\":\"https://py.dencreak.com/alwan_sd5.m3u8\",\"name\":\"▶️ SD\",\"position\":\"2\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"hls\",\"player_type\":\"hls\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s",
+    "nameen": "الوان 5",
+    "type": "movie-api",
+    "key": "parser_sport_2"
+  },
+  {
+    "namear": "الوان 6",
+    "servers": "[{\"url\":\"https://py.dencreak.com/alwan_hd6.m3u8\",\"name\":\"▶️ HD\",\"position\":\"1\",\"Referer\":\"https://cast-x.site/\",\"userAgent\":\"This Channel For Mejar Server\",\"headers\":\"Origin|https://cast-x.site/|Referer|https://cast-x.site/|User-Agent|This Channel For Mejar Server|Accept|application/dash+xml|Accept-Encoding|gzip|Connection|Keep-Alive\",\"type\":\"hls\",\"player_type\":\"hls\"},{\"url\":\"https://py.dencreak.com/alwan_sd6.m3u8\",\"name\":\"▶️ SD\",\"position\":\"2\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"hls\",\"player_type\":\"hls\"},{\"url\":\"https://py.dencreak.com/alwan_4k6.m3u8\",\"name\":\"▶️ 4K\",\"position\":\"3\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"hls\",\"player_type\":\"hls\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s",
+    "nameen": "الوان 6",
+    "type": "movie-api",
+    "key": "parser_sport_2"
+  },
+  {
+    "namear": "الوان 7",
+    "servers": "[{\"url\":\"https://py.dencreak.com/alwan_sd7.m3u8\",\"name\":\"▶️ HD\",\"position\":\"1\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"hls\",\"player_type\":\"hls\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1eMfy18y3zUJpN4oC0RaVMJ5pyGf3JIcxL_oJNAyvIOdvQY3-zKWyviDn_6nZUibDls&usqp=CAU",
+    "nameen": "الوان 7",
+    "type": "movie-api",
+    "key": "parser_sport_2"
+  },
+  {
+    "namear": "الوان 8",
+    "servers": "[{\"url\":\"https://py.dencreak.com/alwan_sd8.m3u8\",\"name\":\"▶️ SD\",\"position\":\"1\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"hls\",\"player_type\":\"hls\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1eMfy18y3zUJpN4oC0RaVMJ5pyGf3JIcxL_oJNAyvIOdvQY3-zKWyviDn_6nZUibDls&usqp=CAU",
+    "nameen": "الوان 8",
+    "type": "movie-api",
+    "key": "parser_sport_2"
+  },
+  {
+    "namear": "الوان 9",
+    "servers": "[{\"url\":\"https://py.dencreak.com/alwan_sd9.m3u8\",\"name\":\"▶️ SD\",\"position\":\"1\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"hls\",\"player_type\":\"hls\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1eMfy18y3zUJpN4oC0RaVMJ5pyGf3JIcxL_oJNAyvIOdvQY3-zKWyviDn_6nZUibDls&usqp=CAU",
+    "nameen": "الوان 9",
+    "type": "movie-api",
+    "key": "parser_sport_2"
+  },
+  {
+    "namear": "الوان تركي",
+    "servers": "[{\"url\":\"http://ibo.lynxiptv.com/live/said2024/123456789/222230.m3u8\",\"name\":\"▶️ Default\",\"position\":\"1\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0\",\"headers\":\"User-Agent|Mozilla/5.0\",\"type\":\"hls\",\"player_type\":\"hls\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1eMfy18y3zUJpN4oC0RaVMJ5pyGf3JIcxL_oJNAyvIOdvQY3-zKWyviDn_6nZUibDls&usqp=CAU",
+    "nameen": "الوان تركي",
+    "type": "movie-api",
+    "key": "parser_sport_2"
+  }
+]

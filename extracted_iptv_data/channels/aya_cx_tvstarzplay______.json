@@ -1,0 +1,29 @@
+[
+  {
+    "namear": "StarzPlay 2",
+    "servers": "[{\"license\":\"ee861edcd99093153a763a94b14c2c5a:ab3991f6a7729ba1ea4bcdba0c1ae6c0\",\"headers\":\"tod-drm|true\",\"scheme\":\"clearkey\",\"otherHeaders\":\"tod-drm|true\",\"isWeb\":\"false\",\"name\":\"StarzPlay Sport 2 Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://sps2.starzplayarabia.com/out/v1/15e7d1ffb99746dda03f71dbbbc3c08b/index.mpd\"}]",
+    "logo": "https://play-lh.googleusercontent.com/cF47PgWOzVPa78MUpMaut1fOLHp6sijFrOO4mHhg77XIE56PkmG_b39lIY7luOvO3yylVn7LQUZEm76AUb_5LwI=w240-h480-rw",
+    "nameen": "StarzPlay 2",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvstarzplay_ᴹᵁᴸᵀᴵ"
+  },
+  {
+    "namear": "StarzPlay 3",
+    "servers": "[{\"license\":\"117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13\",\"headers\":\"tod-drm|true\",\"scheme\":\"clearkey\",\"otherHeaders\":\"tod-drm|true\",\"isWeb\":\"false\",\"name\":\"StarzPlay Sport 3 Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd\"}]",
+    "logo": "https://play-lh.googleusercontent.com/cF47PgWOzVPa78MUpMaut1fOLHp6sijFrOO4mHhg77XIE56PkmG_b39lIY7luOvO3yylVn7LQUZEm76AUb_5LwI=w240-h480-rw",
+    "nameen": "StarzPlay 3",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvstarzplay_ᴹᵁᴸᵀᴵ"
+  },
+  {
+    "namear": "StarzPlay 1",
+    "servers": "[{\"license\":\"b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42\",\"headers\":\"tod-drm|true\",\"scheme\":\"clearkey\",\"otherHeaders\":\"tod-drm|true\",\"isWeb\":\"false\",\"name\":\"StarzPlay Sport 1 Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.mpd\"}]",
+    "logo": "https://play-lh.googleusercontent.com/cF47PgWOzVPa78MUpMaut1fOLHp6sijFrOO4mHhg77XIE56PkmG_b39lIY7luOvO3yylVn7LQUZEm76AUb_5LwI=w240-h480-rw",
+    "nameen": "StarzPlay 1",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvstarzplay_ᴹᵁᴸᵀᴵ"
+  }
+]

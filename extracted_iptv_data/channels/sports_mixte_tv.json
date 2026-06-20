@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "GO3 SPORT 2",
+    "servers": "[{\"headers\":\"\",\"license\":\"8b6061376de34956a3e9a9698f8a3d2e:f120de45500aacaa8fbdafec0234ce35\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560505/index.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIwt32Lgt-1tADVqSjLH9I_1FqubShM9Cxc3ndOh9bQQ&s=10",
+    "nameen": "GO3 SPORT 2",
+    "position": "1",
+    "type": "channel",
+    "key": "sports_mixte_tv"
+  },
+  {
+    "namear": "NFL",
+    "servers": "[{\"headers\":\"\",\"license\":\"002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"NFL #KODIPROP:inputstream.adaptive.manifest_type\\u003ddash #KODIPROP:inputstream.adaptive.license_type\\u003dorg.w3.clearkey #KODIPROP:inputstream.adaptive.license_key\\u003d002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd\"}]",
+    "logo": "https://i.imgur.com/VMx7Xxl.png",
+    "nameen": "NFL",
+    "position": "1",
+    "type": "channel",
+    "key": "sports_mixte_tv"
+  },
+  {
+    "namear": "Prima4",
+    "servers": "[{\"headers\":\"Referer|https://galandriel1.thobias.cfd/000/|user-agent|EXTVLCOPT:http-user-agent\\u003dMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36|\",\"otherHeaders\":\"\",\"name\":\"like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36\",\"Referer\":\"https://galandriel1.thobias.cfd/000/\",\"userAgent\":\"EXTVLCOPT:http-user-agent\\u003dMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36\",\"position\":\"0\",\"url\":\"https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwN9Vm7QbzI3lCck5ACB42W_1aItc5uAd7TbeA0XTYHA&s=10",
+    "nameen": "Prima4",
+    "position": "1",
+    "type": "channel",
+    "key": "sports_mixte_tv"
+  },
+  {
+    "namear": "NBC Sport",
+    "servers": "[{\"headers\":\"\",\"license\":\"0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"NBC Sport #KODIPROP:inputstreamaddon\\u003dinputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type\\u003ddash #KODIPROP:inputstream.adaptive.license_type\\u003dclearkey #KODIPROP:inputstream.adaptive.license_key\\u003d\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd\"}]",
+    "logo": "https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737",
+    "nameen": "NBC Sport",
+    "position": "9",
+    "type": "channel",
+    "key": "sports_mixte_tv"
+  },
+  {
+    "namear": "Itv Sport",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiKeEeKG5zBcQU1zU-xLvPhsp5v-dpadgh3bGSQgPT4g&s=10",
+    "nameen": "Itv Sport",
+    "position": "22",
+    "type": "channel",
+    "key": "sports_mixte_tv"
+  }
+]

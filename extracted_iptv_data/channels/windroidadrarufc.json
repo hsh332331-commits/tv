@@ -1,0 +1,20 @@
+[
+  {
+    "namear": "Combate br",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Combate br\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://superblazertop.com.br.global.prod.fastly.net/live2/combate/play2.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7199722_ico.png",
+    "nameen": "Combate br",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarufc"
+  },
+  {
+    "namear": "UFC Fightpass",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"UFC Fightpass\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/SP_USACAN/s5YzKEjK/3714\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7490304_ico.png",
+    "nameen": "UFC Fightpass",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarufc"
+  }
+]

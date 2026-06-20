@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "24/7 Canal de Noticias",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"24/7 Canal de Noticias\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://59c5c86e10038.streamlock.net:1935/6605140/6605140/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12354288_ico.png",
+    "nameen": "24/7 Canal de Noticias",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarargentina_الأرجنتين"
+  },
+  {
+    "namear": "Canal 7 JuyJuy",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Canal 7 JuyJuy\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/chunklist.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12354334_ico.png",
+    "nameen": "Canal 7 JuyJuy",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarargentina_الأرجنتين"
+  },
+  {
+    "namear": "Ciudad",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Ciudad\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12354377_ico.png",
+    "nameen": "Ciudad",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarargentina_الأرجنتين"
+  },
+  {
+    "namear": "9 Multvision",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"9 Multvision\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12354389_ico.png",
+    "nameen": "9 Multvision",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarargentina_الأرجنتين"
+  },
+  {
+    "namear": "Chacra TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Chacra TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://s8.stweb.tv:1935/chacra/live/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/488238_ico.png",
+    "nameen": "Chacra TV",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarargentina_الأرجنتين"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "namear": "beIN Sports 7 SD",
+    "servers": "[{\"headers\":\"user-agent|OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 12) ExoPlayerLib/2.11.4|\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 7 SD\",\"Referer\":\"\",\"userAgent\":\"OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 12) ExoPlayerLib/2.11.4\",\"position\":\"0\",\"url\":\"http://all.vttpi.co/OpenTv.php?title\\u003dbeIN+Sports+LOW+7\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/Sports%2F1663593873328ymg.png?alt=media&token=d6a12140-1389-48a0-a0ba-b1b64750842e",
+    "nameen": "beIN Sports 7 SD",
+    "position": "1",
+    "type": "channel",
+    "key": "liver"
+  },
+  {
+    "namear": "beIN Sports 6 SD",
+    "servers": "[{\"headers\":\"user-agent|OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 12) ExoPlayerLib/2.11.4|\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 6 SD\",\"Referer\":\"\",\"userAgent\":\"OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 12) ExoPlayerLib/2.11.4\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii2/EmmRmeymE7/20.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/Sports%2F1663594098598ymg.png?alt=media&token=4de32e90-dea9-4a3e-b95b-96bb5ab574f5",
+    "nameen": "beIN Sports 6 SD",
+    "position": "2",
+    "type": "channel",
+    "key": "liver"
+  },
+  {
+    "namear": "beIN Sports 5 SD",
+    "servers": "[{\"headers\":\"user-agent|OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 12) ExoPlayerLib/2.11.4|\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 5 SD\",\"Referer\":\"\",\"userAgent\":\"OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 12) ExoPlayerLib/2.11.4\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii2/EmmRmeymE7/18.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/Sports%2F1663594148542ymg.png?alt=media&token=41008443-71a3-48fd-b35d-cae81dd30656",
+    "nameen": "beIN Sports 5 SD",
+    "position": "3",
+    "type": "channel",
+    "key": "liver"
+  },
+  {
+    "namear": "beIN Sports 4 SD",
+    "servers": "[{\"headers\":\"user-agent|OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 12) ExoPlayerLib/2.11.4|\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 4 SD\",\"Referer\":\"\",\"userAgent\":\"OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 12) ExoPlayerLib/2.11.4\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii2/EmmRmeymE7/16.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/Sports%2F1663594200670ymg.png?alt=media&token=045a0c62-c2de-4e58-a549-3b4510fa233f",
+    "nameen": "beIN Sports 4 SD",
+    "position": "4",
+    "type": "channel",
+    "key": "liver"
+  },
+  {
+    "namear": "beIN Sports 3 SD",
+    "servers": "[{\"headers\":\"user-agent|OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 12) ExoPlayerLib/2.11.4|\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 3 SD\",\"Referer\":\"\",\"userAgent\":\"OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 12) ExoPlayerLib/2.11.4\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii2/EmmRmeymE7/14.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/Sports%2F1663594292542ymg.png?alt=media&token=739f7e30-fc0d-42c8-aa0a-5d1b17911202",
+    "nameen": "beIN Sports 3 SD",
+    "position": "5",
+    "type": "channel",
+    "key": "liver"
+  },
+  {
+    "namear": "beIN Sports 2 SD",
+    "servers": "[{\"headers\":\"user-agent|OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 12) ExoPlayerLib/2.11.4|\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 2 SD\",\"Referer\":\"\",\"userAgent\":\"OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 12) ExoPlayerLib/2.11.4\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii2/EmmRmeymE7/12.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/Sports%2F1663594343853ymg.png?alt=media&token=9405acd4-b798-480a-bdf3-f0856e899623",
+    "nameen": "beIN Sports 2 SD",
+    "position": "6",
+    "type": "channel",
+    "key": "liver"
+  },
+  {
+    "namear": "beIN Sports 1 SD",
+    "servers": "[{\"headers\":\"user-agent|OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 12) ExoPlayerLib/2.11.4|\",\"otherHeaders\":\"\",\"name\":\"beIN Sports 1 SD\",\"Referer\":\"\",\"userAgent\":\"OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 12) ExoPlayerLib/2.11.4\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii2/EmmRmeymE7/10.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/Sports%2F1663594402653ymg.png?alt=media&token=2474f3ef-8267-4904-a450-4f61ff824580",
+    "nameen": "beIN Sports 1 SD",
+    "position": "7",
+    "type": "channel",
+    "key": "liver"
+  },
+  {
+    "namear": "beIN Sports Premium 3 SD",
+    "servers": "[{\"headers\":\"user-agent|OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 12) ExoPlayerLib/2.11.4|\",\"otherHeaders\":\"\",\"name\":\"beIN Sports Premium 3 SD\",\"Referer\":\"\",\"userAgent\":\"OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 12) ExoPlayerLib/2.11.4\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii2/EmmRmeymE7/8.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/Sports%2F1663597489266ymg.png?alt=media&token=9743e283-5895-4c6c-97b6-26063606d831",
+    "nameen": "beIN Sports Premium 3 SD",
+    "position": "8",
+    "type": "channel",
+    "key": "liver"
+  },
+  {
+    "namear": "beIN Sports Premium 2 SD",
+    "servers": "[{\"headers\":\"user-agent|OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 12) ExoPlayerLib/2.11.4|\",\"otherHeaders\":\"\",\"name\":\"beIN Sports Premium 2 SD\",\"Referer\":\"\",\"userAgent\":\"OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 12) ExoPlayerLib/2.11.4\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii2/EmmRmeymE7/6.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/Sports%2F1663597668976ymg.png?alt=media&token=ed36d3dd-80b7-4df3-9cc2-898bd69ae5e5",
+    "nameen": "beIN Sports Premium 2 SD",
+    "position": "9",
+    "type": "channel",
+    "key": "liver"
+  },
+  {
+    "namear": "beIN Sports Premium 1 SD",
+    "servers": "[{\"headers\":\"user-agent|OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 12) ExoPlayerLib/2.11.4|\",\"otherHeaders\":\"\",\"name\":\"beIN Sports Premium 1 SD\",\"Referer\":\"\",\"userAgent\":\"OpenPlayer/5.1.5 (Linux;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 12) ExoPlayerLib/2.11.4\",\"position\":\"0\",\"url\":\"https://open.vtpii.com/OpenTvVtpii2/EmmRmeymE7/4.m3u8\"}]",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/open-37cea.appspot.com/o/Sports%2F1663597807809ymg.png?alt=media&token=b4045b99-e8b3-46dd-8299-92d6145dd374",
+    "nameen": "beIN Sports Premium 1 SD",
+    "position": "10",
+    "type": "channel",
+    "key": "liver"
+  }
+]

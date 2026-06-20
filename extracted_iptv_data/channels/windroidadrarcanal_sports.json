@@ -1,0 +1,272 @@
+[
+  {
+    "namear": "Canal+ Sport",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Canal+ Sport\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/787\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12176336_ico.png",
+    "nameen": "Canal+ Sport",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarcanal+_sports"
+  },
+  {
+    "namear": "GOLF+",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"GOLF+\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/770\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2953823_ico.png",
+    "nameen": "GOLF+",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarcanal+_sports"
+  },
+  {
+    "namear": "FOOT+",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"FOOT+\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/768\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2953829_ico.png",
+    "nameen": "FOOT+",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarcanal+_sports"
+  },
+  {
+    "namear": "Foot+ 24/24",
+    "servers": "[{\"headers\":\"CHANNEL4_34user-Agent|CHANNEL4_34user-Agent|CHANNEL4_34user-Agent|CHANNEL4_34\",\"otherHeaders\":\"\",\"name\":\"Foot+ 24/24\",\"Referer\":\"\",\"userAgent\":\"CHANNEL4_34user-Agent|CHANNEL4_34\",\"position\":\"0\",\"url\":\"http://pizztv.xyz:8000/BEINTSPORTS/T4z9GmQJEqw6/480\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18669691_ico.png",
+    "nameen": "Foot+ 24/24",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarcanal+_sports"
+  },
+  {
+    "namear": "Infosport+",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Infosport+\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/772\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18669682_ico.png",
+    "nameen": "Infosport+",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarcanal+_sports"
+  },
+  {
+    "namear": "Canal+ P.L",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"Canal+ P.L\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/13507.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18669623_ico.png",
+    "nameen": "Canal+ P.L",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarcanal+_sports"
+  },
+  {
+    "namear": "Canal+ Sportt",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"Canal+ Sportt\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3193.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18669757_ico.png",
+    "nameen": "Canal+ Sportt",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarcanal+_sports"
+  },
+  {
+    "namear": "Canal+ Sport+",
+    "servers": "[{\"headers\":\"REDLINECLIENT 4sq854884qs41_DRzsqfcqsdfc41qs4user-Agent|REDLINECLIENT 4sq854884qs41_DRzsqfcqsdfc41qs4user-Agent|REDLINECLIENT 4sq854884qs41_DRzsqfcqsdfc41qs4user-Agent|REDLINECLIENT 4sq854884qs41_DRzsqfcqsdfc41qs4\",\"otherHeaders\":\"\",\"name\":\"Canal+ Sport+\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT 4sq854884qs41_DRzsqfcqsdfc41qs4user-Agent|REDLINECLIENT 4sq854884qs41_DRzsqfcqsdfc41qs4\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3488.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/22136700_ico.png",
+    "nameen": "Canal+ Sport+",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarcanal+_sports"
+  },
+  {
+    "namear": "Canal+ F1",
+    "servers": "[{\"headers\":\"VVuser-Agent|VVuser-Agent|VVuser-Agent|VV\",\"otherHeaders\":\"\",\"name\":\"Canal+ F1\",\"Referer\":\"\",\"userAgent\":\"VVuser-Agent|VV\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/13503.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26666030_ico.png",
+    "nameen": "Canal+ F1",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarcanal+_sports"
+  },
+  {
+    "namear": "Canal+ MotoGP",
+    "servers": "[{\"headers\":\"UUuser-Agent|UUuser-Agent|UUuser-Agent|UU\",\"otherHeaders\":\"\",\"name\":\"Canal+ MotoGP\",\"Referer\":\"\",\"userAgent\":\"UUuser-Agent|UU\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/13756.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26666049_ico.png",
+    "nameen": "Canal+ MotoGP",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadrarcanal+_sports"
+  },
+  {
+    "namear": "Canal+ Sport 1",
+    "servers": "[{\"headers\":\"MXPlayer/1.63.5 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 11 GDMIXM)user-Agent|MXPlayer/1.63.5 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 11 GDMIXM)user-Agent|MXPlayer/1.63.5 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 11 GDMIXM)user-Agent|MXPlayer/1.63.5 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 11 GDMIXM)\",\"otherHeaders\":\"\",\"name\":\"Canal+ Sport 1\",\"Referer\":\"\",\"userAgent\":\"MXPlayer/1.63.5 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 11 GDMIXM)user-Agent|MXPlayer/1.63.5 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 11 GDMIXM)\",\"position\":\"0\",\"url\":\"http://w.bs-share.com:8000/247179867825237/23141543216575/428609\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/19937954_ico.png",
+    "nameen": "Canal+ Sport 1",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidadrarcanal+_sports"
+  },
+  {
+    "namear": "Canal+ Sport 2",
+    "servers": "[{\"headers\":\"NEW20-APKuser-Agent|NEW20-APKuser-Agent|NEW20-APKuser-Agent|NEW20-APK\",\"otherHeaders\":\"\",\"name\":\"Canal+ Sport 2\",\"Referer\":\"\",\"userAgent\":\"NEW20-APKuser-Agent|NEW20-APK\",\"position\":\"0\",\"url\":\"http://w.bs-share.com:8000/247179867825237/23141543216575/428608\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/19937958_ico.png",
+    "nameen": "Canal+ Sport 2",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidadrarcanal+_sports"
+  },
+  {
+    "namear": "Canal+ Sport 3",
+    "servers": "[{\"headers\":\"NEW20-APKuser-Agent|NEW20-APKuser-Agent|NEW20-APKuser-Agent|NEW20-APK\",\"otherHeaders\":\"\",\"name\":\"Canal+ Sport 3\",\"Referer\":\"\",\"userAgent\":\"NEW20-APKuser-Agent|NEW20-APK\",\"position\":\"0\",\"url\":\"http://w.bs-share.com:8000/247179867825237/23141543216575/428607\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/19937962_ico.png",
+    "nameen": "Canal+ Sport 3",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidadrarcanal+_sports"
+  },
+  {
+    "namear": "Canal+ Sport 4",
+    "servers": "[{\"headers\":\"NEW20-APKuser-Agent|NEW20-APKuser-Agent|NEW20-APKuser-Agent|NEW20-APK\",\"otherHeaders\":\"\",\"name\":\"Canal+ Sport 4\",\"Referer\":\"\",\"userAgent\":\"NEW20-APKuser-Agent|NEW20-APK\",\"position\":\"0\",\"url\":\"http://w.bs-share.com:8000/247179867825237/23141543216575/428606\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/19937965_ico.png",
+    "nameen": "Canal+ Sport 4",
+    "position": "13",
+    "type": "channel",
+    "key": "windroidadrarcanal+_sports"
+  },
+  {
+    "namear": "Canal+ Sport 5",
+    "servers": "[{\"headers\":\"NEW20-APKuser-Agent|NEW20-APKuser-Agent|NEW20-APKuser-Agent|NEW20-APK\",\"otherHeaders\":\"\",\"name\":\"Canal+ Sport 5\",\"Referer\":\"\",\"userAgent\":\"NEW20-APKuser-Agent|NEW20-APK\",\"position\":\"0\",\"url\":\"http://w.bs-share.com:8000/247179867825237/23141543216575/428605\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/19937973_ico.png",
+    "nameen": "Canal+ Sport 5",
+    "position": "14",
+    "type": "channel",
+    "key": "windroidadrarcanal+_sports"
+  },
+  {
+    "namear": "Canal+ 1",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"Canal+ 1\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3194.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24159367_ico.png",
+    "nameen": "Canal+ 1",
+    "position": "15",
+    "type": "channel",
+    "key": "windroidadrarcanal+_sports"
+  },
+  {
+    "namear": "Canal+ 2",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"Canal+ 2\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3415.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24159368_ico.png",
+    "nameen": "Canal+ 2",
+    "position": "16",
+    "type": "channel",
+    "key": "windroidadrarcanal+_sports"
+  },
+  {
+    "namear": "Canal+ 3",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"Canal+ 3\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3195.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24159370_ico.png",
+    "nameen": "Canal+ 3",
+    "position": "17",
+    "type": "channel",
+    "key": "windroidadrarcanal+_sports"
+  },
+  {
+    "namear": "Canal+ 4",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"Canal+ 4\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3196.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24159372_ico.png",
+    "nameen": "Canal+ 4",
+    "position": "18",
+    "type": "channel",
+    "key": "windroidadrarcanal+_sports"
+  },
+  {
+    "namear": "Canal+ 5",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"Canal+ 5\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://108.181.123.11:9000/live/premium-aostv-free/download-fdrm-aostv.asia/3197.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24159373_ico.png",
+    "nameen": "Canal+ 5",
+    "position": "19",
+    "type": "channel",
+    "key": "windroidadrarcanal+_sports"
+  },
+  {
+    "namear": "Canal+ Sport 1HD",
+    "servers": "[{\"headers\":\"REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89\",\"otherHeaders\":\"\",\"name\":\"Canal+ Sport 1HD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89\",\"position\":\"0\",\"url\":\"http://iptvtree.net:8080/F11682/82ca5fbd/291175\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/15739561_ico.png",
+    "nameen": "Canal+ Sport 1HD",
+    "position": "20",
+    "type": "channel",
+    "key": "windroidadrarcanal+_sports"
+  },
+  {
+    "namear": "Canal+ Sport 2HD",
+    "servers": "[{\"headers\":\"REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89\",\"otherHeaders\":\"\",\"name\":\"Canal+ Sport 2HD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89\",\"position\":\"0\",\"url\":\"http://magmas5.com:8000/RRestreamingDeNosotrosMismos/TvPrivate-0FM-TR/144404\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/15739582_ico.png",
+    "nameen": "Canal+ Sport 2HD",
+    "position": "21",
+    "type": "channel",
+    "key": "windroidadrarcanal+_sports"
+  },
+  {
+    "namear": "Canal+ Sport 3HD",
+    "servers": "[{\"headers\":\"REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89\",\"otherHeaders\":\"\",\"name\":\"Canal+ Sport 3HD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89\",\"position\":\"0\",\"url\":\"http://iptvtree.net:8080/F11682/82ca5fbd/291177\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/15739617_ico.png",
+    "nameen": "Canal+ Sport 3HD",
+    "position": "22",
+    "type": "channel",
+    "key": "windroidadrarcanal+_sports"
+  },
+  {
+    "namear": "Canal+ Sport 4HD",
+    "servers": "[{\"headers\":\"REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89\",\"otherHeaders\":\"\",\"name\":\"Canal+ Sport 4HD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89\",\"position\":\"0\",\"url\":\"http://iptvtree.net:8080/F11682/82ca5fbd/297381\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/15739625_ico.png",
+    "nameen": "Canal+ Sport 4HD",
+    "position": "23",
+    "type": "channel",
+    "key": "windroidadrarcanal+_sports"
+  },
+  {
+    "namear": "Canal+ Sport 5HD",
+    "servers": "[{\"headers\":\"REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89\",\"otherHeaders\":\"\",\"name\":\"Canal+ Sport 5HD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT GOLDENBOX V2.8.89user-Agent|REDLINECLIENT GOLDENBOX V2.8.89\",\"position\":\"0\",\"url\":\"http://iptvtree.net:8080/F11682/82ca5fbd/291178\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/15739636_ico.png",
+    "nameen": "Canal+ Sport 5HD",
+    "position": "24",
+    "type": "channel",
+    "key": "windroidadrarcanal+_sports"
+  },
+  {
+    "namear": "Canal+ Sp 1",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"Canal+ Sp 1\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://mol-2.com:8080/play/live.php?mac\\u003d00:1A:79:C0:BA:CF\\u0026stream\\u003d368899\\u0026extension\\u003dts\\u0026play_token\\u003dqevNw667ap.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/27005607_ico.png",
+    "nameen": "Canal+ Sp 1",
+    "position": "25",
+    "type": "channel",
+    "key": "windroidadrarcanal+_sports"
+  },
+  {
+    "namear": "Canal+ Sp 2",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"Canal+ Sp 2\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://mol-2.com:8080/play/live.php?mac\\u003d00:1A:79:C0:BA:CF\\u0026stream\\u003d368900\\u0026extension\\u003dts\\u0026play_token\\u003dZp4JlG3bQ6\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/27005610_ico.png",
+    "nameen": "Canal+ Sp 2",
+    "position": "26",
+    "type": "channel",
+    "key": "windroidadrarcanal+_sports"
+  },
+  {
+    "namear": "Canal+ Sp 3",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"Canal+ Sp 3\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://mol-2.com:8080/play/live.php?mac\\u003d00:1A:79:C0:BA:CF\\u0026stream\\u003d368901\\u0026extension\\u003dts\\u0026play_token\\u003dHPvACaOvZM\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/27005612_ico.png",
+    "nameen": "Canal+ Sp 3",
+    "position": "27",
+    "type": "channel",
+    "key": "windroidadrarcanal+_sports"
+  },
+  {
+    "namear": "Canal+ Sp 4",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"Canal+ Sp 4\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://mol-2.com:8080/play/live.php?mac\\u003d00:1A:79:C0:BA:CF\\u0026stream\\u003d368902\\u0026extension\\u003dts\\u0026play_token\\u003dEProLWW57N\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/27005615_ico.png",
+    "nameen": "Canal+ Sp 4",
+    "position": "28",
+    "type": "channel",
+    "key": "windroidadrarcanal+_sports"
+  },
+  {
+    "namear": "Canal+ Sp 5",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"Canal+ Sp 5\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://mol-2.com:8080/play/live.php?mac\\u003d00:1A:79:C0:BA:CF\\u0026stream\\u003d368903\\u0026extension\\u003dts\\u0026play_token\\u003d6J3USoI3mT\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/27005621_ico.png",
+    "nameen": "Canal+ Sp 5",
+    "position": "29",
+    "type": "channel",
+    "key": "windroidadrarcanal+_sports"
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "namear": "دبي الرياضية 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"user-agent|Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi | دبي الرياضية 2\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36\",\"position\":\"1\",\"url\":\"https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Po9yVnB4jfu54yWEp1AUSyfHCG8cBgxOKN_IEDqPTg&s",
+    "nameen": "دبي الرياضية 2",
+    "position": "10",
+    "type": "channel",
+    "key": "aya_cx_tvarab_cup_كأس_العرب"
+  },
+  {
+    "namear": "Extra 4",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"beIN | جودة تلقائية\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"3\",\"url\":\"\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2025/01/beIN_SPORTS_XTRA_04_bein.com_.png",
+    "nameen": "Extra 4",
+    "position": "21",
+    "type": "channel",
+    "key": "aya_cx_tvarab_cup_كأس_العرب"
+  },
+  {
+    "namear": "أبو ظبي 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi | أبو ظبي الرياضية 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8\"}]",
+    "logo": "https://yt3.googleusercontent.com/hHBhwcoCzaf557Ir6wBg5v5a2UCgCShrU_2ul7c0mSvc7zenGz5WQEe5MTSHFQdrTftgZ1hp5w=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "أبو ظبي 1",
+    "position": "14",
+    "type": "channel",
+    "key": "aya_cx_tvarab_cup_كأس_العرب"
+  },
+  {
+    "namear": "Extra 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"beIN | جودة تلقائية\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"3\",\"url\":\"\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png",
+    "nameen": "Extra 2",
+    "position": "19",
+    "type": "channel",
+    "key": "aya_cx_tvarab_cup_كأس_العرب"
+  },
+  {
+    "namear": "دبي الرياضية 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://player.mangomolo.com/v1/live?id\\u003dNzE\\u003d\\u0026channelid\\u003dMjM\\u003d\\u0026countries\\u003dQ0M\\u003d\\u0026w\\u003d100%25\\u0026h\\u003d100%25\\u0026filter\\u003dDENY\\u0026signature\\u003db8eadb483fc9abaf1f4625f3041e23d2\\u0026player_profile\\u003dMTMz\\u0026vast\\u003dtrue\\u0026app_id\\u003d12\\u0026base_url\\u003daHR0cHM6Ly93d3cuZHViYWlzcG9ydHMuYWUvY29udGVudC9kdWJhaXNwb3J0cy9saXZlc3RyZWFtaW5nL2NoYW5uZWwtMS5odG1s\\u0026ppid\\u003dhlicaAtRQRx1727429627872\\u0026novatiq_sgmnt_id\\u003d|user-agent|Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36|origin|https://player.mangomolo.com|web|y\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://player.mangomolo.com|web|y\",\"isWeb\":\"false\",\"name\":\"Multi | دبي الرياضية 1\",\"Referer\":\"https://player.mangomolo.com/v1/live?id\\u003dNzE\\u003d\\u0026channelid\\u003dMjM\\u003d\\u0026countries\\u003dQ0M\\u003d\\u0026w\\u003d100%25\\u0026h\\u003d100%25\\u0026filter\\u003dDENY\\u0026signature\\u003db8eadb483fc9abaf1f4625f3041e23d2\\u0026player_profile\\u003dMTMz\\u0026vast\\u003dtrue\\u0026app_id\\u003d12\\u0026base_url\\u003daHR0cHM6Ly93d3cuZHViYWlzcG9ydHMuYWUvY29udGVudC9kdWJhaXNwb3J0cy9saXZlc3RyZWFtaW5nL2NoYW5uZWwtMS5odG1s\\u0026ppid\\u003dhlicaAtRQRx1727429627872\\u0026novatiq_sgmnt_id\\u003d\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36\",\"position\":\"1\",\"url\":\"https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Po9yVnB4jfu54yWEp1AUSyfHCG8cBgxOKN_IEDqPTg&s",
+    "nameen": "دبي الرياضية 1",
+    "position": "9",
+    "type": "channel",
+    "key": "aya_cx_tvarab_cup_كأس_العرب"
+  },
+  {
+    "namear": "الكأس 8",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://shoof.alkass.net/|user-agent|Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRhls Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36A58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36|Cookie|PHPSESSID|c4835d1ac1b267940f974c52870528ed; Token|eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiI2MzU1MTYiLCJuYmYiOjE3MzQ4NzUzNzEsImV4cCI6MTczNzQ2NzM3MSwiaWF0IjoxNzM0ODc1MzcxLCJpc3MiOiJodHRwOi8vYWxrYXNzLm5ldCIsImF1ZCI6Imh0dHA6Ly9hbGthc3MubmV0In0.TryakGeaaffy0eCPVA3isXyzZCvd8RUVwtD1Xoo64O0; _ga|GA1.1.750274817.1734875431; muxData|mux_viewer_id|dd2da30c-9749-44e1-b833-f6eb4e1f82ff|msn|0.676183777017507|sid|dfbb56c2-aee7-4219-84d0-7e17af6e37ec|sst|1734875430656|sex|1734877156923; _ga_1K0PGGT9YX|GS1.1.1734875430.1.1.1734875656.0.0.0|find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"Cookie|PHPSESSID|c4835d1ac1b267940f974c52870528ed; Token|eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiI2MzU1MTYiLCJuYmYiOjE3MzQ4NzUzNzEsImV4cCI6MTczNzQ2NzM3MSwiaWF0IjoxNzM0ODc1MzcxLCJpc3MiOiJodHRwOi8vYWxrYXNzLm5ldCIsImF1ZCI6Imh0dHA6Ly9hbGthc3MubmV0In0.TryakGeaaffy0eCPVA3isXyzZCvd8RUVwtD1Xoo64O0; _ga|GA1.1.750274817.1734875431; muxData|mux_viewer_id|dd2da30c-9749-44e1-b833-f6eb4e1f82ff|msn|0.676183777017507|sid|dfbb56c2-aee7-4219-84d0-7e17af6e37ec|sst|1734875430656|sex|1734877156923; _ga_1K0PGGT9YX|GS1.1.1734875430.1.1.1734875656.0.0.0|find|m3u8\",\"isWeb\":\"false\",\"name\":\"Multi | الكأس\",\"Referer\":\"https://shoof.alkass.net/\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRhls Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36A58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36\",\"position\":\"\",\"url\":\"https://shoof.alkass.net/live?ch\\u003deight\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 2 | الكأس\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://liveeu-gcp.alkassdigital.net/alkass8-p/main.m3u8\"}]",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "الكأس 8",
+    "position": "7",
+    "type": "channel",
+    "key": "aya_cx_tvarab_cup_كأس_العرب"
+  },
+  {
+    "namear": "الكأس 4",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 2 | الكأس\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8\"}]",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "الكأس 4",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvarab_cup_كأس_العرب"
+  },
+  {
+    "namear": "الكأس 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 2 | الكأس\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8\"}]",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "الكأس 1",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvarab_cup_كأس_العرب"
+  },
+  {
+    "namear": "الكأس 3",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 2 | الكأس\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8\"}]",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "الكأس 3",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvarab_cup_كأس_العرب"
+  },
+  {
+    "namear": "الكأس 6",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 2 | الكأس\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8\"}]",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "الكأس 6",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_cx_tvarab_cup_كأس_العرب"
+  },
+  {
+    "namear": "Extra 3",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"beIN | جودة تلقائية\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"3\",\"url\":\"\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTSXTRA3.png",
+    "nameen": "Extra 3",
+    "position": "20",
+    "type": "channel",
+    "key": "aya_cx_tvarab_cup_كأس_العرب"
+  },
+  {
+    "namear": "الأردن الرياضية",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi | الأردن الرياضية\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8\"}]",
+    "logo": "https://i.imgur.com/99UjDCJ.png",
+    "nameen": "الأردن الرياضية",
+    "position": "2848",
+    "type": "channel",
+    "key": "aya_cx_tvarab_cup_كأس_العرب"
+  },
+  {
+    "namear": "شاشا",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://mejarserver.site|user-agent|Mejar Server Local|origin|mejarserverlocal\",\"scheme\":\"\",\"otherHeaders\":\"origin|mejarserverlocal\",\"isWeb\":\"false\",\"name\":\"Mejar Server 1080p50\",\"Referer\":\"https://mejarserver.site\",\"userAgent\":\"Mejar Server Local\",\"position\":\"\",\"url\":\"https://cdnfest.com/shasha/playlist.mpd\"}]",
+    "logo": "shasha",
+    "nameen": "شاشا",
+    "position": "38",
+    "type": "channel",
+    "key": "aya_cx_tvarab_cup_كأس_العرب"
+  },
+  {
+    "namear": "Extra 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://www.tod.tv/|user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0|tod-drm|true|find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"tod-drm|true|find|m3u8\",\"isWeb\":\"false\",\"name\":\"beIN | جودة تلقائية\",\"Referer\":\"https://www.tod.tv/\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\",\"position\":\"3\",\"url\":\"https://www.youtube.com/live/Lp6rfXSgvK8?si\\u003dT97YaDKDJDSIYIg1\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png",
+    "nameen": "Extra 1",
+    "position": "18",
+    "type": "channel",
+    "key": "aya_cx_tvarab_cup_كأس_العرب"
+  },
+  {
+    "namear": "الكويت 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi الكويت الرياضية 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8\"}]",
+    "logo": "https://i.imgur.com/E2NC3n6.png",
+    "nameen": "الكويت 1",
+    "position": "12",
+    "type": "channel",
+    "key": "aya_cx_tvarab_cup_كأس_العرب"
+  },
+  {
+    "namear": "الكأس 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 2 | الكأس\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8\"}]",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "الكأس 2",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvarab_cup_كأس_العرب"
+  },
+  {
+    "namear": "beIN SPORTS Arab",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"beIN | جودة تلقائية\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/82t-Iok1zu61G_yPOVQHT12UiLWqV7OEWHc-XF2vuMn1kB_BfjNEUfZnmIboo_2G4mSYaXwXVoGK5NB33zKY_A/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type\\u003dlive\"},{\"license\":\"\",\"headers\":\"find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"isWeb\":\"false\",\"name\":\"beIN | جودة تلقائية\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"3\",\"url\":\"https://www.youtube.com/live/AiQasdSrZVo?si\\u003dG5TsWEuNvkoeal0B\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png",
+    "nameen": "beIN SPORTS Arab",
+    "position": "17",
+    "type": "channel",
+    "key": "aya_cx_tvarab_cup_كأس_العرب"
+  },
+  {
+    "namear": "الكويت 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi الكويت 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8\"}]",
+    "logo": "https://i.imgur.com/YKFX6zy.png",
+    "nameen": "الكويت 2",
+    "position": "13",
+    "type": "channel",
+    "key": "aya_cx_tvarab_cup_كأس_العرب"
+  },
+  {
+    "namear": "الشارقة الرياضية",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://www.sba.net.ae/|user-agent|Mozilla|https://www.sba.net.ae\",\"scheme\":\"\",\"otherHeaders\":\"https://www.sba.net.ae\",\"isWeb\":\"false\",\"name\":\"Multi | الشارقة الرياضية\",\"Referer\":\"https://www.sba.net.ae/\",\"userAgent\":\"Mozilla\",\"position\":\"1\",\"url\":\"https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8\"}]",
+    "logo": "https://f.top4top.io/p_3373hgwn31.jpg",
+    "nameen": "الشارقة الرياضية",
+    "position": "16",
+    "type": "channel",
+    "key": "aya_cx_tvarab_cup_كأس_العرب"
+  },
+  {
+    "namear": "دبي الرياضية 3",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi | دبي الرياضية 3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Po9yVnB4jfu54yWEp1AUSyfHCG8cBgxOKN_IEDqPTg&s",
+    "nameen": "دبي الرياضية 3",
+    "position": "11",
+    "type": "channel",
+    "key": "aya_cx_tvarab_cup_كأس_العرب"
+  },
+  {
+    "namear": "أبو ظبي 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi | أبو ظبي الرياضية 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index.m3u8\"}]",
+    "logo": "https://yt3.googleusercontent.com/hHBhwcoCzaf557Ir6wBg5v5a2UCgCShrU_2ul7c0mSvc7zenGz5WQEe5MTSHFQdrTftgZ1hp5w=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "أبو ظبي 2",
+    "position": "15",
+    "type": "channel",
+    "key": "aya_cx_tvarab_cup_كأس_العرب"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "namear": "قناة العربي 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://ok.ru/|user-agent|Mozilla|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"https://ok.ru/\",\"userAgent\":\"Mozilla\",\"position\":\"\",\"url\":\"https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8\"}]",
+    "logo": "https://bit.ly/3IDDBBQ",
+    "nameen": "قناة العربي 2",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_ســـوريـــا"
+  },
+  {
+    "namear": "Syria TV 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"720\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_720p/chunks.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"متعدد الجودات\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8?v\\u003d531438403\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"480\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"3\",\"url\":\"https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_480p/chunks_dvr.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"720 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_720p/chunks.m3u8\"}]",
+    "logo": "https://bit.ly/3SvjspP",
+    "nameen": "Syria TV 1",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_ســـوريـــا"
+  },
+  {
+    "namear": "قناة لنا",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://p-ltv.akamaized.net/ltv/ltv.m3u8\"}]",
+    "logo": "",
+    "nameen": "قناة لنا",
+    "position": "6",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_ســـوريـــا"
+  },
+  {
+    "namear": "قناة اليوم",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://alyaum-tv.akamaized.net/hls/alyaum-tv.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://alyaum-tv.akamaized.net/hls/alyaum-tv.m3u8\"}]",
+    "logo": "https://bit.ly/2Lqj2S4",
+    "nameen": "قناة اليوم",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_ســـوريـــا"
+  },
+  {
+    "namear": "حلب اليوم",
+    "servers": "[{\"license\":\"\",\"headers\":\"find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://www.youtube.com/live/kFzAHSX13Ck\"}]",
+    "logo": "https://i.imgur.com/xBcBG2z.png",
+    "nameen": "حلب اليوم",
+    "position": "8",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_ســـوريـــا"
+  },
+  {
+    "namear": "الإخبارية السورية",
+    "servers": "[{\"license\":\"\",\"headers\":\"find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://www.youtube.com/watch?v\\u003dJdq8eGG2c0g\"}]",
+    "logo": "تت",
+    "nameen": "الإخبارية السورية",
+    "position": "10",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_ســـوريـــا"
+  },
+  {
+    "namear": "الأفلام سوريا",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://sepehrtv.ir/live/|user-agent|Mozilla/5.0 (Linux; Android 14; BRP-NX1 Build/HONORBRP-N21; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.100 Mobile Safari/537.36|cookie|_ga_T2G9B53EHE|GS1.1.1745205098.1.1.1745206083.0.0.0|find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"cookie|_ga_T2G9B53EHE|GS1.1.1745205098.1.1.1745206083.0.0.0|find|m3u8\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"https://sepehrtv.ir/live/\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 14; BRP-NX1 Build/HONORBRP-N21; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.100 Mobile Safari/537.36\",\"position\":\"\",\"url\":\"https://sepehrtv.ir/live/nasim\"}]",
+    "logo": "تتخ",
+    "nameen": "الأفلام سوريا",
+    "position": "9",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_ســـوريـــا"
+  },
+  {
+    "namear": "syria ch",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://95.216.180.111:1935/live/10/chunklist_w913996607.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://95.216.180.111:1935/live/10/chunklist_w913996607.m3u8\"}]",
+    "logo": "https://i.imgur.com/8vSNskY.png",
+    "nameen": "syria ch",
+    "position": "7",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_ســـوريـــا"
+  },
+  {
+    "namear": "اليوم",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"ع\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://iko-live.akamaized.net/AlyuamTV/master.m3u8\"}]",
+    "logo": "ععه",
+    "nameen": "اليوم",
+    "position": "8",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_ســـوريـــا"
+  },
+  {
+    "namear": "قناة العربي 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8\"}]",
+    "logo": "https://bit.ly/3oBqTJR",
+    "nameen": "قناة العربي 1",
+    "position": "6",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_ســـوريـــا"
+  },
+  {
+    "namear": "Syria TV 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi SYR 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi Cast X\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/IDHLy5b2oRcriIaZ0OqFr7MtFTs-pWKpvpu4jIBrKdKRorXCvZyUo4uAR8fU7pAILadAT5JlphIAPAtfm9hYGA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type\\u003dlive\"}]",
+    "logo": "https://i.ibb.co/1JbDbybP/IMG-20250227-203937.jpg",
+    "nameen": "Syria TV 2",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_ســـوريـــا"
+  }
+]

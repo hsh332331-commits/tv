@@ -1,0 +1,56 @@
+[
+  {
+    "namear": "KURD",
+    "servers": "[{\"headers\":\"Referer|https://www.krdtv.online/|user-agent|https://www.krdtv.online|\",\"otherHeaders\":\"\",\"name\":\"KURDMAX Stream\",\"Referer\":\"https://www.krdtv.online/\",\"userAgent\":\"https://www.krdtv.online\",\"position\":\"0\",\"url\":\"http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "KURD",
+    "position": "4",
+    "type": "channel",
+    "key": "kurd_sport"
+  },
+  {
+    "namear": "Far",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"Far\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-aburayhan1107.telewebion.ir/ek/faratar/live/2160p/index.m3u8\"}]",
+    "logo": "",
+    "nameen": "Far",
+    "position": "5",
+    "type": "channel",
+    "key": "kurd_sport"
+  },
+  {
+    "namear": "HDR",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beinhdr2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-aburayhan1101.telewebion.ir/ek/faratar/live/1440p/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "HDR",
+    "position": "16",
+    "type": "channel",
+    "key": "kurd_sport"
+  },
+  {
+    "namear": "NRT TV",
+    "servers": "[{\"headers\":\"Referer|https://www.krdtv.online/|user-agent|https://www.krdtv.online|\",\"otherHeaders\":\"\",\"name\":\"NRT TV\",\"Referer\":\"https://www.krdtv.online/\",\"userAgent\":\"https://www.krdtv.online\",\"position\":\"0\",\"url\":\"http://imkhd.ddns.net:1935/live/imkhd/playlist.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "NRT TV",
+    "position": "19",
+    "type": "channel",
+    "key": "kurd_sport"
+  },
+  {
+    "namear": "Aya",
+    "servers": "[{\"headers\":\"Referer|https://www.krdtv.online/|user-agent|https://www.krdtv.online|\",\"otherHeaders\":\"\",\"name\":\"beinsport44\",\"Referer\":\"https://www.krdtv.online/\",\"userAgent\":\"https://www.krdtv.online\",\"position\":\"0\",\"url\":\"http://217.76.62.187/hls/kids.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Aya",
+    "position": "39",
+    "type": "channel",
+    "key": "kurd_sport"
+  },
+  {
+    "namear": "Aya2",
+    "servers": "[{\"headers\":\"Referer|https://www.krdtv.online/|user-agent|https://www.krdtv.online|\",\"otherHeaders\":\"\",\"name\":\"Sports Channel\",\"Referer\":\"https://www.krdtv.online/\",\"userAgent\":\"https://www.krdtv.online\",\"position\":\"0\",\"url\":\"https://live20.bozztv.com/giatv/giatv-spitv4k_kamalblbas/spitv4k_kamalblbas/chunks.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Aya2",
+    "position": "68",
+    "type": "channel",
+    "key": "kurd_sport"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "Xtra",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"XTRA\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8\"},{\"headers\":\"user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\\\" --cookies-from-browser firefox --|find|m3u8\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"name\":\"Xtra2\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\\\" --cookies-from-browser firefox --\",\"position\":\"05\",\"url\":\"https://www.parsatv.com/m/name\\u003dbeIN-Sports-Xtra-Espanol#spanish\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkTnJ-Mxs9DWW458rBRPWdjMY8_Svg7W0HZg&s",
+    "nameen": "Xtra",
+    "position": "2",
+    "type": "channel",
+    "key": "ligue1_sport"
+  },
+  {
+    "namear": "Ligue1",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://d1yi40sjj0ca0v.cloudfront.net/TVD2083/index.mpd\"}]",
+    "logo": "",
+    "nameen": "Ligue1",
+    "position": "3",
+    "type": "channel",
+    "key": "ligue1_sport"
+  },
+  {
+    "namear": "TV5",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"Tv5\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkTnJ-Mxs9DWW458rBRPWdjMY8_Svg7W0HZg&s",
+    "nameen": "TV5",
+    "position": "4",
+    "type": "channel",
+    "key": "ligue1_sport"
+  },
+  {
+    "namear": "Elv11",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://d1yi40sjj0ca0v.cloudfront.net/TVD6412/index.mpd\"}]",
+    "logo": "",
+    "nameen": "Elv11",
+    "position": "4",
+    "type": "channel",
+    "key": "ligue1_sport"
+  },
+  {
+    "namear": "TV5M",
+    "servers": "[{\"headers\":\"\",\"license\":\"53e1617553c04e0da4ccf40db7afc072:d3f68d81e04f4e4a2f8276055b0b9ad1\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560408/index.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkTnJ-Mxs9DWW458rBRPWdjMY8_Svg7W0HZg&s",
+    "nameen": "TV5M",
+    "position": "5",
+    "type": "channel",
+    "key": "ligue1_sport"
+  }
+]

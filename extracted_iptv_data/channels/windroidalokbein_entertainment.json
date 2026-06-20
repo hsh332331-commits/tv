@@ -1,0 +1,119 @@
+[
+  {
+    "namear": "Arena MOVIES 1",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena MOVIES 1\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/63.m3u8\"}]",
+    "logo": "https://i.ibb.co/QFKgcb9/beinpremiere.png",
+    "nameen": "Arena MOVIES 1",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidalokbein_entertainment"
+  },
+  {
+    "namear": "Arena MOVIES 2",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena MOVIES 2\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/64.m3u8\"}]",
+    "logo": "https://i.ibb.co/h8tthCy/beinaction.png",
+    "nameen": "Arena MOVIES 2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidalokbein_entertainment"
+  },
+  {
+    "namear": "Arena MOVIES 3",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena MOVIES 3\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/65.m3u8\"}]",
+    "logo": "https://i.ibb.co/nzdcd6x/beindrama.png",
+    "nameen": "Arena MOVIES 3",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidalokbein_entertainment"
+  },
+  {
+    "namear": "Arena MOVIES 4",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena MOVIES 4\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/66.m3u8\"}]",
+    "logo": "https://i.ibb.co/gzQS7wZ/beinfamily.png",
+    "nameen": "Arena MOVIES 4",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidalokbein_entertainment"
+  },
+  {
+    "namear": "Arena DRAMA",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena DRAMA\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/67.m3u8\"}]",
+    "logo": "https://i.ibb.co/fdsQ1c3/beindrama1.png",
+    "nameen": "Arena DRAMA",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidalokbein_entertainment"
+  },
+  {
+    "namear": "FATAFEAT",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"FATAFEAT\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatoww1/arenatoww1/74.m3u8\"}]",
+    "logo": "http://bl3rbe.net/up/ANvY4THsTzqo.png",
+    "nameen": "FATAFEAT",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidalokbein_entertainment"
+  },
+  {
+    "namear": "JEEM",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"JEEM\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/77.m3u8\"}]",
+    "logo": "https://www.ngmisr.com/wp-content/uploads/2021/07/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%AC.jpg",
+    "nameen": "JEEM",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidalokbein_entertainment"
+  },
+  {
+    "namear": "FOX MOVIES",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"FOX MOVIES\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/71.m3u8\"}]",
+    "logo": "https://i.ibb.co/HTx0kQx/foxmovies.png",
+    "nameen": "FOX MOVIES",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidalokbein_entertainment"
+  },
+  {
+    "namear": "Arena SERIES 1",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena SERIES 1\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/68.m3u8\"}]",
+    "logo": "https://i.ibb.co/kywqGh1/beinseries1.png",
+    "nameen": "Arena SERIES 1",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidalokbein_entertainment"
+  },
+  {
+    "namear": "Arena SERIES 2",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena SERIES 2\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/69.m3u8\"}]",
+    "logo": "https://i.ibb.co/2vFfhS5/beinseries2.png",
+    "nameen": "Arena SERIES 2",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidalokbein_entertainment"
+  },
+  {
+    "namear": "Arena FOX CRIME",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena FOX CRIME\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/70.m3u8\"}]",
+    "logo": "https://i.ibb.co/c8sfyrG/foxcrime.png",
+    "nameen": "Arena FOX CRIME",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidalokbein_entertainment"
+  },
+  {
+    "namear": "Arena FOX LIFE",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena FOX LIFE\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/75.m3u8\"}]",
+    "logo": "q",
+    "nameen": "Arena FOX LIFE",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidalokbein_entertainment"
+  },
+  {
+    "namear": "Arena BARAEM",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena BARAEM\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arema1414/arema1414/76.m3u8\"}]",
+    "logo": "q",
+    "nameen": "Arena BARAEM",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidalokbein_entertainment"
+  }
+]

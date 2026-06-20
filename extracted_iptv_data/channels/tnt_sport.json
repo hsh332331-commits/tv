@@ -1,0 +1,65 @@
+[
+  {
+    "namear": "TNT1",
+    "servers": "[{\"headers\":\"\",\"license\":\"d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"TNT1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://otte-qw.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd\"}]",
+    "logo": "https://www.pitch.co.uk/wp-content/uploads/2023/12/TNT-Sports-Logo.png",
+    "nameen": "TNT1",
+    "position": "0",
+    "type": "channel",
+    "key": "tnt_sport"
+  },
+  {
+    "namear": "TNT2",
+    "servers": "[{\"headers\":\"\",\"license\":\"0b59ce06de74ed84f2eda5e81dadba13:48e4ba4ad6c2a60d2bda5d71a0050844\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"TNT3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd\"}]",
+    "logo": "https://www.pitch.co.uk/wp-content/uploads/2023/12/TNT-Sports-Logo.png",
+    "nameen": "TNT2",
+    "position": "3",
+    "type": "channel",
+    "key": "tnt_sport"
+  },
+  {
+    "namear": "TNT3",
+    "servers": "[{\"headers\":\"\",\"license\":\"12413e2c2855cfc59ce0fe6b20cc71ca:08d55a8f5fc93a9375f9b0cb2e1739ca\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"TNT4\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd\"}]",
+    "logo": "https://www.pitch.co.uk/wp-content/uploads/2023/12/TNT-Sports-Logo.png",
+    "nameen": "TNT3",
+    "position": "4",
+    "type": "channel",
+    "key": "tnt_sport"
+  },
+  {
+    "namear": "TNT4",
+    "servers": "[{\"headers\":\"\",\"license\":\"570c19f1be3410e4e409be4dc7923f2b:9a4dea8af2a2a703dffa8a477e9edc50\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"TNT5\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd?\"}]",
+    "logo": "https://www.pitch.co.uk/wp-content/uploads/2023/12/TNT-Sports-Logo.png",
+    "nameen": "TNT4",
+    "position": "4",
+    "type": "channel",
+    "key": "tnt_sport"
+  },
+  {
+    "namear": "Telemundo",
+    "servers": "[{\"headers\":\"\",\"license\":\"2a195c95880e37688286e0a6117a336f:e6cba1c52ebee16289775f5164daece7\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(KDEN)/master.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScfibGZ_ifvzyQDt-pbToxQnoXCNTN1NJ44GbuGknPng&s=10",
+    "nameen": "Telemundo",
+    "position": "5",
+    "type": "channel",
+    "key": "tnt_sport"
+  },
+  {
+    "namear": "CBS",
+    "servers": "[{\"headers\":\"\",\"license\":\"38860f7afdae191a91be6ec3de367010:9beffbfff68efb289f2a556070057a7e\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/y8csztrnlv/out/v1/e48799ec18b041eabdb969bcc780360a/cenc.mpd\"}]",
+    "logo": "https://i1.sndcdn.com/artworks-000367577007-ikrm5a-t500x500.jpg",
+    "nameen": "CBS",
+    "position": "5",
+    "type": "channel",
+    "key": "tnt_sport"
+  },
+  {
+    "namear": "CBS CL",
+    "servers": "[{\"headers\":\"\",\"license\":\"7c3e0055f1ce3886ea411814e9f77b4e:a1fb83f21bf0ae6723973a7db6b78441\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/o2hcyarei8/out/v1/c10a9be1c9b84442bcd89a098aa20a10/cenc.mpd\"}]",
+    "logo": "https://static1.squarespace.com/static/5cc3d1b051f4d40415789cc2/5cc3d53ada28cf0001d12755/5dd23ab0e4692e5af28bb2c9/1574059253150/cbs-uefa-champions-league.png?format=1500w",
+    "nameen": "CBS CL",
+    "position": "6",
+    "type": "channel",
+    "key": "tnt_sport"
+  }
+]

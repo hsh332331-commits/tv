@@ -1,0 +1,83 @@
+[
+  {
+    "namear": "STC Sports 4",
+    "servers": "[{\"license\":\"01065be7ffbb268f2aadf7424b8ee24e:79a541c99e9bb7815e257e4a4ff46dbb\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://akmrwb-live.cdn.intigral-ott.net/STC4/STC4.isml/manifest.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd4Td1GzoK2MFQWLppm2bzynhklnzVzdnWSPlBgFkRlg&s=10",
+    "nameen": "STC Sports 4",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvstc_قنوات"
+  },
+  {
+    "namear": "STC Sport 1",
+    "servers": "[{\"license\":\"47f0ab58f5a81c20b5b69dc494cbe102:1e0719da653c2b4652f0b0bf84d96c74\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"20\",\"url\":\"https://akmrwb-live.cdn.intigral-ott.net/STC/STC.isml/manifest.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd4Td1GzoK2MFQWLppm2bzynhklnzVzdnWSPlBgFkRlg&s=10",
+    "nameen": "STC Sport 1",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvstc_قنوات"
+  },
+  {
+    "namear": "STC Drama",
+    "servers": "[{\"license\":\"4307d51136956e78dd17fe4884ba66d1:e81223c66a46efacd95b83c9ebbb8c1c\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://akmrwb-live.cdn.intigral-ott.net/STCD/STCD.isml/manifest.mpd\"}]",
+    "logo": "https://www.jawwy.sa/content/dam/jawwy/products/jawwy-pay/stctv-icon.png.thumb.1280.1280.png",
+    "nameen": "STC Drama",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_cx_tvstc_قنوات"
+  },
+  {
+    "namear": "STC Anime",
+    "servers": "[{\"license\":\"f97e8bbcd6fd657755d65c583eb7bb90:5002f35f03d5b1079b7eccf7fda26dbe\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://akmrwb-live.cdn.intigral-ott.net/STCA/STCA.isml/manifest.mpd\"}]",
+    "logo": "https://www.jawwy.sa/content/dam/jawwy/products/jawwy-pay/stctv-icon.png.thumb.1280.1280.png",
+    "nameen": "STC Anime",
+    "position": "6",
+    "type": "channel",
+    "key": "aya_cx_tvstc_قنوات"
+  },
+  {
+    "namear": "STC Sport 2",
+    "servers": "[{\"license\":\"e74c7d697bd26595b196c6b96e2d4f5b:e288110233737502e8af9184098ab50b\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://akmrwb-live.cdn.intigral-ott.net/JAW1/JAW1.isml/manifest.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd4Td1GzoK2MFQWLppm2bzynhklnzVzdnWSPlBgFkRlg&s=10",
+    "nameen": "STC Sport 2",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvstc_قنوات"
+  },
+  {
+    "namear": "STC Cienma",
+    "servers": "[{\"license\":\"27941c358897e06211225526fd7d7a64:386f6b34cd5f1a8b27696fd58ed35613\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://akmrwb-live.cdn.intigral-ott.net/STCC/STCC.isml/manifest.mpd\"}]",
+    "logo": "https://www.jawwy.sa/content/dam/jawwy/products/jawwy-pay/stctv-icon.png.thumb.1280.1280.png",
+    "nameen": "STC Cienma",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvstc_قنوات"
+  },
+  {
+    "namear": "STC Legnds",
+    "servers": "[]",
+    "logo": "https://store-images.s-microsoft.com/image/apps.62984.13675133441460582.d20f15a9-0cd7-46f8-b38d-bf9c968fe21b.b2149374-f0a9-4ccc-8b98-bfd24f14814d",
+    "nameen": "STC Legnds",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_cx_tvstc_قنوات"
+  },
+  {
+    "namear": "STC Sports 3",
+    "servers": "[{\"license\":\"1fd615ca2c5353fc5393da466ce31cbc:942822c6e7d3b01dd71bffded7ac0aa8\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://akmrwb-live.cdn.intigral-ott.net/STC3/STC3.isml/manifest.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd4Td1GzoK2MFQWLppm2bzynhklnzVzdnWSPlBgFkRlg&s=10",
+    "nameen": "STC Sports 3",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvstc_قنوات"
+  },
+  {
+    "namear": "STC Family",
+    "servers": "[{\"license\":\"5b743d2a372f811f09c7fa55b9f842df:c5a1e1a129825f6cf52521c5217126a4\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://akmrwb-live.cdn.intigral-ott.net/STCF/STCF.isml/manifest.mpd\"}]",
+    "logo": "https://www.jawwy.sa/content/dam/jawwy/products/jawwy-pay/stctv-icon.png.thumb.1280.1280.png",
+    "nameen": "STC Family",
+    "position": "6",
+    "type": "channel",
+    "key": "aya_cx_tvstc_قنوات"
+  }
+]

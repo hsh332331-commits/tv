@@ -1,0 +1,20 @@
+[
+  {
+    "namear": "Max 1",
+    "servers": "[{\"headers\":\"Referer;https://widevine.licenses4.me/;\",\"otherHeaders\":\"\",\"name\":\"Max HD\",\"Referer\":\"https://widevine.licenses4.me/\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://webdi.openhd.lol/ddyx2/premium296/mono.m3u8 \"},{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Max\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"https://playing.tunnelcdnsw.net/live/beinsportsmax1ar/mono.m3u8 \"},{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Max\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"3\",\"url\":\"https://turnthe.gameon.tel/live/beinsportsmax1ar_720p/mono.m3u8 \"},{\"headers\":\"Referer;https://online.alkoora.live/;\",\"otherHeaders\":\"\",\"name\":\"Max Tv\",\"Referer\":\"https://online.alkoora.live/\",\"userAgent\":\"\",\"position\":\"4\",\"url\":\"https://playing.smoothlikebutterstream.com/live/beinsportsmax1ar_720p/mono.m3u8 \"},{\"headers\":\"Referer;https://vestagms.com/;\",\"otherHeaders\":\"\",\"name\":\"Max SD\",\"Referer\":\"https://vestagms.com/\",\"userAgent\":\"\",\"position\":\"5\",\"url\":\"https://yeszet1x1cdn22.streamingrdp.com/hlsbp1/ebp1/mono.m3u8\"}]",
+    "logo": "https://i0.wp.com/serveurs-iptv.com/wp-content/uploads/2018/01/bein-sport-MAX-logo.png?fit=600%2C600&ssl=1",
+    "nameen": "Max 1",
+    "position": "8",
+    "type": "channel",
+    "key": "kurd_tv"
+  },
+  {
+    "namear": "Max 2",
+    "servers": "[{\"headers\":\"Referer;https://widevine.licenses4.me/;\",\"otherHeaders\":\"\",\"name\":\"Max\",\"Referer\":\"https://widevine.licenses4.me/\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"https://webdi.openhd.lol/ddyx2/premium297/mono.m3u8 \"},{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Max\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"https://playing.tunnelcdnsw.net/live/beinsportsmax2ar/mono.m3u8 \"},{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Max\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"3\",\"url\":\"https://turnthe.gameon.tel/live/beinsportsmax2ar_720p/mono.m3u8 \"},{\"headers\":\"Referer;https://online.alkoora.live/;\",\"otherHeaders\":\"\",\"name\":\"Max TV\",\"Referer\":\"https://online.alkoora.live/\",\"userAgent\":\"\",\"position\":\"4\",\"url\":\"https://playing.smoothlikebutterstream.com/live/beinsportsmax2ar_720p/mono.m3u8 \"},{\"headers\":\"Referer;https://vestagms.com/;\",\"otherHeaders\":\"\",\"name\":\"Max SD\",\"Referer\":\"https://vestagms.com/\",\"userAgent\":\"\",\"position\":\"5\",\"url\":\"https://yeszet1x1cdn22.streamingrdp.com/hlsbp1/ebp1/mono.m3u8\"}]",
+    "logo": "https://i0.wp.com/serveurs-iptv.com/wp-content/uploads/2018/01/bein-sport-MAX-logo.png?fit=600%2C600&ssl=1",
+    "nameen": "Max 2",
+    "position": "10",
+    "type": "channel",
+    "key": "kurd_tv"
+  }
+]

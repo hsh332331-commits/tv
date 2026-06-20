@@ -1,0 +1,38 @@
+[
+  {
+    "namear": "Tvibu1",
+    "servers": "[{\"headers\":\"user-agent|Mozila|\",\"otherHeaders\":\"\",\"name\":\"Tvibu1\",\"Referer\":\"\",\"userAgent\":\"Mozila\",\"position\":\"0\",\"url\":\"https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets.m3u8\"}]",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png",
+    "nameen": "Tvibu1",
+    "position": "1",
+    "type": "channel",
+    "key": "tivibu_sport"
+  },
+  {
+    "namear": "Tvibu2",
+    "servers": "[{\"headers\":\"user-agent|Mozila|\",\"otherHeaders\":\"\",\"name\":\"Tvibu2\",\"Referer\":\"\",\"userAgent\":\"Mozila\",\"position\":\"0\",\"url\":\"https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets2.m3u8\"}]",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png",
+    "nameen": "Tvibu2",
+    "position": "2",
+    "type": "channel",
+    "key": "tivibu_sport"
+  },
+  {
+    "namear": "Tvibu3",
+    "servers": "[{\"headers\":\"user-agent|Mozila|\",\"otherHeaders\":\"\",\"name\":\"Tvibu3\",\"Referer\":\"\",\"userAgent\":\"Mozila\",\"position\":\"0\",\"url\":\"https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets3.m3u8\"}]",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png",
+    "nameen": "Tvibu3",
+    "position": "3",
+    "type": "channel",
+    "key": "tivibu_sport"
+  },
+  {
+    "namear": "Tvibu4",
+    "servers": "[{\"headers\":\"user-agent|Mozila|\",\"otherHeaders\":\"\",\"name\":\"Tvibu4\",\"Referer\":\"\",\"userAgent\":\"Mozila\",\"position\":\"0\",\"url\":\"https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets4.m3u8\"}]",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png",
+    "nameen": "Tvibu4",
+    "position": "4",
+    "type": "channel",
+    "key": "tivibu_sport"
+  }
+]

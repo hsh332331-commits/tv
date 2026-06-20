@@ -1,0 +1,38 @@
+[
+  {
+    "namear": "Eurosport 1 FR",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Eurosport 1 FR\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/766\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12176438_ico.png",
+    "nameen": "Eurosport 1 FR",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrareurosport"
+  },
+  {
+    "namear": "Eurosport 2 FR",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Eurosport 2 FR\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/767\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12176455_ico.png",
+    "nameen": "Eurosport 2 FR",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrareurosport"
+  },
+  {
+    "namear": "Eurosport 1 EN",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"Eurosport 1 EN\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://185.205.201.141:80/gooldstv.com/PbmDzbnBiM/9277\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2980031_ico.png",
+    "nameen": "Eurosport 1 EN",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrareurosport"
+  },
+  {
+    "namear": "Eurosport 2 EN",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"Eurosport 2 EN\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://185.205.201.141:80/gooldstv.com/PbmDzbnBiM/9332\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2980040_ico.png",
+    "nameen": "Eurosport 2 EN",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrareurosport"
+  }
+]

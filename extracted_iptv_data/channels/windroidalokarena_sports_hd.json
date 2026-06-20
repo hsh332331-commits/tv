@@ -1,0 +1,182 @@
+[
+  {
+    "namear": "Arena SPORTS 1 HD",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena SPORTS 1 HD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/18.m3u8\\r\"}]",
+    "logo": "https://www10.0zz0.com/2023/10/19/23/106935047.png",
+    "nameen": "Arena SPORTS 1 HD",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidalokarena_sports_hd"
+  },
+  {
+    "namear": "Arena SPORTS 2 HD",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena SPORTS 2 HD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/19.m3u8\"}]",
+    "logo": "https://www10.0zz0.com/2023/10/19/23/767403397.png",
+    "nameen": "Arena SPORTS 2 HD",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidalokarena_sports_hd"
+  },
+  {
+    "namear": "Arena SPORTS 3 HD",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena SPORTS 3 HD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/20.m3u8\"}]",
+    "logo": "https://www10.0zz0.com/2023/10/19/23/163701844.png",
+    "nameen": "Arena SPORTS 3 HD",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidalokarena_sports_hd"
+  },
+  {
+    "namear": "Arena SPORTS 4 HD",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena SPORTS 4 HD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/21.m3u8\"}]",
+    "logo": "https://www5.0zz0.com/2023/10/19/23/310061841.png",
+    "nameen": "Arena SPORTS 4 HD",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidalokarena_sports_hd"
+  },
+  {
+    "namear": "Arena SPORTS 5 HD",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena SPORTS 5 HD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/22.m3u8\"}]",
+    "logo": "https://www5.0zz0.com/2023/10/19/23/370819556.png",
+    "nameen": "Arena SPORTS 5 HD",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidalokarena_sports_hd"
+  },
+  {
+    "namear": "Arena SPORTS 6 HD",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena SPORTS 6 HD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/23.m3u8\"}]",
+    "logo": "https://www5.0zz0.com/2023/10/19/23/461572985.png",
+    "nameen": "Arena SPORTS 6 HD",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidalokarena_sports_hd"
+  },
+  {
+    "namear": "Arena SPORTS 7 HD",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena SPORTS 7 HD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/24.m3u8\"}]",
+    "logo": "https://www5.0zz0.com/2023/10/19/23/550782912.png",
+    "nameen": "Arena SPORTS 7 HD",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidalokarena_sports_hd"
+  },
+  {
+    "namear": "Arena SPORTS 8 HD",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena SPORTS 8 HD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/25.m3u8\"}]",
+    "logo": "https://www5.0zz0.com/2023/10/19/23/967709081.png",
+    "nameen": "Arena SPORTS 8 HD",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidalokarena_sports_hd"
+  },
+  {
+    "namear": "Arena SPORTS 9 HD",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena SPORTS 9 HD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/26.m3u8\"}]",
+    "logo": "https://www5.0zz0.com/2023/10/19/23/389888230.png",
+    "nameen": "Arena SPORTS 9 HD",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidalokarena_sports_hd"
+  },
+  {
+    "namear": "Arena SPORTS XTRA 1 HD",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena SPORTS XTRA 1 HD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/39.m3u8\"}]",
+    "logo": "https://www6.0zz0.com/2023/10/19/23/663881160.png",
+    "nameen": "Arena SPORTS XTRA 1 HD",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidalokarena_sports_hd"
+  },
+  {
+    "namear": "Arena SPORTS XTRA 2 HD",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena SPORTS XTRA 2 HD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/40.m3u8\"}]",
+    "logo": "https://www6.0zz0.com/2023/10/19/23/366557420.png",
+    "nameen": "Arena SPORTS XTRA 2 HD",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidalokarena_sports_hd"
+  },
+  {
+    "namear": "Arena SPORTS XTRA 3 HD",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena SPORTS XTRA 3 HD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/41.m3u8\"}]",
+    "logo": "https://www6.0zz0.com/2023/10/19/23/857919890.png",
+    "nameen": "Arena SPORTS XTRA 3 HD",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidalokarena_sports_hd"
+  },
+  {
+    "namear": "Arena SPORTS NEWS",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena SPORTS NEWS\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/44.m3u8\"}]",
+    "logo": "https://www7.0zz0.com/2023/10/19/23/509184583.png",
+    "nameen": "Arena SPORTS NEWS",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidalokarena_sports_hd"
+  },
+  {
+    "namear": "Arena French 1",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena French 1\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/47.m3u8\"}]",
+    "logo": "https://www7.0zz0.com/2023/10/19/23/968834319.png",
+    "nameen": "Arena French 1",
+    "position": "13",
+    "type": "channel",
+    "key": "windroidalokarena_sports_hd"
+  },
+  {
+    "namear": "Arena French 2",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena French 2\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/48.m3u8\"}]",
+    "logo": "https://www7.0zz0.com/2023/10/19/23/441980726.png",
+    "nameen": "Arena French 2",
+    "position": "14",
+    "type": "channel",
+    "key": "windroidalokarena_sports_hd"
+  },
+  {
+    "namear": "Arena AFC ",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena AFC \",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/551.m3u8\"}]",
+    "logo": "https://www7.0zz0.com/2023/10/19/23/938764701.png",
+    "nameen": "Arena AFC ",
+    "position": "15",
+    "type": "channel",
+    "key": "windroidalokarena_sports_hd"
+  },
+  {
+    "namear": "Arena AFC 1 ",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena AFC 1 \",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/49.m3u8\"}]",
+    "logo": "https://www7.0zz0.com/2023/10/19/23/882777880.png",
+    "nameen": "Arena AFC 1 ",
+    "position": "16",
+    "type": "channel",
+    "key": "windroidalokarena_sports_hd"
+  },
+  {
+    "namear": "Arena AFC 2",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena AFC 2\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/50.m3u8\"}]",
+    "logo": "https://www8.0zz0.com/2023/10/19/23/807790078.png",
+    "nameen": "Arena AFC 2",
+    "position": "17",
+    "type": "channel",
+    "key": "windroidalokarena_sports_hd"
+  },
+  {
+    "namear": "Arena AFC 3",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena AFC 3\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/51.m3u8\"}]",
+    "logo": "https://www8.0zz0.com/2023/10/19/23/197561219.png",
+    "nameen": "Arena AFC 3",
+    "position": "18",
+    "type": "channel",
+    "key": "windroidalokarena_sports_hd"
+  },
+  {
+    "namear": "Arena Sports open",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"Arena Sports open\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/43.m3u8\"}]",
+    "logo": "https://www7.0zz0.com/2023/10/19/23/553758950.png",
+    "nameen": "Arena Sports open",
+    "position": "19",
+    "type": "channel",
+    "key": "windroidalokarena_sports_hd"
+  }
+]

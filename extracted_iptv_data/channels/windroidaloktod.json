@@ -1,0 +1,74 @@
+[
+  {
+    "namear": "TOD HORROR",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"TOD HORROR\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/170.m3u8\"}]",
+    "logo": "https://seeklogo.com/images/T/tod-tv-logo-D8BDB5883C-seeklogo.com.png",
+    "nameen": "TOD HORROR",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidaloktod"
+  },
+  {
+    "namear": "TOD INDIA",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"TOD INDIA\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/169.m3u8\"}]",
+    "logo": "https://seeklogo.com/images/T/tod-tv-logo-D8BDB5883C-seeklogo.com.png",
+    "nameen": "TOD INDIA",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidaloktod"
+  },
+  {
+    "namear": "TOD TURKEY",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"TOD TURKEY\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/168.m3u8\"}]",
+    "logo": "https://seeklogo.com/images/T/tod-tv-logo-D8BDB5883C-seeklogo.com.png",
+    "nameen": "TOD TURKEY",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidaloktod"
+  },
+  {
+    "namear": "TOD ANIME",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"TOD ANIME\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/167.m3u8\"}]",
+    "logo": "https://seeklogo.com/images/T/tod-tv-logo-D8BDB5883C-seeklogo.com.png",
+    "nameen": "TOD ANIME",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidaloktod"
+  },
+  {
+    "namear": "TOD ZAMAN",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"TOD ZAMAN\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/166.m3u8\"}]",
+    "logo": "https://seeklogo.com/images/T/tod-tv-logo-D8BDB5883C-seeklogo.com.png",
+    "nameen": "TOD ZAMAN",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidaloktod"
+  },
+  {
+    "namear": "TOD MASRAH",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"TOD MASRAH\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/165.m3u8\"}]",
+    "logo": "https://seeklogo.com/images/T/tod-tv-logo-D8BDB5883C-seeklogo.com.png",
+    "nameen": "TOD MASRAH",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidaloktod"
+  },
+  {
+    "namear": "TOD ACTION",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"TOD ACTION\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/164.m3u8\"}]",
+    "logo": "https://seeklogo.com/images/T/tod-tv-logo-D8BDB5883C-seeklogo.com.png",
+    "nameen": "TOD ACTION",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidaloktod"
+  },
+  {
+    "namear": "TOD WWE",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"TOD WWE\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"https://a.011011.one:443/live/arenatvtv2/arenatvtv2/163.m3u8\"}]",
+    "logo": "https://seeklogo.com/images/T/tod-tv-logo-D8BDB5883C-seeklogo.com.png",
+    "nameen": "TOD WWE",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidaloktod"
+  }
+]

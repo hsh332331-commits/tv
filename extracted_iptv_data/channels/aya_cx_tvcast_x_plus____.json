@@ -1,0 +1,11 @@
+[
+  {
+    "namear": "Cast X 1 ᴿᴬᵂ",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|mejarserver|user-agent|castxapp|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"CASTX TV 1 | 1080p50\",\"Referer\":\"mejarserver\",\"userAgent\":\"castxapp\",\"position\":\"1\",\"url\":\"https://cdn3-mejarhosting.cfd/castx-fhd/index.mpd\"},{\"license\":\"\",\"headers\":\"Referer|mejarserver|user-agent|castxapp|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"CAST X TV 1 | 480p50\",\"Referer\":\"mejarserver\",\"userAgent\":\"castxapp\",\"position\":\"3\",\"url\":\"https://cdn3-mejarhosting.cfd/castx-sd/index.mpd\"},{\"license\":\"\",\"headers\":\"Referer|mejarserver|user-agent|castxapp|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"CAST X TV 1 | 720p50\",\"Referer\":\"mejarserver\",\"userAgent\":\"castxapp\",\"position\":\"2\",\"url\":\"https://cdn3-mejarhosting.cfd/castx-hd/index.mpd\"}]",
+    "logo": "https://i.ibb.co/rGLbyR7M/20260119-143609.jpg",
+    "nameen": "Cast X 1 ᴿᴬᵂ",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvcast_x_plus_ᴿᴬᵂ"
+  }
+]

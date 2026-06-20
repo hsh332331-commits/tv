@@ -1,0 +1,74 @@
+[
+  {
+    "namear": "Claro Sports",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Claro Sports\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/718.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/604382_ico.png",
+    "nameen": "Claro Sports",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarsaudi_pro"
+  },
+  {
+    "namear": "SportDigital",
+    "servers": "[{\"headers\":\"kkuser-Agent|kkuser-Agent|kkuser-Agent|kk\",\"otherHeaders\":\"\",\"name\":\"SportDigital\",\"Referer\":\"\",\"userAgent\":\"kkuser-Agent|kk\",\"position\":\"0\",\"url\":\"http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/3509\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24466193_ico.png",
+    "nameen": "SportDigital",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarsaudi_pro"
+  },
+  {
+    "namear": "LIVE 1",
+    "servers": "[{\"headers\":\"RRRuser-Agent|RRRuser-Agent|RRRuser-Agent|RRR\",\"otherHeaders\":\"\",\"name\":\"LIVE 1\",\"Referer\":\"\",\"userAgent\":\"RRRuser-Agent|RRR\",\"position\":\"0\",\"url\":\"https://af.ayas.ir/hls2/aiosport.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24466327_ico.png",
+    "nameen": "LIVE 1",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarsaudi_pro"
+  },
+  {
+    "namear": "LIVE 2",
+    "servers": "[{\"headers\":\"Rediptv Plus 2.0.14user-Agent|Rediptv Plus 2.0.14user-Agent|Rediptv Plus 2.0.14user-Agent|Rediptv Plus 2.0.14\",\"otherHeaders\":\"\",\"name\":\"LIVE 2\",\"Referer\":\"\",\"userAgent\":\"Rediptv Plus 2.0.14user-Agent|Rediptv Plus 2.0.14\",\"position\":\"0\",\"url\":\"https://dw2rhzxa9d7uo.cloudfront.net/hls/vasaye2226_source/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24466335_ico.png",
+    "nameen": "LIVE 2",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarsaudi_pro"
+  },
+  {
+    "namear": "LIVE 3",
+    "servers": "[{\"headers\":\"DDuser-Agent|DDuser-Agent|DDuser-Agent|DD\",\"otherHeaders\":\"\",\"name\":\"LIVE 3\",\"Referer\":\"\",\"userAgent\":\"DDuser-Agent|DD\",\"position\":\"0\",\"url\":\"https://dw2rhzxa9d7uo.cloudfront.net/hls/ac02b3203d32779c.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24466413_ico.png",
+    "nameen": "LIVE 3",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarsaudi_pro"
+  },
+  {
+    "namear": "LIVE 4",
+    "servers": "[{\"headers\":\"BBuser-Agent|BBuser-Agent|BBuser-Agent|BB\",\"otherHeaders\":\"\",\"name\":\"LIVE 4\",\"Referer\":\"\",\"userAgent\":\"BBuser-Agent|BB\",\"position\":\"0\",\"url\":\"https://af.ayas.ir/hls2/aiosport2.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24466439_ico.png",
+    "nameen": "LIVE 4",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarsaudi_pro"
+  },
+  {
+    "namear": "LIVE 5",
+    "servers": "[{\"headers\":\"FFuser-Agent|FFuser-Agent|FFuser-Agent|FF\",\"otherHeaders\":\"\",\"name\":\"LIVE 5\",\"Referer\":\"\",\"userAgent\":\"FFuser-Agent|FF\",\"position\":\"0\",\"url\":\"https://cdn7.livehd720.com/hlsbeinafc/beinafc/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24466451_ico.png",
+    "nameen": "LIVE 5",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarsaudi_pro"
+  },
+  {
+    "namear": "LIVE 6",
+    "servers": "[{\"headers\":\"BBuser-Agent|BBuser-Agent|BBuser-Agent|BB\",\"otherHeaders\":\"\",\"name\":\"LIVE 6\",\"Referer\":\"\",\"userAgent\":\"BBuser-Agent|BB\",\"position\":\"0\",\"url\":\"https://dw2rhzxa9d7uo.cloudfront.net/hls/gustaboponcekdmd_source/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/24466471_ico.png",
+    "nameen": "LIVE 6",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarsaudi_pro"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "namear": "SUPER SPORT 1",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"SUPER SPORT 1\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1316\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2964177_ico.png",
+    "nameen": "SUPER SPORT 1",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarsuper_sport_alb"
+  },
+  {
+    "namear": "SUPER SPORT 2",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"SUPER SPORT 2\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1312\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2964658_ico.png",
+    "nameen": "SUPER SPORT 2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarsuper_sport_alb"
+  },
+  {
+    "namear": "SUPER SPORT 3",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"SUPER SPORT 3\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1319\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2964672_ico.png",
+    "nameen": "SUPER SPORT 3",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarsuper_sport_alb"
+  },
+  {
+    "namear": "SUPER SPORT 4",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"SUPER SPORT 4\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1318\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2964680_ico.png",
+    "nameen": "SUPER SPORT 4",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarsuper_sport_alb"
+  }
+]

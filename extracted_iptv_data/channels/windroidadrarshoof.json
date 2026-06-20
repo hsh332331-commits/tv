@@ -1,0 +1,38 @@
+[
+  {
+    "namear": "Shoof Zaman",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Shoof Zaman\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/474.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/20984732_ico.png",
+    "nameen": "Shoof Zaman",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarshoof"
+  },
+  {
+    "namear": "Shoof Drama",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Shoof Drama\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/473.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/20984735_ico.png",
+    "nameen": "Shoof Drama",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarshoof"
+  },
+  {
+    "namear": "Shoof Comedy",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Shoof Comedy\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/472.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/20984742_ico.png",
+    "nameen": "Shoof Comedy",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarshoof"
+  },
+  {
+    "namear": "Shoof Aflam",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Shoof Aflam\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/471.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/20984753_ico.png",
+    "nameen": "Shoof Aflam",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarshoof"
+  }
+]

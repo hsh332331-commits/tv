@@ -1,0 +1,182 @@
+
+=== ad_sport ===
+  [0] keys: ['namear', 'servers', 'logo', 'nameen', 'position', 'type', 'key']
+  [0] type: channel
+  [0] nameen: AD Sports 1 HD
+  [0] namear: AD Sports 1 HD
+  [0] key: ad_sport
+  [0] servers count: 2
+  [0][0] srv keys: ['headers', 'license', 'scheme', 'otherHeaders', 'name', 'Referer', 'userAgent', 'position', 'url']
+  [0][0] headers: 
+  [0][0] license: 1bec6ac7cd9a02dd75da2278ba3183ef:029edcf6b6c737595445a1a3a390edb3
+  [0][0] scheme: clearkey
+  [0][0] otherHeaders: 
+  [0][0] name: ADHD
+  [0][0] Referer: 
+  [0][0] userAgent: 
+  [0][0] position: 1
+  [0][0] url: https://neacdnpop3-edge01.aws.playco.com/live/eds/Abu_Dhabi_Sports_1_HD/DASH/Abu_Dhabi_Sports_1_HD.mpd
+  [0][1] srv keys: ['headers', 'license', 'scheme', 'otherHeaders', 'name', 'Referer', 'userAgent', 'position', 'url']
+  [0][1] headers: Referer|https://www.rawabit.site/p/adsport1.html/|user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/2...
+  [0][1] license: e78769d87a41e15036a4fb8bfdf1371e:37be0375dc9fe544c3c6de6a105f7c0a
+  [0][1] scheme: clearkey
+  [0][1] otherHeaders: 
+  [0][1] name: AD2
+  [0][1] Referer: https://www.rawabit.site/p/adsport1.html/
+  [0][1] userAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+  [0][1] position: 15
+  [0][1] url: https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_dash/index.mpd
+  [1] keys: ['namear', 'servers', 'logo', 'nameen', 'position', 'type', 'key']
+  [1] type: channel
+  [1] nameen: AD Sports 2 HD
+  [1] namear: AD Sports 2 HD
+  [1] key: ad_sport
+  [1] servers count: 1
+  [1][0] srv keys: ['headers', 'license', 'scheme', 'otherHeaders', 'name', 'Referer', 'userAgent', 'position', 'url']
+  [1][0] headers: 
+  [1][0] license: 
+  [1][0] scheme: 
+  [1][0] otherHeaders: 
+  [1][0] name: server 1
+  [1][0] Referer: 
+  [1][0] userAgent: 
+  [1][0] position: 0
+  [1][0] url: https://neacdnpop3-edge01.aws.playco.com/live/eds/Abu_Dhabi_Sports_2_HD/DASH/Abu_Dhabi_Sports_2_HD.mpd
+  [2] keys: ['namear', 'servers', 'visible', 'logo', 'nameen', 'position', 'type', 'key']
+  [2] type: channel
+  [2] nameen: AD1 ASIA
+  [2] namear: AD1 ASIA
+  [2] key: ad_sport
+  [2] servers count: 1
+  [2][0] srv keys: ['headers', 'license', 'scheme', 'otherHeaders', 'name', 'Referer', 'userAgent', 'position', 'url']
+  [2][0] headers: Referer|https://karwan.tv/live/sport-channel-6-1.php|find|mpd
+  [2][0] license: 
+  [2][0] scheme: 
+  [2][0] otherHeaders: find|mpd
+  [2][0] name: 
+  [2][0] Referer: https://karwan.tv/live/sport-channel-6-1.php
+  [2][0] userAgent: 
+  [2][0] position: 0
+  [2][0] url: https://karwan.tv/live/sport-channel-6-1.php
+
+=== aljazeera ===
+  [0] keys: ['namear', 'servers', 'logo', 'nameen', 'position', 'type', 'key']
+  [0] type: channel
+  [0] nameen: Al Jazeera (1080p)
+  [0] namear: Al Jazeera (1080p)
+  [0] key: aljazeera
+  [0] servers count: 1
+  [0][0] srv keys: ['headers', 'otherHeaders', 'name', 'Referer', 'userAgent', 'position', 'url']
+  [0][0] headers: 
+  [0][0] otherHeaders: 
+  [0][0] name: Al Jazeera (1080p)
+  [0][0] Referer: 
+  [0][0] userAgent: 
+  [0][0] position: 0
+  [0][0] url: https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
+  [1] keys: ['namear', 'servers', 'logo', 'nameen', 'position', 'type', 'key']
+  [1] type: channel
+  [1] nameen: Al Jazeera Mubasher Broadcast 2 (1080p)
+  [1] namear: Al Jazeera Mubasher Broadcast 2 (1080p)
+  [1] key: aljazeera
+  [1] servers count: 1
+  [1][0] srv keys: ['headers', 'otherHeaders', 'name', 'Referer', 'userAgent', 'position', 'url']
+  [1][0] headers: 
+  [1][0] otherHeaders: 
+  [1][0] name: Al Jazeera Mubasher Broadcast 2 (1080p)
+  [1][0] Referer: 
+  [1][0] userAgent: 
+  [1][0] position: 0
+  [1][0] url: https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
+  [2] keys: ['namear', 'servers', 'logo', 'nameen', 'position', 'type', 'key']
+  [2] type: channel
+  [2] nameen: Al Jazeera (1080p)
+  [2] namear: Al Jazeera (1080p)
+  [2] key: aljazeera
+  [2] servers count: 1
+  [2][0] srv keys: ['headers', 'otherHeaders', 'name', 'Referer', 'userAgent', 'position', 'url']
+  [2][0] headers: 
+  [2][0] otherHeaders: 
+  [2][0] name: Al Jazeera (1080p)
+  [2][0] Referer: 
+  [2][0] userAgent: 
+  [2][0] position: 0
+  [2][0] url: https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8
+
+=== bein_max_sport ===
+  [0] keys: ['namear', 'servers', 'logo', 'nameen', 'position', 'type', 'key']
+  [0] type: channel
+  [0] nameen: Max1
+  [0] namear: Max1
+  [0] key: bein_max_sport
+  [0] servers count: 5
+  [0][0] srv keys: ['headers', 'license', 'scheme', 'otherHeaders', 'name', 'Referer', 'userAgent', 'position', 'url']
+  [0][0] headers: Referer|http://23370wa.xyz/|user-agent|Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.1...
+  [0][0] license: 
+  [0][0] scheme: 
+  [0][0] otherHeaders: 
+  [0][0] name: MAX
+  [0][0] Referer: http://23370wa.xyz/
+  [0][0] userAgent: Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15
+  [0][0] position: 0
+  [0][0] url: http://185.160.192.14/live/171348492752/5S6HGsea3j/255224.m3u8
+  [0][1] srv keys: ['headers', 'license', 'scheme', 'otherHeaders', 'name', 'Referer', 'userAgent', 'position', 'url']
+  [0][1] headers: user-agent|stagefright/1.2 (Linux;Android 9)|
+  [0][1] license: 
+  [0][1] scheme: 
+  [0][1] otherHeaders: 
+  [0][1] name: Aya2
+  [0][1] Referer: 
+  [0][1] userAgent: stagefright/1.2 (Linux;Android 9)
+  [0][1] position: 0
+  [0][1] url: http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1063488.m3u8
+  [1] keys: ['namear', 'servers', 'logo', 'nameen', 'position', 'type', 'key']
+  [1] type: channel
+  [1] nameen: Max2
+  [1] namear: Max2
+  [1] key: bein_max_sport
+  [1] servers count: 4
+  [1][0] srv keys: ['headers', 'license', 'scheme', 'otherHeaders', 'name', 'Referer', 'userAgent', 'position', 'url']
+  [1][0] headers: user-agent|Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0....
+  [1][0] license: 
+  [1][0] scheme: 
+  [1][0] otherHeaders: 
+  [1][0] name: MAX
+  [1][0] Referer: 
+  [1][0] userAgent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15...
+  [1][0] position: 0
+  [1][0] url: http://185.160.192.14/live/206923845871/mI45UxamwN/255225.m3u8
+  [1][1] srv keys: ['headers', 'license', 'scheme', 'otherHeaders', 'name', 'Referer', 'userAgent', 'position', 'url']
+  [1][1] headers: user-agent|Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15|
+  [1][1] license: 
+  [1][1] scheme: 
+  [1][1] otherHeaders: 
+  [1][1] name: HD1
+  [1][1] Referer: 
+  [1][1] userAgent: Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15
+  [1][1] position: 1
+  [1][1] url: https://cp11.adabmedia.com/hls2/sport.m3u8
+  [2] keys: ['namear', 'servers', 'logo', 'nameen', 'position', 'type', 'key']
+  [2] type: channel
+  [2] nameen: Max 1
+  [2] namear: Max 1
+  [2] key: bein_max_sport
+  [2] servers count: 1
+  [2][0] srv keys: ['headers', 'otherHeaders', 'name', 'Referer', 'userAgent', 'position', 'url']
+  [2][0] headers: user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537....
+  [2][0] otherHeaders: 
+  [2][0] name: Bein Sports Max 1
+  [2][0] Referer: 
+  [2][0] userAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+  [2][0] position: 0
+  [2][0] url: http://het4444.ycn-redirect.com/live/610303030/index.m3u8?t=XgTsAjb1QkrYQQnjbPWlsw&e=1781176238|User-Agent=Mozilla/5.0 (...
+
+
+=== Type Distribution ===
+empty/missing type: 127
+  channel: 14724
+  movie-api: 168
+
+=== Documents by Type ===
+  channel: 502
+  movie-api: 7

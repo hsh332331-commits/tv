@@ -1,0 +1,38 @@
+[
+  {
+    "namear": "Eleven 1",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"ELV1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://d1yi40sjj0ca0v.cloudfront.net/TVD6411/index.mpd\"}]",
+    "logo": "https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-1-hd(1).png",
+    "nameen": "Eleven 1",
+    "position": "1",
+    "type": "channel",
+    "key": "eleven_sports"
+  },
+  {
+    "namear": "Eleven 2",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"ELV2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://d1yi40sjj0ca0v.cloudfront.net/TVD6414/index.mpd\"}]",
+    "logo": "https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-2-hd(1).png",
+    "nameen": "Eleven 2",
+    "position": "2",
+    "type": "channel",
+    "key": "eleven_sports"
+  },
+  {
+    "namear": "Eleven 3",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"ELV3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://d1yi40sjj0ca0v.cloudfront.net/TVD6412/index.mpd\"}]",
+    "logo": "https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-3-hd(1).png",
+    "nameen": "Eleven 3",
+    "position": "3",
+    "type": "channel",
+    "key": "eleven_sports"
+  },
+  {
+    "namear": "Canal+2",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"ELV4\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36\",\"position\":\"0\",\"url\":\"https://d1yi40sjj0ca0v.cloudfront.net/TVD6419/index.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0tKwZKyCTYjYDfZJ0aSc784JR6i-GT9UEkhfCCtHWWA&s=10",
+    "nameen": "Canal+2",
+    "position": "3",
+    "type": "channel",
+    "key": "eleven_sports"
+  }
+]

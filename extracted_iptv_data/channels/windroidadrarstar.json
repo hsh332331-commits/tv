@@ -1,0 +1,92 @@
+[
+  {
+    "namear": "Star World",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"Star World\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/179\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12161644_ico.png",
+    "nameen": "Star World",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarstar"
+  },
+  {
+    "namear": "Star Movies",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"Star Movies\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/180\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12161637_ico.png",
+    "nameen": "Star Movies",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarstar"
+  },
+  {
+    "namear": "Star World*",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Star World*\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/173\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/6641432_ico.png",
+    "nameen": "Star World*",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarstar"
+  },
+  {
+    "namear": "Star Movies*",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Star Movies*\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/172\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/6641439_ico.png",
+    "nameen": "Star Movies*",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarstar"
+  },
+  {
+    "namear": "Star channel",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Star channel\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/5.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/579307_ico.png",
+    "nameen": "Star channel",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarstar"
+  },
+  {
+    "namear": "Universal Crime",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Universal Crime\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/486.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/579381_ico.png",
+    "nameen": "Universal Crime",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarstar"
+  },
+  {
+    "namear": "Universal Comedy",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Universal Comedy\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/480.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/579874_ico.png",
+    "nameen": "Universal Comedy",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarstar"
+  },
+  {
+    "namear": "Star Life",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Star Life\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/11.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/579909_ico.png",
+    "nameen": "Star Life",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarstar"
+  },
+  {
+    "namear": "Universal Cinema",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Universal Cinema\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/481.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/579978_ico.png",
+    "nameen": "Universal Cinema",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarstar"
+  },
+  {
+    "namear": "Universal Cinema+",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Universal Cinema+\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/479.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/580096_ico.png",
+    "nameen": "Universal Cinema+",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadrarstar"
+  }
+]

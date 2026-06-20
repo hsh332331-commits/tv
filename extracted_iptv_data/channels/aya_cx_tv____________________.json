@@ -1,0 +1,164 @@
+[
+  {
+    "namear": "EL Aoula",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://snrtlive.ma/|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"https://snrtlive.ma/\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://cdn.live.easybroadcast.io/ts_corp/73_laayoune_pgagr52/playlist_dvr.m3u8\"}]",
+    "logo": "https://i.ibb.co/n0Pwp2S/alaoulainter.png",
+    "nameen": "EL Aoula",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_المغــــــــرب"
+  },
+  {
+    "namear": "Télé Maroc",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://a501.variety-buy.store/api/channel/549\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Logotelemaroc.jpeg",
+    "nameen": "Télé Maroc",
+    "position": "20",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_المغــــــــرب"
+  },
+  {
+    "namear": "Reflet TV",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"A\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8\"}]",
+    "logo": "https://file.rafalnht.com/310fc68d602fea376ec430315e04b219.photo.jpg",
+    "nameen": "Reflet TV",
+    "position": "2000",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_المغــــــــرب"
+  },
+  {
+    "namear": "Medi 1 AR",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8\"}]",
+    "logo": "https://file.rafalnht.com/e1cc6d4fedcb6ce13b80587a7c4143ea.photo.jpg",
+    "nameen": "Medi 1 AR",
+    "position": "106",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_المغــــــــرب"
+  },
+  {
+    "namear": "ERE TV moroco",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://mn-nl.mncdn.com/awraastv/awraastv_hd.smil/playlist.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://mn-nl.mncdn.com/awraastv/awraastv_hd.smil/playlist.m3u8\"}]",
+    "logo": "https://www.free.fr/assets/s3/905_4ed665f2e7.png",
+    "nameen": "ERE TV moroco",
+    "position": "100002",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_المغــــــــرب"
+  },
+  {
+    "namear": "2M ™✓",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ac/2M_Logo.svg/1200px-2M_Logo.svg.png",
+    "nameen": "2M ™✓",
+    "position": "19",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_المغــــــــرب"
+  },
+  {
+    "namear": "Medi 1 EN",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8\"}]",
+    "logo": "https://file.rafalnht.com/e1cc6d4fedcb6ce13b80587a7c4143ea.photo.jpg",
+    "nameen": "Medi 1 EN",
+    "position": "7107",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_المغــــــــرب"
+  },
+  {
+    "namear": "Maghribia TV",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://snrtlive.ma/|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"https://snrtlive.ma/\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://cdn.live.easybroadcast.io/ts_corp/73_almaghribia_83tz85q/playlist_dvr.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/09/Almaghribiax2.png",
+    "nameen": "Maghribia TV",
+    "position": "15",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_المغــــــــرب"
+  },
+  {
+    "namear": "Africa 24 Sport",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"f\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://edge18.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8\"}]",
+    "logo": "hhj",
+    "nameen": "Africa 24 Sport",
+    "position": "18",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_المغــــــــرب"
+  },
+  {
+    "namear": "قناة شذى",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://chadatv.vedge.infomaniak.com/livecast/chadatv/chunklist.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://chadatv.vedge.infomaniak.com/livecast/chadatv/chunklist.m3u8\"}]",
+    "logo": "https://file.rafalnht.com/c1f6cb4c68bbc2ae4f4a061c72e5b83d.photo.jpg",
+    "nameen": "قناة شذى",
+    "position": "102",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_المغــــــــرب"
+  },
+  {
+    "namear": "Tamazight TV",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://snrtlive.ma/|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"https://snrtlive.ma/\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://cdn.live.easybroadcast.io/ts_corp/73_tamazight_tccybxt/playlist_dvr.m3u8\"}]",
+    "logo": "https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/04/tamazight-tv-chaine.png",
+    "nameen": "Tamazight TV",
+    "position": "18",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_المغــــــــرب"
+  },
+  {
+    "namear": "المغرب أفلام",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://fl1002.bozztv.com/ga-aflamtv7/tracks-v1a1/mono.ts.m3u8\"}]",
+    "logo": "http://gratuittv.free.fr/images/aflamtv.png",
+    "nameen": "المغرب أفلام",
+    "position": "17",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_المغــــــــرب"
+  },
+  {
+    "namear": "Laayoune tv",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://snrtlive.ma/|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"https://snrtlive.ma/\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://cdn.live.easybroadcast.io/ts_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Laayoune_logo_png_tv.png",
+    "nameen": "Laayoune tv",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_المغــــــــرب"
+  },
+  {
+    "namear": "Medi 1 FR",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8\"}]",
+    "logo": "https://file.rafalnht.com/e1cc6d4fedcb6ce13b80587a7c4143ea.photo.jpg",
+    "nameen": "Medi 1 FR",
+    "position": "105",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_المغــــــــرب"
+  },
+  {
+    "namear": "Arryadia",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://snrtlive.ma/|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"https://snrtlive.ma/\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://cdn.live.easybroadcast.io/ts_corp/73_arryadia-tnt_zcmwjdc/playlist_dvr.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Logo%2Barryadia%2Bmorocco.png/1200px-Logo%2Barryadia%2Bmorocco.png",
+    "nameen": "Arryadia",
+    "position": "12",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_المغــــــــرب"
+  },
+  {
+    "namear": "المغرب 24 M",
+    "servers": "[{\"license\":\"\",\"headers\":\"find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://www.youtube.com/live/7m_9Rt9J_uY?si\\u003dNU8J7WTKeS9iEnMN\"}]",
+    "logo": "https://file.rafalnht.com/c48d8ecc21bdae83c5d374ff5d87ba60.photo.jpg",
+    "nameen": "المغرب 24 M",
+    "position": "103",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_المغــــــــرب"
+  },
+  {
+    "namear": "Athaqafia",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://snrtlive.ma/|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"https://snrtlive.ma/\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://a501.variety-buy.store/api/channel/542\"}]",
+    "logo": "https://www.korafreha2.com/YacineTV_New/ARABIC/Athaqafiya.png",
+    "nameen": "Athaqafia",
+    "position": "14",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_المغــــــــرب"
+  },
+  {
+    "namear": "Assadissa",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://snrtlive.ma/|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"https://snrtlive.ma/\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://cdn.live.easybroadcast.io/ts_corp/73_assadissa_7b7u5n1/playlist_dvr.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/a/ae/Logo_assadissa.png",
+    "nameen": "Assadissa",
+    "position": "15",
+    "type": "channel",
+    "key": "aya_cx_tvقنوات_المغــــــــرب"
+  }
+]

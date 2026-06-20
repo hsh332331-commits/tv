@@ -1,0 +1,254 @@
+[
+  {
+    "namear": "4Kids TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"4Kids TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/algerian4kids/playlist.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "4Kids TV",
+    "position": "1",
+    "type": "channel",
+    "key": "algérie"
+  },
+  {
+    "namear": "AL24 News (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AL24 News (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AL24 News (1080p)",
+    "position": "2",
+    "type": "channel",
+    "key": "algérie"
+  },
+  {
+    "namear": "AL24 News",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AL24 News\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/al24news/playlist.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AL24 News",
+    "position": "3",
+    "type": "channel",
+    "key": "algérie"
+  },
+  {
+    "namear": "Amou Yazid TV (576p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Amou Yazid TV (576p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http.com:1940/AmouYazid/ay1/playlist.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Amou Yazid TV (576p)",
+    "position": "4",
+    "type": "channel",
+    "key": "algérie"
+  },
+  {
+    "namear": "Bahia TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Bahia TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/bahiatv/playlist.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Bahia TV",
+    "position": "5",
+    "type": "channel",
+    "key": "algérie"
+  },
+  {
+    "namear": "CNA (Chaîne Nord Africaine) (360p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CNA (Chaîne Nord Africaine) (360p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "CNA (Chaîne Nord Africaine) (360p) [Not 24/7]",
+    "position": "6",
+    "type": "channel",
+    "key": "algérie"
+  },
+  {
+    "namear": "Echorouk News",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Echorouk News\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119194/echorouknews/playlist.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Echorouk News",
+    "position": "7",
+    "type": "channel",
+    "key": "algérie"
+  },
+  {
+    "namear": "Echorouk TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Echorouk TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119194/echorouktv/playlist.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Echorouk TV",
+    "position": "8",
+    "type": "channel",
+    "key": "algérie"
+  },
+  {
+    "namear": "El Djazair N1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"El Djazair N1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/eldjazairn1/playlist.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "El Djazair N1",
+    "position": "9",
+    "type": "channel",
+    "key": "algérie"
+  },
+  {
+    "namear": "El Fadjer TV (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"El Fadjer TV (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://stream.wsla.top/play/1.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "El Fadjer TV (720p)",
+    "position": "10",
+    "type": "channel",
+    "key": "algérie"
+  },
+  {
+    "namear": "El Hayat TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"El Hayat TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/elbiladtv/playlist.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "El Hayat TV",
+    "position": "11",
+    "type": "channel",
+    "key": "algérie"
+  },
+  {
+    "namear": "El-Heddaf TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"El-Heddaf TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/elheddaftv/playlist.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "El-Heddaf TV",
+    "position": "12",
+    "type": "channel",
+    "key": "algérie"
+  },
+  {
+    "namear": "Ennahar TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Ennahar TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119194/ennahartv/playlist.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Ennahar TV",
+    "position": "13",
+    "type": "channel",
+    "key": "algérie"
+  },
+  {
+    "namear": "One TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"One TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/onetv/playlist.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "One TV",
+    "position": "14",
+    "type": "channel",
+    "key": "algérie"
+  },
+  {
+    "namear": "Samira TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Samira TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120683/samiratv/playlist.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "Samira TV",
+    "position": "15",
+    "type": "channel",
+    "key": "algérie"
+  },
+  {
+    "namear": "TV1 Algerian Television (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TV1 Algerian Television (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://149.62.177.98:8000/play/a00i/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "TV1 Algerian Television (1080p)",
+    "position": "16",
+    "type": "channel",
+    "key": "algérie"
+  },
+  {
+    "namear": "TV2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TV2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119194/canalalgerie/playlist.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "TV2",
+    "position": "17",
+    "type": "channel",
+    "key": "algérie"
+  },
+  {
+    "namear": "TV2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TV2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "TV2",
+    "position": "18",
+    "type": "channel",
+    "key": "algérie"
+  },
+  {
+    "namear": "TV2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TV2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-HLS8/canalalgerie.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "TV2",
+    "position": "19",
+    "type": "channel",
+    "key": "algérie"
+  },
+  {
+    "namear": "TV2 Canal Algérie (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TV2 Canal Algérie (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://149.62.177.98:8000/play/a01s/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "TV2 Canal Algérie (1080p)",
+    "position": "20",
+    "type": "channel",
+    "key": "algérie"
+  },
+  {
+    "namear": "TV3 Algeria (576p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TV3 Algeria (576p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://149.62.177.98:8000/play/a01z/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "TV3 Algeria (576p)",
+    "position": "21",
+    "type": "channel",
+    "key": "algérie"
+  },
+  {
+    "namear": "TV4 Tamazight TV (576p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TV4 Tamazight TV (576p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://149.62.177.98:8000/play/a01t/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "TV4 Tamazight TV (576p)",
+    "position": "22",
+    "type": "channel",
+    "key": "algérie"
+  },
+  {
+    "namear": "TV5 Coran TV (576p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TV5 Coran TV (576p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://149.62.177.98:8000/play/a01u/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "TV5 Coran TV (576p)",
+    "position": "23",
+    "type": "channel",
+    "key": "algérie"
+  },
+  {
+    "namear": "TV6 E-shababiya (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TV6 E-shababiya (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://149.62.177.98:8000/play/a01v/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "TV6 E-shababiya (1080p)",
+    "position": "24",
+    "type": "channel",
+    "key": "algérie"
+  },
+  {
+    "namear": "TV7 El maarifa TV (576p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TV7 El maarifa TV (576p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://149.62.177.98:8000/play/a01w/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "TV7 El maarifa TV (576p)",
+    "position": "25",
+    "type": "channel",
+    "key": "algérie"
+  },
+  {
+    "namear": "TV8 El-Dhakira TV (576p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TV8 El-Dhakira TV (576p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://149.62.177.98:8000/play/a01x/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "TV8 El-Dhakira TV (576p)",
+    "position": "26",
+    "type": "channel",
+    "key": "algérie"
+  },
+  {
+    "namear": "TV9 El-Barlamaniya (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TV9 El-Barlamaniya (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://149.62.177.98:8000/play/a01y/index.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "TV9 El-Barlamaniya (1080p)",
+    "position": "27",
+    "type": "channel",
+    "key": "algérie"
+  },
+  {
+    "namear": "ZAHRA TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ZAHRA TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120683/zahratv/playlist.m3u8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "ZAHRA TV",
+    "position": "28",
+    "type": "channel",
+    "key": "algérie"
+  }
+]

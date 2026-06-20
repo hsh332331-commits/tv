@@ -1,0 +1,56 @@
+[
+  {
+    "namear": "Setanta 1",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT ed5zs4d5sd41;\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT ed5zs4d5sd41\",\"position\":\"0\",\"url\":\"http://92.119.88.58:8080/270/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNpunA8V1v3VF_-TqIqe-r9ZiXyI0nQEx0rw&usqp=CAU",
+    "nameen": "Setanta 1",
+    "position": "0",
+    "type": "channel",
+    "key": "setanta_sports"
+  },
+  {
+    "namear": "Setanta 2",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT ed5zs4d5sd41;\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT ed5zs4d5sd41\",\"position\":\"0\",\"url\":\"http://92.119.88.58:8080/270/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNpunA8V1v3VF_-TqIqe-r9ZiXyI0nQEx0rw&usqp=CAU",
+    "nameen": "Setanta 2",
+    "position": "1",
+    "type": "channel",
+    "key": "setanta_sports"
+  },
+  {
+    "namear": "Setanta 3",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT ed5zs4d5sd41;\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT ed5zs4d5sd41\",\"position\":\"0\",\"url\":\"http://92.119.88.58:8080/271/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNpunA8V1v3VF_-TqIqe-r9ZiXyI0nQEx0rw&usqp=CAU",
+    "nameen": "Setanta 3",
+    "position": "2",
+    "type": "channel",
+    "key": "setanta_sports"
+  },
+  {
+    "namear": "Setanta",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT ed5zs4d5sd41;\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT ed5zs4d5sd41\",\"position\":\"0\",\"url\":\"http://92.119.88.58:8080/271/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNpunA8V1v3VF_-TqIqe-r9ZiXyI0nQEx0rw&usqp=CAU",
+    "nameen": "Setanta",
+    "position": "3",
+    "type": "channel",
+    "key": "setanta_sports"
+  },
+  {
+    "namear": "Setanta 5",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT ed5zs4d5sd41;\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT ed5zs4d5sd41\",\"position\":\"0\",\"url\":\"http://92.119.88.58:8080/272/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNpunA8V1v3VF_-TqIqe-r9ZiXyI0nQEx0rw&usqp=CAU",
+    "nameen": "Setanta 5",
+    "position": "4",
+    "type": "channel",
+    "key": "setanta_sports"
+  },
+  {
+    "namear": "Setanta 6",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT ed5zs4d5sd41;\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT ed5zs4d5sd41\",\"position\":\"0\",\"url\":\"http://92.119.88.58:8080/272/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNpunA8V1v3VF_-TqIqe-r9ZiXyI0nQEx0rw&usqp=CAU",
+    "nameen": "Setanta 6",
+    "position": "5",
+    "type": "channel",
+    "key": "setanta_sports"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "namear": "RABIAA",
+    "servers": "[{\"headers\":\"user-agent|Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)\",\"position\":\"0\",\"url\":\"http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/239249.m3u8\"}]",
+    "logo": "",
+    "nameen": "RABIAA",
+    "position": "0",
+    "type": "channel",
+    "key": "rabiaa4_sport"
+  },
+  {
+    "namear": "RABIAA 1",
+    "servers": "[{\"headers\":\"user-agent|Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)\",\"position\":\"0\",\"url\":\"http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/239245.m3u8\"}]",
+    "logo": "https://alrabiaagroup.tv/alrabiaa_sport_1.png",
+    "nameen": "RABIAA 1",
+    "position": "1",
+    "type": "channel",
+    "key": "rabiaa4_sport"
+  }
+]

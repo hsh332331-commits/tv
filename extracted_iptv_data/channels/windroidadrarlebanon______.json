@@ -1,0 +1,218 @@
+[
+  {
+    "namear": "MTV Lebanon",
+    "servers": "[{\"headers\":\"Hguser-Agent|Hguser-Agent|Hguser-Agent|Hg\",\"otherHeaders\":\"\",\"name\":\"MTV Lebanon\",\"Referer\":\"\",\"userAgent\":\"Hguser-Agent|Hg\",\"position\":\"0\",\"url\":\"https://live.3cd.io/v1/broadcast/mtv/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12127329_ico.png",
+    "nameen": "MTV Lebanon",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarlebanon_لبنان"
+  },
+  {
+    "namear": "TL Liban",
+    "servers": "[{\"headers\":\"AppleCoreMedia/1.0.0.16H62 (iPad; U; CPU OS 12_5_5 like Mac OS X; en_us)user-Agent|AppleCoreMedia/1.0.0.16H62 (iPad; U; CPU OS 12_5_5 like Mac OS X; en_us)user-Agent|AppleCoreMedia/1.0.0.16H62 (iPad; U; CPU OS 12_5_5 like Mac OS X; en_us)user-Agent|AppleCoreMedia/1.0.0.16H62 (iPad; U; CPU OS 12_5_5 like Mac OS X; en_us)\",\"otherHeaders\":\"\",\"name\":\"TL Liban\",\"Referer\":\"\",\"userAgent\":\"AppleCoreMedia/1.0.0.16H62 (iPad; U; CPU OS 12_5_5 like Mac OS X; en_us)user-Agent|AppleCoreMedia/1.0.0.16H62 (iPad; U; CPU OS 12_5_5 like Mac OS X; en_us)\",\"position\":\"0\",\"url\":\"https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12127364_ico.png",
+    "nameen": "TL Liban",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarlebanon_لبنان"
+  },
+  {
+    "namear": "LBCI",
+    "servers": "[{\"headers\":\"airmaxtvprouser-Agent|airmaxtvprouser-Agent|airmaxtvprouser-Agent|airmaxtvpro\",\"otherHeaders\":\"\",\"name\":\"LBCI\",\"Referer\":\"\",\"userAgent\":\"airmaxtvprouser-Agent|airmaxtvpro\",\"position\":\"0\",\"url\":\"https://airmaxtv.online:25463/airmaxtvalli225/QR3V8DqUtTyq/271\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12126473_ico.png",
+    "nameen": "LBCI",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarlebanon_لبنان"
+  },
+  {
+    "namear": "LBCI HD",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"LBCI HD\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/271\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/13849528_ico.png",
+    "nameen": "LBCI HD",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarlebanon_لبنان"
+  },
+  {
+    "namear": "LBC",
+    "servers": "[{\"headers\":\"VLC/3.0.12.1 LibVLC/3.0.12.1user-Agent|VLC/3.0.12.1 LibVLC/3.0.12.1user-Agent|VLC/3.0.12.1 LibVLC/3.0.12.1user-Agent|VLC/3.0.12.1 LibVLC/3.0.12.1\",\"otherHeaders\":\"\",\"name\":\"LBC\",\"Referer\":\"\",\"userAgent\":\"VLC/3.0.12.1 LibVLC/3.0.12.1user-Agent|VLC/3.0.12.1 LibVLC/3.0.12.1\",\"position\":\"0\",\"url\":\"http://217.79.245.170:1935/livezc/myStream/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14157182_ico.png",
+    "nameen": "LBC",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarlebanon_لبنان"
+  },
+  {
+    "namear": "LBC 2",
+    "servers": "[{\"headers\":\"AppleCoreMedia/1.0.0.16H62 (iPad; U; CPU OS 12_5_5 like Mac OS X; en_us)user-Agent|AppleCoreMedia/1.0.0.16H62 (iPad; U; CPU OS 12_5_5 like Mac OS X; en_us)user-Agent|AppleCoreMedia/1.0.0.16H62 (iPad; U; CPU OS 12_5_5 like Mac OS X; en_us)user-Agent|AppleCoreMedia/1.0.0.16H62 (iPad; U; CPU OS 12_5_5 like Mac OS X; en_us)\",\"otherHeaders\":\"\",\"name\":\"LBC 2\",\"Referer\":\"\",\"userAgent\":\"AppleCoreMedia/1.0.0.16H62 (iPad; U; CPU OS 12_5_5 like Mac OS X; en_us)user-Agent|AppleCoreMedia/1.0.0.16H62 (iPad; U; CPU OS 12_5_5 like Mac OS X; en_us)\",\"position\":\"0\",\"url\":\"http://ssitv.ddns.net:8080/channel6/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12126466_ico.png",
+    "nameen": "LBC 2",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarlebanon_لبنان"
+  },
+  {
+    "namear": "Al Jadeed*",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Al Jadeed*\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/648\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/13844826_ico.png",
+    "nameen": "Al Jadeed*",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarlebanon_لبنان"
+  },
+  {
+    "namear": "Al Jadeed",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"Al Jadeed\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/274\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12126407_ico.png",
+    "nameen": "Al Jadeed",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarlebanon_لبنان"
+  },
+  {
+    "namear": "Future TV",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"Future TV\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/272\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12126438_ico.png",
+    "nameen": "Future TV",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarlebanon_لبنان"
+  },
+  {
+    "namear": "OTV",
+    "servers": "[{\"headers\":\"AppleCoreMedia/1.0.0.16H62 (iPad; U; CPU OS 12_5_5 like Mac OS X; en_us)user-Agent|AppleCoreMedia/1.0.0.16H62 (iPad; U; CPU OS 12_5_5 like Mac OS X; en_us)user-Agent|AppleCoreMedia/1.0.0.16H62 (iPad; U; CPU OS 12_5_5 like Mac OS X; en_us)user-Agent|AppleCoreMedia/1.0.0.16H62 (iPad; U; CPU OS 12_5_5 like Mac OS X; en_us)\",\"otherHeaders\":\"\",\"name\":\"OTV\",\"Referer\":\"\",\"userAgent\":\"AppleCoreMedia/1.0.0.16H62 (iPad; U; CPU OS 12_5_5 like Mac OS X; en_us)user-Agent|AppleCoreMedia/1.0.0.16H62 (iPad; U; CPU OS 12_5_5 like Mac OS X; en_us)\",\"position\":\"0\",\"url\":\"http://62.182.82.104/OTV/mono.m3u8 ?token\\u003dtest\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12127352_ico.png",
+    "nameen": "OTV",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadrarlebanon_لبنان"
+  },
+  {
+    "namear": "NBN",
+    "servers": "[{\"headers\":\"AppleCoreMedia/1.0.0.16H62 (iPad; U; CPU OS 12_5_5 like Mac OS X; en_us)user-Agent|AppleCoreMedia/1.0.0.16H62 (iPad; U; CPU OS 12_5_5 like Mac OS X; en_us)user-Agent|AppleCoreMedia/1.0.0.16H62 (iPad; U; CPU OS 12_5_5 like Mac OS X; en_us)user-Agent|AppleCoreMedia/1.0.0.16H62 (iPad; U; CPU OS 12_5_5 like Mac OS X; en_us)\",\"otherHeaders\":\"\",\"name\":\"NBN\",\"Referer\":\"\",\"userAgent\":\"AppleCoreMedia/1.0.0.16H62 (iPad; U; CPU OS 12_5_5 like Mac OS X; en_us)user-Agent|AppleCoreMedia/1.0.0.16H62 (iPad; U; CPU OS 12_5_5 like Mac OS X; en_us)\",\"position\":\"0\",\"url\":\"http://62.182.82.104/NBN/mono.m3u8 ?token\\u003dtest\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12127339_ico.png",
+    "nameen": "NBN",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidadrarlebanon_لبنان"
+  },
+  {
+    "namear": "Al Manar",
+    "servers": "[{\"headers\":\"AppleCoreMedia/1.0.0.16H62 (iPad; U; CPU OS 12_5_5 like Mac OS X; en_us)user-Agent|AppleCoreMedia/1.0.0.16H62 (iPad; U; CPU OS 12_5_5 like Mac OS X; en_us)user-Agent|AppleCoreMedia/1.0.0.16H62 (iPad; U; CPU OS 12_5_5 like Mac OS X; en_us)user-Agent|AppleCoreMedia/1.0.0.16H62 (iPad; U; CPU OS 12_5_5 like Mac OS X; en_us)\",\"otherHeaders\":\"\",\"name\":\"Al Manar\",\"Referer\":\"\",\"userAgent\":\"AppleCoreMedia/1.0.0.16H62 (iPad; U; CPU OS 12_5_5 like Mac OS X; en_us)user-Agent|AppleCoreMedia/1.0.0.16H62 (iPad; U; CPU OS 12_5_5 like Mac OS X; en_us)\",\"position\":\"0\",\"url\":\"https://manar.live/iptv/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12126393_ico.png",
+    "nameen": "Al Manar",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidadrarlebanon_لبنان"
+  },
+  {
+    "namear": "Al Mayadeen",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Mayadeen\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://mdnlv.cdn.octivid.com/almdn/smil:index.m3u8.stream.smil/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12126402_ico.png",
+    "nameen": "Al Mayadeen",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidadrarlebanon_لبنان"
+  },
+  {
+    "namear": "MTV+ HD",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"MTV+ HD\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/269\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/13846377_ico.png",
+    "nameen": "MTV+ HD",
+    "position": "13",
+    "type": "channel",
+    "key": "windroidadrarlebanon_لبنان"
+  },
+  {
+    "namear": "ifilm AR",
+    "servers": "[{\"headers\":\"TTuser-Agent|TTuser-Agent|TTuser-Agent|TT\",\"otherHeaders\":\"\",\"name\":\"ifilm AR\",\"Referer\":\"\",\"userAgent\":\"TTuser-Agent|TT\",\"position\":\"0\",\"url\":\"https://live1.presstv.ir/live/ifilmar.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/17156611_ico.png",
+    "nameen": "ifilm AR",
+    "position": "14",
+    "type": "channel",
+    "key": "windroidadrarlebanon_لبنان"
+  },
+  {
+    "namear": "Al Alam",
+    "servers": "[{\"headers\":\"Ssuser-Agent|Ssuser-Agent|Ssuser-Agent|Ss\",\"otherHeaders\":\"\",\"name\":\"Al Alam\",\"Referer\":\"\",\"userAgent\":\"Ssuser-Agent|Ss\",\"position\":\"0\",\"url\":\"https://live2.alalam.ir/live/Alalam_high/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/13846457_ico.png",
+    "nameen": "Al Alam",
+    "position": "15",
+    "type": "channel",
+    "key": "windroidadrarlebanon_لبنان"
+  },
+  {
+    "namear": "Taha TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Taha TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://media2.livaat.com/TAHA-TV/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14156290_ico.png",
+    "nameen": "Taha TV",
+    "position": "16",
+    "type": "channel",
+    "key": "windroidadrarlebanon_لبنان"
+  },
+  {
+    "namear": "Nabaa TV",
+    "servers": "[{\"headers\":\"YYuser-Agent|YYuser-Agent|YYuser-Agent|YY\",\"otherHeaders\":\"\",\"name\":\"Nabaa TV\",\"Referer\":\"\",\"userAgent\":\"YYuser-Agent|YY\",\"position\":\"0\",\"url\":\"https://5dc7d824154d0.streamlock.net/live/Nabaa/chunklist.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12126485_ico.png",
+    "nameen": "Nabaa TV",
+    "position": "17",
+    "type": "channel",
+    "key": "windroidadrarlebanon_لبنان"
+  },
+  {
+    "namear": "Charity TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Charity TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12126433_ico.png",
+    "nameen": "Charity TV",
+    "position": "18",
+    "type": "channel",
+    "key": "windroidadrarlebanon_لبنان"
+  },
+  {
+    "namear": "Al Karma",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Karma\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaau.smil/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12126414_ico.png",
+    "nameen": "Al Karma",
+    "position": "19",
+    "type": "channel",
+    "key": "windroidadrarlebanon_لبنان"
+  },
+  {
+    "namear": "One TV",
+    "servers": "[{\"headers\":\"Gguser-Agent|Gguser-Agent|Gguser-Agent|Gg\",\"otherHeaders\":\"\",\"name\":\"One TV\",\"Referer\":\"\",\"userAgent\":\"Gguser-Agent|Gg\",\"position\":\"0\",\"url\":\"https://live.3cd.io/v1/broadcast/one/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4858537_ico.png",
+    "nameen": "One TV",
+    "position": "20",
+    "type": "channel",
+    "key": "windroidadrarlebanon_لبنان"
+  },
+  {
+    "namear": "Arabica Music",
+    "servers": "[{\"headers\":\"Zzzzzzaaaauser-Agent|Zzzzzzaaaauser-Agent|Zzzzzzaaaauser-Agent|Zzzzzzaaaa\",\"otherHeaders\":\"\",\"name\":\"Arabica Music\",\"Referer\":\"\",\"userAgent\":\"Zzzzzzaaaauser-Agent|Zzzzzzaaaa\",\"position\":\"0\",\"url\":\"http://istream.binarywaves.com:8081/hls/arabica/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9222273_ico.png",
+    "nameen": "Arabica Music",
+    "position": "21",
+    "type": "channel",
+    "key": "windroidadrarlebanon_لبنان"
+  },
+  {
+    "namear": "Aghani",
+    "servers": "[{\"headers\":\"RRuser-Agent|RRuser-Agent|RRuser-Agent|RR\",\"otherHeaders\":\"\",\"name\":\"Aghani\",\"Referer\":\"\",\"userAgent\":\"RRuser-Agent|RR\",\"position\":\"0\",\"url\":\"http://iptv.ndasat.com:88/224687427626312/224687427626312/821\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9222805_ico.png",
+    "nameen": "Aghani",
+    "position": "22",
+    "type": "channel",
+    "key": "windroidadrarlebanon_لبنان"
+  },
+  {
+    "namear": "Alittihad TV",
+    "servers": "[{\"headers\":\"YYuser-Agent|YYuser-Agent|YYuser-Agent|YY\",\"otherHeaders\":\"\",\"name\":\"Alittihad TV\",\"Referer\":\"\",\"userAgent\":\"YYuser-Agent|YY\",\"position\":\"0\",\"url\":\"https://live.alittihad.tv:444/ittihad/chunklist.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7059447_ico.png",
+    "nameen": "Alittihad TV",
+    "position": "23",
+    "type": "channel",
+    "key": "windroidadrarlebanon_لبنان"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "namear": "Mejar 1 ᴿᴬᵂ",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"TOD HD | Mejar Server 1 ᴴᴰ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://mejarhosting.cfd/test/1hd/master.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"TOD 4K | Mejar Server 1 ᴿᴬᵂ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://mejarhosting.cfd/test/1fhd/master.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"TOD SD | Mejar Server 1 ᴸᵒʷ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"https://mejarhosting.cfd/test/1sd/master.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
+    "nameen": "Mejar 1 ᴿᴬᵂ",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvtod_tv"
+  }
+]

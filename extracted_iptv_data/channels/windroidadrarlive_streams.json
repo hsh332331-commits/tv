@@ -1,0 +1,191 @@
+[
+  {
+    "namear": "LIVE Stream 1",
+    "servers": "[{\"headers\":\"vlcuser-Agent|vlcuser-Agent|vlcuser-Agent|vlc\",\"otherHeaders\":\"\",\"name\":\"LIVE Stream 1\",\"Referer\":\"\",\"userAgent\":\"vlcuser-Agent|vlc\",\"position\":\"0\",\"url\":\"http://w.nasvpn.xyz:8080/live/best/best/19227.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18714074_ico.png",
+    "nameen": "LIVE Stream 1",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarlive_streams"
+  },
+  {
+    "namear": "LIVE Stream 2",
+    "servers": "[{\"headers\":\"Dalvik/2.1.0 (Linux; U; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 7.0; BRAVIA 4K GB Build/NRD91N.S42)user-Agent|Dalvik/2.1.0 (Linux; U; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 7.0; BRAVIA 4K GB Build/NRD91N.S42)user-Agent|Dalvik/2.1.0 (Linux; U; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 7.0; BRAVIA 4K GB Build/NRD91N.S42)user-Agent|Dalvik/2.1.0 (Linux; U; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 7.0; BRAVIA 4K GB Build/NRD91N.S42)\",\"otherHeaders\":\"\",\"name\":\"LIVE Stream 2\",\"Referer\":\"\",\"userAgent\":\"Dalvik/2.1.0 (Linux; U; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 7.0; BRAVIA 4K GB Build/NRD91N.S42)user-Agent|Dalvik/2.1.0 (Linux; U; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 7.0; BRAVIA 4K GB Build/NRD91N.S42)\",\"position\":\"0\",\"url\":\"https://af.ayas.ir/hls2/aiosport.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18714088_ico.png",
+    "nameen": "LIVE Stream 2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarlive_streams"
+  },
+  {
+    "namear": "LIVE Stream 3",
+    "servers": "[{\"headers\":\"KrwDbxSxUNvttbEuxHmzwzSn2qh8VvtPuAMGDHA1KLj1zL0GY3ijHDQMuzkLXhjxxUHnBNMjgYLdpGQhtiPYk4UCPvtaBAUJkySK1KGehXznevjDZp7Mucxn3YPirSxfURwrJpnhiHdHh12wHGwmhuWzMhCJv2KEdPWFz4f6t8zE3QxhhbNng9WULfuqcx90MPXd4Z2tU9qRJq4uUN2TZFH8nTuser-Agent|KrwDbxSxUNvttbEuxHmzwzSn2qh8VvtPuAMGDHA1KLj1zL0GY3ijHDQMuzkLXhjxxUHnBNMjgYLdpGQhtiPYk4UCPvtaBAUJkySK1KGehXznevjDZp7Mucxn3YPirSxfURwrJpnhiHdHh12wHGwmhuWzMhCJv2KEdPWFz4f6t8zE3QxhhbNng9WULfuqcx90MPXd4Z2tU9qRJq4uUN2TZFH8nTuser-Agent|KrwDbxSxUNvttbEuxHmzwzSn2qh8VvtPuAMGDHA1KLj1zL0GY3ijHDQMuzkLXhjxxUHnBNMjgYLdpGQhtiPYk4UCPvtaBAUJkySK1KGehXznevjDZp7Mucxn3YPirSxfURwrJpnhiHdHh12wHGwmhuWzMhCJv2KEdPWFz4f6t8zE3QxhhbNng9WULfuqcx90MPXd4Z2tU9qRJq4uUN2TZFH8nTuser-Agent|KrwDbxSxUNvttbEuxHmzwzSn2qh8VvtPuAMGDHA1KLj1zL0GY3ijHDQMuzkLXhjxxUHnBNMjgYLdpGQhtiPYk4UCPvtaBAUJkySK1KGehXznevjDZp7Mucxn3YPirSxfURwrJpnhiHdHh12wHGwmhuWzMhCJv2KEdPWFz4f6t8zE3QxhhbNng9WULfuqcx90MPXd4Z2tU9qRJq4uUN2TZFH8nT\",\"otherHeaders\":\"\",\"name\":\"LIVE Stream 3\",\"Referer\":\"\",\"userAgent\":\"KrwDbxSxUNvttbEuxHmzwzSn2qh8VvtPuAMGDHA1KLj1zL0GY3ijHDQMuzkLXhjxxUHnBNMjgYLdpGQhtiPYk4UCPvtaBAUJkySK1KGehXznevjDZp7Mucxn3YPirSxfURwrJpnhiHdHh12wHGwmhuWzMhCJv2KEdPWFz4f6t8zE3QxhhbNng9WULfuqcx90MPXd4Z2tU9qRJq4uUN2TZFH8nTuser-Agent|KrwDbxSxUNvttbEuxHmzwzSn2qh8VvtPuAMGDHA1KLj1zL0GY3ijHDQMuzkLXhjxxUHnBNMjgYLdpGQhtiPYk4UCPvtaBAUJkySK1KGehXznevjDZp7Mucxn3YPirSxfURwrJpnhiHdHh12wHGwmhuWzMhCJv2KEdPWFz4f6t8zE3QxhhbNng9WULfuqcx90MPXd4Z2tU9qRJq4uUN2TZFH8nT\",\"position\":\"0\",\"url\":\"https://sky.hlsjs.ru/sky/premium98/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18714103_ico.png",
+    "nameen": "LIVE Stream 3",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarlive_streams"
+  },
+  {
+    "namear": "LIVE Stream 4",
+    "servers": "[{\"headers\":\"xhhxuser-Agent|xhhxuser-Agent|xhhxuser-Agent|xhhx\",\"otherHeaders\":\"\",\"name\":\"LIVE Stream 4\",\"Referer\":\"\",\"userAgent\":\"xhhxuser-Agent|xhhx\",\"position\":\"0\",\"url\":\"https://one.realbitsport.com/live/n-1/chunks.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18714113_ico.png",
+    "nameen": "LIVE Stream 4",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarlive_streams"
+  },
+  {
+    "namear": "LIVE Stream 5",
+    "servers": "[{\"headers\":\"Infinitylife2978ktvprohdqwzxrtlkhdferdhhdprouser-Agent|Infinitylife2978ktvprohdqwzxrtlkhdferdhhdprouser-Agent|Infinitylife2978ktvprohdqwzxrtlkhdferdhhdprouser-Agent|Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro\",\"otherHeaders\":\"\",\"name\":\"LIVE Stream 5\",\"Referer\":\"\",\"userAgent\":\"Infinitylife2978ktvprohdqwzxrtlkhdferdhhdprouser-Agent|Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro\",\"position\":\"0\",\"url\":\"https://sky.hlsjs.ru/sky/premium115/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18714123_ico.png",
+    "nameen": "LIVE Stream 5",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarlive_streams"
+  },
+  {
+    "namear": "LIVE Stream 7",
+    "servers": "[{\"headers\":\"Damxuser-Agent|Damxuser-Agent|Damxuser-Agent|Damx\",\"otherHeaders\":\"\",\"name\":\"LIVE Stream 7\",\"Referer\":\"\",\"userAgent\":\"Damxuser-Agent|Damx\",\"position\":\"0\",\"url\":\"https://edge02.odtv.az/o4/beinsport/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18714132_ico.png",
+    "nameen": "LIVE Stream 7",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarlive_streams"
+  },
+  {
+    "namear": "LIVE Stream 8",
+    "servers": "[{\"headers\":\"CHANNEL4_34user-Agent|CHANNEL4_34user-Agent|CHANNEL4_34user-Agent|CHANNEL4_34\",\"otherHeaders\":\"\",\"name\":\"LIVE Stream 8\",\"Referer\":\"\",\"userAgent\":\"CHANNEL4_34user-Agent|CHANNEL4_34\",\"position\":\"0\",\"url\":\"http://pizztv.xyz:8000/BEINTSPORTS/T4z9GmQJEqw6/384\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18714137_ico.png",
+    "nameen": "LIVE Stream 8",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarlive_streams"
+  },
+  {
+    "namear": "LIVE Stream 9",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"LIVE Stream 9\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18805560_ico.png",
+    "nameen": "LIVE Stream 9",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarlive_streams"
+  },
+  {
+    "namear": "LIVE Stream 10",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"LIVE Stream 10\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"https://yeszet1x3cdn23.goalarab.site/livebp1/bp1/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18805572_ico.png",
+    "nameen": "LIVE Stream 10",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarlive_streams"
+  },
+  {
+    "namear": "LIVE Stream 11",
+    "servers": "[{\"headers\":\"REDLINECLIENT ed5zs4d5sd41user-Agent|REDLINECLIENT ed5zs4d5sd41user-Agent|REDLINECLIENT ed5zs4d5sd41user-Agent|REDLINECLIENT ed5zs4d5sd41\",\"otherHeaders\":\"\",\"name\":\"LIVE Stream 11\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT ed5zs4d5sd41user-Agent|REDLINECLIENT ed5zs4d5sd41\",\"position\":\"0\",\"url\":\"https://webudit.cdndac.lol/lb/premium447/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18872805_ico.png",
+    "nameen": "LIVE Stream 11",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadrarlive_streams"
+  },
+  {
+    "namear": "LIVE Stream 12",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREA dzf48sd5f14dsuser-Agent|REDLINECLIENT_DREA dzf48sd5f14dsuser-Agent|REDLINECLIENT_DREA dzf48sd5f14dsuser-Agent|REDLINECLIENT_DREA dzf48sd5f14ds\",\"otherHeaders\":\"\",\"name\":\"LIVE Stream 12\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREA dzf48sd5f14dsuser-Agent|REDLINECLIENT_DREA dzf48sd5f14ds\",\"position\":\"0\",\"url\":\"https://webudit.cdndac.lol/lb/premium139/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/18872814_ico.png",
+    "nameen": "LIVE Stream 12",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidadrarlive_streams"
+  },
+  {
+    "namear": "LIVE Stream 13",
+    "servers": "[{\"headers\":\"rardauser-Agent|rardauser-Agent|rardauser-Agent|rarda\",\"otherHeaders\":\"\",\"name\":\"LIVE Stream 13\",\"Referer\":\"\",\"userAgent\":\"rardauser-Agent|rarda\",\"position\":\"0\",\"url\":\"https://sky.hlsjs.ru/sky/premium11/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/19946434_ico.png",
+    "nameen": "LIVE Stream 13",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidadrarlive_streams"
+  },
+  {
+    "namear": "LIVE Stream 14",
+    "servers": "[{\"headers\":\"jjjhhgttyuiiiloooooppplluser-Agent|jjjhhgttyuiiiloooooppplluser-Agent|jjjhhgttyuiiiloooooppplluser-Agent|jjjhhgttyuiiilooooopppll\",\"otherHeaders\":\"\",\"name\":\"LIVE Stream 14\",\"Referer\":\"\",\"userAgent\":\"jjjhhgttyuiiiloooooppplluser-Agent|jjjhhgttyuiiilooooopppll\",\"position\":\"0\",\"url\":\"https://sky.hlsjs.ru/sky/premium121/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/19946446_ico.png",
+    "nameen": "LIVE Stream 14",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidadrarlive_streams"
+  },
+  {
+    "namear": "LIVE Stream 15",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"LIVE Stream 15\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"https://sky.hlsjs.ru/sky/premium9/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/20000903_ico.png",
+    "nameen": "LIVE Stream 15",
+    "position": "13",
+    "type": "channel",
+    "key": "windroidadrarlive_streams"
+  },
+  {
+    "namear": "LIVE Stream 16",
+    "servers": "[{\"headers\":\"Dalvik/2.1.0 (Linux; U; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 11; SM-A52 Build/PPR1.280610.011)user-Agent|Dalvik/2.1.0 (Linux; U; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 11; SM-A52 Build/PPR1.280610.011)user-Agent|Dalvik/2.1.0 (Linux; U; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 11; SM-A52 Build/PPR1.280610.011)user-Agent|Dalvik/2.1.0 (Linux; U; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 11; SM-A52 Build/PPR1.280610.011)\",\"otherHeaders\":\"\",\"name\":\"LIVE Stream 16\",\"Referer\":\"\",\"userAgent\":\"Dalvik/2.1.0 (Linux; U; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 11; SM-A52 Build/PPR1.280610.011)user-Agent|Dalvik/2.1.0 (Linux; U; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 11; SM-A52 Build/PPR1.280610.011)\",\"position\":\"0\",\"url\":\"https://pull.juqihuo.com/live/stream-551866_lsd.flv?auth_key\\u003d1686789682-0-0-c635696f9ec0ea65f0c9dca39a9457df\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/20000922_ico.png",
+    "nameen": "LIVE Stream 16",
+    "position": "14",
+    "type": "channel",
+    "key": "windroidadrarlive_streams"
+  },
+  {
+    "namear": "LIVE Stream 17",
+    "servers": "[{\"headers\":\"CHANNEL4_34user-Agent|CHANNEL4_34user-Agent|CHANNEL4_34user-Agent|CHANNEL4_34\",\"otherHeaders\":\"\",\"name\":\"LIVE Stream 17\",\"Referer\":\"\",\"userAgent\":\"CHANNEL4_34user-Agent|CHANNEL4_34\",\"position\":\"0\",\"url\":\"http://212.5.59.2:9882/play/a019/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/20000986_ico.png",
+    "nameen": "LIVE Stream 17",
+    "position": "15",
+    "type": "channel",
+    "key": "windroidadrarlive_streams"
+  },
+  {
+    "namear": "LIVE Stream 18",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"LIVE Stream 18\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://79.174.24.254:8002/play/a00m/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/20000996_ico.png",
+    "nameen": "LIVE Stream 18",
+    "position": "16",
+    "type": "channel",
+    "key": "windroidadrarlive_streams"
+  },
+  {
+    "namear": "LIVE Stream 19",
+    "servers": "[{\"headers\":\"REDLINECLIENT ed5zs4d5sd41user-Agent|REDLINECLIENT ed5zs4d5sd41user-Agent|REDLINECLIENT ed5zs4d5sd41user-Agent|REDLINECLIENT ed5zs4d5sd41\",\"otherHeaders\":\"\",\"name\":\"LIVE Stream 19\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT ed5zs4d5sd41user-Agent|REDLINECLIENT ed5zs4d5sd41\",\"position\":\"0\",\"url\":\"http://bazaruto.top:8000/osvald.germanija/osvald5432/198\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/20004630_ico.png",
+    "nameen": "LIVE Stream 19",
+    "position": "17",
+    "type": "channel",
+    "key": "windroidadrarlive_streams"
+  },
+  {
+    "namear": "LIVE Stream 20",
+    "servers": "[{\"headers\":\"REDLINECLIENT FFuser-Agent|REDLINECLIENT FFuser-Agent|REDLINECLIENT FFuser-Agent|REDLINECLIENT FF\",\"otherHeaders\":\"\",\"name\":\"LIVE Stream 20\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT FFuser-Agent|REDLINECLIENT FF\",\"position\":\"0\",\"url\":\"http://line.cableguy.pro:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/100298\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/20004662_ico.png",
+    "nameen": "LIVE Stream 20",
+    "position": "18",
+    "type": "channel",
+    "key": "windroidadrarlive_streams"
+  },
+  {
+    "namear": "Tv Match 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Tv Match 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://kora7.alkoora.live/albaplayer/on-time-sport-1/\"}]",
+    "logo": "R.drawable.app_icon",
+    "nameen": "Tv Match 1",
+    "position": "19",
+    "type": "channel",
+    "key": "windroidadrarlive_streams"
+  },
+  {
+    "namear": "Tv Match 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Tv Match 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://m.livehd7xc.com/albaplayer/bein1-p/\"}]",
+    "logo": "R.drawable.app_icon",
+    "nameen": "Tv Match 2",
+    "position": "20",
+    "type": "channel",
+    "key": "windroidadrarlive_streams"
+  }
+]

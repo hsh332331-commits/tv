@@ -1,0 +1,29 @@
+[
+  {
+    "namear": "Sport1",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://d1yi40sjj0ca0v.cloudfront.net/TVD5788/index.mpd\"}]",
+    "logo": "",
+    "nameen": "Sport1",
+    "position": "0",
+    "type": "channel",
+    "key": "mls_sports"
+  },
+  {
+    "namear": "Fox",
+    "servers": "[{\"headers\":\"\",\"license\":\"09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd\"}]",
+    "logo": "",
+    "nameen": "Fox",
+    "position": "1",
+    "type": "channel",
+    "key": "mls_sports"
+  },
+  {
+    "namear": "VIX",
+    "servers": "[{\"headers\":\"\",\"license\":\"12428ea24a47d1a25473444ba0ab0b34:81cd6366e4ef55f36efb9028b6f02f4e\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash-sd/enc/g79mt0arq2/out/v1/80ddaa3d824c4fef8da5b4dc8d6074c1/cenc-sd.mpd\"}]",
+    "logo": "",
+    "nameen": "VIX",
+    "position": "2",
+    "type": "channel",
+    "key": "mls_sports"
+  }
+]

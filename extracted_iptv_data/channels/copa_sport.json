@@ -1,0 +1,65 @@
+[
+  {
+    "namear": "Fox",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|https://forcedtoplay.xyz\",\"otherHeaders\":\"https://forcedtoplay.xyz\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium54/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNZojUZsg6Epyv7180s0e352SirtavBbfiSw&usqp=CAU",
+    "nameen": "Fox",
+    "position": "0",
+    "type": "channel",
+    "key": "copa_sport"
+  },
+  {
+    "namear": "Via",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|https://forcedtoplay.xyz\",\"otherHeaders\":\"https://forcedtoplay.xyz\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium451/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNZojUZsg6Epyv7180s0e352SirtavBbfiSw&usqp=CAU",
+    "nameen": "Via",
+    "position": "1",
+    "type": "channel",
+    "key": "copa_sport"
+  },
+  {
+    "namear": "Spor",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 6.0; Nexus 5 Build/MRhls Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36A58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36|https://forcedtoplay.xyz\",\"otherHeaders\":\"https://forcedtoplay.xyz\",\"name\":\"Spor\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Linux; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 6.0; Nexus 5 Build/MRhls Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36A58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36\",\"position\":\"02\",\"url\":\"https://ddy3.onlinehdhls.ru/ddy3/premium78/mono.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNZojUZsg6Epyv7180s0e352SirtavBbfiSw&usqp=CAU",
+    "nameen": "Spor",
+    "position": "2",
+    "type": "channel",
+    "key": "copa_sport"
+  },
+  {
+    "namear": "Sport dj",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|origin|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"otherHeaders\":\"origin|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium571/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNZojUZsg6Epyv7180s0e352SirtavBbfiSw&usqp=CAU",
+    "nameen": "Sport dj",
+    "position": "3",
+    "type": "channel",
+    "key": "copa_sport"
+  },
+  {
+    "namear": "Maxx",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNZojUZsg6Epyv7180s0e352SirtavBbfiSw&usqp=CAU",
+    "nameen": "Maxx",
+    "position": "5",
+    "type": "channel",
+    "key": "copa_sport"
+  },
+  {
+    "namear": "Canal+",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|https://forcedtoplay.xyz\",\"otherHeaders\":\"https://forcedtoplay.xyz\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium486/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNZojUZsg6Epyv7180s0e352SirtavBbfiSw&usqp=CAU",
+    "nameen": "Canal+",
+    "position": "5",
+    "type": "channel",
+    "key": "copa_sport"
+  },
+  {
+    "namear": "VSport",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|https://forcedtoplay.xyz\",\"otherHeaders\":\"https://forcedtoplay.xyz\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium1/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNZojUZsg6Epyv7180s0e352SirtavBbfiSw&usqp=CAU",
+    "nameen": "VSport",
+    "position": "6",
+    "type": "channel",
+    "key": "copa_sport"
+  }
+]

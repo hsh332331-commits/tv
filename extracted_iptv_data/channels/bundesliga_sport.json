@@ -1,0 +1,48 @@
+[
+  {
+    "namear": "ACTION",
+    "servers": "[{\"headers\":\"\",\"license\":\"e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-action/8ea6ca1108d03e03da5e61372354f5c8/index.mpd\"}]",
+    "visible": "true",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ3htiSI1Kv04RDzIPsabEvp2uNoUq-JZcZOjSqCg3HA&s=10",
+    "nameen": "ACTION",
+    "position": "0",
+    "type": "channel",
+    "key": "bundesliga_sport"
+  },
+  {
+    "namear": "DFB Play TV 🇩🇪",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"DFB Play TV 🇩🇪\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://daiconnect.com/live/hls/tvup/tvfy-dfbplay/.m3u8?ApPW\\u003d[playerWidth]\\u0026ApPH\\u003d[playerHeight]\\u0026USrGDPRC\\u003d[gdprConsent]\\u0026UGDPR\\u003d1\\u0026DLg\\u003d[deviceLanguage]\\u0026ApStURL\\u003d[storeUrl]\\u0026DAdID\\u003d[ifa]\\u0026DAdIDT\\u003d[ifaType]\\u0026UUA\\u003d[userAgent]\\u0026UIP\\u003d[ip]\\u0026ApNm\\u003d[appName]\\u0026ApV\\u003d[appVersion]\\u0026DT\\u003d[deviceType]\\u0026DMk\\u003d[deviceMake]\\u0026DMdl\\u003d[deviceModel]\\u0026ApBdl\\u003d[bundleId]\\u0026DID\\u003d[deviceId]\\u0026tvfy_env\\u003d[tivify_env]\\u0026lmt\\u003d[lmt]\\u0026ic\\u003dIAB17\\u0026content_genre\\u003dSports\\u0026language\\u003des\\u0026rating\\u003dTV-G\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAgW_udRW-HJ1QA4hm1H7_bpWDqvMBeTBflPjGq2af&s",
+    "nameen": "DFB Play TV 🇩🇪",
+    "position": "1",
+    "type": "channel",
+    "key": "bundesliga_sport"
+  },
+  {
+    "namear": "Bein",
+    "servers": "[{\"headers\":\"\",\"license\":\"7c214cad238a160353453b01da8be646:6f64bc2379b1f703ccfb6410be1dfde1\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow05/index.mpd?hdntl\\u003dexp%3D1772977699%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dhdntl%2Cfp%3D1%7Ehmac%3D49819019e2c2f9a42f004c942759b0f2aa876516ab764c0c620830b71aff33fa\\u0026hdnts\\u003dst%3D1772804870%7Eexp%3D1772891569%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dfp%3D1%7Ehmac%3D3dd730871e72555f07783c8c0dd8f2b24616c65eae09dcacd8a3745bf2b38457\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0a/Bundesliga-logo.svg/1200px-Bundesliga-logo.svg.png",
+    "nameen": "Bein",
+    "position": "5",
+    "type": "channel",
+    "key": "bundesliga_sport"
+  },
+  {
+    "namear": "Sky1",
+    "servers": "[{\"headers\":\"Referer|https://bloodycount.net/embed/nio2ykfa4fvzs0|user-agent|live|\",\"license\":\"0d3c7ffea0de6ab2d4b0dc8c53b91051:d8d8e40f7e3b0b1b40aeeeedeeb9249c\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://bloodycount.net/embed/nio2ykfa4fvzs0\",\"userAgent\":\"live\",\"position\":\"0\",\"url\":\"https://svc40.main.sl.t-online.de/LCID3221228661.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228661/3221228661.mpd\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0a/Bundesliga-logo.svg/1200px-Bundesliga-logo.svg.png",
+    "nameen": "Sky1",
+    "position": "5",
+    "type": "channel",
+    "key": "bundesliga_sport"
+  },
+  {
+    "namear": "SKY",
+    "servers": "[{\"headers\":\"user-agent|Halow TV/1.0.5 (Linux;Android 9) AndroidXMedia3/1.8.0|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"Halow TV/1.0.5 (Linux;Android 9) AndroidXMedia3/1.8.0\",\"position\":\"0\",\"url\":\"http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103862\"}]",
+    "logo": "",
+    "nameen": "SKY",
+    "position": "6",
+    "type": "channel",
+    "key": "bundesliga_sport"
+  }
+]

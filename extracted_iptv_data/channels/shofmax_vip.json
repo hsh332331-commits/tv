@@ -1,0 +1,74 @@
+[
+  {
+    "namear": "ShofMax sy 1 720P",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ShofMax sy 1 720P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://5.9.78.81:8880/Bein TV/Bein VIP/122486?token\\u003dGhoNVBVaEA4WWwMNBgtTWQJTBlQAVAECVQoGUwENUlcEDFAAU1AHAwZBHBpHRhBdAA9oDQdACQMBDFEJABgWERJdF2oPVhAOFlcACAUAUBpNQEMNDgcRCAIOVgYBAABdVg9JFxZbVhYODUVUWB5AXRkWUhYNA19tV10UWFJRFl4PTQlZShBdWmsHVVVVXAYaW0AGRk9AWkFDGlhfRFhYSENaDEEUU0ZRFlleTVheThoCDUIKFxBKEAkaMWgTGBYBGUwAWxVbXVoWWRJMRxBOGggRaBYGEUdAVlkPVEMWDkZRGkkXC1NKa1cMXlZRURZRDgxERllAAhAfGg9eX11ACxNnFVwCEAhaQQ9cRQ\\u003d\\u003d\"}]",
+    "logo": "https://shoofmax.azureedge.net/v2/img/general/sm-deep.png",
+    "nameen": "ShofMax sy 1 720P",
+    "position": "1",
+    "type": "channel",
+    "key": "shofmax_vip"
+  },
+  {
+    "namear": "ShofMax sy 2 720P",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ShofMax sy 2 720P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://5.9.78.81:8880/Bein TV/Bein VIP/122485?token\\u003dGhoNVBVaEA4WWwMNBgtTWQJTBlQAVAECVQoGUwENUlcEDFAAU1AHAwZBHBpHRhBdAA9oDQdACQMBDFEJABgWERJdF2oPVhAOFlcACAUAUBpNQEMNDgcRCAIOVgYBAABdVg9JFxZbVhYODUVUWB5AXRkWUhYNA19tV10UWFJRFl4PTQlZShBdWmsHVVVVXAYaW0AGRk9AWkFDGlhfRFhYSENaDEEUU0ZRFlleTVheThoCDUIKFxBKEAkaMWgTGBYBGUwAWxVbXVoWWRJMRxBOGggRaBYGEUdAVlkPVEMWDkZRGkkXC1NKa1cMXlZRURZRDgxERllAAhAfGg9eX11ACxNnFVwCEAhaQQ9cRQ\\u003d\\u003d\"}]",
+    "logo": "https://shoofmax.azureedge.net/v2/img/general/sm-deep.png",
+    "nameen": "ShofMax sy 2 720P",
+    "position": "2",
+    "type": "channel",
+    "key": "shofmax_vip"
+  },
+  {
+    "namear": "ShofMax sy 3 720P",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ShofMax sy 3 720P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://5.9.78.81:8880/Bein TV/Bein VIP/122484?token\\u003dGhoNVBVaEA4WWwMNBgtTWQJTBlQAVAECVQoGUwENUlcEDFAAU1AHAwZBHBpHRhBdAA9oDQdACQMBDFEJABgWERJdF2oPVhAOFlcACAUAUBpNQEMNDgcRCAIOVgYBAABdVg9JFxZbVhYODUVUWB5AXRkWUhYNA19tV10UWFJRFl4PTQlZShBdWmsHVVVVXAYaW0AGRk9AWkFDGlhfRFhYSENaDEEUU0ZRFlleTVheThoCDUIKFxBKEAkaMWgTGBYBGUwAWxVbXVoWWRJMRxBOGggRaBYGEUdAVlkPVEMWDkZRGkkXC1NKa1cMXlZRURZRDgxERllAAhAfGg9eX11ACxNnFVwCEAhaQQ9cRQ\\u003d\\u003d\"}]",
+    "logo": "https://shoofmax.azureedge.net/v2/img/general/sm-deep.png",
+    "nameen": "ShofMax sy 3 720P",
+    "position": "3",
+    "type": "channel",
+    "key": "shofmax_vip"
+  },
+  {
+    "namear": "ShofMax eg 1 720P",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ShofMax eg 1 720P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://5.9.78.81:8880/Bein TV/Bein VIP/122490?token\\u003dGhoNVBVaEA4WWwMNBgtTWQJTBlQAVAECVQoGUwENUlcEDFAAU1AHAwZBHBpHRhBdAA9oDQdACQMBDFEJABgWERJdF2oPVhAOFlcACAUAUBpNQEMNDgcRCAIOVgYBAABdVg9JFxZbVhYODUVUWB5AXRkWUhYNA19tV10UWFJRFl4PTQlZShBdWmsHVVVVXAYaW0AGRk9AWkFDGlhfRFhYSENaDEEUU0ZRFlleTVheThoCDUIKFxBKEAkaMWgTGBYBGUwAWxVbXVoWWRJMRxBOGggRaBYGEUdAVlkPVEMWDkZRGkkXC1NKa1cMXlZRURZRDgxERllAAhAfGg9eX11ACxNnFVwCEAhaQQ9cRQ\\u003d\\u003d\"}]",
+    "logo": "https://shoofmax.azureedge.net/v2/img/general/sm-deep.png",
+    "nameen": "ShofMax eg 1 720P",
+    "position": "4",
+    "type": "channel",
+    "key": "shofmax_vip"
+  },
+  {
+    "namear": "ShofMax eg 2 720P",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ShofMax eg 2 720P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://5.9.78.81:8880/Bein TV/Bein VIP/122489?token\\u003dGhoNVBVaEA4WWwMNBgtTWQJTBlQAVAECVQoGUwENUlcEDFAAU1AHAwZBHBpHRhBdAA9oDQdACQMBDFEJABgWERJdF2oPVhAOFlcACAUAUBpNQEMNDgcRCAIOVgYBAABdVg9JFxZbVhYODUVUWB5AXRkWUhYNA19tV10UWFJRFl4PTQlZShBdWmsHVVVVXAYaW0AGRk9AWkFDGlhfRFhYSENaDEEUU0ZRFlleTVheThoCDUIKFxBKEAkaMWgTGBYBGUwAWxVbXVoWWRJMRxBOGggRaBYGEUdAVlkPVEMWDkZRGkkXC1NKa1cMXlZRURZRDgxERllAAhAfGg9eX11ACxNnFVwCEAhaQQ9cRQ\\u003d\\u003d\"}]",
+    "logo": "https://shoofmax.azureedge.net/v2/img/general/sm-deep.png",
+    "nameen": "ShofMax eg 2 720P",
+    "position": "5",
+    "type": "channel",
+    "key": "shofmax_vip"
+  },
+  {
+    "namear": "ShofMax eg 3 720P",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ShofMax eg 3 720P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://5.9.78.81:8880/Bein TV/Bein VIP/122488?token\\u003dGhoNVBVaEA4WWwMNBgtTWQJTBlQAVAECVQoGUwENUlcEDFAAU1AHAwZBHBpHRhBdAA9oDQdACQMBDFEJABgWERJdF2oPVhAOFlcACAUAUBpNQEMNDgcRCAIOVgYBAABdVg9JFxZbVhYODUVUWB5AXRkWUhYNA19tV10UWFJRFl4PTQlZShBdWmsHVVVVXAYaW0AGRk9AWkFDGlhfRFhYSENaDEEUU0ZRFlleTVheThoCDUIKFxBKEAkaMWgTGBYBGUwAWxVbXVoWWRJMRxBOGggRaBYGEUdAVlkPVEMWDkZRGkkXC1NKa1cMXlZRURZRDgxERllAAhAfGg9eX11ACxNnFVwCEAhaQQ9cRQ\\u003d\\u003d\"}]",
+    "logo": "https://shoofmax.azureedge.net/v2/img/general/sm-deep.png",
+    "nameen": "ShofMax eg 3 720P",
+    "position": "6",
+    "type": "channel",
+    "key": "shofmax_vip"
+  },
+  {
+    "namear": "ShofMax eg 4 720P",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ShofMax eg 4 720P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://5.9.78.81:8880/Bein TV/Bein VIP/122487?token\\u003dGhoNVBVaEA4WWwMNBgtTWQJTBlQAVAECVQoGUwENUlcEDFAAU1AHAwZBHBpHRhBdAA9oDQdACQMBDFEJABgWERJdF2oPVhAOFlcACAUAUBpNQEMNDgcRCAIOVgYBAABdVg9JFxZbVhYODUVUWB5AXRkWUhYNA19tV10UWFJRFl4PTQlZShBdWmsHVVVVXAYaW0AGRk9AWkFDGlhfRFhYSENaDEEUU0ZRFlleTVheThoCDUIKFxBKEAkaMWgTGBYBGUwAWxVbXVoWWRJMRxBOGggRaBYGEUdAVlkPVEMWDkZRGkkXC1NKa1cMXlZRURZRDgxERllAAhAfGg9eX11ACxNnFVwCEAhaQQ9cRQ\\u003d\\u003d\"}]",
+    "logo": "https://shoofmax.azureedge.net/v2/img/general/sm-deep.png",
+    "nameen": "ShofMax eg 4 720P",
+    "position": "7",
+    "type": "channel",
+    "key": "shofmax_vip"
+  },
+  {
+    "namear": "ShofMax eg 5 720P",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ShofMax eg 5 720P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://5.9.78.81:8880/Bein TV/Bein VIP/122483?token\\u003dGhoNVBVaEA4WWwMNBgtTWQJTBlQAVAECVQoGUwENUlcEDFAAU1AHAwZBHBpHRhBdAA9oDQdACQMBDFEJABgWERJdF2oPVhAOFlcACAUAUBpNQEMNDgcRCAIOVgYBAABdVg9JFxZbVhYODUVUWB5AXRkWUhYNA19tV10UWFJRFl4PTQlZShBdWmsHVVVVXAYaW0AGRk9AWkFDGlhfRFhYSENaDEEUU0ZRFlleTVheThoCDUIKFxBKEAkaMWgTGBYBGUwAWxVbXVoWWRJMRxBOGggRaBYGEUdAVlkPVEMWDkZRGkkXC1NKa1cMXlZRURZRDgxERllAAhAfGg9eX11ACxNnFVwCEAhaQQ9cRQ\\u003d\\u003d\"}]",
+    "logo": "https://shoofmax.azureedge.net/v2/img/general/sm-deep.png",
+    "nameen": "ShofMax eg 5 720P",
+    "position": "8",
+    "type": "channel",
+    "key": "shofmax_vip"
+  }
+]

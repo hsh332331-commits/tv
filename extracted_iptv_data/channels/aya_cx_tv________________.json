@@ -1,0 +1,128 @@
+[
+  {
+    "namear": "Laayoune tv",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://cast-x.app/|origin|https://cast-x.app\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://cast-x.app\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"https://cast-x.app/\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://morocco.castxtv47.workers.dev/2.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Laayoune_logo_png_tv.png",
+    "nameen": "Laayoune tv",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvالقنوات_المغربية"
+  },
+  {
+    "namear": "2M ™✓",
+    "servers": "[{\"headers\":\"Referer|https://livemedia.ma/arryadia-tnt|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://livemedia.ma/arryadia-tnt\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://stream-lb.livemedia.ma/2m/hls/master.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ac/2M_Logo.svg/1200px-2M_Logo.svg.png",
+    "nameen": "2M ™✓",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvالقنوات_المغربية"
+  },
+  {
+    "namear": "EL Aoula",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://cast-x.app/|origin|https://cast-x.app\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://cast-x.app\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"https://cast-x.app/\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://morocco.castxtv47.workers.dev/1.m3u8\"}]",
+    "logo": "https://i.ibb.co/n0Pwp2S/alaoulainter.png",
+    "nameen": "EL Aoula",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvالقنوات_المغربية"
+  },
+  {
+    "namear": "Arryadia",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://cast-x.app/|origin|https://cast-x.app\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://cast-x.app\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"https://cast-x.app/\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://morocco.castxtv47.workers.dev/3.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Logo%2Barryadia%2Bmorocco.png/1200px-Logo%2Barryadia%2Bmorocco.png",
+    "nameen": "Arryadia",
+    "position": "12",
+    "type": "channel",
+    "key": "aya_cx_tvالقنوات_المغربية"
+  },
+  {
+    "namear": "Athaqafia",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://cast-x.app/|origin|https://cast-x.app\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://cast-x.app\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"https://cast-x.app/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://morocco.castxtv47.workers.dev/4.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"5555\",\"url\":\"http://a501.variety-buy.store/api/channel/542\"}]",
+    "logo": "https://www.korafreha2.com/YacineTV_New/ARABIC/Athaqafiya.png",
+    "nameen": "Athaqafia",
+    "position": "14",
+    "type": "channel",
+    "key": "aya_cx_tvالقنوات_المغربية"
+  },
+  {
+    "namear": "Assadissa",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://cast-x.app/|origin|https://cast-x.app\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://cast-x.app\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"https://cast-x.app/\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://morocco.castxtv47.workers.dev/6.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/a/ae/Logo_assadissa.png",
+    "nameen": "Assadissa",
+    "position": "15",
+    "type": "channel",
+    "key": "aya_cx_tvالقنوات_المغربية"
+  },
+  {
+    "namear": "Maghribia TV",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://cast-x.app/|origin|https://cast-x.app\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://cast-x.app\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"https://cast-x.app/\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://morocco.castxtv47.workers.dev/5.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/09/Almaghribiax2.png",
+    "nameen": "Maghribia TV",
+    "position": "15",
+    "type": "channel",
+    "key": "aya_cx_tvالقنوات_المغربية"
+  },
+  {
+    "namear": "المغرب أفلام",
+    "servers": "[{\"headers\":\"Referer|https://cast-x.app/|origin|https://cast-x.app\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://cast-x.app\",\"name\":\"1\",\"Referer\":\"https://cast-x.app/\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://morocco.castxtv47.workers.dev/8.m3u8\"}]",
+    "logo": "http://gratuittv.free.fr/images/aflamtv.png",
+    "nameen": "المغرب أفلام",
+    "position": "17",
+    "type": "channel",
+    "key": "aya_cx_tvالقنوات_المغربية"
+  },
+  {
+    "namear": "Tamazight TV",
+    "servers": "[{\"headers\":\"Referer|https://cast-x.app/|origin|https://cast-x.app\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://cast-x.app\",\"name\":\"2\",\"Referer\":\"https://cast-x.app/\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://morocco.castxtv47.workers.dev/7.m3u8\"}]",
+    "logo": "https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/04/tamazight-tv-chaine.png",
+    "nameen": "Tamazight TV",
+    "position": "18",
+    "type": "channel",
+    "key": "aya_cx_tvالقنوات_المغربية"
+  },
+  {
+    "namear": "Africa 24 Sport",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"f\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://edge18.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiCf7M34XS8PJKnjTdly22dwOcOXXaWPAzHZSZ7eXRow&s=10",
+    "nameen": "Africa 24 Sport",
+    "position": "18",
+    "type": "channel",
+    "key": "aya_cx_tvالقنوات_المغربية"
+  },
+  {
+    "namear": "Télé Maroc",
+    "servers": "[{\"license\":\"\",\"headers\":\"find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://player-backend.restream.io/public/videos/4f71cc555c994494b193a6da77542d72?instant\\u003dtrue\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Logotelemaroc.jpeg",
+    "nameen": "Télé Maroc",
+    "position": "20",
+    "type": "channel",
+    "key": "aya_cx_tvالقنوات_المغربية"
+  },
+  {
+    "namear": "قناة شذى",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://chadatv.vedge.infomaniak.com/livecast/chadatv/chunklist.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://chadatv.vedge.infomaniak.com/livecast/chadatv/chunklist.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqUFHfc3OhMxFmNMnjanumO0iXKgNOGwRq8ola2ovEGQ&s=10",
+    "nameen": "قناة شذى",
+    "position": "102",
+    "type": "channel",
+    "key": "aya_cx_tvالقنوات_المغربية"
+  },
+  {
+    "namear": "المغرب 24 M",
+    "servers": "[{\"license\":\"\",\"headers\":\"find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://m.youtube.com/@M24TV/live\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8dAxafd6uWyyCX_6NNxvutIOsaPfDPgleCsGxyd7q4w&s=10",
+    "nameen": "المغرب 24 M",
+    "position": "103",
+    "type": "channel",
+    "key": "aya_cx_tvالقنوات_المغربية"
+  },
+  {
+    "namear": "Reflet TV",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"A\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpCiJMrTSaVmoDgjl9znj0BRHaDfgwrwA-JPfzQ_diWQ&s",
+    "nameen": "Reflet TV",
+    "position": "2000",
+    "type": "channel",
+    "key": "aya_cx_tvالقنوات_المغربية"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "namear": "SSC HD1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SSC HD1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/play/live.php?mac\\u003d00:1A:79:54:A7:39\\u0026stream\\u003d184097\\u0026extension\\u003dts\\u0026play_token\\u003duUdqq5td8k\"}]",
+    "logo": "https://i.ibb.co/Sv0JrdG/1.png",
+    "nameen": "SSC HD1",
+    "position": "1",
+    "type": "channel",
+    "key": "ssc_sport"
+  },
+  {
+    "namear": "SSC HD2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SSC HD2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/play/live.php?mac\\u003d00:1A:79:54:A7:39\\u0026stream\\u003d184096\\u0026extension\\u003dts\\u0026play_token\\u003dba87Nvb6CA\"}]",
+    "logo": "https://i.ibb.co/xzSNJj4/2.png",
+    "nameen": "SSC HD2",
+    "position": "2",
+    "type": "channel",
+    "key": "ssc_sport"
+  },
+  {
+    "namear": "SSC HD3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SSC HD3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/play/live.php?mac\\u003d00:1A:79:54:A7:39\\u0026stream\\u003d184095\\u0026extension\\u003dts\\u0026play_token\\u003da84gD6JZUa\"}]",
+    "logo": "https://i.ibb.co/tm99M9v/3.png",
+    "nameen": "SSC HD3",
+    "position": "3",
+    "type": "channel",
+    "key": "ssc_sport"
+  },
+  {
+    "namear": "SSC HD4",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SSC HD4\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/play/live.php?mac\\u003d00:1A:79:54:A7:39\\u0026stream\\u003d184094\\u0026extension\\u003dts\\u0026play_token\\u003d24QXqIUlYF\"}]",
+    "logo": "https://i.ibb.co/cvxqWy9/4.png",
+    "nameen": "SSC HD4",
+    "position": "4",
+    "type": "channel",
+    "key": "ssc_sport"
+  },
+  {
+    "namear": "SSC HD5",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SSC HD5\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/play/live.php?mac\\u003d00:1A:79:54:A7:39\\u0026stream\\u003d184093\\u0026extension\\u003dts\\u0026play_token\\u003dy8e168yp4b\"}]",
+    "logo": "https://i.ibb.co/GdKQ4mN/5.png",
+    "nameen": "SSC HD5",
+    "position": "5",
+    "type": "channel",
+    "key": "ssc_sport"
+  },
+  {
+    "namear": "SSC HD6",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SSC HD6\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/play/live.php?mac\\u003d00:1A:79:54:A7:39\\u0026stream\\u003d184098\\u0026extension\\u003dts\\u0026play_token\\u003dIsmRmViXIi\"}]",
+    "logo": "https://i.ibb.co/0ZCQn0c/6.png",
+    "nameen": "SSC HD6",
+    "position": "6",
+    "type": "channel",
+    "key": "ssc_sport"
+  }
+]

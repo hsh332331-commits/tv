@@ -1,0 +1,38 @@
+[
+  {
+    "namear": "DIGI Sport 1",
+    "servers": "[{\"headers\":\"Rruser-Agent|Rruser-Agent|Rruser-Agent|Rr\",\"otherHeaders\":\"\",\"name\":\"DIGI Sport 1\",\"Referer\":\"\",\"userAgent\":\"Rruser-Agent|Rr\",\"position\":\"0\",\"url\":\"http://84.17.61.203:8086/udp/229.35.15.121:1234\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/25935583_ico.png",
+    "nameen": "DIGI Sport 1",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrardigi_sports"
+  },
+  {
+    "namear": "DIGI Sport 2",
+    "servers": "[{\"headers\":\"Dduser-Agent|Dduser-Agent|Dduser-Agent|Dd\",\"otherHeaders\":\"\",\"name\":\"DIGI Sport 2\",\"Referer\":\"\",\"userAgent\":\"Dduser-Agent|Dd\",\"position\":\"0\",\"url\":\"http://84.17.61.203:8086/udp/229.35.15.105:1234\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/25935589_ico.png",
+    "nameen": "DIGI Sport 2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrardigi_sports"
+  },
+  {
+    "namear": "DIGI Sport 3",
+    "servers": "[{\"headers\":\"Gguser-Agent|Gguser-Agent|Gguser-Agent|Gg\",\"otherHeaders\":\"\",\"name\":\"DIGI Sport 3\",\"Referer\":\"\",\"userAgent\":\"Gguser-Agent|Gg\",\"position\":\"0\",\"url\":\"http://84.17.61.203:8086/udp/229.35.15.108:1234\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/25935597_ico.png",
+    "nameen": "DIGI Sport 3",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrardigi_sports"
+  },
+  {
+    "namear": "DIGI Sport 4",
+    "servers": "[{\"headers\":\"Dduser-Agent|Dduser-Agent|Dduser-Agent|Dd\",\"otherHeaders\":\"\",\"name\":\"DIGI Sport 4\",\"Referer\":\"\",\"userAgent\":\"Dduser-Agent|Dd\",\"position\":\"0\",\"url\":\"http://84.17.61.203:8086/udp/229.35.15.151:1234\"}]",
+    "logo": "R.drawable.app_icon",
+    "nameen": "DIGI Sport 4",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrardigi_sports"
+  }
+]

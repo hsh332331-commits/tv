@@ -1,0 +1,83 @@
+[
+  {
+    "namear": "BeIN",
+    "servers": "[{\"headers\":\"Referer|https://www.yariga.live/|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|https://www.yariga.live\",\"otherHeaders\":\"https://www.yariga.live\",\"name\":\"Bein 1\",\"Referer\":\"https://www.yariga.live/\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://4char.site/upload/images/logo1.m3u8\"},{\"headers\":\"Referer|https://m1.livehd7xc.com/|\",\"otherHeaders\":\"\",\"name\":\"BeIN1\",\"Referer\":\"https://m1.livehd7xc.com/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://w2.kora28.com/broadcast/dqUZ8ta-7OS0oBMusVsduQ/1706819202/1706818941/0/bein01.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeJT97og9aOugPAjkc-oF9uQbnDY5A6c8LfA&usqp=CAU",
+    "nameen": "BeIN",
+    "position": "0",
+    "type": "channel",
+    "key": "live_event_sports"
+  },
+  {
+    "namear": "BeIN 2",
+    "servers": "[{\"headers\":\"Referer|https://www.yariga.live/|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|https://www.yariga.live\",\"otherHeaders\":\"https://www.yariga.live\",\"name\":\"\",\"Referer\":\"https://www.yariga.live/\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://4char.site/upload/images/logo2.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeJT97og9aOugPAjkc-oF9uQbnDY5A6c8LfA&usqp=CAU",
+    "nameen": "BeIN 2",
+    "position": "1",
+    "type": "channel",
+    "key": "live_event_sports"
+  },
+  {
+    "namear": "BeIN 3",
+    "servers": "[{\"headers\":\"Referer|https://www.yariga.live/|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|https://www.yariga.live\",\"otherHeaders\":\"https://www.yariga.live\",\"name\":\"Bein3\",\"Referer\":\"https://www.yariga.live/\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://4char.site/upload/images/logo3.m3u8\"},{\"headers\":\"Referer|https://bein-match.net/|\",\"otherHeaders\":\"\",\"name\":\"BeIN\",\"Referer\":\"https://bein-match.net/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://w2.kora28.com/broadcast/dqUZ8ta-7OS0oBMusVsduQ/1706819202/1706818941/0/bein03.m3u8\"},{\"headers\":\"Referer|https://m1.livehd7xc.com/|\",\"otherHeaders\":\"\",\"name\":\"BeIN3\",\"Referer\":\"https://m1.livehd7xc.com/\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://cdn1.livehd720.com/hlsbein3/ben/mono.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeJT97og9aOugPAjkc-oF9uQbnDY5A6c8LfA&usqp=CAU",
+    "nameen": "BeIN 3",
+    "position": "2",
+    "type": "channel",
+    "key": "live_event_sports"
+  },
+  {
+    "namear": "BeIN 4",
+    "servers": "[{\"headers\":\"Referer|https://www.yariga.live/|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|https://www.yariga.live\",\"otherHeaders\":\"https://www.yariga.live\",\"name\":\"\",\"Referer\":\"https://www.yariga.live/\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://4char.site/upload/images/logo4.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeJT97og9aOugPAjkc-oF9uQbnDY5A6c8LfA&usqp=CAU",
+    "nameen": "BeIN 4",
+    "position": "3",
+    "type": "channel",
+    "key": "live_event_sports"
+  },
+  {
+    "namear": "BeIN 5",
+    "servers": "[{\"headers\":\"Referer|https://www.yariga.live/|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|https://www.yariga.live\",\"otherHeaders\":\"https://www.yariga.live\",\"name\":\"SD\",\"Referer\":\"https://www.yariga.live/\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://4char.site/upload/images/logo5.m3u8\"},{\"headers\":\"Referer|https://yalla-shoots.tv/|\",\"otherHeaders\":\"\",\"name\":\"HD\",\"Referer\":\"https://yalla-shoots.tv/\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://b2.bath003.site/watch/vkiUR2etRzMf-KWRemECCw/1705176180/1705176434/1/b5_1.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeJT97og9aOugPAjkc-oF9uQbnDY5A6c8LfA&usqp=CAU",
+    "nameen": "BeIN 5",
+    "position": "4",
+    "type": "channel",
+    "key": "live_event_sports"
+  },
+  {
+    "namear": "BeIN 6",
+    "servers": "[{\"headers\":\"Referer|https://www.yariga.live/|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|https://www.yariga.live\",\"otherHeaders\":\"https://www.yariga.live\",\"name\":\"\",\"Referer\":\"https://www.yariga.live/\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://4char.site/upload/images/logo6.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeJT97og9aOugPAjkc-oF9uQbnDY5A6c8LfA&usqp=CAU",
+    "nameen": "BeIN 6",
+    "position": "5",
+    "type": "channel",
+    "key": "live_event_sports"
+  },
+  {
+    "namear": "AD SPORT",
+    "servers": "[{\"headers\":\"Referer|https://www.yariga.live/|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|https://www.yariga.live\",\"otherHeaders\":\"https://www.yariga.live\",\"name\":\"\",\"Referer\":\"https://www.yariga.live/\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://4char.site/upload/images/logo7.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeJT97og9aOugPAjkc-oF9uQbnDY5A6c8LfA&usqp=CAU",
+    "nameen": "AD SPORT",
+    "position": "6",
+    "type": "channel",
+    "key": "live_event_sports"
+  },
+  {
+    "namear": "Ssc 1",
+    "servers": "[{\"headers\":\"Referer|https://www.yariga.live/|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|https://www.yariga.live\",\"otherHeaders\":\"https://www.yariga.live\",\"name\":\"\",\"Referer\":\"https://www.yariga.live/\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://4char.site/upload/images/logo8.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeJT97og9aOugPAjkc-oF9uQbnDY5A6c8LfA&usqp=CAU",
+    "nameen": "Ssc1",
+    "position": "7",
+    "type": "channel",
+    "key": "live_event_sports"
+  },
+  {
+    "namear": "Idman",
+    "servers": "[{\"headers\":\"Referer|https://www.yariga.live/|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|https://www.yariga.live\",\"otherHeaders\":\"https://www.yariga.live\",\"name\":\"\",\"Referer\":\"https://www.yariga.live/\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"0\",\"url\":\"https://4char.site/upload/images/logo0.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeJT97og9aOugPAjkc-oF9uQbnDY5A6c8LfA&usqp=CAU",
+    "nameen": "Idman",
+    "position": "9",
+    "type": "channel",
+    "key": "live_event_sports"
+  }
+]

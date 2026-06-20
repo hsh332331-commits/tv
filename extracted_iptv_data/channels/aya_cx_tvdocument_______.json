@@ -1,0 +1,236 @@
+[
+  {
+    "namear": "LOVE NATURE",
+    "servers": "[{\"license\":\"\",\"headers\":\"find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"isWeb\":\"false\",\"name\":\"MULTI\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://m.youtube.com/@lovenature/live\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTikYDcwk9HKcBWTd5YAVo6TsX-V3X_ER3djUqo4wqbsA&s=10",
+    "nameen": "LOVE NATURE",
+    "position": "7",
+    "type": "channel",
+    "key": "aya_cx_tvdocument_وثائقي"
+  },
+  {
+    "namear": "GZT TV",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE3zLsgJlZg05xZqFcxJpJaGJCa_qhJcx6FD1niKi2_g&s",
+    "nameen": "GZT TV",
+    "position": "22",
+    "type": "channel",
+    "key": "aya_cx_tvdocument_وثائقي"
+  },
+  {
+    "namear": "BBC Earth",
+    "servers": "[{\"license\":\"\",\"headers\":\"find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"isWeb\":\"false\",\"name\":\"multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://m.youtube.com/@bbcearth/live\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKxi5dowSx5nPQf3vv2IS_nJSTHbL8CnCqxUkNo9Lt2w&s=10",
+    "nameen": "BBC Earth",
+    "position": "19",
+    "type": "channel",
+    "key": "aya_cx_tvdocument_وثائقي"
+  },
+  {
+    "namear": "Gem Nature",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url\\u003dhttps://ca-rt.onetv.app/gemnature/index-0.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY0SZtPaukptE_DZfX-G41iGwMVq6ea6lyokS1aR_SCg&s=10",
+    "nameen": "Gem Nature",
+    "position": "21",
+    "type": "channel",
+    "key": "aya_cx_tvdocument_وثائقي"
+  },
+  {
+    "namear": "جوغرافيك",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"MULTI 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"MULTI 4\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"4\",\"url\":\"https://vo-live-media.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/DASH/master.mpd\"},{\"license\":\"1ba94b93b39ab809b587237d7b60a049:e0f94dbfbf9e6e45c9567a7b50eb612c\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"MULTI 3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"3\",\"url\":\"https://akmrwb-live.cdn.intigral-ott.net/NGO/NGO.isml/manifest.mpd\"},{\"license\":\"b1e2ae3754ced9e9258a8df46d261390:bc42486b5253920abdd0cb3e727852f5\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"MULTI 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"https://akmrwb-live.cdn.intigral-ott.net/NGAD/NGAD.isml/manifest.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBa9UA-XFKL4jrTLm7k_qAFQXxSEqUumI7F3H6IPp24w&s=10",
+    "nameen": "جوغرافيك",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvdocument_وثائقي"
+  },
+  {
+    "namear": "Relaxing Nuture",
+    "servers": "[{\"license\":\"\",\"headers\":\"find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://m.youtube.com/@@animals-world/live\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTygkxoD3rus7UUw7I0YQ7rOBfi88gyWS41XY86hTi4Sg&s",
+    "nameen": "Relaxing Nuture",
+    "position": "16",
+    "type": "channel",
+    "key": "aya_cx_tvdocument_وثائقي"
+  },
+  {
+    "namear": "Discovery Australia",
+    "servers": "[{\"license\":\"\",\"headers\":\"find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://m.youtube.com/@DiscoveryAustralia/live\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR9sz9h2I54IBpi2B6zWdlWGIILyXsjop3iasq0eUsnw&s=10",
+    "nameen": "Discovery Australia",
+    "position": "16",
+    "type": "channel",
+    "key": "aya_cx_tvdocument_وثائقي"
+  },
+  {
+    "namear": "WORLD HD",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8\"}]",
+    "logo": ".",
+    "nameen": "WORLD HD",
+    "position": "6",
+    "type": "channel",
+    "key": "aya_cx_tvdocument_وثائقي"
+  },
+  {
+    "namear": "Explore Africa",
+    "servers": "[{\"license\":\"\",\"headers\":\"find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://m.youtube.com/@ExploreAfrica/live\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRit0YHrlL4cxfCRngJPS6FoiZeil3NihjqTUidSYEBIA&s=10",
+    "nameen": "Explore Africa",
+    "position": "17",
+    "type": "channel",
+    "key": "aya_cx_tvdocument_وثائقي"
+  },
+  {
+    "namear": "Persiana Docs",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://scihls.persiana.live/hls/stream.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnj5wtk21BQ6EILydShGZ3HmiUlTE9EHrWEwtulkrg&s=10",
+    "nameen": "Persiana Docs",
+    "position": "18",
+    "type": "channel",
+    "key": "aya_cx_tvdocument_وثائقي"
+  },
+  {
+    "namear": "Explore live",
+    "servers": "[{\"license\":\"\",\"headers\":\"find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://m.youtube.com/@ExploreLiveNatureCams/live\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPg8pgnoEKHOxKg2aRCbMyaX7cSoAbPFrvFQWWuCW0Q&s=10",
+    "nameen": "Explore live",
+    "position": "18",
+    "type": "channel",
+    "key": "aya_cx_tvdocument_وثائقي"
+  },
+  {
+    "namear": "LA 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"user-agent|Mozilla|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"La2\",\"Referer\":\"\",\"userAgent\":\"Mozilla\",\"position\":\"\",\"url\":\"https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC_jkRUcd3GAZ0Ud3ExRUs1QferrHwTI22fFFOD1Vj_A&s=10",
+    "nameen": "LA 2",
+    "position": "20",
+    "type": "channel",
+    "key": "aya_cx_tvdocument_وثائقي"
+  },
+  {
+    "namear": "CS History",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://media.joj.sk/|origin|https://media.joj.sk\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://media.joj.sk\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"https://media.joj.sk/\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://live.cdn.joj.sk/live/andromeda/cs_history-720.m3u8\"}]",
+    "logo": "https://i.imgur.com/cltzGd4.png",
+    "nameen": "CS History",
+    "position": "18",
+    "type": "channel",
+    "key": "aya_cx_tvdocument_وثائقي"
+  },
+  {
+    "namear": "Discovery tv",
+    "servers": "[{\"license\":\"\",\"headers\":\"find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://m.youtube.com/@@discovery/live\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmjwfxVfDXFVUVhzUzaEfWqI_uw9xzP-BLJMnrxlqGXw&s=10",
+    "nameen": "Discovery tv",
+    "position": "20",
+    "type": "channel",
+    "key": "aya_cx_tvdocument_وثائقي"
+  },
+  {
+    "namear": "BBC Four UK",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkNqHCyRRFivlf5JhPhPBSyRnGGNbxg7M-qA29el3Sbw&s=10",
+    "nameen": "BBC Four UK",
+    "position": "17",
+    "type": "channel",
+    "key": "aya_cx_tvdocument_وثائقي"
+  },
+  {
+    "namear": "Al-sharq Discovery",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"240 P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://svs.itworkscdn.net:443/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_240p/chunks.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"720 P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://svs.itworkscdn.net:443/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_720p/chunks.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1080 P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://svs.itworkscdn.net:443/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_source/chunks.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"MULTI\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"480 P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://svs.itworkscdn.net:443/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_480p/chunks.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2NSHTTNPU_XUt_iCNhWiNatZe1czircDSxjepEXqPuQ&s=10",
+    "nameen": "Al-sharq Discovery",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvdocument_وثائقي"
+  },
+  {
+    "namear": "EPlanet Tv",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://eplhls.wns.live/hls/stream.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5OcvWTinb6w7L6DSI7JqlBSCDPSV_p4ic5c_AddrpOA&s",
+    "nameen": "EPlanet Tv",
+    "position": "24",
+    "type": "channel",
+    "key": "aya_cx_tvdocument_وثائقي"
+  },
+  {
+    "namear": "الجزيرة الوثائقية",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"720 P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"https://live-hls-apps-ajd-fa.getaj.net/AJD/02.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"MULTI 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1080 P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://live-hls-apps-ajd-fa.getaj.net/AJD/01.m3u8\"},{\"license\":\"\",\"headers\":\"find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"isWeb\":\"false\",\"name\":\"🔴 YOUTUBE\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"99\",\"url\":\"https://m.youtube.com/@aljazeeradocumentary/live\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"240 P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"6\",\"url\":\"https://live-hls-apps-ajd-fa.getaj.net/AJD/06.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"420 P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"4\",\"url\":\"https://live-hls-apps-ajd-fa.getaj.net/AJD/04.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"360 P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"5\",\"url\":\"https://live-hls-apps-ajd-fa.getaj.net/AJD/05.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"540 P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"3\",\"url\":\"https://live-hls-apps-ajd-fa.getaj.net/AJD/03.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo6oIqwujEdEiag2q9bgzgjKouWvAJ25uq879taS3fOg&s=10",
+    "nameen": "الجزيرة الوثائقية",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvdocument_وثائقي"
+  },
+  {
+    "namear": "The Nest Tv",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnAD4ejdNqEbA4pkwaoROtFCxvyEmdDi8IEApIgYp3Ag&s=10",
+    "nameen": "The Nest Tv",
+    "position": "17",
+    "type": "channel",
+    "key": "aya_cx_tvdocument_وثائقي"
+  },
+  {
+    "namear": "Fashion TV",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"480 P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://edge-fast3.evrideo.tv:443/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_480854_p_0.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"MULTI 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"720 P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://edge-fast3.evrideo.tv:443/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_7201280_p_0.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"144 P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://edge-fast3.evrideo.tv:443/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_144256_p_0.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"MULTI 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"240 P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://edge-fast3.evrideo.tv:443/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_240426_p_0.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"360 P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://edge-fast3.evrideo.tv:443/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_360640_p_0.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1080 P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://edge-fast3.evrideo.tv:443/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8\"}]",
+    "logo": "https://play-lh.googleusercontent.com/SO05Jsh-ONrtRXa_5eOa15AzjrFCKNNPKlBMK1Prv_-meYXAV5F5eK15iJTGbY2ULBM",
+    "nameen": "Fashion TV",
+    "position": "6",
+    "type": "channel",
+    "key": "aya_cx_tvdocument_وثائقي"
+  },
+  {
+    "namear": "Fosion TV",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKiNWANSWYZ9K0Ywfbna6YuczxX63Hl8IpgQIjDBLcmg&s=10",
+    "nameen": "Fosion TV",
+    "position": "23",
+    "type": "channel",
+    "key": "aya_cx_tvdocument_وثائقي"
+  },
+  {
+    "namear": "DOCOBOX HD",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://iptv.prosto.tv:7000/ch93/video.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg9FN2sp8zAzpi-iAk4uaFmQFmVYG5Gt-A-ZaK9N8Sjg&s=10",
+    "nameen": "DOCOBOX HD",
+    "position": "9",
+    "type": "channel",
+    "key": "aya_cx_tvdocument_وثائقي"
+  },
+  {
+    "namear": "Discovery Relaxation",
+    "servers": "[{\"license\":\"\",\"headers\":\"find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://m.youtube.com/@discoveryrelaxation3457/live\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIeKbVYM2ebfsEy8UVFPN7QpAOze42DtKSuxUkWwgXpA&s",
+    "nameen": "Discovery Relaxation",
+    "position": "15",
+    "type": "channel",
+    "key": "aya_cx_tvdocument_وثائقي"
+  },
+  {
+    "namear": "NASA",
+    "servers": "[{\"license\":\"\",\"headers\":\"find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://m.youtube.com/@NASA/live\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ9IKTa9HWpDDk_2LIVKpQLTih-gh6bH5h3ibbNsmvag&s=10",
+    "nameen": "NASA",
+    "position": "17",
+    "type": "channel",
+    "key": "aya_cx_tvdocument_وثائقي"
+  },
+  {
+    "namear": "ويلد",
+    "servers": "[{\"license\":\"276e56bc14095f327bbf0c936eb7b38c:63127eaddb18c596db05657424849519\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"MULTI\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://akmrwb-live.cdn.intigral-ott.net/NHD/NHD.isml/manifest.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr_wiklg3ponKeOIY0YmeEBAeSqHzCE33txyU2Rt6oBQ&s=10",
+    "nameen": "ويلد",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvdocument_وثائقي"
+  },
+  {
+    "namear": "DW Arabic",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmUBQhpqn0Wr6WvxT1844NUFp9MAV2TTyOaI4pYHC1EQ&s=10",
+    "nameen": "DW Arabic",
+    "position": "19",
+    "type": "channel",
+    "key": "aya_cx_tvdocument_وثائقي"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "namear": "FAN1",
+    "servers": "[{\"headers\":\"\",\"license\":\"7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRsbvCDzYfdfm7JiosS4eyBi0TmJa68lvB6besYGFOQ&s=10",
+    "nameen": "FAN1",
+    "position": "0",
+    "type": "channel",
+    "key": "fancode_sport"
+  },
+  {
+    "namear": "FAN2",
+    "servers": "[{\"headers\":\"\",\"license\":\"5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRsbvCDzYfdfm7JiosS4eyBi0TmJa68lvB6besYGFOQ&s=10",
+    "nameen": "FAN2",
+    "position": "1",
+    "type": "channel",
+    "key": "fancode_sport"
+  },
+  {
+    "namear": "FAN3",
+    "servers": "[{\"headers\":\"\",\"license\":\"065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRsbvCDzYfdfm7JiosS4eyBi0TmJa68lvB6besYGFOQ&s=10",
+    "nameen": "FAN3",
+    "position": "2",
+    "type": "channel",
+    "key": "fancode_sport"
+  }
+]

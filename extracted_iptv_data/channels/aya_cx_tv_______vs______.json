@@ -1,0 +1,29 @@
+[
+  {
+    "namear": "للانترنت ضعيف",
+    "servers": "[{\"license\":\"\",\"headers\":\"find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"isWeb\":\"false\",\"name\":\"Low Net\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://youtube.com/live/wFpAEu2CsAQ\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo5cVH7zRmikQML430t4jWWjEkOYKn2K6qokM5zstP-upVAoHovfe9UXk&s=10",
+    "nameen": "للانترنت ضعيف",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvالهلال_vs_النصر"
+  },
+  {
+    "namear": "البث الرئيسي",
+    "servers": "[{\"license\":\"\",\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36|find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"isWeb\":\"false\",\"name\":\"Multi 4K\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36\",\"position\":\"\",\"url\":\"https://youtube.com/live/wFpAEu2CsAQ\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo5cVH7zRmikQML430t4jWWjEkOYKn2K6qokM5zstP-upVAoHovfe9UXk&s=10",
+    "nameen": "البث الرئيسي",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvالهلال_vs_النصر"
+  },
+  {
+    "namear": "بث ثمانية 4K",
+    "servers": "[{\"license\":\"\",\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"بث ثمانية 4K\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36\",\"position\":\"\",\"url\":\"https://alibaba-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJtSE5UeHB4UjFRaHpQUTJlUFg0cUd5a0t2emgyIiwiY2hhbm5lbE5hbWUiOiJjaDAxIiwiaXAiOiIzLjIzOC4xODAuMTQ2IiwiaXBfdjQiOiIzLjIzOC4xODAuMTQ2IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTQzLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJuYmYiOjE3NjgyMzYyMTcsImV4cCI6MTc2ODI0NzAxNywiaWF0IjoxNzY4MjM2MjE3fQ.oN4zyyn0stW2OqCDaDAjhm3rdmyx-VBtoe36gTPNStc/live/ch01/index.m3u8?auth_key\\u003d1768236247-62f38fda06c54815adc679151f0d7680-0-f9bae00063eaa2b1d7beef854c2e002d\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo5cVH7zRmikQML430t4jWWjEkOYKn2K6qokM5zstP-upVAoHovfe9UXk&s=10",
+    "nameen": "بث ثمانية 4K",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvالهلال_vs_النصر"
+  }
+]

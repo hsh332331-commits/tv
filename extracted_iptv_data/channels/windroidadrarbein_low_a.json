@@ -1,0 +1,65 @@
+[
+  {
+    "namear": "beIN Pre 1 LW",
+    "servers": "[{\"headers\":\"ㅤyacineee55000user-Agent|ㅤyacineee55000user-Agent|ㅤyacineee55000user-Agent|ㅤyacineee55000\",\"otherHeaders\":\"\",\"name\":\"beIN Pre 1 LW\",\"Referer\":\"\",\"userAgent\":\"ㅤyacineee55000user-Agent|ㅤyacineee55000\",\"position\":\"0\",\"url\":\"https://lb.buy-global.store/live22/tw.m3u8?s\\u003daHR0cHM6Ly9wcm9kLWVjLWV1LXdlc3QtMy52aWRlby5wc2NwLnR2L1RyYW5zY29kaW5nL3YxL2hscy84d1hhRlU2WHlpeVlXNWRvYTdTRk55NFNnZlU4Z3FRY3p6Mm5QQ1JzWTFRdFZjZDc5MEtqVjVSeWdFZWR0Nm1CM3hIZ3NfYmtNWDFWYVRta1dVM0xKdy90cmFuc2NvZGUvZXUtd2VzdC0zL3BlcmlzY29wZS1yZXBsYXktZGlyZWN0LWxpdmUvZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0lzSW5abGNuTnBiMjRpT2lJeUluMC5leUpGYm1OdlpHVnlVMlYwZEdsdVp5STZJbVZ1WTI5a1pYSmZjMlYwZEdsdVoxOHpNakJ3TXpCZk1UQWlMQ0pJWldsbmFIUWlPak15TUN3aVMySndjeUk2TmpBd0xDSlVjbUZ1YzJOdlpHVkJkV1JwYnlJNmRISjFaU3dpVjJsa2RHZ2lPalUyT0gwLmVzX1hwTnYzSjEyaEZYVTRXckN3bUgyOEdtVG9ZQVBEUGRUX0VqZXJIQ1Uvc3RfZHluYW1pY19oaWdobGF0ZW5jeS5tM3U4P3R5cGU9bGl2ZQ%3D%3D\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4632659_ico.png",
+    "nameen": "beIN Pre 1 LW",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarbein_low_a"
+  },
+  {
+    "namear": "beIN Pre 2 LW",
+    "servers": "[{\"headers\":\"NSPlayer/9.0.0.3268user-Agent|NSPlayer/9.0.0.3268user-Agent|NSPlayer/9.0.0.3268user-Agent|NSPlayer/9.0.0.3268\",\"otherHeaders\":\"\",\"name\":\"beIN Pre 2 LW\",\"Referer\":\"\",\"userAgent\":\"NSPlayer/9.0.0.3268user-Agent|NSPlayer/9.0.0.3268\",\"position\":\"0\",\"url\":\"http://live2022.business:8080/tigeri330jo0775/61cc929756377/35777\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4632665_ico.png",
+    "nameen": "beIN Pre 2 LW",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarbein_low_a"
+  },
+  {
+    "namear": "beIN Pre 3 LW",
+    "servers": "[{\"headers\":\"NSPlayer/9.0.0.3268user-Agent|NSPlayer/9.0.0.3268user-Agent|NSPlayer/9.0.0.3268user-Agent|NSPlayer/9.0.0.3268\",\"otherHeaders\":\"\",\"name\":\"beIN Pre 3 LW\",\"Referer\":\"\",\"userAgent\":\"NSPlayer/9.0.0.3268user-Agent|NSPlayer/9.0.0.3268\",\"position\":\"0\",\"url\":\"http://live2022.business:8080/tigeri330jo0775/61cc929756377/35778\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4632673_ico.png",
+    "nameen": "beIN Pre 3 LW",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarbein_low_a"
+  },
+  {
+    "namear": "beIN 1 LOW",
+    "servers": "[{\"headers\":\"NSPlayer/9.0.0.3268user-Agent|NSPlayer/9.0.0.3268user-Agent|NSPlayer/9.0.0.3268user-Agent|NSPlayer/9.0.0.3268\",\"otherHeaders\":\"\",\"name\":\"beIN 1 LOW\",\"Referer\":\"\",\"userAgent\":\"NSPlayer/9.0.0.3268user-Agent|NSPlayer/9.0.0.3268\",\"position\":\"0\",\"url\":\"http://live2022.business:8080/tigeri330jo0775/61cc929756377/27100\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4632683_ico.png",
+    "nameen": "beIN 1 LOW",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarbein_low_a"
+  },
+  {
+    "namear": "beIN 2 LOW",
+    "servers": "[{\"headers\":\"fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbwuser-Agent|fldVXUttbw\",\"otherHeaders\":\"\",\"name\":\"beIN 2 LOW\",\"Referer\":\"\",\"userAgent\":\"fldVXUttbwuser-Agent|fldVXUttbw\",\"position\":\"0\",\"url\":\"http://live2022.business:8080/tigeri330jo0775/61cc929756377/27101\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4632689_ico.png",
+    "nameen": "beIN 2 LOW",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarbein_low_a"
+  },
+  {
+    "namear": "beIN 3 LOW",
+    "servers": "[{\"headers\":\"NSPlayer/9.0.0.3268user-Agent|NSPlayer/9.0.0.3268user-Agent|NSPlayer/9.0.0.3268user-Agent|NSPlayer/9.0.0.3268\",\"otherHeaders\":\"\",\"name\":\"beIN 3 LOW\",\"Referer\":\"\",\"userAgent\":\"NSPlayer/9.0.0.3268user-Agent|NSPlayer/9.0.0.3268\",\"position\":\"0\",\"url\":\"http://live2022.business:8080/tigeri330jo0775/61cc929756377/27102\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9094597_ico.png",
+    "nameen": "beIN 3 LOW",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarbein_low_a"
+  },
+  {
+    "namear": "beIN 4 LOW",
+    "servers": "[{\"headers\":\"ㅤyacineee55000user-Agent|ㅤyacineee55000user-Agent|ㅤyacineee55000user-Agent|ㅤyacineee55000\",\"otherHeaders\":\"\",\"name\":\"beIN 4 LOW\",\"Referer\":\"\",\"userAgent\":\"ㅤyacineee55000user-Agent|ㅤyacineee55000\",\"position\":\"0\",\"url\":\"https://lb.buy-global.store/live22/tw.m3u8?s\\u003daHR0cHM6Ly9wcm9kLWZhc3RseS1ldS13ZXN0LTMudmlkZW8ucHNjcC50di9UcmFuc2NvZGluZy92MS9obHMvZHJpbE9OYVJROUdvZkk0OGx0cEtzQmFWbUxHRUdtVXVXQTJjdjl3WFEwOE5CY2t3RFFrOVEyb2NaX2Q4ZGlMbGZqTDZGdktFd1hOUzg3eUY2WkdELWcvdHJhbnNjb2RlL2V1LXdlc3QtMy9wZXJpc2NvcGUtcmVwbGF5LWRpcmVjdC1wcm9kLWV1LXdlc3QtMy1wcml2YXRlL2V5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNJc0luWmxjbk5wYjI0aU9pSXlJbjAuZXlKRmJtTnZaR1Z5VTJWMGRHbHVaeUk2SW1WdVkyOWtaWEpmYzJWMGRHbHVaMTh5TWpSd016QmZNVEFpTENKSVpXbG5hSFFpT2pJeU5Dd2lTMkp3Y3lJNk16QXdMQ0pVY21GdWMyTnZaR1ZCZFdScGJ5STZkSEoxWlN3aVYybGtkR2dpT2pRd01IMC43YkpTVVZrQ0NXWTltdGF5SlRrSk96RjdTQnQwVy1mT2dtYVhPOS1Pam5NL3N0X2R5bmFtaWNfaGlnaGxhdGVuY3kubTN1OD90eXBlPWxpdmU\\u003d\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9094665_ico.png",
+    "nameen": "beIN 4 LOW",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarbein_low_a"
+  }
+]

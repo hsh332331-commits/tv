@@ -1,0 +1,38 @@
+[
+  {
+    "namear": "Rugby UK",
+    "servers": "[{\"headers\":\"\",\"license\":\"4751472d3ac45e95e44b5e75480e53de:5f989e3de354630ec7973980f129ed01\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/fapyi0fj1o/out/v1/6fe7ef7bb5de4033a2b202d9ca62151a/cenc.mpd\"}]",
+    "logo": "https://logowik.com/content/uploads/images/premier-sports8286.logowik.com.webp",
+    "nameen": "Rugby UK",
+    "position": "0",
+    "type": "channel",
+    "key": "première_tv"
+  },
+  {
+    "namear": "Première 1",
+    "servers": "[{\"headers\":\"\",\"license\":\"1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd\"}]",
+    "logo": "https://logowik.com/content/uploads/images/premier-sports8286.logowik.com.webp",
+    "nameen": "Première 1",
+    "position": "2",
+    "type": "channel",
+    "key": "première_tv"
+  },
+  {
+    "namear": "Premier2",
+    "servers": "[{\"headers\":\"\",\"license\":\"1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd\"}]",
+    "logo": "https://logowik.com/content/uploads/images/premier-sports8286.logowik.com.webp",
+    "nameen": "Premier2",
+    "position": "3",
+    "type": "channel",
+    "key": "première_tv"
+  },
+  {
+    "namear": "Seta",
+    "servers": "[{\"headers\":\"\",\"license\":\"8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuOuNOvPkw0ifxNdEd3xy-T7y36NsfW_wggJIBwqFNcQ&s=10",
+    "nameen": "Seta",
+    "position": "3",
+    "type": "channel",
+    "key": "première_tv"
+  }
+]

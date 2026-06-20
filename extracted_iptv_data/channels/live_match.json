@@ -1,0 +1,92 @@
+[
+  {
+    "namear": ". (Win Sports)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\". (Win Sports)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "nameen": ". (Win Sports)",
+    "position": "3",
+    "type": "channel",
+    "key": "live_match"
+  },
+  {
+    "namear": ". (Bein Sports)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\". (Bein Sports)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "nameen": ". (Bein Sports)",
+    "position": "4",
+    "type": "channel",
+    "key": "live_match"
+  },
+  {
+    "namear": ". (DAZN)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\". (DAZN)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "nameen": ". (DAZN)",
+    "position": "5",
+    "type": "channel",
+    "key": "live_match"
+  },
+  {
+    "namear": ". (TVP Sports)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\". (TVP Sports)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "nameen": ". (TVP Sports)",
+    "position": "6",
+    "type": "channel",
+    "key": "live_match"
+  },
+  {
+    "namear": ". (D Sports)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\". (D Sports)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "nameen": ". (D Sports)",
+    "position": "7",
+    "type": "channel",
+    "key": "live_match"
+  },
+  {
+    "namear": ". (Case TV)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\". (Case TV)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "nameen": ". (Case TV)",
+    "position": "8",
+    "type": "channel",
+    "key": "live_match"
+  },
+  {
+    "namear": ". (Tudn Sports)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\". (Tudn Sports)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "nameen": ". (Tudn Sports)",
+    "position": "9",
+    "type": "channel",
+    "key": "live_match"
+  },
+  {
+    "namear": "TV1",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://soccerball.st/s1.php\"}]",
+    "logo": "",
+    "nameen": "TV1",
+    "position": "9",
+    "type": "channel",
+    "key": "live_match"
+  },
+  {
+    "namear": "TV2",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8\"}]",
+    "logo": "",
+    "nameen": "TV2",
+    "position": "10",
+    "type": "channel",
+    "key": "live_match"
+  },
+  {
+    "namear": "TV5",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cp11.adabmedia.com/hls2/sport.m3u8\"}]",
+    "logo": "",
+    "nameen": "TV5",
+    "position": "13",
+    "type": "channel",
+    "key": "live_match"
+  }
+]

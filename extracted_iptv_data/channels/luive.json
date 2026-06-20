@@ -1,0 +1,2180 @@
+[
+  {
+    "namear": "Al Aoula",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Aoula\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/play/live.php?mac\\u003d00:1A:79:54:A7:39\\u0026stream\\u003d35573\\u0026extension\\u003dts\"}]",
+    "logo": "https://i.ibb.co/vVcYCSP/alaoula.png",
+    "nameen": "Al Aoula",
+    "position": "1",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "2M Maroc",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"2M Maroc\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/play/live.php?mac\\u003d00:1A:79:54:A7:39\\u0026stream\\u003d35572\\u0026extension\\u003dts\"}]",
+    "logo": "https://i.ibb.co/phL7h11/2m.png",
+    "nameen": "2M Maroc",
+    "position": "2",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "Arryadia",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Arryadia\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/play/live.php?mac\\u003d00:1A:79:54:A7:39\\u0026stream\\u003d35577\\u0026extension\\u003dts\"}]",
+    "logo": "https://i.ibb.co/KN4qdw1/arryadia.png",
+    "nameen": "Arryadia",
+    "position": "3",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "Arrabia",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Arrabia\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/play/live.php?mac\\u003d00:1A:79:54:A7:39\\u0026stream\\u003d35576\\u0026extension\\u003dts\"}]",
+    "logo": "https://i.ibb.co/MBfdGz6/athaqafia.png",
+    "nameen": "Arrabia",
+    "position": "4",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "Al Maghribiya",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Maghribiya\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/play/live.php?mac\\u003d00:1A:79:54:A7:39\\u0026stream\\u003d35575\\u0026extension\\u003dts\"}]",
+    "logo": "https://i.ibb.co/zsrkQ82/almaghribia.png",
+    "nameen": "Al Maghribiya",
+    "position": "5",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "Assadissa",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Assadissa\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/play/live.php?mac\\u003d00:1A:79:54:A7:39\\u0026stream\\u003d35578\\u0026extension\\u003dts\"}]",
+    "logo": "https://i.ibb.co/cb5bVYJ/assadissa.png",
+    "nameen": "Assadissa",
+    "position": "6",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "Medi1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Medi1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/play/live.php?mac\\u003d00:1A:79:54:A7:39\\u0026stream\\u003d35579\\u0026extension\\u003dts\"}]",
+    "logo": "https://i.ibb.co/G0BLnT0/medi1.png",
+    "nameen": "Medi1",
+    "position": "7",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "Tamazight",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Tamazight\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/play/live.php?mac\\u003d00:1A:79:54:A7:39\\u0026stream\\u003d35580\\u0026extension\\u003dts\"}]",
+    "logo": "https://i.ibb.co/kD1d4X2/tamazight.png",
+    "nameen": "Tamazight",
+    "position": "8",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "beIN News",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN News\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/393739\"}]",
+    "logo": "https://i.ibb.co/v1JjzqF/NEWS.png",
+    "nameen": "beIN News",
+    "position": "9",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "beINSPORTS",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beINSPORTS\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/393738\"}]",
+    "logo": "https://i.ibb.co/PDz9bxQ/B.png",
+    "nameen": "beINSPORTS",
+    "position": "10",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "beINpremiere1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beINpremiere1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/393741\"}]",
+    "logo": "https://i.ibb.co/jbXLSKL/PR1.png",
+    "nameen": "beINpremiere1",
+    "position": "11",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "beINpremiere2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beINpremiere2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/393742\"}]",
+    "logo": "https://i.ibb.co/mHKSmnY/PR2.png",
+    "nameen": "beINpremiere2",
+    "position": "12",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "beINpremiere3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beINpremiere3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/393743\"}]",
+    "logo": "https://i.ibb.co/WHLG1Xm/PR3.png",
+    "nameen": "beINpremiere3",
+    "position": "13",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "beIN Sport HD1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sport HD1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/393744\"}]",
+    "logo": "https://i.ibb.co/hFJ4tVp/B1.png",
+    "nameen": "beIN Sport HD1",
+    "position": "14",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "beIN Sport HD2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sport HD2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/393750\"}]",
+    "logo": "https://i.ibb.co/sQ1kkFW/B2.png",
+    "nameen": "beIN Sport HD2",
+    "position": "15",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "beIN Sport HD3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sport HD3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/393745\"}]",
+    "logo": "https://i.ibb.co/16HSXsv/B3.png",
+    "nameen": "beIN Sport HD3",
+    "position": "16",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "beIN Sport HD4",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sport HD4\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/393746\"}]",
+    "logo": "https://i.ibb.co/WPgYYfL/B4.png",
+    "nameen": "beIN Sport HD4",
+    "position": "17",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "beIN Sport HD5",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sport HD5\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/393747\"}]",
+    "logo": "https://i.ibb.co/tLxnycZ/B5.png",
+    "nameen": "beIN Sport HD5",
+    "position": "18",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "TF1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TF1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36165\"}]",
+    "logo": "https://i.ibb.co/Y85WVx8/TF1.png",
+    "nameen": "TF1",
+    "position": "19",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "FRANCE 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"FRANCE 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36181\"}]",
+    "logo": "https://i.ibb.co/hZV0JfQ/FR2.png",
+    "nameen": "FRANCE 2",
+    "position": "20",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "FRANCE 3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"FRANCE 3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36182\"}]",
+    "logo": "https://i.ibb.co/ZVshCh5/FR3.png",
+    "nameen": "FRANCE 3",
+    "position": "21",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "FRANCE 4",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"FRANCE 4\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36183\"}]",
+    "logo": "https://i.ibb.co/j4L7WXm/FR4.png",
+    "nameen": "FRANCE 4",
+    "position": "22",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "FRANCE 5",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"FRANCE 5\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36184\"}]",
+    "logo": "https://i.ibb.co/K2hk0S9/FR5.png",
+    "nameen": "FRANCE 5",
+    "position": "23",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "M6",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"M6\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36189\"}]",
+    "logo": "https://i.ibb.co/7gZRnSH/M6.png",
+    "nameen": "M6",
+    "position": "24",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "C8",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"C8\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36191\"}]",
+    "logo": "https://i.ibb.co/v4s8vcL/C8.png",
+    "nameen": "C8",
+    "position": "25",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "W9",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"W9\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36188\"}]",
+    "logo": "https://i.ibb.co/4t3CGJR/W9.png",
+    "nameen": "W9",
+    "position": "26",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "TF1 S&F",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TF1 S\\u0026F\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/491\"}]",
+    "logo": "https://i.ibb.co/Mk3YQwB/TF1-S-F.png",
+    "nameen": "TF1 S&F",
+    "position": "27",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "RTL9",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"RTL9\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36195\"}]",
+    "logo": "https://i.ibb.co/mBjd1fq/RTL9.png",
+    "nameen": "RTL9",
+    "position": "28",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "TFX",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TFX\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36187\"}]",
+    "logo": "https://i.ibb.co/ZhC07Qx/TFX.png",
+    "nameen": "TFX",
+    "position": "29",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "Canal+",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Canal+\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36225\"}]",
+    "logo": "https://i.ibb.co/hCWFxYJ/CANAL.png",
+    "nameen": "Canal+",
+    "position": "30",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "C DECALE",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"C DECALE\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36227\"}]",
+    "logo": "https://i.ibb.co/FzJnQ7z/CANAL-DECALE.png",
+    "nameen": "C DECALE",
+    "position": "31",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "C CINEMA",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"C CINEMA\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36226\"}]",
+    "logo": "https://i.ibb.co/1b29cjs/CANAL-CINEMA.png",
+    "nameen": "C CINEMA",
+    "position": "32",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "C FAMILY",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"C FAMILY\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36228\"}]",
+    "logo": "https://i.ibb.co/hW2KNbN/CANAL-FAMILY.png",
+    "nameen": "C FAMILY",
+    "position": "33",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "C SERIES",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"C SERIES\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36229\"}]",
+    "logo": "https://i.ibb.co/2hMKvwc/CANAL-SERIES.png",
+    "nameen": "C SERIES",
+    "position": "34",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "C SPORTS",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"C SPORTS\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/308030\"}]",
+    "logo": "https://i.ibb.co/p0tST3t/CANAL-SPORTS.png",
+    "nameen": "C SPORTS",
+    "position": "35",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "CINE-PREMIER",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CINE-PREMIER\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36230\"}]",
+    "logo": "https://i.ibb.co/6Pt9Sm7/CINE-PRM.png",
+    "nameen": "CINE-PREMIER",
+    "position": "36",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "C FRISSON",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"C FRISSON\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36231\"}]",
+    "logo": "https://i.ibb.co/6BVDZjJ/CINE-FRISSON.png",
+    "nameen": "C FRISSON",
+    "position": "37",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "CINE-FAMIZ",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CINE-FAMIZ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36233\"}]",
+    "logo": "https://i.ibb.co/9T1PcvR/CINE-FAMIZ.png",
+    "nameen": "CINE-FAMIZ",
+    "position": "38",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "C EMOTION",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"C EMOTION\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36232\"}]",
+    "logo": "https://i.ibb.co/fG1G0Ym/CINE-EMOTION.png",
+    "nameen": "C EMOTION",
+    "position": "39",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "OCS-CITY",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"OCS-CITY\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36239\"}]",
+    "logo": "https://i.ibb.co/HrMz13N/OCS-CITY.png",
+    "nameen": "OCS-CITY",
+    "position": "40",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "OCS-MAX",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"OCS-MAX\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36238\"}]",
+    "logo": "https://i.ibb.co/56jh7hW/OCS-MAX.png",
+    "nameen": "OCS-MAX",
+    "position": "41",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "OSC-CHOC",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"OSC-CHOC\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36240\"}]",
+    "logo": "https://i.ibb.co/3BPxmQ7/OCS-CHOC.png",
+    "nameen": "OSC-CHOC",
+    "position": "42",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "OSC-GEANT",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"OSC-GEANT\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36241\"}]",
+    "logo": "https://i.ibb.co/F0CrNhv/OCS-GEANT.png",
+    "nameen": "OSC-GEANT",
+    "position": "43",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "ACTION",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ACTION\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36244\"}]",
+    "logo": "https://i.ibb.co/d2D09Dy/ACTION.png",
+    "nameen": "ACTION",
+    "position": "44",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "AB1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AB1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/1526\"}]",
+    "logo": "https://i.ibb.co/D1cTYRx/AB1.png",
+    "nameen": "AB1",
+    "position": "45",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "ARTE",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ARTE\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36266\"}]",
+    "logo": "https://i.ibb.co/QjT9VDn/ARTE.png",
+    "nameen": "ARTE",
+    "position": "46",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "TV BREZH",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TV BREZH\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/976\"}]",
+    "logo": "https://i.ibb.co/qkCf4Ct/TV-BREIZH.png",
+    "nameen": "TV BREZH",
+    "position": "47",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "beiNSPORTSHD1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beiNSPORTSHD1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36207\"}]",
+    "logo": "https://i.ibb.co/30qM52s/BFR1.png",
+    "nameen": "beiNSPORTSHD1",
+    "position": "48",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "beiNSPORTSHD2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beiNSPORTSHD2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/36208\"}]",
+    "logo": "https://i.ibb.co/ggch4tD/BFR2.png",
+    "nameen": "beiNSPORTSHD2",
+    "position": "49",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "beIN News",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN News\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/393739\"}]",
+    "logo": "https://i.ibb.co/v1JjzqF/NEWS.png",
+    "nameen": "beIN News",
+    "position": "50",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "beINSPORTS",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beINSPORTS\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/330708\"}]",
+    "logo": "https://i.ibb.co/PDz9bxQ/B.png",
+    "nameen": "beINSPORTS",
+    "position": "51",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "beINpremiere1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beINpremiere1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/329327\"}]",
+    "logo": "https://i.ibb.co/jbXLSKL/PR1.png",
+    "nameen": "beINpremiere1",
+    "position": "52",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "beINpremiere2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beINpremiere2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/329328\"}]",
+    "logo": "https://i.ibb.co/mHKSmnY/PR2.png",
+    "nameen": "beINpremiere2",
+    "position": "53",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "beINpremiere3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beINpremiere3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/329329\"}]",
+    "logo": "https://i.ibb.co/WHLG1Xm/PR3.png",
+    "nameen": "beINpremiere3",
+    "position": "54",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "beIN Sport HD1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sport HD1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/329330\"}]",
+    "logo": "https://i.ibb.co/hFJ4tVp/B1.png",
+    "nameen": "beIN Sport HD1",
+    "position": "55",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "beIN Sport HD2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sport HD2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/329331\"}]",
+    "logo": "https://i.ibb.co/sQ1kkFW/B2.png",
+    "nameen": "beIN Sport HD2",
+    "position": "56",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "beIN Sport HD3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sport HD3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/329332\"}]",
+    "logo": "https://i.ibb.co/16HSXsv/B3.png",
+    "nameen": "beIN Sport HD3",
+    "position": "57",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "beIN Sport HD4",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sport HD4\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/329333\"}]",
+    "logo": "https://i.ibb.co/WPgYYfL/B4.png",
+    "nameen": "beIN Sport HD4",
+    "position": "58",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "beIN Sport HD5",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sport HD5\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/329334\"}]",
+    "logo": "https://i.ibb.co/tLxnycZ/B5.png",
+    "nameen": "beIN Sport HD5",
+    "position": "59",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "beIN News",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN News\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/393739\"}]",
+    "logo": "https://i.ibb.co/v1JjzqF/NEWS.png",
+    "nameen": "beIN News",
+    "position": "60",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "beINSPORTS",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beINSPORTS\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/330708\"}]",
+    "logo": "https://i.ibb.co/PDz9bxQ/B.png",
+    "nameen": "beINSPORTS",
+    "position": "61",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "beINpremiere1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beINpremiere1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/438627\"}]",
+    "logo": "https://i.ibb.co/jbXLSKL/PR1.png",
+    "nameen": "beINpremiere1",
+    "position": "62",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "beINpremiere2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beINpremiere2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/438628\"}]",
+    "logo": "https://i.ibb.co/mHKSmnY/PR2.png",
+    "nameen": "beINpremiere2",
+    "position": "63",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "beINpremiere3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beINpremiere3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/438629\"}]",
+    "logo": "https://i.ibb.co/WHLG1Xm/PR3.png",
+    "nameen": "beINpremiere3",
+    "position": "64",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "beIN Sport HD1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sport HD1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/438630\"}]",
+    "logo": "https://i.ibb.co/hFJ4tVp/B1.png",
+    "nameen": "beIN Sport HD1",
+    "position": "65",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "beIN Sport HD2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sport HD2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/438631\"}]",
+    "logo": "https://i.ibb.co/sQ1kkFW/B2.png",
+    "nameen": "beIN Sport HD2",
+    "position": "66",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "beIN Sport HD3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sport HD3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/438632\"}]",
+    "logo": "https://i.ibb.co/16HSXsv/B3.png",
+    "nameen": "beIN Sport HD3",
+    "position": "67",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "beIN Sport HD4",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sport HD4\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/438633\"}]",
+    "logo": "https://i.ibb.co/WPgYYfL/B4.png",
+    "nameen": "beIN Sport HD4",
+    "position": "68",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "beIN Sport HD5",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sport HD5\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/438634\"}]",
+    "logo": "https://i.ibb.co/tLxnycZ/B5.png",
+    "nameen": "beIN Sport HD5",
+    "position": "69",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "SSC HD1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SSC HD1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/play/live.php?mac\\u003d00:1A:79:54:A7:39\\u0026stream\\u003d184097\\u0026extension\\u003dts\\u0026play_token\\u003duUdqq5td8k\"}]",
+    "logo": "https://i.ibb.co/Sv0JrdG/1.png",
+    "nameen": "SSC HD1",
+    "position": "70",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "SSC HD2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SSC HD2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/play/live.php?mac\\u003d00:1A:79:54:A7:39\\u0026stream\\u003d184096\\u0026extension\\u003dts\\u0026play_token\\u003dba87Nvb6CA\"}]",
+    "logo": "https://i.ibb.co/xzSNJj4/2.png",
+    "nameen": "SSC HD2",
+    "position": "71",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "SSC HD3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SSC HD3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/play/live.php?mac\\u003d00:1A:79:54:A7:39\\u0026stream\\u003d184095\\u0026extension\\u003dts\\u0026play_token\\u003da84gD6JZUa\"}]",
+    "logo": "https://i.ibb.co/tm99M9v/3.png",
+    "nameen": "SSC HD3",
+    "position": "72",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "SSC HD4",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SSC HD4\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/play/live.php?mac\\u003d00:1A:79:54:A7:39\\u0026stream\\u003d184094\\u0026extension\\u003dts\\u0026play_token\\u003d24QXqIUlYF\"}]",
+    "logo": "https://i.ibb.co/cvxqWy9/4.png",
+    "nameen": "SSC HD4",
+    "position": "73",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "SSC HD5",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SSC HD5\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/play/live.php?mac\\u003d00:1A:79:54:A7:39\\u0026stream\\u003d184093\\u0026extension\\u003dts\\u0026play_token\\u003dy8e168yp4b\"}]",
+    "logo": "https://i.ibb.co/GdKQ4mN/5.png",
+    "nameen": "SSC HD5",
+    "position": "74",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "SSC HD6",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SSC HD6\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/play/live.php?mac\\u003d00:1A:79:54:A7:39\\u0026stream\\u003d184098\\u0026extension\\u003dts\\u0026play_token\\u003dIsmRmViXIi\"}]",
+    "logo": "https://i.ibb.co/0ZCQn0c/6.png",
+    "nameen": "SSC HD6",
+    "position": "75",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "MBC 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/220215982079196/220215982079196/13448\"}]",
+    "logo": "https://i.ibb.co/X3V0Vp0/1.png",
+    "nameen": "MBC 1",
+    "position": "76",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "MBC 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/220215982079196/220215982079196/1713\"}]",
+    "logo": "https://i.ibb.co/hZK2Jm4/2.png",
+    "nameen": "MBC 2",
+    "position": "77",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "MBC 3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC 3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/220215982079196/220215982079196/1712\"}]",
+    "logo": "https://i.ibb.co/Jnyc91n/3.png",
+    "nameen": "MBC 3",
+    "position": "78",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "MBC 4",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC 4\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/220215982079196/220215982079196/1711\"}]",
+    "logo": "https://i.ibb.co/N64t27F/4.png",
+    "nameen": "MBC 4",
+    "position": "79",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "MBC 5",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC 5\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/220215982079196/220215982079196/13449\"}]",
+    "logo": "https://i.ibb.co/Qn2YsZp/5.png",
+    "nameen": "MBC 5",
+    "position": "80",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "MBC Action",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC Action\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/220215982079196/220215982079196/1710\"}]",
+    "logo": "https://i.ibb.co/WsQNNdW/ACTION.png",
+    "nameen": "MBC Action",
+    "position": "81",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "MBC MAX",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC MAX\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/220215982079196/220215982079196/229\"}]",
+    "logo": "https://i.ibb.co/bP3MRrW/MAX.png",
+    "nameen": "MBC MAX",
+    "position": "82",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "MBC Variety",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC Variety\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/220215982079196/220215982079196/1707\"}]",
+    "logo": "https://i.ibb.co/Jck1sMG/VARIETY.png",
+    "nameen": "MBC Variety",
+    "position": "83",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "MBC DRAMA+",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC DRAMA+\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/220215982079196/220215982079196/1475\"}]",
+    "logo": "https://i.ibb.co/n6VVp2P/DRAMA.png",
+    "nameen": "MBC DRAMA+",
+    "position": "84",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "MBC DRAMA",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC DRAMA\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/220215982079196/220215982079196/1709\"}]",
+    "logo": "https://i.ibb.co/zmwQT4T/DRAMA.png",
+    "nameen": "MBC DRAMA",
+    "position": "85",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "MBC Masr",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC Masr\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/220215982079196/220215982079196/227\"}]",
+    "logo": "https://i.ibb.co/cym6jMn/MASR.png",
+    "nameen": "MBC Masr",
+    "position": "86",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "BeinMoviesHD1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BeinMoviesHD1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/kdcxxD1U/543545/87396\"}]",
+    "logo": "https://c.top4top.io/p_2471xsjmm1.png",
+    "nameen": "BeinMoviesHD1",
+    "position": "87",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "BeinMoviesHD2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BeinMoviesHD2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/kdcxxD1U/543545/87397\"}]",
+    "logo": "https://i.ibb.co/jJWRLmz/MOVIES-2.png",
+    "nameen": "BeinMoviesHD2",
+    "position": "88",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "BeinMoviesHD3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BeinMoviesHD3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/kdcxxD1U/543545/87398\"}]",
+    "logo": "https://i.ibb.co/Sfbt3KG/MOVIES-3.png",
+    "nameen": "BeinMoviesHD3",
+    "position": "89",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "BeinMoviesHD4",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BeinMoviesHD4\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/kdcxxD1U/543545/87399\"}]",
+    "logo": "https://i.ibb.co/LQcvhdK/MOVIES-4.png",
+    "nameen": "BeinMoviesHD4",
+    "position": "90",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "BeinSeriesHD1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BeinSeriesHD1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/kdcxxD1U/543545/87400\"}]",
+    "logo": "https://i.ibb.co/jDcky8p/SIREIS-2.png",
+    "nameen": "BeinSeriesHD1",
+    "position": "91",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "BeinSeriesHD2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BeinSeriesHD2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/kdcxxD1U/543545/87401\"}]",
+    "logo": "https://i.ibb.co/Dkh1pG1/SIREIS-1.png",
+    "nameen": "BeinSeriesHD2",
+    "position": "92",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "BeinDramaHD1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BeinDramaHD1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/kdcxxD1U/543545/87402\"}]",
+    "logo": "https://g.top4top.io/p_2468p8pxj5.png",
+    "nameen": "BeinDramaHD1",
+    "position": "93",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "Fatafeat",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Fatafeat\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/kdcxxD1U/543545/87409\"}]",
+    "logo": "https://i.ibb.co/hKQfDN3/FATAFEAT.png",
+    "nameen": "Fatafeat",
+    "position": "94",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "Bein Gourmet",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Bein Gourmet\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/kdcxxD1U/543545/87410\"}]",
+    "logo": "https://i.ibb.co/Ms9XF7F/GURME.png",
+    "nameen": "Bein Gourmet",
+    "position": "95",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "Nat Geo HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Nat Geo HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/kdcxxD1U/543545/87415\"}]",
+    "logo": "https://i.ibb.co/4msxNSY/NAT-GEO.png",
+    "nameen": "Nat Geo HD",
+    "position": "96",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "FOX HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"FOX HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://revteam6.offshorerev.cc:80/SPIDER_RHjwUg/YcwtbTqzYM/51392\"}]",
+    "logo": "https://i.ibb.co/88YN1RL/FOX.png",
+    "nameen": "FOX HD",
+    "position": "97",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "Fox MoviesHD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Fox MoviesHD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/kdcxxD1U/543545/87427\"}]",
+    "logo": "https://i.ibb.co/wSS57b4/FOX-MOVIES.png",
+    "nameen": "Fox MoviesHD",
+    "position": "98",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "YAHALA1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"YAHALA1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/220215982079196/220215982079196/1462\"}]",
+    "logo": "https://i.ibb.co/BNGcz4f/YAHALA-OULA.png",
+    "nameen": "YAHALA1",
+    "position": "99",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "YAHALAAFLAM",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"YAHALAAFLAM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/220215982079196/220215982079196/1700\"}]",
+    "logo": "https://i.ibb.co/VJT7GZB/YAHALA-AFLAM.png",
+    "nameen": "YAHALAAFLAM",
+    "position": "100",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "YAHALA ARABI",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"YAHALA ARABI\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/220215982079196/220215982079196/1461\"}]",
+    "logo": "https://i.ibb.co/4W35tqq/YAHALA-ARAB.png",
+    "nameen": "YAHALA ARABI",
+    "position": "101",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "SERIES",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SERIES\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/220215982079196/220215982079196/1465\"}]",
+    "logo": "https://i.ibb.co/5h2363T/SERIES.png",
+    "nameen": "SERIES",
+    "position": "102",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "Movies First",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Movies First\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/220215982079196/220215982079196/1464\"}]",
+    "logo": "https://i.ibb.co/gzsc3c8/MOVIES-FIRST.png",
+    "nameen": "Movies First",
+    "position": "103",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "MOVIES DISENY",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MOVIES DISENY\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/220215982079196/220215982079196/2393\"}]",
+    "logo": "https://i.ibb.co/KbtQM6n/DISNEY.png",
+    "nameen": "MOVIES DISENY",
+    "position": "104",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "Disney Channel",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Disney Channel\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/220215982079196/220215982079196/1690\"}]",
+    "logo": "https://i.ibb.co/KbtQM6n/DISNEY.png",
+    "nameen": "Disney Channel",
+    "position": "105",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "DiscoveryHD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"DiscoveryHD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/220215982079196/220215982079196/1608\"}]",
+    "logo": "https://i.ibb.co/NN0HRFs/DISCOVERY.png",
+    "nameen": "DiscoveryHD",
+    "position": "106",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "Programme Nat",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Programme Nat\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/220215982079196/220215982079196/427\"}]",
+    "logo": "https://i.ibb.co/jVWknVK/ALGER-1.png",
+    "nameen": "Programme Nat",
+    "position": "107",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "CANAL ALGERIE",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CANAL ALGERIE\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://mag.x-iptv.live:80/play/live.php?mac\\u003d00:1A:79:35:38:34\\u0026stream\\u003d6723\\u0026extension\\u003dts\"}]",
+    "logo": "https://i.ibb.co/7VCkJNQ/ALGER-2.png",
+    "nameen": "CANAL ALGERIE",
+    "position": "108",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "TV3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TV3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://mag.x-iptv.live:80/play/live.php?mac\\u003d00:1A:79:35:38:34\\u0026stream\\u003d6722\\u0026extension\\u003dts\"}]",
+    "logo": "https://i.ibb.co/2FPjLkN/ALGER-3.png",
+    "nameen": "TV3",
+    "position": "109",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "TV4",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TV4\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/kdcxxD1U/543545/27614\"}]",
+    "logo": "https://i.ibb.co/DLQCk9H/ALGER-4.png",
+    "nameen": "TV4",
+    "position": "110",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "TV5",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TV5\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/kdcxxD1U/543545/27613\"}]",
+    "logo": "https://i.ibb.co/X8mnczS/ALGER-5.png",
+    "nameen": "TV5",
+    "position": "111",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "TV6",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TV6\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/220215982079196/220215982079196/20739\"}]",
+    "logo": "https://i.ibb.co/7SfB0Nx/ALGER-6.png",
+    "nameen": "TV6",
+    "position": "112",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "TV7",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TV7\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/kdcxxD1U/543545/89025\"}]",
+    "logo": "https://i.ibb.co/SsynZCT/ALGER-7.png",
+    "nameen": "TV7",
+    "position": "113",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "Echorouk NEWS",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Echorouk NEWS\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://mag.x-iptv.live:80/play/live.php?mac\\u003d00:1A:79:35:38:34\\u0026stream\\u003d6716\\u0026extension\\u003dts\"}]",
+    "logo": "https://i.ibb.co/7YLpRY7/ECHOROK.png",
+    "nameen": "Echorouk NEWS",
+    "position": "114",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "EchoroukTV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"EchoroukTV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://mag.x-iptv.live:80/play/live.php?mac\\u003d00:1A:79:35:38:34\\u0026stream\\u003d6715\\u0026extension\\u003dts\"}]",
+    "logo": "https://i.ibb.co/TW1qRvt/ECHOROKTV.png",
+    "nameen": "EchoroukTV",
+    "position": "115",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "El Heddaf TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"El Heddaf TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://mag.x-iptv.live:80/play/live.php?mac\\u003d00:1A:79:35:38:34\\u0026stream\\u003d6700\\u0026extension\\u003dts\"}]",
+    "logo": "https://i.ibb.co/FVndq2d/ELHADDEF.png",
+    "nameen": "El Heddaf TV",
+    "position": "116",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "ELHBein T TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ELHBein T TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://mag.x-iptv.live:80/play/live.php?mac\\u003d00:1A:79:35:38:34\\u0026stream\\u003d84254\\u0026extension\\u003dts\"}]",
+    "logo": "https://i.ibb.co/2NB8GvS/ELHBein T.png",
+    "nameen": "ELHBein T TV",
+    "position": "117",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "Ennahar TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Ennahar TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://mag.x-iptv.live:80/play/live.php?mac\\u003d00:1A:79:35:38:34\\u0026stream\\u003d6717\\u0026extension\\u003dts\"}]",
+    "logo": "https://i.ibb.co/wdvqbXY/ENAHHER.png",
+    "nameen": "Ennahar TV",
+    "position": "118",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "AL24 NEWS",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AL24 NEWS\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://mag.x-iptv.live:80/play/live.php?mac\\u003d00:1A:79:35:38:34\\u0026stream\\u003d819617\\u0026extension\\u003dts\"}]",
+    "logo": "https://i.ibb.co/DQ0Bcfd/AL-24.png",
+    "nameen": "AL24 NEWS",
+    "position": "119",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "BAHIA ORAN",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BAHIA ORAN\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/kdcxxD1U/543545/86122\"}]",
+    "logo": "https://i.ibb.co/VBZfpRh/BAHIA.png",
+    "nameen": "BAHIA ORAN",
+    "position": "120",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "N1 TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"N1 TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/kdcxxD1U/543545/27607\"}]",
+    "logo": "https://i.ibb.co/5h7rgRM/N1.png",
+    "nameen": "N1 TV",
+    "position": "121",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "BEIN JEEM HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BEIN JEEM HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://revteam6.offshorerev.cc:80/SPIDER_RHjwUg/YcwtbTqzYM/51394\"}]",
+    "logo": "https://i.ibb.co/m0w4BrM/JEEM.png",
+    "nameen": "BEIN JEEM HD",
+    "position": "122",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "FOX MOVIES ACTION",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"FOX MOVIES ACTION\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://revteam6.offshorerev.cc:80/SPIDER_RHjwUg/YcwtbTqzYM/51386\"}]",
+    "logo": "https://i.ibb.co/wcQpGQW/FOX-MOVIES-ACTION.png",
+    "nameen": "FOX MOVIES ACTION",
+    "position": "123",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "BEIN AMC HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BEIN AMC HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://revteam6.offshorerev.cc:80/SPIDER_RHjwUg/YcwtbTqzYM/51385\"}]",
+    "logo": "https://i.ibb.co/nmB2bY7/AMC.png",
+    "nameen": "BEIN AMC HD",
+    "position": "124",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "BARAEM HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BARAEM HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://revteam6.offshorerev.cc:80/SPIDER_RHjwUg/YcwtbTqzYM/51389\"}]",
+    "logo": "https://i.ibb.co/6rt4MwM/BARAEEM.png",
+    "nameen": "BARAEM HD",
+    "position": "125",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "DISNEY JR",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"DISNEY JR\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://revteam6.offshorerev.cc:80/SPIDER_RHjwUg/YcwtbTqzYM/51390\"}]",
+    "logo": "https://i.ibb.co/J7KDV0d/DISNEY-JR.png",
+    "nameen": "DISNEY JR",
+    "position": "126",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "ACTION 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ACTION 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/438046\"}]",
+    "logo": "https://i.ibb.co/yN5dkGw/Action-1.png",
+    "nameen": "ACTION 1",
+    "position": "127",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "ACTION 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ACTION 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/394283\"}]",
+    "logo": "https://i.ibb.co/6tNW01b/Action-2.png",
+    "nameen": "ACTION 2",
+    "position": "128",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "BOX-OFFICE1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BOX-OFFICE1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/421202\"}]",
+    "logo": "https://i.ibb.co/WHdxgMY/BOX1.png",
+    "nameen": "BOX-OFFICE1",
+    "position": "129",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "BOX-OFFICE2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BOX-OFFICE2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/421203\"}]",
+    "logo": "https://i.ibb.co/SBBj5yV/BOX2.png",
+    "nameen": "BOX-OFFICE2",
+    "position": "130",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "BOX-OFFICE3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BOX-OFFICE3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/421204\"}]",
+    "logo": "https://i.ibb.co/KmnMJq1/BOX3.png",
+    "nameen": "BOX-OFFICE3",
+    "position": "131",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "BOX-OFFICE4",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BOX-OFFICE4\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/438640\"}]",
+    "logo": "https://i.ibb.co/7KRd6Kg/BOX4.png",
+    "nameen": "BOX-OFFICE4",
+    "position": "132",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "BOX-OFFICE5",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BOX-OFFICE5\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/438644\"}]",
+    "logo": "https://i.ibb.co/xjRrtRr/BOX5.png",
+    "nameen": "BOX-OFFICE5",
+    "position": "133",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "HORROR 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"HORROR 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/428633\"}]",
+    "logo": "https://i.ibb.co/1T6LVPp/Horror.png",
+    "nameen": "HORROR 1",
+    "position": "134",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "TURKEY",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TURKEY\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/438048\"}]",
+    "logo": "https://i.ibb.co/VL27tbB/Turki.png",
+    "nameen": "TURKEY",
+    "position": "135",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "BOLLYWOOD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BOLLYWOOD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223342775011431/223342775011431/421\"}]",
+    "logo": "https://i.ibb.co/1dZG67K/Bollywood.png",
+    "nameen": "BOLLYWOOD",
+    "position": "136",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "AFLAM",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AFLAM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://11121314.fr:8000/dede/112233445566778899dede/394288\"}]",
+    "logo": "https://i.ibb.co/McX33Qk/AFLAM.png",
+    "nameen": "AFLAM",
+    "position": "137",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "AL-SHAM",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AL-SHAM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223342775011431/223342775011431/44889\"}]",
+    "logo": "https://i.ibb.co/cyZYS4T/Al-Sham.png",
+    "nameen": "AL-SHAM",
+    "position": "138",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "KIDS",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"KIDS\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223342775011431/223342775011431/20573\"}]",
+    "logo": "https://i.ibb.co/h212bL3/KIDS.png",
+    "nameen": "KIDS",
+    "position": "139",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "NETFLIX",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NETFLIX\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://kb007.xyz:80/Nchmd2vPeR/keVuXGXdEe/266042\"}]",
+    "logo": "https://i.ibb.co/cvZfb90/ACTION.png",
+    "nameen": "NETFLIX",
+    "position": "140",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "NETFLIX",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NETFLIX\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://kb007.xyz:80/Nchmd2vPeR/keVuXGXdEe/266036\"}]",
+    "logo": "https://i.ibb.co/nBJqyn1/THRILLER.png",
+    "nameen": "NETFLIX",
+    "position": "141",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "NETFLIX",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NETFLIX\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/4293\"}]",
+    "logo": "https://i.ibb.co/vhTpkDQ/SCI.png",
+    "nameen": "NETFLIX",
+    "position": "142",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "NETFLIX",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NETFLIX\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/4292\"}]",
+    "logo": "https://i.ibb.co/TmZrkyt/HORROR.png",
+    "nameen": "NETFLIX",
+    "position": "143",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "NETFLIX",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NETFLIX\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://kb007.xyz:80/Nchmd2vPeR/keVuXGXdEe/266039\"}]",
+    "logo": "https://i.ibb.co/XZXN9nC/DRAMA.png",
+    "nameen": "NETFLIX",
+    "position": "144",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "NETFLIX",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NETFLIX\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://kb007.xyz:80/Nchmd2vPeR/keVuXGXdEe/266034\"}]",
+    "logo": "https://i.ibb.co/9NXDGfB/COMEDY.png",
+    "nameen": "NETFLIX",
+    "position": "145",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "NETFLIX",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NETFLIX\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/4289\"}]",
+    "logo": "https://i.ibb.co/V35DLZQ/CLASSIC.png",
+    "nameen": "NETFLIX",
+    "position": "146",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "NETFLIX",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NETFLIX\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/4288\"}]",
+    "logo": "https://i.ibb.co/LZwxQbR/BOLLYWOOD.png",
+    "nameen": "NETFLIX",
+    "position": "147",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "NETFLIX",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NETFLIX\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/4287\"}]",
+    "logo": "https://i.ibb.co/SvdmXYL/ANIM.png",
+    "nameen": "NETFLIX",
+    "position": "148",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "NETFLIX",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NETFLIX\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://kb007.xyz:80/Nchmd2vPeR/keVuXGXdEe/266040\"}]",
+    "logo": "https://i.ibb.co/pd6nqMP/NETFLIX.png",
+    "nameen": "NETFLIX",
+    "position": "149",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "NETFLIX",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NETFLIX\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://kb007.xyz:80/Nchmd2vPeR/keVuXGXdEe/266041\"}]",
+    "logo": "https://i.ibb.co/pd6nqMP/NETFLIX.png",
+    "nameen": "NETFLIX",
+    "position": "150",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "NETFLIX",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NETFLIX\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://kb007.xyz:80/Nchmd2vPeR/keVuXGXdEe/265897\"}]",
+    "logo": "https://i.ibb.co/pd6nqMP/NETFLIX.png",
+    "nameen": "NETFLIX",
+    "position": "151",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "NETFLIX",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NETFLIX\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/14008\"}]",
+    "logo": "https://i.ibb.co/pd6nqMP/NETFLIX.png",
+    "nameen": "NETFLIX",
+    "position": "152",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "MBC Masr 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC Masr 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/220215982079196/220215982079196/643\"}]",
+    "logo": "https://i.ibb.co/jkTFDwB/MASR2.png",
+    "nameen": "MBC Masr 2",
+    "position": "153",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "MBC IRAQ",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC IRAQ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/220215982079196/220215982079196/2962\"}]",
+    "logo": "https://i.ibb.co/MR3qQfv/IRAQ.png",
+    "nameen": "MBC IRAQ",
+    "position": "154",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "MBC Bollywood",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MBC Bollywood\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/220215982079196/220215982079196/230\"}]",
+    "logo": "https://i.ibb.co/VHrZzBm/BOLLYWOOD.png",
+    "nameen": "MBC Bollywood",
+    "position": "155",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "beIN Sport HD6",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sport HD6\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/play/live.php?mac\\u003d00:1A:79:54:A7:39\\u0026stream\\u003d156453\\u0026extension\\u003dts\\u0026play_token\\u003dH2g9tQNxbn\"}]",
+    "logo": "https://i.ibb.co/6X50qB2/B6.png",
+    "nameen": "beIN Sport HD6",
+    "position": "156",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "BEIN XTRA1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BEIN XTRA1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223342775011431/223342775011431/21275?play_token\\u003dwjcscfEGei\"}]",
+    "logo": "https://i.ibb.co/T0bsS0M/X1.png",
+    "nameen": "BEIN XTRA1",
+    "position": "157",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "BEIN XTRA2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BEIN XTRA2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223342775011431/223342775011431/21276?play_token\\u003dIcYcepF7WC\"}]",
+    "logo": "https://i.ibb.co/HGjvWsv/X2.png",
+    "nameen": "BEIN XTRA2",
+    "position": "158",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "BEUR TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BEUR TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/play/live.php?mac\\u003d00:1A:79:54:A7:39\\u0026stream\\u003d27616\\u0026extension\\u003dts\\u0026play_token\\u003doeMrXtjdyY\"}]",
+    "logo": "https://i.ibb.co/WfLPSQ6/BEURTV.png",
+    "nameen": "BEUR TV",
+    "position": "159",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "beIN Sport HD6",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sport HD6\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223342775011431/223342775011431/80?play_token\\u003dvC2pTGYDNV\"}]",
+    "logo": "https://i.ibb.co/6X50qB2/B6.png",
+    "nameen": "beIN Sport HD6",
+    "position": "160",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "BEIN XTRA1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BEIN XTRA1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223342775011431/223342775011431/21275?play_token\\u003dwjcscfEGei\"}]",
+    "logo": "https://i.ibb.co/T0bsS0M/X1.png",
+    "nameen": "BEIN XTRA1",
+    "position": "161",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "BEIN XTRA2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BEIN XTRA2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223342775011431/223342775011431/21276?play_token\\u003dIcYcepF7WC\"}]",
+    "logo": "https://i.ibb.co/HGjvWsv/X2.png",
+    "nameen": "BEIN XTRA2",
+    "position": "162",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "beIN Sport HD6",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beIN Sport HD6\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223342775011431/223342775011431/5147?play_token\\u003dvIELLAxIOa\"}]",
+    "logo": "https://i.ibb.co/6X50qB2/B6.png",
+    "nameen": "beIN Sport HD6",
+    "position": "163",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "BEIN XTRA1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BEIN XTRA1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223342775011431/223342775011431/21275?play_token\\u003dwjcscfEGei\"}]",
+    "logo": "https://i.ibb.co/T0bsS0M/X1.png",
+    "nameen": "BEIN XTRA1",
+    "position": "164",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "BEIN XTRA2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BEIN XTRA2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223342775011431/223342775011431/21276?play_token\\u003dIcYcepF7WC\"}]",
+    "logo": "https://i.ibb.co/HGjvWsv/X2.png",
+    "nameen": "BEIN XTRA2",
+    "position": "165",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "KIDS ZONE",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"KIDS ZONE\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/220215982079196/220215982079196/3970\"}]",
+    "logo": "https://i.ibb.co/GRMdjFX/KIDS-ZONE.png",
+    "nameen": "KIDS ZONE",
+    "position": "166",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "KIDS",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"KIDS\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/220215982079196/220215982079196/1471\"}]",
+    "logo": "https://i.ibb.co/Qv7yhpZ/KIDS.png",
+    "nameen": "KIDS",
+    "position": "167",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "LIVING",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"LIVING\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/220215982079196/220215982079196/3961\"}]",
+    "logo": "https://i.ibb.co/WvRy3Ly/LIVING.png",
+    "nameen": "LIVING",
+    "position": "168",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "HOLLYWOOD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"HOLLYWOOD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/220215982079196/220215982079196/2412\"}]",
+    "logo": "https://i.ibb.co/cDj3LvC/HOLLYWOOD.png",
+    "nameen": "HOLLYWOOD",
+    "position": "169",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "MEZZE",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MEZZE\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/220215982079196/220215982079196/2396\"}]",
+    "logo": "https://i.ibb.co/WvhfKcf/MEZZE.png",
+    "nameen": "MEZZE",
+    "position": "170",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "ENIGMA",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ENIGMA\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/220215982079196/220215982079196/1467\"}]",
+    "logo": "https://i.ibb.co/2W2YYbt/ENIGMA.png",
+    "nameen": "ENIGMA",
+    "position": "171",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "MOVIES PRM",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MOVIES PRM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/220215982079196/220215982079196/1466\"}]",
+    "logo": "https://i.ibb.co/S6VxSfm/SERIES-PR.png",
+    "nameen": "MOVIES PRM",
+    "position": "172",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "ACTION",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ACTION\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223342775011431/223342775011431/1466?play_token\\u003dH43dtVbRXZ\"}]",
+    "logo": "https://i.ibb.co/3RRR0Mp/ACTION.png",
+    "nameen": "ACTION",
+    "position": "173",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "STARMOVIES",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"STARMOVIES\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/220215982079196/220215982079196/1464\"}]",
+    "logo": "https://i.ibb.co/489KwRY/MOVIES-HD.png",
+    "nameen": "STARMOVIES",
+    "position": "174",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "SAFWA",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SAFWA\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223342775011431/223342775011431/2402?play_token\\u003d56jsVUkyhV\"}]",
+    "logo": "https://i.ibb.co/7ptRBhg/SAFWA.png",
+    "nameen": "SAFWA",
+    "position": "175",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "CINEMA1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CINEMA1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223342775011431/223342775011431/1695?play_token\\u003dqNtTDPqfh1\"}]",
+    "logo": "https://i.ibb.co/0hLFNyh/CINEMA-1.png",
+    "nameen": "CINEMA1",
+    "position": "176",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "CINEMA2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CINEMA2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223342775011431/223342775011431/1694?play_token\\u003dcYckbDWbv6\"}]",
+    "logo": "https://i.ibb.co/h8NdCNS/CINEMA-2.png",
+    "nameen": "CINEMA2",
+    "position": "177",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "E:!",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"E:!\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/220215982079196/220215982079196/3965\"}]",
+    "logo": "http://image.noelshack.com/fichiers/2022/44/3/1667395440-e-hd.png",
+    "nameen": "E:!",
+    "position": "178",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "M.PRM+2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"M.PRM+2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223342775011431/223342775011431/1472?play_token\\u003dyD37k3QPXc\"}]",
+    "logo": "http://image.noelshack.com/fichiers/2022/44/3/1667395352-movies-pr-2.png",
+    "nameen": "M.PRM+2",
+    "position": "179",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "NICK",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NICK\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/14198\"}]",
+    "logo": "https://i.ibb.co/QN54vY9/NICKELODEON.png",
+    "nameen": "NICK",
+    "position": "180",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "NICK.JR",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NICK.JR\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/play/live.php?mac\\u003d00:1A:79:54:A7:39\\u0026stream\\u003d86615\\u0026extension\\u003dts\\u0026play_token\\u003dse5dV8XaSy\"}]",
+    "logo": "https://i.ibb.co/pzn05Sw/NICK-JR.png",
+    "nameen": "NICK.JR",
+    "position": "181",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "TUNIS 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TUNIS 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/play/live.php?mac\\u003d00:1A:79:54:A7:39\\u0026stream\\u003d27636\\u0026extension\\u003dts\\u0026play_token\\u003dNMGJob3eX2\"}]",
+    "logo": "https://i.ibb.co/dQDn21Z/1.png",
+    "nameen": "TUNIS 1",
+    "position": "182",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "TUNIS 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TUNIS 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/play/live.php?mac\\u003d00:1A:79:54:A7:39\\u0026stream\\u003d27635\\u0026extension\\u003dts\\u0026play_token\\u003dwGdHvfVxa3\"}]",
+    "logo": "https://i.ibb.co/gdxMZpX/2.png",
+    "nameen": "TUNIS 2",
+    "position": "183",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "ELHIWAR",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ELHIWAR\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/play/live.php?mac\\u003d00:1A:79:54:A7:39\\u0026stream\\u003d27629\\u0026extension\\u003dts\\u0026play_token\\u003dQJYx3Y2ciP\"}]",
+    "logo": "https://i.ibb.co/Zf75Fng/ELHIWAR.png",
+    "nameen": "ELHIWAR",
+    "position": "184",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "ATTESSIA",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ATTESSIA\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/play/live.php?mac\\u003d00:1A:79:54:A7:39\\u0026stream\\u003d27631\\u0026extension\\u003dts\\u0026play_token\\u003dJQnfYLgVdQ\"}]",
+    "logo": "https://i.ibb.co/khz6k2j/9.png",
+    "nameen": "ATTESSIA",
+    "position": "185",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "TUNISNA TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TUNISNA TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/play/live.php?mac\\u003d00:1A:79:54:A7:39\\u0026stream\\u003d27623\\u0026extension\\u003dts\\u0026play_token\\u003ds5nF86kQ0l\"}]",
+    "logo": "https://i.ibb.co/Mf4s20H/TUNISNA.png",
+    "nameen": "TUNISNA TV",
+    "position": "186",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "NESSMA",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NESSMA\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/play/live.php?mac\\u003d00:1A:79:54:A7:39\\u0026stream\\u003d27634\\u0026extension\\u003dts\\u0026play_token\\u003dWDOYx1JHu9\"}]",
+    "logo": "https://i.ibb.co/Lx4Xksm/NESSMA.png",
+    "nameen": "NESSMA",
+    "position": "187",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "HANNIBAL",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"HANNIBAL\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/play/live.php?mac\\u003d00:1A:79:54:A7:39\\u0026stream\\u003d27628\\u0026extension\\u003dts\\u0026play_token\\u003dtSgtszStiO\"}]",
+    "logo": "https://i.ibb.co/gddDzNs/HANABEL.png",
+    "nameen": "HANNIBAL",
+    "position": "188",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "TELVZA TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TELVZA TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/play/live.php?mac\\u003d00:1A:79:54:A7:39\\u0026stream\\u003d27624\\u0026extension\\u003dts\\u0026play_token\\u003dI7eBDwWjXv\"}]",
+    "logo": "https://i.ibb.co/T044crn/TALVSA.png",
+    "nameen": "TELVZA TV",
+    "position": "189",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "ALJANOUBIA",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ALJANOUBIA\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/play/live.php?mac\\u003d00:1A:79:54:A7:39\\u0026stream\\u003d27627\\u0026extension\\u003dts\\u0026play_token\\u003dsHSBfONBzk\"}]",
+    "logo": "https://i.ibb.co/89Rzf32/ELHANOUBIA.png",
+    "nameen": "ALJANOUBIA",
+    "position": "190",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "CARTHAGE",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CARTHAGE\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/play/live.php?mac\\u003d00:1A:79:54:A7:39\\u0026stream\\u003d27630\\u0026extension\\u003dts\\u0026play_token\\u003dWdtHfsefg4\"}]",
+    "logo": "https://i.ibb.co/YZ39cBt/CARTAG.png",
+    "nameen": "CARTHAGE",
+    "position": "191",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "ZAYTOUNA TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ZAYTOUNA TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/play/live.php?mac\\u003d00:1A:79:54:A7:39\\u0026stream\\u003d27622\\u0026extension\\u003dts\\u0026play_token\\u003dZ4aJbAK7NT\"}]",
+    "logo": "https://i.ibb.co/zN2t3L3/ZAYTOUNA.png",
+    "nameen": "ZAYTOUNA TV",
+    "position": "192",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "ALINSEN",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ALINSEN\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://venomtt.com:8000/play/live.php?mac\\u003d00:1A:79:54:A7:39\\u0026stream\\u003d27633\\u0026extension\\u003dts\\u0026play_token\\u003d82mzUYgsgt\"}]",
+    "logo": "https://i.ibb.co/xH1Fg6J/ALINSAN.png",
+    "nameen": "ALINSEN",
+    "position": "193",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "BEIN FR HD1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BEIN FR HD1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223342775011431/223342775011431/13793\"}]",
+    "logo": "https://i.ibb.co/ZWKV2HM/FR1.png",
+    "nameen": "BEIN FR HD1",
+    "position": "194",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "BEIN FR HD2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BEIN FR HD2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223342775011431/223342775011431/13794\"}]",
+    "logo": "https://i.ibb.co/0JnVL0y/FR2.png",
+    "nameen": "BEIN FR HD2",
+    "position": "195",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "BEIN FR HD3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BEIN FR HD3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223342775011431/223342775011431/13795\"}]",
+    "logo": "https://i.ibb.co/2jSmFYq/FR3.png",
+    "nameen": "BEIN FR HD3",
+    "position": "196",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "BEIN FR HD1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BEIN FR HD1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223342775011431/223342775011431/13793\"}]",
+    "logo": "https://i.ibb.co/ZWKV2HM/FR1.png",
+    "nameen": "BEIN FR HD1",
+    "position": "197",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "BEIN FR HD2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BEIN FR HD2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223342775011431/223342775011431/13794\"}]",
+    "logo": "https://i.ibb.co/0JnVL0y/FR2.png",
+    "nameen": "BEIN FR HD2",
+    "position": "198",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "BEIN FR HD3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BEIN FR HD3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223342775011431/223342775011431/13795\"}]",
+    "logo": "https://i.ibb.co/2jSmFYq/FR3.png",
+    "nameen": "BEIN FR HD3",
+    "position": "199",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "BEIN FR HD1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BEIN FR HD1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223342775011431/223342775011431/13793\"}]",
+    "logo": "https://i.ibb.co/ZWKV2HM/FR1.png",
+    "nameen": "BEIN FR HD1",
+    "position": "200",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "BEIN FR HD2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BEIN FR HD2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223342775011431/223342775011431/13794\"}]",
+    "logo": "https://i.ibb.co/0JnVL0y/FR2.png",
+    "nameen": "BEIN FR HD2",
+    "position": "201",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "BEIN FR HD3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BEIN FR HD3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223342775011431/223342775011431/13795\"}]",
+    "logo": "https://i.ibb.co/2jSmFYq/FR3.png",
+    "nameen": "BEIN FR HD3",
+    "position": "202",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "ELBILAD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ELBILAD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://mag.x-iptv.live:80/play/live.php?mac\\u003d00:1A:79:35:38:34\\u0026stream\\u003d21717\\u0026extension\\u003dts\"}]",
+    "logo": "https://i.ibb.co/Yb85R4C/EL-BILAD.png",
+    "nameen": "ELBILAD",
+    "position": "203",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "ELFADJER",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ELFADJER\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://mag.x-iptv.live:80/play/live.php?mac\\u003d00:1A:79:35:38:34\\u0026stream\\u003d892110\\u0026extension\\u003dts\"}]",
+    "logo": "https://i.ibb.co/RHXRDfb/AL-FADJER.png",
+    "nameen": "ELFADJER",
+    "position": "204",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "NEDJMA",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NEDJMA\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://mag.x-iptv.live:80/play/live.php?mac\\u003d00:1A:79:35:38:34\\u0026stream\\u003d892109\\u0026extension\\u003dts\"}]",
+    "logo": "https://i.ibb.co/JrJ5Q59/NEDJMA.png",
+    "nameen": "NEDJMA",
+    "position": "205",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "M+DZ",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"M+DZ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://mag.x-iptv.live:80/play/live.php?mac\\u003d00:1A:79:35:38:34\\u0026stream\\u003d893782\\u0026extension\\u003dts\"}]",
+    "logo": "https://i.ibb.co/zf6RmNm/M.png",
+    "nameen": "M+DZ",
+    "position": "206",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "ALANIS",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ALANIS\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://mag.x-iptv.live:80/play/live.php?mac\\u003d00:1A:79:35:38:34\\u0026stream\\u003d530382\\u0026extension\\u003dts\"}]",
+    "logo": "https://i.ibb.co/0CQ50w3/ALANIS.png",
+    "nameen": "ALANIS",
+    "position": "207",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "ELWATANIA",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ELWATANIA\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://mag.x-iptv.live:80/play/live.php?mac\\u003d00:1A:79:35:38:34\\u0026stream\\u003d518616\\u0026extension\\u003dts\"}]",
+    "logo": "https://i.ibb.co/bJd2Hrp/EL-WATANIA.png",
+    "nameen": "ELWATANIA",
+    "position": "208",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "ELSAHARA",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ELSAHARA\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://mag.x-iptv.live:80/play/live.php?mac\\u003d00:1A:79:35:38:34\\u0026stream\\u003d518617\\u0026extension\\u003dts\"}]",
+    "logo": "https://i.ibb.co/9H8Kjqz/EL-SAHARA.png",
+    "nameen": "ELSAHARA",
+    "position": "209",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "A.KIDS",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"A.KIDS\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://mag.x-iptv.live:80/play/live.php?mac\\u003d00:1A:79:35:38:34\\u0026stream\\u003d892107\\u0026extension\\u003dts\"}]",
+    "logo": "https://i.ibb.co/hBB6PCn/KIDS.png",
+    "nameen": "A.KIDS",
+    "position": "210",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "SAMIRATV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SAMIRATV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://mag.x-iptv.live:80/play/live.php?mac\\u003d00:1A:79:35:38:34\\u0026stream\\u003d6710\\u0026extension\\u003dts\"}]",
+    "logo": "https://i.ibb.co/zS7yx6b/samiratv.png",
+    "nameen": "SAMIRATV",
+    "position": "211",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "ZAHRATV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ZAHRATV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://mag.x-iptv.live:80/play/live.php?mac\\u003d00:1A:79:35:38:34\\u0026stream\\u003d828228\\u0026extension\\u003dts\"}]",
+    "logo": "https://i.ibb.co/RbZg8c4/ZAHRA.png",
+    "nameen": "ZAHRATV",
+    "position": "212",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "beiNSPORTSHD3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"beiNSPORTSHD3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/71\"}]",
+    "logo": "https://i.ibb.co/x6L9GVb/BFR3.png",
+    "nameen": "beiNSPORTSHD3",
+    "position": "213",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "EUROSPORT1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"EUROSPORT1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/572\"}]",
+    "logo": "https://i.ibb.co/sjmLdxT/EUROSPORT-1.png",
+    "nameen": "EUROSPORT1",
+    "position": "214",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "EUROSPORT2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"EUROSPORT2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/287\"}]",
+    "logo": "https://i.ibb.co/YBxCz5W/EUROSPORT-2.png",
+    "nameen": "EUROSPORT2",
+    "position": "215",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "CANAL-FOOT",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CANAL-FOOT\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/975\"}]",
+    "logo": "https://i.ibb.co/t23qwgs/CANAL-FOOT.png",
+    "nameen": "CANAL-FOOT",
+    "position": "216",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "RMC HD1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"RMC HD1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/1554\"}]",
+    "logo": "https://i.ibb.co/C7WzFbx/RMC1.png",
+    "nameen": "RMC HD1",
+    "position": "217",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "RMC HD2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"RMC HD2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/1555\"}]",
+    "logo": "https://i.ibb.co/dbbjKpp/RMC2.png",
+    "nameen": "RMC HD2",
+    "position": "218",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "RMC HD3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"RMC HD3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/1556\"}]",
+    "logo": "https://i.ibb.co/hf9B5NS/RMC3.png",
+    "nameen": "RMC HD3",
+    "position": "219",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "Equipe 21",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Equipe 21\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/580\"}]",
+    "logo": "https://i.ibb.co/q911qfh/EQUPE-21.png",
+    "nameen": "Equipe 21",
+    "position": "220",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "INFOSPORT",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"INFOSPORT\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/500\"}]",
+    "logo": "https://i.ibb.co/fMB0v4R/INFOSPORTS.png",
+    "nameen": "INFOSPORT",
+    "position": "221",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "France 24",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"France 24\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/303\"}]",
+    "logo": "https://i.ibb.co/ng9QsBz/FR24.png",
+    "nameen": "France 24",
+    "position": "222",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "LCI",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"LCI\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/3625\"}]",
+    "logo": "https://i.ibb.co/hd3dKbC/LCI.png",
+    "nameen": "LCI",
+    "position": "223",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "TV5monde",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TV5monde\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/1528\"}]",
+    "logo": "https://i.ibb.co/yp9Lqsz/TV5.png",
+    "nameen": "TV5monde",
+    "position": "224",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "Nat Geo HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Nat Geo HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/486\"}]",
+    "logo": "https://i.ibb.co/SnBxX5r/NATIONAL.png",
+    "nameen": "Nat Geo HD",
+    "position": "225",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "Nat WILD HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Nat WILD HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/485\"}]",
+    "logo": "https://i.ibb.co/jLzpGN7/WILD.png",
+    "nameen": "Nat WILD HD",
+    "position": "226",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "DiscoveryHD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"DiscoveryHD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/3381\"}]",
+    "logo": "https://i.ibb.co/3fm6gqp/DISCOVERY.png",
+    "nameen": "DiscoveryHD",
+    "position": "227",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "ANIMAUX",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ANIMAUX\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/284\"}]",
+    "logo": "https://i.ibb.co/6ZX1KTM/ANIMAUX.png",
+    "nameen": "ANIMAUX",
+    "position": "228",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "USHUAIA",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"USHUAIA\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/483\"}]",
+    "logo": "https://i.ibb.co/mGQyKVD/USHUAIA.png",
+    "nameen": "USHUAIA",
+    "position": "229",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "PLANETE+",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"PLANETE+\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/288\"}]",
+    "logo": "https://i.ibb.co/ZTdSxSJ/PLANETE.png",
+    "nameen": "PLANETE+",
+    "position": "230",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "DISNEY FR",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"DISNEY FR\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/300\"}]",
+    "logo": "https://i.ibb.co/SK3Vcm4/DISNEY.png",
+    "nameen": "DISNEY FR",
+    "position": "231",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "DISNEY JR",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"DISNEY JR\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/1523\"}]",
+    "logo": "https://i.ibb.co/P11fXWF/DISNEY-JR.png",
+    "nameen": "DISNEY JR",
+    "position": "232",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "PIWI",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"PIWI\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/1023\"}]",
+    "logo": "https://i.ibb.co/TYt8Whm/PIWI.png",
+    "nameen": "PIWI",
+    "position": "233",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "TIJI",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TIJI\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/1482\"}]",
+    "logo": "https://i.ibb.co/0QVdKXM/TIJI.png",
+    "nameen": "TIJI",
+    "position": "234",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "BOOMERANG",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BOOMERANG\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/297\"}]",
+    "logo": "https://i.ibb.co/gySSFwQ/BOOM.png",
+    "nameen": "BOOMERANG",
+    "position": "235",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "CN",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CN\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/488\"}]",
+    "logo": "https://i.ibb.co/F71L5Ls/CN.png",
+    "nameen": "CN",
+    "position": "236",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "NICK JR",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NICK JR\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/1483\"}]",
+    "logo": "https://i.ibb.co/XxHnvzw/NICK-JR.png",
+    "nameen": "NICK JR",
+    "position": "237",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "NICK TEEN",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NICK TEEN\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/5056\"}]",
+    "logo": "https://i.ibb.co/xCx5JfW/NICK-TEEN.png",
+    "nameen": "NICK TEEN",
+    "position": "238",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "NICK HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NICK HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/1029\"}]",
+    "logo": "https://i.ibb.co/W08wZ7q/NICKELODEON.png",
+    "nameen": "NICK HD",
+    "position": "239",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "TELETOON",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TELETOON\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/489\"}]",
+    "logo": "https://i.ibb.co/sgDH5mj/TELET.png",
+    "nameen": "TELETOON",
+    "position": "240",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "MANGAS",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MANGAS\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/490\"}]",
+    "logo": "https://i.ibb.co/gZW83mC/MANGAS.png",
+    "nameen": "MANGAS",
+    "position": "241",
+    "type": "channel",
+    "key": "luive"
+  },
+  {
+    "namear": "CANAL J",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CANAL J\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://185.71.66.45:88/223983418190190/223983418190190/492\"}]",
+    "logo": "https://i.ibb.co/5nDRZbL/CANAL-J.png",
+    "nameen": "CANAL J",
+    "position": "242",
+    "type": "channel",
+    "key": "luive"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "namear": "Directv Sport 1",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Directv Sport 1\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/791.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7057298_ico.png",
+    "nameen": "Directv Sport 1",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrardirectv_sports"
+  },
+  {
+    "namear": "Directv Sport 2",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Directv Sport 2\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/792.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7057303_ico.png",
+    "nameen": "Directv Sport 2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrardirectv_sports"
+  },
+  {
+    "namear": "Directv Sport+",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"Directv Sport+\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/793.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7066331_ico.png",
+    "nameen": "Directv Sport+",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrardirectv_sports"
+  },
+  {
+    "namear": "Directv Sport 1*",
+    "servers": "[{\"headers\":\"elplayeruser-Agent|elplayeruser-Agent|elplayeruser-Agent|elplayer\",\"otherHeaders\":\"\",\"name\":\"Directv Sport 1*\",\"Referer\":\"\",\"userAgent\":\"elplayeruser-Agent|elplayer\",\"position\":\"0\",\"url\":\"http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73325\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/25036708_ico.png",
+    "nameen": "Directv Sport 1*",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrardirectv_sports"
+  }
+]

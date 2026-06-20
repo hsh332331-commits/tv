@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "Fajer 1 ᴿᴬᵂ",
+    "servers": "[{\"license\":\"\",\"headers\":\"user-agent|akami|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Al - Fajer 1 ᴿᴬᵂ\",\"Referer\":\"\",\"userAgent\":\"akami\",\"position\":\"0\",\"url\":\"https://live.cdnfest.com/fajer1/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Al - Fajer 1 ᴴᴰ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://live.cdnfest.com/fajer1hd/index.m3u8\"}]",
+    "logo": "https://i.ibb.co/0cY46br/AL-FAJER-1.jpg",
+    "nameen": "Fajer 1 ᴿᴬᵂ",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tval_fajer_tv_ᴿᴬᵂ"
+  },
+  {
+    "namear": "Fajer 4 ᴿᴬᵂ",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Al - Fajer 4 ᴿᴬᵂ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"label\":\"Server (HLS)\",\"url\":\"https://cast-x.com/token.php?id\\u003dfjr_4_1080p\\u0026type\\u003dhls\\u0026h\\u003dhttps%3A%2F%2Fcdn-js-mejarserver.aka-akamaized.net\\u0026ts\\u003d1768397610\\u0026sig\\u003d8bc0c3024acfd93929f72a81e0c4164873fe9cfe6ca369980d44867ee8aa2c21\"}]",
+    "logo": "https://i.ibb.co/sFfdsqc/AL-FAJER-4.jpg",
+    "nameen": "Fajer 4 ᴿᴬᵂ",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tval_fajer_tv_ᴿᴬᵂ"
+  },
+  {
+    "namear": "Fajer 5 ᴿᴬᵂ",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Al - Fajer 5 ᴿᴬᵂ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"label\":\"Server (HLS)\",\"url\":\"https://cast-x.com/token.php?id\\u003dfjr_5_1080p\\u0026type\\u003dhls\\u0026h\\u003dhttps%3A%2F%2Fcdn-js-mejarserver.aka-akamaized.net\\u0026ts\\u003d1768397610\\u0026sig\\u003d4d0503dc4e7b9fcd77e7eb48308ff07025316f5d84bb47d954d193b8e5757e88\"},{\"license\":\"\",\"headers\":\"find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"isWeb\":\"false\",\"name\":\"test\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://youtube.com/live/Vkajd9_sf10?feature\\u003dshare\"}]",
+    "logo": "https://i.ibb.co/W6VV956/AL-FAJER-5.jpg",
+    "nameen": "Fajer 5 ᴿᴬᵂ",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tval_fajer_tv_ᴿᴬᵂ"
+  },
+  {
+    "namear": "Fajer 3 ᴿᴬᵂ",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Al - Fajer 3 ᴿᴬᵂ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"label\":\"Server (HLS)\",\"url\":\"https://cast-x.com/token.php?id\\u003dfjr_3_1080p\\u0026type\\u003dhls\\u0026h\\u003dhttps%3A%2F%2Fcdn-js-mejarserver.aka-akamaized.net\\u0026ts\\u003d1768397610\\u0026sig\\u003d21f82f9ccb3adc47ccd3fa7fa46dcc95cfe5c4472b463c8f409014fc39027451\"}]",
+    "logo": "https://i.ibb.co/yXf7bTT/AL-FAJER-3.jpg",
+    "nameen": "Fajer 3 ᴿᴬᵂ",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tval_fajer_tv_ᴿᴬᵂ"
+  },
+  {
+    "namear": "Fajer 2 ᴿᴬᵂ",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Al - Fajer 2 ᴿᴬᵂ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"label\":\"Server (HLS)\",\"url\":\"https://cast-x.com/token.php?id\\u003dfjr_2_1080p\\u0026type\\u003dhls\\u0026h\\u003dhttps%3A%2F%2Fcdn-js-mejarserver.aka-akamaized.net\\u0026ts\\u003d1768397610\\u0026sig\\u003d7c50c9852b85b845ae16b0004055aff555ac9d931aa0634f5ed28d0de41f0f94\"}]",
+    "logo": "https://i.ibb.co/P4CR80X/AL-FAJER-2.jpg",
+    "nameen": "Fajer 2 ᴿᴬᵂ",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tval_fajer_tv_ᴿᴬᵂ"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "namear": "RSI La 2 (720p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"RSI La 2 (720p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/512px-RSI_La_2_2012.svg.png",
+    "nameen": "RSI La 2 (720p)",
+    "position": "1",
+    "type": "channel",
+    "key": "switzerland"
+  },
+  {
+    "namear": "RTS 2 (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"RTS 2 (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/512px-RTS_2_logo_2019.svg.png",
+    "nameen": "RTS 2 (1080p)",
+    "position": "2",
+    "type": "channel",
+    "key": "switzerland"
+  },
+  {
+    "namear": "SRF zwei (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SRF zwei (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8\"}]",
+    "logo": "https://i.imgur.com/887SKjm.png",
+    "nameen": "SRF zwei (1080p)",
+    "position": "3",
+    "type": "channel",
+    "key": "switzerland"
+  }
+]

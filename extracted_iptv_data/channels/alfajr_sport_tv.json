@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "FJR1",
+    "servers": "[{\"headers\":\"user-agent|Mozila|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"Mozila\",\"position\":\"0\",\"url\":\"https://flu.systemnet.tv/Al.Fajer.1.720p/index.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAN0IuAwJN3cu8TsK8VLKyBhJkF0nGWU4NkONADwSB3w&s=10",
+    "nameen": "FJR1",
+    "position": "0",
+    "type": "channel",
+    "key": "alfajr_sport_tv"
+  },
+  {
+    "namear": "FJR2",
+    "servers": "[{\"headers\":\"user-agent|Mozila|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"Mozila\",\"position\":\"0\",\"url\":\"https://flu.systemnet.tv/Al.Fajer.2.720p/index.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAN0IuAwJN3cu8TsK8VLKyBhJkF0nGWU4NkONADwSB3w&s=10",
+    "nameen": "FJR2",
+    "position": "1",
+    "type": "channel",
+    "key": "alfajr_sport_tv"
+  },
+  {
+    "namear": "FJR3",
+    "servers": "[{\"headers\":\"user-agent|Mozila|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"Mozila\",\"position\":\"0\",\"url\":\"https://flu.systemnet.tv/Al.Fajer.3.720p/index.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAN0IuAwJN3cu8TsK8VLKyBhJkF0nGWU4NkONADwSB3w&s=10",
+    "nameen": "FJR3",
+    "position": "2",
+    "type": "channel",
+    "key": "alfajr_sport_tv"
+  },
+  {
+    "namear": "FJR4",
+    "servers": "[{\"headers\":\"Referer|Mozila|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"Mozila\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://flu.systemnet.tv/Al.Fajer.4.720p/index.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAN0IuAwJN3cu8TsK8VLKyBhJkF0nGWU4NkONADwSB3w&s=10",
+    "nameen": "FJR4",
+    "position": "3",
+    "type": "channel",
+    "key": "alfajr_sport_tv"
+  },
+  {
+    "namear": "FJR5",
+    "servers": "[{\"headers\":\"user-agent|Mozila|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"Mozila\",\"position\":\"0\",\"url\":\"https://flu.systemnet.tv/Al.Fajer.5.720p/index.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAN0IuAwJN3cu8TsK8VLKyBhJkF0nGWU4NkONADwSB3w&s=10",
+    "nameen": "FJR5",
+    "position": "4",
+    "type": "channel",
+    "key": "alfajr_sport_tv"
+  }
+]

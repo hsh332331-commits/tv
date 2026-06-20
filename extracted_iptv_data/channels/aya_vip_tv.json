@@ -1,0 +1,4502 @@
+[
+  {
+    "namear": "AYA 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/1\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 1",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/2\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 2",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/3\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 3",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 4",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 4\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/4\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 4",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 5",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 5\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/5\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 5",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 6",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 6\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/6\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 6",
+    "position": "6",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 7",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 7\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/7\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 7",
+    "position": "7",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 8",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 8\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/8\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 8",
+    "position": "8",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 9",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 9\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/9\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 9",
+    "position": "9",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 10",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 10\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/10\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 10",
+    "position": "10",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 11",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 11\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/11\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 11",
+    "position": "11",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 12",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 12\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/12\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 12",
+    "position": "12",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 13",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 13\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/13\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 13",
+    "position": "13",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 14",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 14\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/14\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 14",
+    "position": "14",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 15",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 15\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/15\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 15",
+    "position": "15",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 16",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 16\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/16\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 16",
+    "position": "16",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 17",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 17\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/17\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 17",
+    "position": "17",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 18",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 18\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/18\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 18",
+    "position": "18",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 19",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 19\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/19\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 19",
+    "position": "19",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 20",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 20\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/20\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 20",
+    "position": "20",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 21",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 21\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/21\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 21",
+    "position": "21",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 22",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 22\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/22\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 22",
+    "position": "22",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 23",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 23\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/23\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 23",
+    "position": "23",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 24",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 24\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/24\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 24",
+    "position": "24",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 25",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 25\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/25\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 25",
+    "position": "25",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 26",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 26\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/26\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 26",
+    "position": "26",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 27",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 27\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/27\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 27",
+    "position": "27",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 28",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 28\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/28\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 28",
+    "position": "28",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 29",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 29\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/29\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 29",
+    "position": "29",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 30",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 30\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/30\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 30",
+    "position": "30",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 31",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 31\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/31\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 31",
+    "position": "31",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 32",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 32\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/32\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 32",
+    "position": "32",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 33",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 33\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/33\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 33",
+    "position": "33",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 34",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 34\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/34\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 34",
+    "position": "34",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 35",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 35\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/35\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 35",
+    "position": "35",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 36",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 36\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/36\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 36",
+    "position": "36",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 37",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 37\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/37\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 37",
+    "position": "37",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 38",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 38\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/38\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 38",
+    "position": "38",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 39",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 39\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/39\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 39",
+    "position": "39",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 40",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 40\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/40\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 40",
+    "position": "40",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 41",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 41\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/41\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 41",
+    "position": "41",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 42",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 42\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/42\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 42",
+    "position": "42",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 43",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 43\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/43\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 43",
+    "position": "43",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 44",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 44\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/44\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 44",
+    "position": "44",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 45",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 45\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/45\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 45",
+    "position": "45",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 46",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 46\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/46\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 46",
+    "position": "46",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 47",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 47\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/47\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 47",
+    "position": "47",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 48",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 48\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/48\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 48",
+    "position": "48",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 49",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 49\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/49\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 49",
+    "position": "49",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 50",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 50\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/50\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 50",
+    "position": "50",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 51",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 51\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/51\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 51",
+    "position": "51",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 52",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 52\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/52\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 52",
+    "position": "52",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 53",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 53\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/53\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 53",
+    "position": "53",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 54",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 54\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/54\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 54",
+    "position": "54",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 55",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 55\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/55\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 55",
+    "position": "55",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 56",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 56\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/56\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 56",
+    "position": "56",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 57",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 57\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/57\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 57",
+    "position": "57",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 58",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 58\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/58\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 58",
+    "position": "58",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 59",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 59\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/59\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 59",
+    "position": "59",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 60",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 60\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/60\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 60",
+    "position": "60",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 61",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 61\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/61\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 61",
+    "position": "61",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 62",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 62\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/62\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 62",
+    "position": "62",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 63",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 63\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/63\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 63",
+    "position": "63",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 64",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 64\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/64\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 64",
+    "position": "64",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 65",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 65\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/65\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 65",
+    "position": "65",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 66",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 66\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/66\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 66",
+    "position": "66",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 67",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 67\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/67\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 67",
+    "position": "67",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 68",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 68\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/68\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 68",
+    "position": "68",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 69",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 69\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/69\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 69",
+    "position": "69",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 70",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 70\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/70\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 70",
+    "position": "70",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 71",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 71\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/71\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 71",
+    "position": "71",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 72",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 72\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/72\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 72",
+    "position": "72",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 73",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 73\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/73\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 73",
+    "position": "73",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 74",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 74\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/74\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 74",
+    "position": "74",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 75",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 75\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/75\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 75",
+    "position": "75",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 76",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 76\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/76\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 76",
+    "position": "76",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 77",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 77\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/77\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 77",
+    "position": "77",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 78",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 78\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/78\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 78",
+    "position": "78",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 79",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 79\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/79\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 79",
+    "position": "79",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 80",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 80\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/80\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 80",
+    "position": "80",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 81",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 81\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/81\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 81",
+    "position": "81",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 82",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 82\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/82\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 82",
+    "position": "82",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 83",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 83\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/83\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 83",
+    "position": "83",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 84",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 84\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/84\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 84",
+    "position": "84",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 85",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 85\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/85\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 85",
+    "position": "85",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 86",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 86\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/86\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 86",
+    "position": "86",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 87",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 87\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/87\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 87",
+    "position": "87",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 88",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 88\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/88\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 88",
+    "position": "88",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 89",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 89\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/89\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 89",
+    "position": "89",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 90",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 90\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/90\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 90",
+    "position": "90",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 91",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 91\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/91\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 91",
+    "position": "91",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 92",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 92\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/92\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 92",
+    "position": "92",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 93",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 93\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/93\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 93",
+    "position": "93",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 94",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 94\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/94\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 94",
+    "position": "94",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 95",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 95\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/95\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 95",
+    "position": "95",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 96",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 96\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/96\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 96",
+    "position": "96",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 97",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 97\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/97\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 97",
+    "position": "97",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 98",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 98\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/98\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 98",
+    "position": "98",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 99",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 99\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/99\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 99",
+    "position": "99",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 100",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 100\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/100\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 100",
+    "position": "100",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 101",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 101\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/101\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 101",
+    "position": "101",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 102",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 102\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/102\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 102",
+    "position": "102",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 103",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 103\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/103\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 103",
+    "position": "103",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 104",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 104\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/104\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 104",
+    "position": "104",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 105",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 105\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/105\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 105",
+    "position": "105",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 106",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 106\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/106\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 106",
+    "position": "106",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 107",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 107\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/107\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 107",
+    "position": "107",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 108",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 108\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/108\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 108",
+    "position": "108",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 109",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 109\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/109\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 109",
+    "position": "109",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 110",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 110\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/110\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 110",
+    "position": "110",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 111",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 111\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/111\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 111",
+    "position": "111",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 112",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 112\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/112\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 112",
+    "position": "112",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 113",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 113\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/113\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 113",
+    "position": "113",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 114",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 114\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/114\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 114",
+    "position": "114",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 115",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 115\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/115\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 115",
+    "position": "115",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 116",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 116\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/116\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 116",
+    "position": "116",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 117",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 117\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/117\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 117",
+    "position": "117",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 118",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 118\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/118\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 118",
+    "position": "118",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 119",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 119\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/119\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 119",
+    "position": "119",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 120",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 120\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/120\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 120",
+    "position": "120",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 121",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 121\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/121\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 121",
+    "position": "121",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 122",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 122\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/122\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 122",
+    "position": "122",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 123",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 123\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/123\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 123",
+    "position": "123",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 124",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 124\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/124\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 124",
+    "position": "124",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 125",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 125\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/125\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 125",
+    "position": "125",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 126",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 126\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/126\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 126",
+    "position": "126",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 127",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 127\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/127\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 127",
+    "position": "127",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 128",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 128\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/128\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 128",
+    "position": "128",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 129",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 129\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/129\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 129",
+    "position": "129",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 130",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 130\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/130\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 130",
+    "position": "130",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 131",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 131\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/131\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 131",
+    "position": "131",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 132",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 132\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/132\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 132",
+    "position": "132",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 133",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 133\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/133\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 133",
+    "position": "133",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 134",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 134\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/134\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 134",
+    "position": "134",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 135",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 135\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/135\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 135",
+    "position": "135",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 136",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 136\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/136\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 136",
+    "position": "136",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 137",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 137\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/137\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 137",
+    "position": "137",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 138",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 138\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/138\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 138",
+    "position": "138",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 139",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 139\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/139\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 139",
+    "position": "139",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 140",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 140\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/140\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 140",
+    "position": "140",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 141",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 141\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/141\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 141",
+    "position": "141",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 142",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 142\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/142\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 142",
+    "position": "142",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 143",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 143\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/143\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 143",
+    "position": "143",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 144",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 144\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/144\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 144",
+    "position": "144",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 145",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 145\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/145\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 145",
+    "position": "145",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 146",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 146\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/146\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 146",
+    "position": "146",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 147",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 147\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/147\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 147",
+    "position": "147",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 148",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 148\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/148\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 148",
+    "position": "148",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 149",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 149\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/149\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 149",
+    "position": "149",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 150",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 150\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/150\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 150",
+    "position": "150",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 151",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 151\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/151\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 151",
+    "position": "151",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 152",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 152\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/152\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 152",
+    "position": "152",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 153",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 153\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/153\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 153",
+    "position": "153",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 154",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 154\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/154\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 154",
+    "position": "154",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 155",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 155\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/155\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 155",
+    "position": "155",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 156",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 156\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/156\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 156",
+    "position": "156",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 157",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 157\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/157\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 157",
+    "position": "157",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 158",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 158\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/158\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 158",
+    "position": "158",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 159",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 159\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/159\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 159",
+    "position": "159",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 160",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 160\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/160\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 160",
+    "position": "160",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 161",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 161\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/161\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 161",
+    "position": "161",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 162",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 162\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/162\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 162",
+    "position": "162",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 163",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 163\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/163\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 163",
+    "position": "163",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 164",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 164\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/164\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 164",
+    "position": "164",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 165",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 165\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/165\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 165",
+    "position": "165",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 166",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 166\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/166\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 166",
+    "position": "166",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 167",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 167\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/167\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 167",
+    "position": "167",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 168",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 168\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/168\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 168",
+    "position": "168",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 169",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 169\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/169\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 169",
+    "position": "169",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 170",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 170\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/170\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 170",
+    "position": "170",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 171",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 171\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/171\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 171",
+    "position": "171",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 172",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 172\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/172\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 172",
+    "position": "172",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 173",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 173\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/173\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 173",
+    "position": "173",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 174",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 174\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/174\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 174",
+    "position": "174",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 175",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 175\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/175\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 175",
+    "position": "175",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 176",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 176\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/176\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 176",
+    "position": "176",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 177",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 177\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/177\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 177",
+    "position": "177",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 178",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 178\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/178\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 178",
+    "position": "178",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 179",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 179\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/179\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 179",
+    "position": "179",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 180",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 180\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/180\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 180",
+    "position": "180",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 181",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 181\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/181\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 181",
+    "position": "181",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 182",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 182\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/182\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 182",
+    "position": "182",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 183",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 183\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/183\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 183",
+    "position": "183",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 184",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 184\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/184\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 184",
+    "position": "184",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 185",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 185\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/185\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 185",
+    "position": "185",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 186",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 186\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/186\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 186",
+    "position": "186",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 187",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 187\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/187\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 187",
+    "position": "187",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 188",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 188\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/188\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 188",
+    "position": "188",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 189",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 189\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/189\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 189",
+    "position": "189",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 190",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 190\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/190\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 190",
+    "position": "190",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 191",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 191\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/191\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 191",
+    "position": "191",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 192",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 192\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/192\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 192",
+    "position": "192",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 193",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 193\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/193\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 193",
+    "position": "193",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 194",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 194\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/194\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 194",
+    "position": "194",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 195",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 195\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/195\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 195",
+    "position": "195",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 196",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 196\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/196\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 196",
+    "position": "196",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 197",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 197\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/197\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 197",
+    "position": "197",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 198",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 198\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/198\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 198",
+    "position": "198",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 199",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 199\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/199\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 199",
+    "position": "199",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 200",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 200\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/200\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 200",
+    "position": "200",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 201",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 201\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/201\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 201",
+    "position": "201",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 202",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 202\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/202\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 202",
+    "position": "202",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 203",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 203\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/203\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 203",
+    "position": "203",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 204",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 204\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/204\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 204",
+    "position": "204",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 205",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 205\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/205\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 205",
+    "position": "205",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 206",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 206\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/206\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 206",
+    "position": "206",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 207",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 207\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/207\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 207",
+    "position": "207",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 208",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 208\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/208\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 208",
+    "position": "208",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 209",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 209\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/209\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 209",
+    "position": "209",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 210",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 210\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/210\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 210",
+    "position": "210",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 211",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 211\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/211\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 211",
+    "position": "211",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 212",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 212\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/212\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 212",
+    "position": "212",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 213",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 213\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/213\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 213",
+    "position": "213",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 214",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 214\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/214\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 214",
+    "position": "214",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 215",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 215\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/215\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 215",
+    "position": "215",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 216",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 216\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/216\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 216",
+    "position": "216",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 217",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 217\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/217\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 217",
+    "position": "217",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 218",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 218\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/218\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 218",
+    "position": "218",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 219",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 219\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/219\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 219",
+    "position": "219",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 220",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 220\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/220\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 220",
+    "position": "220",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 221",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 221\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/221\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 221",
+    "position": "221",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 222",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 222\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/222\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 222",
+    "position": "222",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 223",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 223\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/223\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 223",
+    "position": "223",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 224",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 224\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/224\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 224",
+    "position": "224",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 225",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 225\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/225\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 225",
+    "position": "225",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 226",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 226\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/226\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 226",
+    "position": "226",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 227",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 227\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/227\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 227",
+    "position": "227",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 228",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 228\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/228\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 228",
+    "position": "228",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 229",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 229\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/229\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 229",
+    "position": "229",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 230",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 230\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/230\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 230",
+    "position": "230",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 231",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 231\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/231\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 231",
+    "position": "231",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 232",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 232\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/232\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 232",
+    "position": "232",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 233",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 233\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/233\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 233",
+    "position": "233",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 234",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 234\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/234\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 234",
+    "position": "234",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 235",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 235\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/235\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 235",
+    "position": "235",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 236",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 236\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/236\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 236",
+    "position": "236",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 237",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 237\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/237\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 237",
+    "position": "237",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 238",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 238\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/238\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 238",
+    "position": "238",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 239",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 239\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/239\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 239",
+    "position": "239",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 240",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 240\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/240\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 240",
+    "position": "240",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 241",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 241\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/241\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 241",
+    "position": "241",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 242",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 242\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/242\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 242",
+    "position": "242",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 243",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 243\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/243\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 243",
+    "position": "243",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 244",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 244\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/244\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 244",
+    "position": "244",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 245",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 245\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/245\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 245",
+    "position": "245",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 246",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 246\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/246\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 246",
+    "position": "246",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 247",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 247\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/247\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 247",
+    "position": "247",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 248",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 248\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/248\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 248",
+    "position": "248",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 249",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 249\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/249\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 249",
+    "position": "249",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 250",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 250\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/250\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 250",
+    "position": "250",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 251",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 251\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/251\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 251",
+    "position": "251",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 252",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 252\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/252\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 252",
+    "position": "252",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 253",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 253\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/253\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 253",
+    "position": "253",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 254",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 254\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/254\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 254",
+    "position": "254",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 255",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 255\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/255\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 255",
+    "position": "255",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 256",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 256\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/256\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 256",
+    "position": "256",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 257",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 257\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/257\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 257",
+    "position": "257",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 258",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 258\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/258\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 258",
+    "position": "258",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 259",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 259\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/259\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 259",
+    "position": "259",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 260",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 260\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/260\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 260",
+    "position": "260",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 261",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 261\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/261\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 261",
+    "position": "261",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 262",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 262\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/262\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 262",
+    "position": "262",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 263",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 263\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/263\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 263",
+    "position": "263",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 264",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 264\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/264\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 264",
+    "position": "264",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 265",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 265\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/265\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 265",
+    "position": "265",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 266",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 266\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/266\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 266",
+    "position": "266",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 267",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 267\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/267\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 267",
+    "position": "267",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 268",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 268\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/268\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 268",
+    "position": "268",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 269",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 269\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/269\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 269",
+    "position": "269",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 270",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 270\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/270\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 270",
+    "position": "270",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 271",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 271\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/271\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 271",
+    "position": "271",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 272",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 272\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/272\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 272",
+    "position": "272",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 273",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 273\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/273\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 273",
+    "position": "273",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 274",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 274\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/274\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 274",
+    "position": "274",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 275",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 275\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/275\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 275",
+    "position": "275",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 276",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 276\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/276\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 276",
+    "position": "276",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 277",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 277\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/277\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 277",
+    "position": "277",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 278",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 278\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/278\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 278",
+    "position": "278",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 279",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 279\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/279\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 279",
+    "position": "279",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 280",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 280\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/280\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 280",
+    "position": "280",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 281",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 281\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/281\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 281",
+    "position": "281",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 282",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 282\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/282\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 282",
+    "position": "282",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 283",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 283\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/283\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 283",
+    "position": "283",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 284",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 284\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/284\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 284",
+    "position": "284",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 285",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 285\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/285\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 285",
+    "position": "285",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 286",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 286\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/286\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 286",
+    "position": "286",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 287",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 287\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/287\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 287",
+    "position": "287",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 288",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 288\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/288\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 288",
+    "position": "288",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 289",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 289\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/289\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 289",
+    "position": "289",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 290",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 290\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/290\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 290",
+    "position": "290",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 291",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 291\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/291\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 291",
+    "position": "291",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 292",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 292\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/292\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 292",
+    "position": "292",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 293",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 293\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/293\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 293",
+    "position": "293",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 294",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 294\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/294\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 294",
+    "position": "294",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 295",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 295\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/295\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 295",
+    "position": "295",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 296",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 296\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/296\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 296",
+    "position": "296",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 297",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 297\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/297\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 297",
+    "position": "297",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 298",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 298\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/298\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 298",
+    "position": "298",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 299",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 299\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/299\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 299",
+    "position": "299",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 300",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 300\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/300\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 300",
+    "position": "300",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 301",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 301\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/301\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 301",
+    "position": "301",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 302",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 302\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/302\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 302",
+    "position": "302",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 303",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 303\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/303\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 303",
+    "position": "303",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 304",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 304\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/304\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 304",
+    "position": "304",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 305",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 305\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/305\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 305",
+    "position": "305",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 306",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 306\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/306\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 306",
+    "position": "306",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 307",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 307\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/307\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 307",
+    "position": "307",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 308",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 308\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/308\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 308",
+    "position": "308",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 309",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 309\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/309\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 309",
+    "position": "309",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 310",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 310\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/310\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 310",
+    "position": "310",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 311",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 311\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/311\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 311",
+    "position": "311",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 312",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 312\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/312\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 312",
+    "position": "312",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 313",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 313\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/313\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 313",
+    "position": "313",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 314",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 314\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/314\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 314",
+    "position": "314",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 315",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 315\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/315\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 315",
+    "position": "315",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 316",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 316\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/316\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 316",
+    "position": "316",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 317",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 317\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/317\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 317",
+    "position": "317",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 318",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 318\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/318\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 318",
+    "position": "318",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 319",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 319\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/319\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 319",
+    "position": "319",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 320",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 320\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/320\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 320",
+    "position": "320",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 321",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 321\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/321\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 321",
+    "position": "321",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 322",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 322\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/322\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 322",
+    "position": "322",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 323",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 323\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/323\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 323",
+    "position": "323",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 324",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 324\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/324\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 324",
+    "position": "324",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 325",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 325\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/325\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 325",
+    "position": "325",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 326",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 326\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/326\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 326",
+    "position": "326",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 327",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 327\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/327\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 327",
+    "position": "327",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 328",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 328\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/328\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 328",
+    "position": "328",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 329",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 329\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/329\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 329",
+    "position": "329",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 330",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 330\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/330\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 330",
+    "position": "330",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 331",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 331\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/331\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 331",
+    "position": "331",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 332",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 332\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/332\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 332",
+    "position": "332",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 333",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 333\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/333\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 333",
+    "position": "333",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 334",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 334\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/334\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 334",
+    "position": "334",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 335",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 335\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/335\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 335",
+    "position": "335",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 336",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 336\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/336\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 336",
+    "position": "336",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 337",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 337\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/337\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 337",
+    "position": "337",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 338",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 338\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/338\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 338",
+    "position": "338",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 339",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 339\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/339\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 339",
+    "position": "339",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 340",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 340\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/340\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 340",
+    "position": "340",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 341",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 341\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/341\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 341",
+    "position": "341",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 342",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 342\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/342\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 342",
+    "position": "342",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 343",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 343\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/343\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 343",
+    "position": "343",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 344",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 344\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/344\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 344",
+    "position": "344",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 345",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 345\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/345\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 345",
+    "position": "345",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 346",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 346\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/346\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 346",
+    "position": "346",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 347",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 347\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/347\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 347",
+    "position": "347",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 348",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 348\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/348\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 348",
+    "position": "348",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 349",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 349\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/349\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 349",
+    "position": "349",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 350",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 350\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/350\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 350",
+    "position": "350",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 351",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 351\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/351\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 351",
+    "position": "351",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 352",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 352\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/352\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 352",
+    "position": "352",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 353",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 353\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/353\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 353",
+    "position": "353",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 354",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 354\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/354\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 354",
+    "position": "354",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 355",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 355\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/355\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 355",
+    "position": "355",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 356",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 356\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/356\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 356",
+    "position": "356",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 357",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 357\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/357\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 357",
+    "position": "357",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 358",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 358\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/358\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 358",
+    "position": "358",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 359",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 359\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/359\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 359",
+    "position": "359",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 360",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 360\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/360\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 360",
+    "position": "360",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 361",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 361\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/361\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 361",
+    "position": "361",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 362",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 362\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/362\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 362",
+    "position": "362",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 363",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 363\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/363\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 363",
+    "position": "363",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 364",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 364\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/364\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 364",
+    "position": "364",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 365",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 365\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/365\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 365",
+    "position": "365",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 366",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 366\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/366\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 366",
+    "position": "366",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 367",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 367\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/367\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 367",
+    "position": "367",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 368",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 368\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/368\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 368",
+    "position": "368",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 369",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 369\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/369\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 369",
+    "position": "369",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 370",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 370\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/370\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 370",
+    "position": "370",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 371",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 371\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/371\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 371",
+    "position": "371",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 372",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 372\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/372\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 372",
+    "position": "372",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 373",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 373\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/373\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 373",
+    "position": "373",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 374",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 374\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/374\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 374",
+    "position": "374",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 375",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 375\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/375\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 375",
+    "position": "375",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 376",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 376\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/376\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 376",
+    "position": "376",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 377",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 377\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/377\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 377",
+    "position": "377",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 378",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 378\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/378\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 378",
+    "position": "378",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 379",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 379\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/379\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 379",
+    "position": "379",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 380",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 380\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/380\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 380",
+    "position": "380",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 381",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 381\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/381\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 381",
+    "position": "381",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 382",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 382\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/382\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 382",
+    "position": "382",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 383",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 383\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/383\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 383",
+    "position": "383",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 384",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 384\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/384\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 384",
+    "position": "384",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 385",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 385\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/385\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 385",
+    "position": "385",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 386",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 386\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/386\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 386",
+    "position": "386",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 387",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 387\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/387\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 387",
+    "position": "387",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 388",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 388\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/388\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 388",
+    "position": "388",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 389",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 389\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/389\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 389",
+    "position": "389",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 390",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 390\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/390\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 390",
+    "position": "390",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 391",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 391\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/391\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 391",
+    "position": "391",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 392",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 392\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/392\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 392",
+    "position": "392",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 393",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 393\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/393\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 393",
+    "position": "393",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 394",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 394\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/394\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 394",
+    "position": "394",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 395",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 395\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/395\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 395",
+    "position": "395",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 396",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 396\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/396\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 396",
+    "position": "396",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 397",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 397\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/397\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 397",
+    "position": "397",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 398",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 398\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/398\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 398",
+    "position": "398",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 399",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 399\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/399\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 399",
+    "position": "399",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 400",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 400\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/400\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 400",
+    "position": "400",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 401",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 401\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/401\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 401",
+    "position": "401",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 402",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 402\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/402\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 402",
+    "position": "402",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 403",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 403\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/403\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 403",
+    "position": "403",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 404",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 404\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/404\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 404",
+    "position": "404",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 405",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 405\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/405\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 405",
+    "position": "405",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 406",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 406\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/406\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 406",
+    "position": "406",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 407",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 407\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/407\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 407",
+    "position": "407",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 408",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 408\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/408\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 408",
+    "position": "408",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 409",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 409\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/409\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 409",
+    "position": "409",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 410",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 410\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/410\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 410",
+    "position": "410",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 411",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 411\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/411\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 411",
+    "position": "411",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 412",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 412\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/412\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 412",
+    "position": "412",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 413",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 413\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/413\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 413",
+    "position": "413",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 414",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 414\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/414\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 414",
+    "position": "414",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 415",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 415\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/415\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 415",
+    "position": "415",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 416",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 416\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/416\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 416",
+    "position": "416",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 417",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 417\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/417\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 417",
+    "position": "417",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 418",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 418\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/418\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 418",
+    "position": "418",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 419",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 419\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/419\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 419",
+    "position": "419",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 420",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 420\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/420\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 420",
+    "position": "420",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 421",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 421\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/421\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 421",
+    "position": "421",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 422",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 422\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/422\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 422",
+    "position": "422",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 423",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 423\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/423\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 423",
+    "position": "423",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 424",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 424\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/424\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 424",
+    "position": "424",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 425",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 425\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/425\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 425",
+    "position": "425",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 426",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 426\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/426\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 426",
+    "position": "426",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 427",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 427\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/427\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 427",
+    "position": "427",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 428",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 428\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/428\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 428",
+    "position": "428",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 429",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 429\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/429\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 429",
+    "position": "429",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 430",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 430\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/430\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 430",
+    "position": "430",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 431",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 431\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/431\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 431",
+    "position": "431",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 432",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 432\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/432\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 432",
+    "position": "432",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 433",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 433\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/433\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 433",
+    "position": "433",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 434",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 434\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/434\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 434",
+    "position": "434",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 435",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 435\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/435\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 435",
+    "position": "435",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 436",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 436\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/436\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 436",
+    "position": "436",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 437",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 437\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/437\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 437",
+    "position": "437",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 438",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 438\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/438\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 438",
+    "position": "438",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 439",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 439\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/439\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 439",
+    "position": "439",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 440",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 440\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/440\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 440",
+    "position": "440",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 441",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 441\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/441\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 441",
+    "position": "441",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 442",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 442\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/442\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 442",
+    "position": "442",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 443",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 443\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/443\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 443",
+    "position": "443",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 444",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 444\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/444\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 444",
+    "position": "444",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 445",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 445\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/445\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 445",
+    "position": "445",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 446",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 446\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/446\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 446",
+    "position": "446",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 447",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 447\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/447\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 447",
+    "position": "447",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 448",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 448\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/448\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 448",
+    "position": "448",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 449",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 449\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/449\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 449",
+    "position": "449",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 450",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 450\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/450\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 450",
+    "position": "450",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 451",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 451\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/451\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 451",
+    "position": "451",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 452",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 452\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/452\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 452",
+    "position": "452",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 453",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 453\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/453\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 453",
+    "position": "453",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 454",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 454\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/454\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 454",
+    "position": "454",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 455",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 455\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/455\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 455",
+    "position": "455",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 456",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 456\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/456\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 456",
+    "position": "456",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 457",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 457\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/457\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 457",
+    "position": "457",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 458",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 458\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/458\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 458",
+    "position": "458",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 459",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 459\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/459\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 459",
+    "position": "459",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 460",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 460\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/460\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 460",
+    "position": "460",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 461",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 461\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/461\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 461",
+    "position": "461",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 462",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 462\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/462\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 462",
+    "position": "462",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 463",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 463\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/463\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 463",
+    "position": "463",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 464",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 464\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/464\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 464",
+    "position": "464",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 465",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 465\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/465\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 465",
+    "position": "465",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 466",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 466\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/466\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 466",
+    "position": "466",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 467",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 467\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/467\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 467",
+    "position": "467",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 468",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 468\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/468\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 468",
+    "position": "468",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 469",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 469\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/469\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 469",
+    "position": "469",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 470",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 470\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/470\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 470",
+    "position": "470",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 471",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 471\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/471\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 471",
+    "position": "471",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 472",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 472\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/472\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 472",
+    "position": "472",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 473",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 473\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/473\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 473",
+    "position": "473",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 474",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 474\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/474\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 474",
+    "position": "474",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 475",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 475\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/475\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 475",
+    "position": "475",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 476",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 476\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/476\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 476",
+    "position": "476",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 477",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 477\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/477\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 477",
+    "position": "477",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 478",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 478\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/478\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 478",
+    "position": "478",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 479",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 479\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/479\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 479",
+    "position": "479",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 480",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 480\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/480\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 480",
+    "position": "480",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 481",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 481\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/481\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 481",
+    "position": "481",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 482",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 482\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/482\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 482",
+    "position": "482",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 483",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 483\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/483\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 483",
+    "position": "483",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 484",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 484\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/484\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 484",
+    "position": "484",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 485",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 485\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/485\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 485",
+    "position": "485",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 486",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 486\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/486\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 486",
+    "position": "486",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 487",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 487\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/487\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 487",
+    "position": "487",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 488",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 488\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/488\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 488",
+    "position": "488",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 489",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 489\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/489\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 489",
+    "position": "489",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 490",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 490\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/490\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 490",
+    "position": "490",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 491",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 491\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/491\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 491",
+    "position": "491",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 492",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 492\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/492\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 492",
+    "position": "492",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 493",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 493\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/493\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 493",
+    "position": "493",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 494",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 494\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/494\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 494",
+    "position": "494",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 495",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 495\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/495\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 495",
+    "position": "495",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 496",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 496\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/496\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 496",
+    "position": "496",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 497",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 497\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/497\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 497",
+    "position": "497",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 498",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 498\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/498\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 498",
+    "position": "498",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 499",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 499\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/499\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 499",
+    "position": "499",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  },
+  {
+    "namear": "AYA 500",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"AYA 500\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://a2.apk-api.com:80/api/channel/500\"}]",
+    "logo": "https://fls.cjs.jyh/",
+    "nameen": "AYA 500",
+    "position": "500",
+    "type": "channel",
+    "key": "aya_vip_tv"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "namear": "Sony Ten 1",
+    "servers": "[{\"headers\":\"CHANNEL4_34user-Agent|CHANNEL4_34user-Agent|CHANNEL4_34user-Agent|CHANNEL4_34\",\"otherHeaders\":\"\",\"name\":\"Sony Ten 1\",\"Referer\":\"\",\"userAgent\":\"CHANNEL4_34user-Agent|CHANNEL4_34\",\"position\":\"0\",\"url\":\"https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14033194_ico.png",
+    "nameen": "Sony Ten 1",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarsony_sports"
+  },
+  {
+    "namear": "Sony Ten 2",
+    "servers": "[{\"headers\":\"CHANNEL4_34user-Agent|CHANNEL4_34user-Agent|CHANNEL4_34user-Agent|CHANNEL4_34\",\"otherHeaders\":\"\",\"name\":\"Sony Ten 2\",\"Referer\":\"\",\"userAgent\":\"CHANNEL4_34user-Agent|CHANNEL4_34\",\"position\":\"0\",\"url\":\"https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14031118_ico.png",
+    "nameen": "Sony Ten 2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarsony_sports"
+  },
+  {
+    "namear": "Sony Ten 3",
+    "servers": "[{\"headers\":\"REDLINECLIENT ed5zs4d5sd41user-Agent|REDLINECLIENT ed5zs4d5sd41user-Agent|REDLINECLIENT ed5zs4d5sd41user-Agent|REDLINECLIENT ed5zs4d5sd41\",\"otherHeaders\":\"\",\"name\":\"Sony Ten 3\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT ed5zs4d5sd41user-Agent|REDLINECLIENT ed5zs4d5sd41\",\"position\":\"0\",\"url\":\"https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14033202_ico.png",
+    "nameen": "Sony Ten 3",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarsony_sports"
+  },
+  {
+    "namear": "Sony SIX",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Sony SIX\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/13926503_ico.png",
+    "nameen": "Sony SIX",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarsony_sports"
+  }
+]

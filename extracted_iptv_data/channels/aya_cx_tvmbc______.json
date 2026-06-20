@@ -1,0 +1,164 @@
+[
+  {
+    "namear": "MBC 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",
+    "nameen": "MBC 1",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvmbc_قنوات"
+  },
+  {
+    "namear": "MBC 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://185.9.2.18/chid_375/mono.m3u8\"},{\"license\":\"e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f\",\"headers\":\"user-agent|Mozilla/5.0 (Linux; Android 14; BRP-NX1 Build/HONORBRP-N21; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.113 Mobile Safari/537.36|tod-drm|true\",\"scheme\":\"clearkey\",\"otherHeaders\":\"tod-drm|true\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 14; BRP-NX1 Build/HONORBRP-N21; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.113 Mobile Safari/537.36\",\"position\":\"1\",\"url\":\"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/index.mpd\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png",
+    "nameen": "MBC 2",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvmbc_قنوات"
+  },
+  {
+    "namear": "MBC 3",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8\"}]",
+    "logo": "https://b.top4top.io/p_3302aq8841.jpg",
+    "nameen": "MBC 3",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvmbc_قنوات"
+  },
+  {
+    "namear": "MBC 4",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MBC_4_TV_Channel_Logo.png/800px-MBC_4_TV_Channel_Logo.png",
+    "nameen": "MBC 4",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvmbc_قنوات"
+  },
+  {
+    "namear": "MBC 5",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel5/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi Stream\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3b/5_MBC.webp",
+    "nameen": "MBC 5",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvmbc_قنوات"
+  },
+  {
+    "namear": "MBC ACTION",
+    "servers": "[{\"license\":\"e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f\",\"headers\":\"tod-drm|true\",\"scheme\":\"clearkey\",\"otherHeaders\":\"tod-drm|true\",\"isWeb\":\"false\",\"name\":\"Multi | مصدر رسمي\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-action/8ea6ca1108d03e03da5e61372354f5c8/index.mpd\"},{\"license\":\"5567531458e9c2e93d22935c45fdef52:f2f613fb2132acd019d2a96bf1be15c1\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"https://fastly-live.cdn.intigral-ott.net/MBAH/MBAH.isml/manifest.mpd\"},{\"license\":\"d889ec7cb5cd8acb44f702726a56ae21:37be04cfb92f19ecd6074b976c1f3c54\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/MBC_Action_HD/DASH/MBC_Action_HD.mpd\"},{\"license\":\"\",\"headers\":\"Referer|https://babaktv.com/|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"HD\",\"Referer\":\"https://babaktv.com/\",\"userAgent\":\"\",\"position\":\"3\",\"url\":\"https://m3u.iranvids.com/mbc-action/output.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/1logo_mbc_action.png",
+    "nameen": "MBC ACTION",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_cx_tvmbc_قنوات"
+  },
+  {
+    "namear": "MBC DRAMA",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8\"}]",
+    "logo": "https://4.bp.blogspot.com/-xdlWCS_9bjo/WxKH_A9QB4I/AAAAAAAATlM/7uO647kh7tACExdgVrp6VJg4CIYEhDO8gCLcBGAs/s1600/mbc_ae_drama_hd%2BFrequency.png",
+    "nameen": "MBC DRAMA",
+    "position": "6",
+    "type": "channel",
+    "key": "aya_cx_tvmbc_قنوات"
+  },
+  {
+    "namear": "MBC DRAMA +",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL58Io4DUyjKFuSGxT186DIGMqxpLmjUMC1GTsUMBdRg&s=10",
+    "nameen": "MBC DRAMA +",
+    "position": "7",
+    "type": "channel",
+    "key": "aya_cx_tvmbc_قنوات"
+  },
+  {
+    "namear": "MBC MASR 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"متعدد الجودات\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MBC_Masr_Logo.png/1200px-MBC_Masr_Logo.png",
+    "nameen": "MBC MASR 1",
+    "position": "8",
+    "type": "channel",
+    "key": "aya_cx_tvmbc_قنوات"
+  },
+  {
+    "namear": "Drama Maser",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4ltaxj23gZSZW6YFydS7ZdWqSTGxeUqypTjMWh95Yig&s=10",
+    "nameen": "Drama Maser",
+    "position": "8",
+    "type": "channel",
+    "key": "aya_cx_tvmbc_قنوات"
+  },
+  {
+    "namear": "MBC MASR 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"متعدد مصدر أول\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"متعدد مصدر ثاني\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD7Ho_RxwaEhctFWMIJB5-d0Th0Lk-gBHzWXB4WDbyRA&s=10",
+    "nameen": "MBC MASR 2",
+    "position": "9",
+    "type": "channel",
+    "key": "aya_cx_tvmbc_قنوات"
+  },
+  {
+    "namear": "MBC IRAQ",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8?aws.manifestfilter\\u003dvideo_height:144-1080;video_codec:H264\\u0026video_height\\u003d144-1080\\u0026video_codec\\u003dH264\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkwZ9yEJiw2wvgyzpz3H8JZwQM6tBrXMS0euriBtY0GQ&s=10",
+    "nameen": "MBC IRAQ",
+    "position": "10",
+    "type": "channel",
+    "key": "aya_cx_tvmbc_قنوات"
+  },
+  {
+    "namear": "BOLLYWOOD",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVAZK8er0OxCFFV8zqK3wsScE1Wc2GkUcvDY7_v3o7dQ&s=10",
+    "nameen": "BOLLYWOOD",
+    "position": "11",
+    "type": "channel",
+    "key": "aya_cx_tvmbc_قنوات"
+  },
+  {
+    "namear": "MBC PERSIA",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png",
+    "nameen": "MBC PERSIA",
+    "position": "12",
+    "type": "channel",
+    "key": "aya_cx_tvmbc_قنوات"
+  },
+  {
+    "namear": "MBC MAX",
+    "servers": "[{\"license\":\"0a414b719bade2acc124e22c042290f3:db84a5afa10a001dd73b094c14638212\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://edgiolive.cdn.intigral-ott.net/MBMH/MBMH.isml/manifest.mpd\"},{\"license\":\"0a414b719bade2acc124e22c042290f3:db84a5afa10a001dd73b094c14638212\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"3\",\"url\":\"https://uselector.cdn.intigral-ott.net/MBMH/MBMH.isml/manifest.mpd\"},{\"license\":\"e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f\",\"headers\":\"tod-drm|true\",\"scheme\":\"clearkey\",\"otherHeaders\":\"tod-drm|true\",\"isWeb\":\"false\",\"name\":\"البث الاصلي\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-max/b628d2bbaee0431a17859963edf2975f/index.mpd\"},{\"license\":\"0a414b719bade2acc124e22c042290f3:db84a5afa10a001dd73b094c14638212\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"5\",\"url\":\"https://fastly-vod.cdn.intigral-ott.net/MBMH/MBMH.isml/manifest.mpd\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png",
+    "nameen": "MBC MAX",
+    "position": "13",
+    "type": "channel",
+    "key": "aya_cx_tvmbc_قنوات"
+  },
+  {
+    "namear": "MBC Gaming",
+    "servers": "[{\"license\":\"5567531458e9c2e93d22935c45fdef52:f2f613fb2132acd019d2a96bf1be15c1\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://uselector.cdn.intigral-ott.net/MBAH/MBAH.isml/manifest.mpd\"}]",
+    "logo": "https://c.top4top.io/p_3302s47hx1.jpg",
+    "nameen": "MBC Gaming",
+    "position": "14",
+    "type": "channel",
+    "key": "aya_cx_tvmbc_قنوات"
+  },
+  {
+    "namear": "MBC Plus Elife",
+    "servers": "[{\"license\":\"867c8d7670eab5e7aa10571830ad3d8c:030cf68626950b12145bc7147d6a9bda\",\"headers\":\"Referer|https://neacdnpop3-edge02.aws.playco.com/live/eds/MBC_Plus_eLife_HD/DASH/MBC_Plus_eLife_HD.mpd|\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"https://neacdnpop3-edge02.aws.playco.com/live/eds/MBC_Plus_eLife_HD/DASH/MBC_Plus_eLife_HD.mpd\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/index.mpd\"}]",
+    "logo": "https://d.top4top.io/p_3302gyfhb1.jpg",
+    "nameen": "MBC Plus Elife",
+    "position": "14",
+    "type": "channel",
+    "key": "aya_cx_tvmbc_قنوات"
+  },
+  {
+    "namear": "MBC Variety +",
+    "servers": "[{\"license\":\"e5af533daeb9c443a78888ac6b2a2eb4:43ab3a679a943a11877cb219d2b7239c\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"2\",\"url\":\"https://uselector.cdn.intigral-ott.net/MBV/MBV.isml/manifest.mpd\"},{\"license\":\"e5af533daeb9c443a78888ac6b2a2eb4:43ab3a679a943a11877cb219d2b7239c\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://uselector.cdn.intigral-ott.net/MBV/MBV.isml/manifest.mpd\"},{\"license\":\"e5af533daeb9c443a78888ac6b2a2eb4:43ab3a679a943a11877cb219d2b7239c\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://neacdnpop3-edge02.aws.playco.com/live/eds/MBC_Plus_Variety_HD/DASH/MBC_Plus_Variety_HD.mpd\"},{\"license\":\"e5af533daeb9c443a78888ac6b2a2eb4:43ab3a679a943a11877cb219d2b7239c\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi 3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"3\",\"url\":\"https://edgiolive.cdn.intigral-ott.net/MBV/MBV.isml/manifest.mpd\"}]",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nRyfelnq-5_IoV_UG7pIi6AlGC5Uhw_oEjJvlreo8J=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "MBC Variety +",
+    "position": "17",
+    "type": "channel",
+    "key": "aya_cx_tvmbc_قنوات"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "RTVS Sport 🇸🇰",
+    "servers": "[{\"headers\":\"\",\"license\":\"11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"RTVS Sport 🇸🇰 #KODIPROP:inputstream.adaptive.manifest_type\\u003dmpd #KODIPROP:inputstream.adaptive.license_type\\u003dorg.w3.clearkey #KODIPROP:inputstream.adaptive.license_key\\u003d\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dash2.antik.sk/stream/nvidia_rtvs_sport/playlist_cenc.mpd\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Slovak_Football_Association_logo.svg/1200px-Slovak_Football_Association_logo.svg.png",
+    "nameen": "RTVS Sport 🇸🇰",
+    "position": "1",
+    "type": "channel",
+    "key": "slovakia_tv"
+  },
+  {
+    "namear": "TA3 🇸🇰",
+    "servers": "[{\"headers\":\"\",\"license\":\"11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"TA3 🇸🇰 #KODIPROP:inputstream.adaptive.manifest_type\\u003dmpd #KODIPROP:inputstream.adaptive.license_type\\u003dorg.w3.clearkey #KODIPROP:inputstream.adaptive.license_key\\u003d\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dash2.antik.sk/stream/nvidia_ta3/playlist_cenc.mpd\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Slovak_Football_Association_logo.svg/1200px-Slovak_Football_Association_logo.svg.png",
+    "nameen": "TA3 🇸🇰",
+    "position": "2",
+    "type": "channel",
+    "key": "slovakia_tv"
+  },
+  {
+    "namear": "ČT Sport 🇸🇰",
+    "servers": "[{\"headers\":\"\",\"license\":\"11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"ČT Sport 🇸🇰 #KODIPROP:inputstream.adaptive.manifest_type\\u003dmpd #KODIPROP:inputstream.adaptive.license_type\\u003dorg.w3.clearkey #KODIPROP:inputstream.adaptive.license_key\\u003d\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Slovak_Football_Association_logo.svg/1200px-Slovak_Football_Association_logo.svg.png",
+    "nameen": "ČT Sport 🇸🇰",
+    "position": "3",
+    "type": "channel",
+    "key": "slovakia_tv"
+  },
+  {
+    "namear": "JOJ Šport 🇸🇰",
+    "servers": "[{\"headers\":\"\",\"license\":\"11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"JOJ Šport 🇸🇰 #KODIPROP:inputstream.adaptive.manifest_type\\u003dmpd #KODIPROP:inputstream.adaptive.license_type\\u003dorg.w3.clearkey #KODIPROP:inputstream.adaptive.license_key\\u003d11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Slovak_Football_Association_logo.svg/1200px-Slovak_Football_Association_logo.svg.png",
+    "nameen": "JOJ Šport 🇸🇰",
+    "position": "4",
+    "type": "channel",
+    "key": "slovakia_tv"
+  },
+  {
+    "namear": "Tv4 futbol",
+    "servers": "[{\"headers\":\"\",\"license\":\"a518c629bd683a4eba5f2a793bcb48d6:49642d2151ac6c3f8453bbfc4b3fdfc0\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live.streaming.a2d.tv/asset/20465725.isml/dash.mpd\"}]",
+    "logo": "",
+    "nameen": "Tv4 futbol",
+    "position": "4",
+    "type": "channel",
+    "key": "slovakia_tv"
+  }
+]

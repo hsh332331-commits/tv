@@ -1,0 +1,65 @@
+[
+  {
+    "namear": "ESPN 1 Sur",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"ESPN 1 Sur\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/718.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/600861_ico.png",
+    "nameen": "ESPN 1 Sur",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarespn_latino"
+  },
+  {
+    "namear": "ESPN 2 Sur",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"ESPN 2 Sur\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/719.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/600879_ico.png",
+    "nameen": "ESPN 2 Sur",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarespn_latino"
+  },
+  {
+    "namear": "ESPN 3 Sur",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"ESPN 3 Sur\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/720.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/600915_ico.png",
+    "nameen": "ESPN 3 Sur",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarespn_latino"
+  },
+  {
+    "namear": "ESPN 1 MX",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"ESPN 1 MX\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/780.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/600972_ico.png",
+    "nameen": "ESPN 1 MX",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarespn_latino"
+  },
+  {
+    "namear": "ESPN 2 MX",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"ESPN 2 MX\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/796.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/600983_ico.png",
+    "nameen": "ESPN 2 MX",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarespn_latino"
+  },
+  {
+    "namear": "ESPN 3 MX",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"ESPN 3 MX\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/797.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/601374_ico.png",
+    "nameen": "ESPN 3 MX",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarespn_latino"
+  },
+  {
+    "namear": "ESPN X Sur",
+    "servers": "[{\"headers\":\"S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57user-Agent|S11elW/2.57\",\"otherHeaders\":\"\",\"name\":\"ESPN X Sur\",\"Referer\":\"\",\"userAgent\":\"S11elW/2.57user-Agent|S11elW/2.57\",\"position\":\"0\",\"url\":\"http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/721.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/600989_ico.png",
+    "nameen": "ESPN X Sur",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarespn_latino"
+  }
+]

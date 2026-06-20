@@ -1,0 +1,146 @@
+[
+  {
+    "namear": "ASTERA SPORT",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://130.193.165.162/lbengine/Astera-Sport-LB+ph/bVkFh6U__hi__Gn9kqZeNRbIKWni9iiwJ2tx7x2wc__ih__siapM3Z9__ih__RBj1MAQYx3tkAQUl8mt6glwnjYLEkos__ih__iMwEi9G9__hi__n3ppKoz5DxyjaFwoflWXIT6RPRmhK__ih__uSk59QwXK__ih__JMONf6BiW0R4TW5M5lCnfmJvbW7eo8UN94Wlp7RccgVGIgmRf59JGeOOP9G__hi__rbbxQ38Z8h979cG1xgRi8AAnbHU4llUWDAdyUo7__ih__KvKZo0DXVZNucxexqO0wwAcxmuMHdEWYsVABz8BJh8xVhG5__hi__O2jpDBlEPjDY43xu1j76DaIgGTl9dlxTsq2vtqMkSxmEF0---/cache/Astera-Sport-LB/master.m3u8\"}]",
+    "logo": "https://pbs.twimg.com/profile_images/1284844655767625728/CmXIxHPo_400x400.jpg",
+    "nameen": "ASTERA SPORT",
+    "position": "0",
+    "type": "channel",
+    "key": "kurd_sport_vip"
+  },
+  {
+    "namear": "NUBAR SPORT",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Nubar\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"http://stream.nubar.tv:1935/private/NUBARSport/chunklist_w1606922044.m3u8\"}]",
+    "logo": "https://i0.wp.com/ku.karwan.tv/wp-content/uploads/nubar-sport.jpg",
+    "nameen": "NUBAR SPORT",
+    "position": "1",
+    "type": "channel",
+    "key": "kurd_sport_vip"
+  },
+  {
+    "namear": "Duhok SPORT",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Duhok\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"http://duhoktv.badinan.xyz:1935/live/duhokpro/chunklist_w404460222.m3u8\"}]",
+    "logo": "https://pbs.twimg.com/media/E9-OFwlWEAUSt9O.jpg",
+    "nameen": "Duhok SPORT",
+    "position": "2",
+    "type": "channel",
+    "key": "kurd_sport_vip"
+  },
+  {
+    "namear": "LD SPORT",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://lb15.aromatv.name:8080/Bein TV/Bein VIP/206153?play_token\\u003dph4wCfQpyF\\u0026token\\u003dGBQKAkBYRFhBDQcAA1wICwNXUg0DUAYFVgsKW1IGVFkBAARXUAgCBAYXT0dDTUtcAFk9XQFAXgJVAgMIUBgVFBBTEDxaVERYQQRXUAkPDBtNFhZdCAdGCVMFAABRAgZQUgJOQUNZAkBZWxYJXBUbXBlAB0YLAwhsBlZFUQBRFVsNQw4PHxIJDDxRBghRV10bWxZTFklADUASEQlWFlhbTUFUCxdBURIHQQ8NEFxVFRsCWxdaERAdEVgRYGFBGBUEG0IHDUBZCQxBD0ERQxsVGwhHPUYAERBBB1JeXREWDUNTFE5BXlEePQBaDQtVWk1QDloRFl9AVRFOEV5XDV1DDhFpEgpXElwMFlkPGA\\u003d\\u003d\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsCkaun0MCcKSyV1wbF7ypFE60p9PaSrC4yw&usqp=CAU",
+    "nameen": "LD SPORT",
+    "position": "3",
+    "type": "channel",
+    "key": "kurd_sport_vip"
+  },
+  {
+    "namear": "SEE SPORT 3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://lb15.aromatv.name:8080/Bein TV/Bein VIP/206097?play_token\\u003dph4wCfQpyF\\u0026token\\u003dGBQKAkBYRFhBDQcAA1wICwNXUg0DUAYFVgsKW1IGVFkBAARXUAgCBAYXT0dDTUtcAFk9XQFAXgJVAgMIUBgVFBBTEDxaVERYQQRXUAkPDBtNFhZdCAdGCVMFAABRAgZQUgJOQUNZAkBZWxYJXBUbXBlAB0YLAwhsBlZFUQBRFVsNQw4PHxIJDDxRBghRV10bWxZTFklADUASEQlWFlhbTUFUCxdBURIHQQ8NEFxVFRsCWxdaERAdEVgRYGFBGBUEG0IHDUBZCQxBD0ERQxsVGwhHPUYAERBBB1JeXREWDUNTFE5BXlEePQBaDQtVWk1QDloRFl9AVRFOEV5XDV1DDhFpEgpXElwMFlkPGA\\u003d\\u003d\"}]",
+    "logo": "https://www.grandsoccertips.com/wp-content/uploads/2022/05/logo@2x.png",
+    "nameen": "SEE SPORT 3",
+    "position": "4",
+    "type": "channel",
+    "key": "kurd_sport_vip"
+  },
+  {
+    "namear": "MNM SPORT",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxIHuSXS02xo98LEhqXZnEpZ1COoJFY1w0gg&usqp=CAU",
+    "nameen": "MNM SPORT",
+    "position": "4",
+    "type": "channel",
+    "key": "kurd_sport_vip"
+  },
+  {
+    "namear": "ASO SPORT",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://lb15.aromatv.name:8080/Bein TV/Bein VIP/206024?play_token\\u003dph4wCfQpyF\\u0026token\\u003dGBQKAkBYRFhBDQcAA1wICwNXUg0DUAYFVgsKW1IGVFkBAARXUAgCBAYXT0dDTUtcAFk9XQFAXgJVAgMIUBgVFBBTEDxaVERYQQRXUAkPDBtNFhZdCAdGCVMFAABRAgZQUgJOQUNZAkBZWxYJXBUbXBlAB0YLAwhsBlZFUQBRFVsNQw4PHxIJDDxRBghRV10bWxZTFklADUASEQlWFlhbTUFUCxdBURIHQQ8NEFxVFRsCWxdaERAdEVgRYGFBGBUEG0IHDUBZCQxBD0ERQxsVGwhHPUYAERBBB1JeXREWDUNTFE5BXlEePQBaDQtVWk1QDloRFl9AVRFOEV5XDV1DDhFpEgpXElwMFlkPGA\\u003d\\u003d\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkQx3BAAa2lsMZ1c6YuUNHModFeus7xd_EEg&usqp=CAU",
+    "nameen": "ASO SPORT",
+    "position": "05",
+    "type": "channel",
+    "key": "kurd_sport_vip"
+  },
+  {
+    "namear": "SEE SPORT 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://lb15.aromatv.name:8080/Bein TV/Bein VIP/206095?play_token\\u003dph4wCfQpyF\\u0026token\\u003dGBQKAkBYRFhBDQcAA1wICwNXUg0DUAYFVgsKW1IGVFkBAARXUAgCBAYXT0dDTUtcAFk9XQFAXgJVAgMIUBgVFBBTEDxaVERYQQRXUAkPDBtNFhZdCAdGCVMFAABRAgZQUgJOQUNZAkBZWxYJXBUbXBlAB0YLAwhsBlZFUQBRFVsNQw4PHxIJDDxRBghRV10bWxZTFklADUASEQlWFlhbTUFUCxdBURIHQQ8NEFxVFRsCWxdaERAdEVgRYGFBGBUEG0IHDUBZCQxBD0ERQxsVGwhHPUYAERBBB1JeXREWDUNTFE5BXlEePQBaDQtVWk1QDloRFl9AVRFOEV5XDV1DDhFpEgpXElwMFlkPGA\\u003d\\u003d\"}]",
+    "logo": "https://www.grandsoccertips.com/wp-content/uploads/2022/05/logo@2x.png",
+    "nameen": "SEE SPORT 1",
+    "position": "5",
+    "type": "channel",
+    "key": "kurd_sport_vip"
+  },
+  {
+    "namear": "DASINYA SPORT",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://lb15.aromatv.name:8080/Bein TV/Bein VIP/206282?play_token\\u003dph4wCfQpyF\\u0026token\\u003dGBQKAkBYRFhBDQcAA1wICwNXUg0DUAYFVgsKW1IGVFkBAARXUAgCBAYXT0dDTUtcAFk9XQFAXgJVAgMIUBgVFBBTEDxaVERYQQRXUAkPDBtNFhZdCAdGCVMFAABRAgZQUgJOQUNZAkBZWxYJXBUbXBlAB0YLAwhsBlZFUQBRFVsNQw4PHxIJDDxRBghRV10bWxZTFklADUASEQlWFlhbTUFUCxdBURIHQQ8NEFxVFRsCWxdaERAdEVgRYGFBGBUEG0IHDUBZCQxBD0ERQxsVGwhHPUYAERBBB1JeXREWDUNTFE5BXlEePQBaDQtVWk1QDloRFl9AVRFOEV5XDV1DDhFpEgpXElwMFlkPGA\\u003d\\u003d\"}]",
+    "logo": "https://cdn.beacons.ai/user_content/QolGUJ7HXXVs5ClZv89prl3UO1d2/profile_dasinyasport.png?t=1640365111148",
+    "nameen": "DASINYA SPORT",
+    "position": "6",
+    "type": "channel",
+    "key": "kurd_sport_vip"
+  },
+  {
+    "namear": "NRT",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://lb15.aromatv.name:8080/Bein TV/Bein VIP/206255?play_token\\u003dph4wCfQpyF\\u0026token\\u003dGBQKAkBYRFhBDQcAA1wICwNXUg0DUAYFVgsKW1IGVFkBAARXUAgCBAYXT0dDTUtcAFk9XQFAXgJVAgMIUBgVFBBTEDxaVERYQQRXUAkPDBtNFhZdCAdGCVMFAABRAgZQUgJOQUNZAkBZWxYJXBUbXBlAB0YLAwhsBlZFUQBRFVsNQw4PHxIJDDxRBghRV10bWxZTFklADUASEQlWFlhbTUFUCxdBURIHQQ8NEFxVFRsCWxdaERAdEVgRYGFBGBUEG0IHDUBZCQxBD0ERQxsVGwhHPUYAERBBB1JeXREWDUNTFE5BXlEePQBaDQtVWk1QDloRFl9AVRFOEV5XDV1DDhFpEgpXElwMFlkPGA\\u003d\\u003d\"}]",
+    "logo": "https://cdna.artstation.com/p/assets/videos/images/031/749/896/large/hasan-graphic-maxresdefault.jpg?1604495456",
+    "nameen": "NRT",
+    "position": "7",
+    "type": "channel",
+    "key": "kurd_sport_vip"
+  },
+  {
+    "namear": "ARO SPORT",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://lb15.aromatv.name:8080/Bein TV/Bein VIP/206309?play_token\\u003dph4wCfQpyF\\u0026token\\u003dGBQKAkBYRFhBDQcAA1wICwNXUg0DUAYFVgsKW1IGVFkBAARXUAgCBAYXT0dDTUtcAFk9XQFAXgJVAgMIUBgVFBBTEDxaVERYQQRXUAkPDBtNFhZdCAdGCVMFAABRAgZQUgJOQUNZAkBZWxYJXBUbXBlAB0YLAwhsBlZFUQBRFVsNQw4PHxIJDDxRBghRV10bWxZTFklADUASEQlWFlhbTUFUCxdBURIHQQ8NEFxVFRsCWxdaERAdEVgRYGFBGBUEG0IHDUBZCQxBD0ERQxsVGwhHPUYAERBBB1JeXREWDUNTFE5BXlEePQBaDQtVWk1QDloRFl9AVRFOEV5XDV1DDhFpEgpXElwMFlkPGA\\u003d\\u003d\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTsy2hrjrbrHbBIGVu2i0faChZg1hCxieuBA&usqp=CAU",
+    "nameen": "ARO SPORT",
+    "position": "8",
+    "type": "channel",
+    "key": "kurd_sport_vip"
+  },
+  {
+    "namear": "KURDISTAN SPORT",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://lb15.aromatv.name:8080/Bein TV/Bein VIP/206283?play_token\\u003dph4wCfQpyF\\u0026token\\u003dGBQKAkBYRFhBDQcAA1wICwNXUg0DUAYFVgsKW1IGVFkBAARXUAgCBAYXT0dDTUtcAFk9XQFAXgJVAgMIUBgVFBBTEDxaVERYQQRXUAkPDBtNFhZdCAdGCVMFAABRAgZQUgJOQUNZAkBZWxYJXBUbXBlAB0YLAwhsBlZFUQBRFVsNQw4PHxIJDDxRBghRV10bWxZTFklADUASEQlWFlhbTUFUCxdBURIHQQ8NEFxVFRsCWxdaERAdEVgRYGFBGBUEG0IHDUBZCQxBD0ERQxsVGwhHPUYAERBBB1JeXREWDUNTFE5BXlEePQBaDQtVWk1QDloRFl9AVRFOEV5XDV1DDhFpEgpXElwMFlkPGA\\u003d\\u003d\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrODUaOh-bbQLMZtAdIUqohWe4RT9Pgwc-aQ&usqp=CAU",
+    "nameen": "KURDISTAN SPORT",
+    "position": "9",
+    "type": "channel",
+    "key": "kurd_sport_vip"
+  },
+  {
+    "namear": "ZAXO SPORT",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://lb15.aromatv.name:8080/Bein TV/Bein VIP/206303?play_token\\u003dph4wCfQpyF\\u0026token\\u003dGBQKAkBYRFhBDQcAA1wICwNXUg0DUAYFVgsKW1IGVFkBAARXUAgCBAYXT0dDTUtcAFk9XQFAXgJVAgMIUBgVFBBTEDxaVERYQQRXUAkPDBtNFhZdCAdGCVMFAABRAgZQUgJOQUNZAkBZWxYJXBUbXBlAB0YLAwhsBlZFUQBRFVsNQw4PHxIJDDxRBghRV10bWxZTFklADUASEQlWFlhbTUFUCxdBURIHQQ8NEFxVFRsCWxdaERAdEVgRYGFBGBUEG0IHDUBZCQxBD0ERQxsVGwhHPUYAERBBB1JeXREWDUNTFE5BXlEePQBaDQtVWk1QDloRFl9AVRFOEV5XDV1DDhFpEgpXElwMFlkPGA\\u003d\\u003d\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1dwcasft2Nzgs8MFSuak7skUgXh279zKayg&usqp=CAU",
+    "nameen": "ZAXO SPORT",
+    "position": "10",
+    "type": "channel",
+    "key": "kurd_sport_vip"
+  },
+  {
+    "namear": "GK SPORT",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://lb15.aromatv.name:8080/Bein TV/Bein VIP/206271?play_token\\u003dph4wCfQpyF\\u0026token\\u003dGBQKAkBYRFhBDQcAA1wICwNXUg0DUAYFVgsKW1IGVFkBAARXUAgCBAYXT0dDTUtcAFk9XQFAXgJVAgMIUBgVFBBTEDxaVERYQQRXUAkPDBtNFhZdCAdGCVMFAABRAgZQUgJOQUNZAkBZWxYJXBUbXBlAB0YLAwhsBlZFUQBRFVsNQw4PHxIJDDxRBghRV10bWxZTFklADUASEQlWFlhbTUFUCxdBURIHQQ8NEFxVFRsCWxdaERAdEVgRYGFBGBUEG0IHDUBZCQxBD0ERQxsVGwhHPUYAERBBB1JeXREWDUNTFE5BXlEePQBaDQtVWk1QDloRFl9AVRFOEV5XDV1DDhFpEgpXElwMFlkPGA\\u003d\\u003d\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWhEjhKsSkLrxiYasE21Py-ZzkrO6U8-SRcA&usqp=CAU",
+    "nameen": "GK SPORT",
+    "position": "11",
+    "type": "channel",
+    "key": "kurd_sport_vip"
+  },
+  {
+    "namear": "SIMA SPORT",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://lb15.aromatv.name:8080/Bein TV/Bein VIP/206341?play_token\\u003dph4wCfQpyF\\u0026token\\u003dGBQKAkBYRFhBDQcAA1wICwNXUg0DUAYFVgsKW1IGVFkBAARXUAgCBAYXT0dDTUtcAFk9XQFAXgJVAgMIUBgVFBBTEDxaVERYQQRXUAkPDBtNFhZdCAdGCVMFAABRAgZQUgJOQUNZAkBZWxYJXBUbXBlAB0YLAwhsBlZFUQBRFVsNQw4PHxIJDDxRBghRV10bWxZTFklADUASEQlWFlhbTUFUCxdBURIHQQ8NEFxVFRsCWxdaERAdEVgRYGFBGBUEG0IHDUBZCQxBD0ERQxsVGwhHPUYAERBBB1JeXREWDUNTFE5BXlEePQBaDQtVWk1QDloRFl9AVRFOEV5XDV1DDhFpEgpXElwMFlkPGA\\u003d\\u003d\"}]",
+    "logo": "https://sima-shoes.nl/wp-content/uploads/2019/05/cropped-Logo-sima-fb-2.jpg",
+    "nameen": "SIMA SPORT",
+    "position": "12",
+    "type": "channel",
+    "key": "kurd_sport_vip"
+  },
+  {
+    "namear": "4 SPORT",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://lb15.aromatv.name:8080/Bein TV/Bein VIP/206016?play_token\\u003dph4wCfQpyF\\u0026token\\u003dGBQKAkBYRFhBDQcAA1wICwNXUg0DUAYFVgsKW1IGVFkBAARXUAgCBAYXT0dDTUtcAFk9XQFAXgJVAgMIUBgVFBBTEDxaVERYQQRXUAkPDBtNFhZdCAdGCVMFAABRAgZQUgJOQUNZAkBZWxYJXBUbXBlAB0YLAwhsBlZFUQBRFVsNQw4PHxIJDDxRBghRV10bWxZTFklADUASEQlWFlhbTUFUCxdBURIHQQ8NEFxVFRsCWxdaERAdEVgRYGFBGBUEG0IHDUBZCQxBD0ERQxsVGwhHPUYAERBBB1JeXREWDUNTFE5BXlEePQBaDQtVWk1QDloRFl9AVRFOEV5XDV1DDhFpEgpXElwMFlkPGA\\u003d\\u003d\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOZbhs5qAYzT3XgC057rsg-PGdx2BV7z9w4Q&usqp=CAU",
+    "nameen": "4 SPORT",
+    "position": "13",
+    "type": "channel",
+    "key": "kurd_sport_vip"
+  }
+]

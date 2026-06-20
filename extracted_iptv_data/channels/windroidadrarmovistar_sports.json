@@ -1,0 +1,137 @@
+[
+  {
+    "namear": "Real Madrid TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Real Madrid TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_1.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/627137_ico.png",
+    "nameen": "Real Madrid TV",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarmovistar_sports"
+  },
+  {
+    "namear": "Barca TV",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"Barca TV\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://154.62.74.29:1935/live/barza/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/2980353_ico.png",
+    "nameen": "Barca TV",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarmovistar_sports"
+  },
+  {
+    "namear": "Bein Sport Ñ SD",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"Bein Sport Ñ SD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/1242\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7739980_ico.png",
+    "nameen": "Bein Sport Ñ SD",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarmovistar_sports"
+  },
+  {
+    "namear": "Movistar Deportes",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Movistar Deportes\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1101\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7905502_ico.png",
+    "nameen": "Movistar Deportes",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarmovistar_sports"
+  },
+  {
+    "namear": "Liga Campeones",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Liga Campeones\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1104\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7905408_ico.png",
+    "nameen": "Liga Campeones",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarmovistar_sports"
+  },
+  {
+    "namear": "Movistar LaLiga",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Movistar LaLiga\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1125\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7905534_ico.png",
+    "nameen": "Movistar LaLiga",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarmovistar_sports"
+  },
+  {
+    "namear": "Movistar F1",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Movistar F1\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1109\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7905451_ico.png",
+    "nameen": "Movistar F1",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarmovistar_sports"
+  },
+  {
+    "namear": "Movistar Golf",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Movistar Golf\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1098\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7905437_ico.png",
+    "nameen": "Movistar Golf",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarmovistar_sports"
+  },
+  {
+    "namear": "TOROS",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"TOROS\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1132\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7905287_ico.png",
+    "nameen": "TOROS",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarmovistar_sports"
+  },
+  {
+    "namear": "M Vamos",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"M Vamos\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1174\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21864080_ico.png",
+    "nameen": "M Vamos",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadrarmovistar_sports"
+  },
+  {
+    "namear": "Dazn 1 ES",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Dazn 1 ES\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1147\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21864320_ico.png",
+    "nameen": "Dazn 1 ES",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidadrarmovistar_sports"
+  },
+  {
+    "namear": "Dazn 2 ES",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Dazn 2 ES\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1148\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21864322_ico.png",
+    "nameen": "Dazn 2 ES",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidadrarmovistar_sports"
+  },
+  {
+    "namear": "Dazn 3 ES",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Dazn 3 ES\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1183\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21864330_ico.png",
+    "nameen": "Dazn 3 ES",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidadrarmovistar_sports"
+  },
+  {
+    "namear": "Dazn 4 ES",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Dazn 4 ES\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1182\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21864343_ico.png",
+    "nameen": "Dazn 4 ES",
+    "position": "13",
+    "type": "channel",
+    "key": "windroidadrarmovistar_sports"
+  },
+  {
+    "namear": "Dazn F1",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Dazn F1\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1181\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/21864357_ico.png",
+    "nameen": "Dazn F1",
+    "position": "14",
+    "type": "channel",
+    "key": "windroidadrarmovistar_sports"
+  }
+]

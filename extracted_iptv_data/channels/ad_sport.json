@@ -1,0 +1,40 @@
+[
+  {
+    "namear": "AD Sports 1 HD",
+    "servers": "[{\"headers\":\"\",\"license\":\"1bec6ac7cd9a02dd75da2278ba3183ef:029edcf6b6c737595445a1a3a390edb3\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"ADHD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://neacdnpop3-edge01.aws.playco.com/live/eds/Abu_Dhabi_Sports_1_HD/DASH/Abu_Dhabi_Sports_1_HD.mpd\"},{\"headers\":\"Referer|https://www.rawabit.site/p/adsport1.html/|user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0|\",\"license\":\"e78769d87a41e15036a4fb8bfdf1371e:37be0375dc9fe544c3c6de6a105f7c0a\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"AD2\",\"Referer\":\"https://www.rawabit.site/p/adsport1.html/\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0\",\"position\":\"15\",\"url\":\"https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_dash/index.mpd\"}]",
+    "logo": "https://www.zarkachat.com/wp-content/uploads/2020/12/sport-abuzabi-channel.jpg",
+    "nameen": "AD Sports 1 HD",
+    "position": "3",
+    "type": "channel",
+    "key": "ad_sport"
+  },
+  {
+    "namear": "AD Sports 2 HD",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"server 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://neacdnpop3-edge01.aws.playco.com/live/eds/Abu_Dhabi_Sports_2_HD/DASH/Abu_Dhabi_Sports_2_HD.mpd\"}]",
+    "logo": "https://www.zarkachat.com/wp-content/uploads/2020/12/sport-abuzabi-channel.jpg",
+    "nameen": "AD Sports 2 HD",
+    "position": "4",
+    "type": "channel",
+    "key": "ad_sport"
+  },
+  {
+    "namear": "AD1 ASIA",
+    "servers": "[{\"headers\":\"Referer|https://karwan.tv/live/sport-channel-6-1.php|find|mpd\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"find|mpd\",\"name\":\"\",\"Referer\":\"https://karwan.tv/live/sport-channel-6-1.php\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://karwan.tv/live/sport-channel-6-1.php\"}]",
+    "visible": "false",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzmhvgvGAGuO-Pq4pyrpDStvUgN_NHJ87LohAEocH28w&s=10",
+    "nameen": "AD1 ASIA",
+    "position": "5",
+    "type": "channel",
+    "key": "ad_sport"
+  },
+  {
+    "namear": "AD2 ASIA",
+    "servers": "[{\"headers\":\"Referer|https://karwan.tv/live/sport-channel-7-1.php|find|mpd\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"find|mpd\",\"name\":\"\",\"Referer\":\"https://karwan.tv/live/sport-channel-7-1.php\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://karwan.tv/live/sport-channel-7-1.php\"}]",
+    "visible": "false",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzmhvgvGAGuO-Pq4pyrpDStvUgN_NHJ87LohAEocH28w&s=10",
+    "nameen": "AD2 ASIA",
+    "position": "6",
+    "type": "channel",
+    "key": "ad_sport"
+  }
+]

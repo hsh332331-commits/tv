@@ -1,0 +1,101 @@
+[
+  {
+    "namear": "Yemen Shabab",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Yemen Shabab\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://master.starmena-cloud.com/hls/yemenshabab.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12136298_ico.png",
+    "nameen": "Yemen Shabab",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadraryemen_اليمن"
+  },
+  {
+    "namear": "Yemen TV",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Yemen TV\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://212.224.84.254:2200/TN/yementv-ar/mono.m3u8 ?token\\u003degBlCndpe3ZiDXBgN3JjewVhf3FmenNhfnAXeHItenVmc3Nje3Ngfg\\u003d\\u003d\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12136123_ico.png",
+    "nameen": "Yemen TV",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadraryemen_اليمن"
+  },
+  {
+    "namear": "ALghadye TV",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"ALghadye TV\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://82.212.74.3:8000/live/hls/7512.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/10111678_ico.png",
+    "nameen": "ALghadye TV",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadraryemen_اليمن"
+  },
+  {
+    "namear": "Belqees",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Belqees\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"https://ythls.onrender.com/channel/UCxA_zZwALQMmVMSZyLKC-Nw.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12136138_ico.png",
+    "nameen": "Belqees",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadraryemen_اليمن"
+  },
+  {
+    "namear": "Al Saeeda",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Al Saeeda\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://212.224.84.254:2200/TN/alsaeeda-ar/mono.m3u8 ?token\\u003degBlCndpe3ZiDXBgN3JjewVhf3FmenNhfnAXeHItenVmc3Nje3Ngfg\\u003d\\u003d\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12136269_ico.png",
+    "nameen": "Al Saeeda",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadraryemen_اليمن"
+  },
+  {
+    "namear": "Al Masirah",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Masirah\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://svs.itworkscdn.net/almasiralive/almasira/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12136126_ico.png",
+    "nameen": "Al Masirah",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadraryemen_اليمن"
+  },
+  {
+    "namear": "Al Masirah Mubacher",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Masirah Mubacher\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12136129_ico.png",
+    "nameen": "Al Masirah Mubacher",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadraryemen_اليمن"
+  },
+  {
+    "namear": "Suhail TV",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"Suhail TV\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://82.212.74.98:8000/live/hls/7726.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12136143_ico.png",
+    "nameen": "Suhail TV",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadraryemen_اليمن"
+  },
+  {
+    "namear": "Al Mahriah",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"Al Mahriah\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"https://master.starmena-cloud.com/hls/almahriah.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12136147_ico.png",
+    "nameen": "Al Mahriah",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadraryemen_اليمن"
+  },
+  {
+    "namear": "Alerth TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Alerth TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://82.212.74.2:8000/live/7307.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12136134_ico.png",
+    "nameen": "Alerth TV",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadraryemen_اليمن"
+  },
+  {
+    "namear": "Aden TV",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"Aden TV\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"http://95.216.180.111:1935/live/46/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9553258_ico.png",
+    "nameen": "Aden TV",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidadraryemen_اليمن"
+  }
+]

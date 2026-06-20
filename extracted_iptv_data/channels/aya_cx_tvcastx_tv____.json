@@ -1,0 +1,11 @@
+[
+  {
+    "namear": "Cast X 1 ᴿᴬᵂ",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|mejarserver2|user-agent|castxapp2|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"CASTX TV 1 4K\",\"Referer\":\"mejarserver2\",\"userAgent\":\"castxapp2\",\"position\":\"0\",\"url\":\"https://cdn3-mejarhosting.cfd/castx-fhd/index.mpd\"},{\"license\":\"\",\"headers\":\"Referer|mejarserver2|user-agent|castxapp2|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"CASTX TV 1 HD\",\"Referer\":\"mejarserver2\",\"userAgent\":\"castxapp2\",\"position\":\"1\",\"url\":\"https://cdn6-mejarhosting.cfd/castx-hd/index.mpd\"},{\"license\":\"\",\"headers\":\"Referer|mejarserver2|user-agent|castxapp2|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"CASTX TV 1 SD\",\"Referer\":\"mejarserver2\",\"userAgent\":\"castxapp2\",\"position\":\"2\",\"url\":\"https://cdn3-mejarhosting.cfd/castx-sd/index.mpd\"},{\"license\":\"\",\"headers\":\"Referer|mejarserver2|user-agent|castxapp2|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"CASTX TV 1 LOW\",\"Referer\":\"mejarserver2\",\"userAgent\":\"castxapp2\",\"position\":\"3\",\"url\":\"https://cdn6-mejarhosting.cfd/castx-low/index.mpd\"}]",
+    "logo": "https://i.ibb.co/twXp5Xmq/Chat-GPT-Image-Nov-16-2025-06-47-40-PM.png",
+    "nameen": "Cast X 1 ᴿᴬᵂ",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvcastx_tv_ᴿᴬᵂ"
+  }
+]

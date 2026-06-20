@@ -1,0 +1,29 @@
+[
+  {
+    "namear": "Horizon Movies",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://cast-x.site/|user-agent|This Channel For Mejar Server|origin|https://cast-x.site/\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://cast-x.site/\",\"isWeb\":\"false\",\"name\":\"HD\",\"Referer\":\"https://cast-x.site/\",\"userAgent\":\"This Channel For Mejar Server\",\"position\":\"\",\"url\":\"https://cdnfest.com/horizon-movies/playlist.mpd\"}]",
+    "logo": "https://static.vecteezy.com/system/resources/thumbnails/029/283/927/small/horizon-logo-with-the-letter-h-abstract-free-vector.jpg",
+    "nameen": "Horizon Movies",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvhorizon_ترفيهي"
+  },
+  {
+    "namear": "Horizon Aflam",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://cast-x.site/|user-agent|This Channel For Mejar Server|origin|https://cast-x.site/\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://cast-x.site/\",\"isWeb\":\"false\",\"name\":\"HD\",\"Referer\":\"https://cast-x.site/\",\"userAgent\":\"This Channel For Mejar Server\",\"position\":\"\",\"url\":\"https://cdnfest.com/horizon-aflam/playlist.mpd\"}]",
+    "logo": "https://static.vecteezy.com/system/resources/thumbnails/029/283/927/small/horizon-logo-with-the-letter-h-abstract-free-vector.jpg",
+    "nameen": "Horizon Aflam",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvhorizon_ترفيهي"
+  },
+  {
+    "namear": "Horizon Kids",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://cast-x.site/|user-agent|This Channel For Mejar Server|origin|https://cast-x.site/\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://cast-x.site/\",\"isWeb\":\"false\",\"name\":\"HD\",\"Referer\":\"https://cast-x.site/\",\"userAgent\":\"This Channel For Mejar Server\",\"position\":\"\",\"url\":\"https://cdnfest.com/horizon-kids/playlist.mpd\"}]",
+    "logo": "https://static.vecteezy.com/system/resources/thumbnails/029/283/927/small/horizon-logo-with-the-letter-h-abstract-free-vector.jpg",
+    "nameen": "Horizon Kids",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvhorizon_ترفيهي"
+  }
+]

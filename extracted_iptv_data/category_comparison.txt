@@ -1,0 +1,69 @@
+match_time.json: 36 items
+  keys=['password', 'namear', 'visible', 'logo', 'nameen', 'sectionKey', 'position', 'type', 'url', 'key']
+    password: 
+    namear: ALL SPORT PRO
+    visible: false
+    logo: https://yt3.googleusercontent.com/sUFNr8Vf0pGGsMU5GBAbgn1M5Af_UZ3QbPipFWh12IYwXD
+    nameen: ALL SPO PRO
+    sectionKey: match_time
+    position: 0
+    type: api
+    url: https://ayatv.online/ayatv/api/items/sport.php
+    key: all_sport_pro
+  keys=['password', 'namear', 'logo', 'nameen', 'sectionKey', 'position', 'type', 'url', 'key']
+    password: 
+    namear: TNT SPORT
+    logo: https://www.pitch.co.uk/wp-content/uploads/2023/12/TNT-Sports-Logo.png
+    nameen: TNT SPORT
+    sectionKey: match_time
+    position: 1
+    type: category
+    url: channels/tnt_sport
+    key: tnt_sport
+  keys=['password', 'namear', 'visible', 'logo', 'nameen', 'sectionKey', 'position', 'type', 'url', 'key']
+    password: 
+    namear: Canal+ Sports
+    visible: true
+    logo: https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png
+    nameen: Canal+ Sports
+    sectionKey: match_time
+    position: 2
+    type: category
+    url: channels/canal+_sports
+    key: canal+_sports
+  keys=['password', 'namear', 'visible', 'logo', 'nameen', 'sectionKey', 'position', 'type', 'url', 'key']
+    password: 
+    namear: HUSA SPORTS
+    visible: false
+    logo: https://m.media-amazon.com/images/I/71CgptZFjTL.png
+    nameen: HUSA SPOR
+    sectionKey: match_time
+    position: 2
+    type: category
+    url: channels/kurd_sport
+    key: kurd_sport
+  keys=['password', 'namear', 'logo', 'nameen', 'sectionKey', 'position', 'type', 'url', 'key']
+    password: 
+    namear: Dazn Sport
+    logo: https://i.ibb.co/3kJG4tH/dazn.png
+    nameen: Dazn Sport
+    sectionKey: match_time
+    position: 5
+    type: category
+    url: channels/dazn_sport
+    key: dazn_sport
+
+arabic_tv.json (original): 22 items
+  namear=NILESAT 1 type=m3u url=https://iptv-org.github.io/iptv/languages/ara.m3u key=nilesat_1
+  namear=المغرب type=m3u url=https://iptv-org.github.io/iptv/countries/ma.m3u key=morooco
+  namear=المغرب 2 type= url=channels/aya_cx_tvالقنوات_المغربية key=aya_cx_tvالقنوات_المغربية
+
+arabic_tv_decrypted.json: 22 items
+  namear=NILESAT 1 type=m3u url=https://iptv-org.github.io/iptv/languages/ara.m3u key=nilesat_1
+  namear=المغرب type=m3u url=https://iptv-org.github.io/iptv/countries/ma.m3u key=morooco
+  namear=المغرب 2 type= url=channels/aya_cx_tvالقنوات_المغربية key=aya_cx_tvالقنوات_المغربية
+
+Comparison: 22 same, 0 different
+
+Original size: 7095
+Decrypted size: 7095

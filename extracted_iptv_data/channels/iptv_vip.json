@@ -1,0 +1,353 @@
+[
+  {
+    "namear": "u",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"u\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/u/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "u",
+    "position": "1",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "tv8",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"tv8\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/tv8/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "tv8",
+    "position": "2",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "tv6",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"tv6\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/tv6/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "tv6",
+    "position": "3",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "tv3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"tv3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/tv3/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "tv3",
+    "position": "4",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "tv1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"tv1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/tv1/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "tv1",
+    "position": "5",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "tnt",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"tnt\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/tnt/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "tnt",
+    "position": "6",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "telekafe",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"telekafe\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/telekafe/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "telekafe",
+    "position": "7",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "sport1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"sport1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/sport1/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "sport1",
+    "position": "8",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "rtvi",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"rtvi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/rtvi/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "rtvi",
+    "position": "9",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "rtg",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"rtg\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/rtg/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "rtg",
+    "position": "10",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "perec",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"perec\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/perec/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "perec",
+    "position": "11",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "nauka",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"nauka\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/nauka/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "nauka",
+    "position": "12",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "mtv",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"mtv\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/mtv/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "mtv",
+    "position": "13",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "karusel",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"karusel\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/karusel/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "karusel",
+    "position": "14",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "info",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"info\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/info/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "info",
+    "position": "15",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "history",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"history\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/history/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "history",
+    "position": "16",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "friday",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"friday\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/friday/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "friday",
+    "position": "17",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "fox",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"fox\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/fox/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "fox",
+    "position": "18",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "euronews",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"euronews\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/euronews/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "euronews",
+    "position": "19",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "dw",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"dw\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/dw/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "dw",
+    "position": "20",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "domkino",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"domkino\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/domkino/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "domkino",
+    "position": "21",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "kinomix",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"kinomix\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/kinomix/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "kinomix",
+    "position": "22",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "disney",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"disney\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/disney/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "disney",
+    "position": "23",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "discovery HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"discovery HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/discovery/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "discovery HD",
+    "position": "24",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "ntvserial",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ntvserial\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/ntvserial/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ntvserial",
+    "position": "25",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "bober",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"bober\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/bober/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "bober",
+    "position": "26",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "tnt4 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"tnt4 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/tnt4/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "tnt4 HD",
+    "position": "27",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "ntvpravo",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ntvpravo\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/ntvpravo/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ntvpravo",
+    "position": "28",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "ntvstil",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ntvstil\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/ntvstil/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "ntvstil",
+    "position": "29",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "drive",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"drive\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/drive/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "drive",
+    "position": "30",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "cnn",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"cnn\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/cnn/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "cnn",
+    "position": "31",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "RuTV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"RuTV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/RuTV/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "RuTV",
+    "position": "32",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "match",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"match\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/match/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "match",
+    "position": "33",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "travel HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"travel HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/travel/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "travel HD",
+    "position": "34",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "bokstv",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"bokstv\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/bokstv/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "bokstv",
+    "position": "35",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "tntmusic",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"tntmusic\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/tntmusic/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "tntmusic",
+    "position": "36",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "nicktoons",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"nicktoons\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/nicktoons/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "nicktoons",
+    "position": "37",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "mirhd",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"mirhd\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/mirhd/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "mirhd",
+    "position": "38",
+    "type": "channel",
+    "key": "iptv_vip"
+  },
+  {
+    "namear": "fauna",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"fauna\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://88.216.83.245/fauna/mono.m3u8  201 Jose Chavarria dont work anymore Hier à 18:42 Vitali Rijkovski Change port 80 to 8090 Hier à 20:51 Découvrez du contenu intéressant Connectez-vous et suivez les créateurs et communautés populaires\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "fauna",
+    "position": "39",
+    "type": "channel",
+    "key": "iptv_vip"
+  }
+]

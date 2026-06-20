@@ -1,0 +1,65 @@
+[
+  {
+    "namear": "ESPN USA",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"ESPN USA\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/920\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/6884252_ico.png",
+    "nameen": "ESPN USA",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarespn_en"
+  },
+  {
+    "namear": "ESPN 2 US",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"ESPN 2 US\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/921\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/6884264_ico.png",
+    "nameen": "ESPN 2 US",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarespn_en"
+  },
+  {
+    "namear": "ESPN U",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"ESPN U\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://191.37.250.169:8801/live/ESPN3/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/6884272_ico.png",
+    "nameen": "ESPN U",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarespn_en"
+  },
+  {
+    "namear": "ESPN News",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"ESPN News\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/932\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/6884284_ico.png",
+    "nameen": "ESPN News",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarespn_en"
+  },
+  {
+    "namear": "ESPN SEC",
+    "servers": "[{\"headers\":\"njbhjjjuser-Agent|njbhjjjuser-Agent|njbhjjjuser-Agent|njbhjjj\",\"otherHeaders\":\"\",\"name\":\"ESPN SEC\",\"Referer\":\"\",\"userAgent\":\"njbhjjjuser-Agent|njbhjjj\",\"position\":\"0\",\"url\":\"http://live.budtvlight.com:25461/live/bud-88037/6e44c54e5d/47191.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/8074546_ico.png",
+    "nameen": "ESPN SEC",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarespn_en"
+  },
+  {
+    "namear": "ESPN 1*",
+    "servers": "[{\"headers\":\"@10086liveuser-Agent|@10086liveuser-Agent|@10086liveuser-Agent|@10086live\",\"otherHeaders\":\"\",\"name\":\"ESPN 1*\",\"Referer\":\"\",\"userAgent\":\"@10086liveuser-Agent|@10086live\",\"position\":\"0\",\"url\":\"http://pizztv.xyz:8000/ASTRO@SSRT/htY2WvkRnzgB/294\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/22557658_ico.png",
+    "nameen": "ESPN 1*",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarespn_en"
+  },
+  {
+    "namear": "ESPN 2*",
+    "servers": "[{\"headers\":\"@10086liveuser-Agent|@10086liveuser-Agent|@10086liveuser-Agent|@10086live\",\"otherHeaders\":\"\",\"name\":\"ESPN 2*\",\"Referer\":\"\",\"userAgent\":\"@10086liveuser-Agent|@10086live\",\"position\":\"0\",\"url\":\"http://pizztv.xyz:8000/ASTRO@SSRT/htY2WvkRnzgB/267\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/22557666_ico.png",
+    "nameen": "ESPN 2*",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarespn_en"
+  }
+]

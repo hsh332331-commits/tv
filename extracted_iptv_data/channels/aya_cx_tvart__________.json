@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "ART حكايات 1",
+    "servers": "[{\"license\":\"3d614bb04140eda383d117fb55e9a361:b669cdf2cb65eff56d1e3534c7a54b53\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Hekayat/DASH/ART_Hekayat.mpd\"}]",
+    "logo": "https://yt3.googleusercontent.com/dQ-Pm41U5gDilkKEabe46qPGwLwrlTK_QAC9I0XH8IX_p_M1KX1js5BMp7EIGlhSHDYq8IJtgQ=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "ART حكايات 1",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvart_قنوات_آرت"
+  },
+  {
+    "namear": "ART سينما",
+    "servers": "[{\"license\":\"bd484fc91dcf152010a0e367e15ab60e:d9bed0a77b7da410129820bcc6606670\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Cinema/DASH/ART_Cinema.mpd\"}]",
+    "logo": "https://yt3.googleusercontent.com/dQ-Pm41U5gDilkKEabe46qPGwLwrlTK_QAC9I0XH8IX_p_M1KX1js5BMp7EIGlhSHDYq8IJtgQ=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "ART سينما",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvart_قنوات_آرت"
+  },
+  {
+    "namear": "ART حكايات 2",
+    "servers": "[{\"license\":\"4ccb01903d6868e27953ff0298d4ac05:d156518d6ab453d9f9d12c243280be8f\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Hekayat_2/DASH/ART_Hekayat_2.mpd\"}]",
+    "logo": "https://yt3.googleusercontent.com/dQ-Pm41U5gDilkKEabe46qPGwLwrlTK_QAC9I0XH8IX_p_M1KX1js5BMp7EIGlhSHDYq8IJtgQ=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "ART حكايات 2",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvart_قنوات_آرت"
+  },
+  {
+    "namear": "ART أفلام",
+    "servers": "[{\"license\":\"264e7cb9dfd6b9e5c281c97db4c2b4fa:47425a7e8f7e4030d186559852ae97db\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Aflam/DASH/ART_Aflam.mpd\"}]",
+    "logo": "https://yt3.googleusercontent.com/dQ-Pm41U5gDilkKEabe46qPGwLwrlTK_QAC9I0XH8IX_p_M1KX1js5BMp7EIGlhSHDYq8IJtgQ=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "ART أفلام",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvart_قنوات_آرت"
+  },
+  {
+    "namear": "ART أفلام 2",
+    "servers": "[{\"license\":\"809a386e57689d56c01a5c3190889641:d54639bb7d418d515e5198663a6d7ae5\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/ART_Aflam_2/DASH/ART_Aflam_2.mpd\"}]",
+    "logo": "https://yt3.googleusercontent.com/dQ-Pm41U5gDilkKEabe46qPGwLwrlTK_QAC9I0XH8IX_p_M1KX1js5BMp7EIGlhSHDYq8IJtgQ=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "ART أفلام 2",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvart_قنوات_آرت"
+  }
+]

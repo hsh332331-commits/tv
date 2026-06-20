@@ -1,0 +1,83 @@
+[
+  {
+    "namear": "Sport TV 1",
+    "servers": "[{\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64)|\",\"license\":\"c2bac9c393f145fc924ce572ca99156f:45f6637eef80eafbe7e630231139df5b\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"Sport TV 1 PT #KODIPROP:inputstream.adaptive.license_type\\u003dclearkey #KODIPROP:inputstream.adaptive.license_key\\u003d #KODIPROP:inputstream.adaptive.stream_headers\\u003dUser-Agent\\u003dMozilla/5.0 (Windows NT 10.0; Win64; x64)\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64)\",\"position\":\"0\",\"url\":\"https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd?start\\u003dLIVE\\u0026end\\u003dEND\\u0026device\\u003dDASH_AVC_HD\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPlYsybPg6XV9UCkLUnCJHV7xVcDUChXjEp1rCS0i0ow&s=10",
+    "nameen": "Sport TV 1",
+    "position": "1",
+    "type": "channel",
+    "key": "portugal_sport_tv"
+  },
+  {
+    "namear": "Sport TV 2",
+    "servers": "[{\"headers\":\"\",\"license\":\"0d28edf4f055409bb12d6d0260b26b6b:bf69f8a33c39c31f5ff06ab52012e27c\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"Sport TV 2 PT #KODIPROP:inputstream.adaptive.license_type\\u003dclearkey #KODIPROP:inputstream.adaptive.license_key\\u003d0d28edf4f055409bb12d6d0260b26b6b:bf69f8a33c39c31f5ff06ab52012e27c #KODIPROP:inputstream.adaptive.stream_headers\\u003dUser-Agent\\u003dMozilla/5.0 (Windows NT 10.0; Win64; x64)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd?start\\u003dLIVE\\u0026end\\u003dEND\\u0026device\\u003dDASH_AVC_HD\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPlYsybPg6XV9UCkLUnCJHV7xVcDUChXjEp1rCS0i0ow&s=10",
+    "nameen": "Sport TV 2",
+    "position": "2",
+    "type": "channel",
+    "key": "portugal_sport_tv"
+  },
+  {
+    "namear": "Sport TV 3",
+    "servers": "[{\"headers\":\"\",\"license\":\"206fec56f5b741e5aa81124895d9b592:27b91505aa6926f59199c828bc27767b\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"Sport TV 3 PT #KODIPROP:inputstream.adaptive.license_type\\u003dclearkey #KODIPROP:inputstream.adaptive.license_key\\u003d206fec56f5b741e5aa81124895d9b592:27b91505aa6926f59199c828bc27767b #KODIPROP:inputstream.adaptive.stream_headers\\u003dUser-Agent\\u003dMozilla/5.0 (Windows NT 10.0; Win64; x64)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$153/index.mpd/Manifest.mpd?start\\u003dLIVE\\u0026end\\u003dEND\\u0026device\\u003dDASH_AVC_HD\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPlYsybPg6XV9UCkLUnCJHV7xVcDUChXjEp1rCS0i0ow&s=10",
+    "nameen": "Sport TV 3",
+    "position": "3",
+    "type": "channel",
+    "key": "portugal_sport_tv"
+  },
+  {
+    "namear": "Sport TV 4",
+    "servers": "[{\"headers\":\"\",\"license\":\"cc0b7ac31b5e42f8bf934f99acf71a8a:d76424d644a360056567a248d8b89b6c\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"Sport TV 4 PT #KODIPROP:inputstream.adaptive.license_type\\u003dclearkey #KODIPROP:inputstream.adaptive.license_key\\u003dcc0b7ac31b5e42f8bf934f99acf71a8a:d76424d644a360056567a248d8b89b6c #KODIPROP:inputstream.adaptive.stream_headers\\u003dUser-Agent\\u003dMozilla/5.0 (Windows NT 10.0; Win64; x64)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$10/index.mpd/Manifest.mpd?start\\u003dLIVE\\u0026end\\u003dEND\\u0026device\\u003dDASH_AVC_HD\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPlYsybPg6XV9UCkLUnCJHV7xVcDUChXjEp1rCS0i0ow&s=10",
+    "nameen": "Sport TV 4",
+    "position": "4",
+    "type": "channel",
+    "key": "portugal_sport_tv"
+  },
+  {
+    "namear": "Sport TV 5",
+    "servers": "[{\"headers\":\"\",\"license\":\"81ca434c931a403e950df3d808c24c41:18548190cf3c8294096af8a2146e32a5\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"Sport TV 5 PT #KODIPROP:inputstream.adaptive.license_type\\u003dclearkey #KODIPROP:inputstream.adaptive.license_key\\u003d81ca434c931a403e950df3d808c24c41:18548190cf3c8294096af8a2146e32a5 #KODIPROP:inputstream.adaptive.stream_headers\\u003dUser-Agent\\u003dMozilla/5.0 (Windows NT 10.0; Win64; x64)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$112/index.mpd/Manifest.mpd?start\\u003dLIVE\\u0026end\\u003dEND\\u0026device\\u003dDASH_AVC_HD\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPlYsybPg6XV9UCkLUnCJHV7xVcDUChXjEp1rCS0i0ow&s=10",
+    "nameen": "Sport TV 5",
+    "position": "5",
+    "type": "channel",
+    "key": "portugal_sport_tv"
+  },
+  {
+    "namear": "DAZN 1",
+    "servers": "[{\"headers\":\"\",\"license\":\"39bcbc9418aa4d62b96b6a3eae2f6df0:a8f968b6a8ed7bfb17bf787b6c930c7e\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"Dazn1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd?start\\u003dLIVE\\u0026end\\u003dEND\\u0026device\\u003dDASH_AVC_HD\"},{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"Dazn2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://znty.dyndns.org:5010/hls/eleven1.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/250px-DAZN_Logo_Master.svg.png",
+    "nameen": "DAZN 1",
+    "position": "6",
+    "type": "channel",
+    "key": "portugal_sport_tv"
+  },
+  {
+    "namear": "DAZN 2",
+    "servers": "[{\"headers\":\"\",\"license\":\"3805cd533c1341a7934d13629eb7a34e:2542564928cb8e3fe4595ab8dcfd6e77\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"Dazn2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$522/index.mpd/Manifest.mpd?start\\u003dLIVE\\u0026end\\u003dEND\\u0026device\\u003dDASH_AVC_HD\"},{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"Dazn3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"http://znty.dyndns.org:5010/hls/eleven2.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/250px-DAZN_Logo_Master.svg.png",
+    "nameen": "DAZN 2",
+    "position": "7",
+    "type": "channel",
+    "key": "portugal_sport_tv"
+  },
+  {
+    "namear": "DAZN 3",
+    "servers": "[{\"headers\":\"\",\"license\":\"7224f2a6a14a4d88874d10dd953c88dc:9719ea238d3de66eb073ce842814f464\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"Dazn3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$523/index.mpd/Manifest.mpd?start\\u003dLIVE\\u0026end\\u003dEND\\u0026device\\u003dDASH_AVC_HD\"},{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"dazn4\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://znty.dyndns.org:5010/hls/eleven3.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/250px-DAZN_Logo_Master.svg.png",
+    "nameen": "DAZN 3",
+    "position": "8",
+    "type": "channel",
+    "key": "portugal_sport_tv"
+  },
+  {
+    "namear": "DAZN 4",
+    "servers": "[{\"headers\":\"\",\"license\":\"0b6e5fe5b1d140b092e22cc662088276:6bdd76adbc5bb25089983b2500dde7ca\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"Dazn4\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$524/index.mpd/Manifest.mpd?start\\u003dLIVE\\u0026end\\u003dEND\\u0026device\\u003dDASH_AVC_HD\"},{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"Dazn5\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"http://znty.dyndns.org:5010/hls/eleven4.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/250px-DAZN_Logo_Master.svg.png",
+    "nameen": "DAZN 4",
+    "position": "9",
+    "type": "channel",
+    "key": "portugal_sport_tv"
+  }
+]

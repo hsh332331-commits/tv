@@ -1,0 +1,65 @@
+[
+  {
+    "namear": "TeleCinco",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"TeleCinco\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1136\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7905251_ico.png",
+    "nameen": "TeleCinco",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarmovistar+"
+  },
+  {
+    "namear": "Movistar Series",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Movistar Series\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1099\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7905363_ico.png",
+    "nameen": "Movistar Series",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarmovistar+"
+  },
+  {
+    "namear": "Movistar Drama",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Movistar Drama\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1180\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7905484_ico.png",
+    "nameen": "Movistar Drama",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarmovistar+"
+  },
+  {
+    "namear": "Movistar Estrenos",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Movistar Estrenos\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1102\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7905477_ico.png",
+    "nameen": "Movistar Estrenos",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarmovistar+"
+  },
+  {
+    "namear": "Movistar Action",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Movistar Action\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1094\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7905564_ico.png",
+    "nameen": "Movistar Action",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarmovistar+"
+  },
+  {
+    "namear": "Movistar Comedia",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Movistar Comedia\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1200\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7905522_ico.png",
+    "nameen": "Movistar Comedia",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarmovistar+"
+  },
+  {
+    "namear": "Movistar Cine Ñ",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Movistar Cine Ñ\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/1097\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7905646_ico.png",
+    "nameen": "Movistar Cine Ñ",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarmovistar+"
+  }
+]

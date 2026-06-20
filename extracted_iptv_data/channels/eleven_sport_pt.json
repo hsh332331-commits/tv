@@ -1,0 +1,29 @@
+[
+  {
+    "namear": "ELEVEN 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"http://213.13.16.138/shls/LIVE$Eleven_Sports_1_HD/mono.m3u8 ?device\\u003dTVOS_Tv\\u0026start\\u003dLIVE\\u0026end\\u003dEND\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF1DZIIICKztPJ4gKnOUuOGoweuwNXDTb-tw&usqp=CAU",
+    "nameen": "ELEVEN 1",
+    "position": "0",
+    "type": "channel",
+    "key": "eleven_sport_pt"
+  },
+  {
+    "namear": "ELEVEN 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://213.13.16.138/shls/LIVE$Eleven_Sports_2_HD/mono.m3u8 ?device\\u003dTVOS_Tv\\u0026start\\u003dLIVE\\u0026end\\u003dEND\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF1DZIIICKztPJ4gKnOUuOGoweuwNXDTb-tw&usqp=CAU",
+    "nameen": "ELEVEN 2",
+    "position": "1",
+    "type": "channel",
+    "key": "eleven_sport_pt"
+  },
+  {
+    "namear": "ELEVEN 3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://213.13.16.138/shls/LIVE$Eleven_Sports_3_HD/mono.m3u8 ?device\\u003dTVOS_Tv\\u0026start\\u003dLIVE\\u0026end\\u003dEND\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF1DZIIICKztPJ4gKnOUuOGoweuwNXDTb-tw&usqp=CAU",
+    "nameen": "ELEVEN 3",
+    "position": "2",
+    "type": "channel",
+    "key": "eleven_sport_pt"
+  }
+]

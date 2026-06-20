@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "Polsat1",
+    "servers": "[{\"headers\":\"\",\"license\":\"{\\\"keys\\\":[{\\\"kty\\\":\\\"oct\\\",\\\"kid\\\":\\\"ZD2cKXSjXWGRLTW7IUo6dQ\\\",\\\"k\\\":\\\"Xu+5NQr3cmwvWU4g2Y0G9w\\\"},{\\\"kty\\\":\\\"oct\\\",\\\"kid\\\":\\\"uFw+3h43VkqrcH0sttPxjA\\\",\\\"k\\\":\\\"L09llMeH9FmLnp7BImDGew\\\"},{\\\"kty\\\":\\\"oct\\\",\\\"kid\\\":\\\"a9foiW2zX3m2zRXGWNh0iQ\\\",\\\"k\\\":\\\"uUHge6GJWnlb3oPGvN9XWw\\\"}],\\\"type\\\":\\\"temporary\\\"}\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"Polsat Sport Premium 1 #KODIPROP:inputstreamaddon\\u003dinputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type\\u003ddash #KODIPROP:inputstream.adaptive.license_type\\u003dclearkey #KODIPROP:inputstream.adaptive.license_key\\u003d8eb4a9586edf4b0cade4b5725fd55209:54caa4e2142cf691af9bb6028545afc6\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://lineartv-cdn.t-mobile.pl/bpk-tv/polsatsport/default/index.mpd\"}]",
+    "logo": "https://iptvboss.xyz/logos/Poland/PolsatSportPremium1.pl.png",
+    "nameen": "Polsat1",
+    "position": "1",
+    "type": "channel",
+    "key": "polsat_sport"
+  },
+  {
+    "namear": "Polsat2",
+    "servers": "[{\"headers\":\"\",\"license\":\"{\\\"keys\\\":[{\\\"kty\\\":\\\"oct\\\",\\\"kid\\\":\\\"MRtgHawNVUWwzgUhbbFR8Q\\\",\\\"k\\\":\\\"pLJyLl6xrRAmFklG4Z4tIg\\\"},{\\\"kty\\\":\\\"oct\\\",\\\"kid\\\":\\\"Fg7adKhMVaixbZJvwvyusA\\\",\\\"k\\\":\\\"dD7J1yzlLqRbUJNbe7oIxg\\\"},{\\\"kty\\\":\\\"oct\\\",\\\"kid\\\":\\\"ayDYnZVXUMi57x0SgNrfCQ\\\",\\\"k\\\":\\\"O+C2palPnCFna7MNQRsR+A\\\"}],\\\"type\\\":\\\"temporary\\\"}\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://lineartv-cdn.t-mobile.pl/bpk-tv/polsatsportextra/default/index.mpd\"}]",
+    "logo": "https://iptvboss.xyz/logos/Poland/PolsatSport2.pl.png",
+    "nameen": "Polsat2",
+    "position": "4",
+    "type": "channel",
+    "key": "polsat_sport"
+  },
+  {
+    "namear": "Polsat3",
+    "servers": "[{\"headers\":\"\",\"license\":\"{\\\"keys\\\":[{\\\"kty\\\":\\\"oct\\\",\\\"kid\\\":\\\"FzRwCjdEWomriT27SiDb9g\\\",\\\"k\\\":\\\"tFnRs9X2bLiveZS20gvhWA\\\"},{\\\"kty\\\":\\\"oct\\\",\\\"kid\\\":\\\"kXswLbmJXqS+FNT2+gUDPw\\\",\\\"k\\\":\\\"UJfBwpfg/yJchZGCFrX5DQ\\\"},{\\\"kty\\\":\\\"oct\\\",\\\"kid\\\":\\\"TH9/LyHgVTCK92/kPDFAEA\\\",\\\"k\\\":\\\"p1qzgnFTsxhhpKrMuzLFeA\\\"}],\\\"type\\\":\\\"temporary\\\"}\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://lineartv-cdn.t-mobile.pl/bpk-tv/polsatsportnews/default/index.mpd\"}]",
+    "logo": "https://iptvboss.xyz/logos/Poland/PolsatSport3.pl.png",
+    "nameen": "Polsat3",
+    "position": "5",
+    "type": "channel",
+    "key": "polsat_sport"
+  },
+  {
+    "namear": "TVP Sport",
+    "servers": "[{\"headers\":\"\",\"license\":\"95620bdd974041409d4674ab629e22d4:c6c226ca1689f528a6f91e86da618f64\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"\\\"1163925b6b37434198130f773bc62841\\\":\\\"e2bdd2b87e1ddb502eb7898daece857f\\\"}\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd\"}]",
+    "logo": "https://iptvboss.xyz/logos/Poland/TVPSport.pl.png",
+    "nameen": "TVP Sport",
+    "position": "15",
+    "type": "channel",
+    "key": "polsat_sport"
+  },
+  {
+    "namear": "Polsat Fight",
+    "servers": "[{\"headers\":\"\",\"license\":\"{\\\"keys\\\":[{\\\"kty\\\":\\\"oct\\\",\\\"kid\\\":\\\"MrM1QJYxXBW0o8uijjtUoQ\\\",\\\"k\\\":\\\"25nyIdO7XwtK8ZxkHkfI2A\\\"},{\\\"kty\\\":\\\"oct\\\",\\\"kid\\\":\\\"6+imqGn6VRiQpM0U9Lvq8A\\\",\\\"k\\\":\\\"FLnPCqtC0axTYxxFQh8EPw\\\"},{\\\"kty\\\":\\\"oct\\\",\\\"kid\\\":\\\"pUAyqsOZXK+EtHAdNJtM/Q\\\",\\\"k\\\":\\\"xIaWlP9wZ3GI+tx2/zdNmA\\\"}],\\\"type\\\":\\\"temporary\\\"}\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"name\":\"Polsat Sport Premium 2 #KODIPROP:inputstreamaddon\\u003dinputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type\\u003ddash #KODIPROP:inputstream.adaptive.license_type\\u003dclearkey #KODIPROP:inputstream.adaptive.license_key\\u003d 6a20b49be4db4f328e4bb48853124109:f32c1c3c983354bcafb0f2ccb8a59835\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://lineartv-cdn.t-mobile.pl/bpk-tv/polsatsport/default/index.mpd\"}]",
+    "logo": "https://iptvboss.xyz/logos/Poland/PolsatSportPremium2.pl.png",
+    "nameen": "Polsat Fight",
+    "position": "22",
+    "type": "channel",
+    "key": "polsat_sport"
+  }
+]

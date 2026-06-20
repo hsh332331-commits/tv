@@ -1,0 +1,92 @@
+[
+  {
+    "namear": "Bein Pre SD1",
+    "servers": "[{\"headers\":\"damxuser-Agent|damxuser-Agent|damxuser-Agent|damx\",\"otherHeaders\":\"\",\"name\":\"Bein Pre SD1\",\"Referer\":\"\",\"userAgent\":\"damxuser-Agent|damx\",\"position\":\"0\",\"url\":\"http://tmaster.myftp.org:8080/Pf9wYH3lC5/jRUfGWzu2m/72\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9544010_ico.png",
+    "nameen": "Bein Pre SD1",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarbein_sd_c"
+  },
+  {
+    "namear": "Bein Pre SD2",
+    "servers": "[{\"headers\":\"Hguser-Agent|Hguser-Agent|Hguser-Agent|Hg\",\"otherHeaders\":\"\",\"name\":\"Bein Pre SD2\",\"Referer\":\"\",\"userAgent\":\"Hguser-Agent|Hg\",\"position\":\"0\",\"url\":\"https://yeszet1x1cdn23.goalarab.site/livebp2/bp2/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9544021_ico.png",
+    "nameen": "Bein Pre SD2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarbein_sd_c"
+  },
+  {
+    "namear": "Bein Pre SD3",
+    "servers": "[{\"headers\":\"Ffuser-Agent|Ffuser-Agent|Ffuser-Agent|Ff\",\"otherHeaders\":\"\",\"name\":\"Bein Pre SD3\",\"Referer\":\"\",\"userAgent\":\"Ffuser-Agent|Ff\",\"position\":\"0\",\"url\":\"https://yeszet1x1cdn23.goalarab.site/livebp3/bp3/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9544033_ico.png",
+    "nameen": "Bein Pre SD3",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarbein_sd_c"
+  },
+  {
+    "namear": "Bein SD 1",
+    "servers": "[{\"headers\":\"Hhuser-Agent|Hhuser-Agent|Hhuser-Agent|Hh\",\"otherHeaders\":\"\",\"name\":\"Bein SD 1\",\"Referer\":\"\",\"userAgent\":\"Hhuser-Agent|Hh\",\"position\":\"0\",\"url\":\"https://yeszet1x1cdn23.goalarab.site/liveb1/b1/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9544040_ico.png",
+    "nameen": "Bein SD 1",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarbein_sd_c"
+  },
+  {
+    "namear": "Bein SD 2",
+    "servers": "[{\"headers\":\"Hhuser-Agent|Hhuser-Agent|Hhuser-Agent|Hh\",\"otherHeaders\":\"\",\"name\":\"Bein SD 2\",\"Referer\":\"\",\"userAgent\":\"Hhuser-Agent|Hh\",\"position\":\"0\",\"url\":\"https://yeszet1x1cdn23.goalarab.site/liveb2/b2/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9544044_ico.png",
+    "nameen": "Bein SD 2",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarbein_sd_c"
+  },
+  {
+    "namear": "Bein SD 3",
+    "servers": "[{\"headers\":\"airmaxtvpro1user-Agent|airmaxtvpro1user-Agent|airmaxtvpro1user-Agent|airmaxtvpro1\",\"otherHeaders\":\"\",\"name\":\"Bein SD 3\",\"Referer\":\"\",\"userAgent\":\"airmaxtvpro1user-Agent|airmaxtvpro1\",\"position\":\"0\",\"url\":\"https://yeszet1x1cdn23.goalarab.site/liveb3/b3/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9544047_ico.png",
+    "nameen": "Bein SD 3",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarbein_sd_c"
+  },
+  {
+    "namear": "Bein SD 4",
+    "servers": "[{\"headers\":\"airmaxtvpro1user-Agent|airmaxtvpro1user-Agent|airmaxtvpro1user-Agent|airmaxtvpro1\",\"otherHeaders\":\"\",\"name\":\"Bein SD 4\",\"Referer\":\"\",\"userAgent\":\"airmaxtvpro1user-Agent|airmaxtvpro1\",\"position\":\"0\",\"url\":\"https://yeszet1x1cdn23.goalarab.site/liveb4/b4/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9544050_ico.png",
+    "nameen": "Bein SD 4",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarbein_sd_c"
+  },
+  {
+    "namear": "Bein SD 5",
+    "servers": "[{\"headers\":\"airmaxtvpro1user-Agent|airmaxtvpro1user-Agent|airmaxtvpro1user-Agent|airmaxtvpro1\",\"otherHeaders\":\"\",\"name\":\"Bein SD 5\",\"Referer\":\"\",\"userAgent\":\"airmaxtvpro1user-Agent|airmaxtvpro1\",\"position\":\"0\",\"url\":\"https://airmaxtv.online:25463/airmaxtvbein936/8uEw8a9Rw262/17\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9544055_ico.png",
+    "nameen": "Bein SD 5",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarbein_sd_c"
+  },
+  {
+    "namear": "Bein SD 6",
+    "servers": "[{\"headers\":\"Knuser-Agent|Knuser-Agent|Knuser-Agent|Kn\",\"otherHeaders\":\"\",\"name\":\"Bein SD 6\",\"Referer\":\"\",\"userAgent\":\"Knuser-Agent|Kn\",\"position\":\"0\",\"url\":\"https://yeszet1x1cdn23.goalarab.site/liveb4/b4/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9544061_ico.png",
+    "nameen": "Bein SD 6",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarbein_sd_c"
+  },
+  {
+    "namear": "Bein SD 7",
+    "servers": "[{\"headers\":\"airmaxtvpro1user-Agent|airmaxtvpro1user-Agent|airmaxtvpro1user-Agent|airmaxtvpro1\",\"otherHeaders\":\"\",\"name\":\"Bein SD 7\",\"Referer\":\"\",\"userAgent\":\"airmaxtvpro1user-Agent|airmaxtvpro1\",\"position\":\"0\",\"url\":\"https://airmaxtv.online:25463/airmaxtvbein936/8uEw8a9Rw262/19\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9544064_ico.png",
+    "nameen": "Bein SD 7",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadrarbein_sd_c"
+  }
+]

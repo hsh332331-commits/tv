@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "Match",
+    "servers": "[{\"headers\":\"Referer;http://player.telestars.tv/;\",\"otherHeaders\":\"\",\"name\":\"Match\",\"Referer\":\"http://player.telestars.tv/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://hez1-flu.iptvstream.site/132/mono.m3u8 ?token\\u003d1\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlu2e7tiA21SHhDfp0nwuhYDbLeSCuxeJPww&usqp=CAU",
+    "nameen": "Match",
+    "position": "0",
+    "type": "channel",
+    "key": "match_rus"
+  },
+  {
+    "namear": "Match PR",
+    "servers": "[{\"headers\":\"Referer;http://player.telestars.tv/;\",\"otherHeaders\":\"\",\"name\":\"Match\",\"Referer\":\"http://player.telestars.tv/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://hez1-flu.iptvstream.site/134/mono.m3u8 ?token\\u003d1\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn1vnltnG-nElrUawsultW7_0s8lJrooyNeg&usqp=CAU",
+    "nameen": "Match PR",
+    "position": "1",
+    "type": "channel",
+    "key": "match_rus"
+  },
+  {
+    "namear": "Match 1",
+    "servers": "[{\"headers\":\"Referer;http://player.telestars.tv/;\",\"otherHeaders\":\"\",\"name\":\"Match\",\"Referer\":\"http://player.telestars.tv/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://hez1-flu.iptvstream.site/135/mono.m3u8 ?token\\u003d1\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe3gdE6aLHzxPXw5-QxoOw7rsqUnS7UuSP0Q&usqp=CAU",
+    "nameen": "Match 1",
+    "position": "2",
+    "type": "channel",
+    "key": "match_rus"
+  },
+  {
+    "namear": "Match 2",
+    "servers": "[{\"headers\":\"Referer;http://player.telestars.tv/;\",\"otherHeaders\":\"\",\"name\":\"Match\",\"Referer\":\"http://player.telestars.tv/\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://hez1-flu.iptvstream.site/136/mono.m3u8 ?token\\u003d1\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCbVkt1qyeVT6MCwVsbgSAJtv_beq6ZyhOcQ&usqp=CAU",
+    "nameen": "Match 2",
+    "position": "3",
+    "type": "channel",
+    "key": "match_rus"
+  },
+  {
+    "namear": "Match 3",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT ed5zs4d5sd41;\",\"otherHeaders\":\"\",\"name\":\"Match\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT ed5zs4d5sd41\",\"position\":\"0\",\"url\":\"http://hez1-flu.iptvstream.site/137/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTY1N3xPWFRXUdeSZ2NT5_X8Y8WjM6FH5U0A&usqp=CAU",
+    "nameen": "Match 3",
+    "position": "4",
+    "type": "channel",
+    "key": "match_rus"
+  }
+]

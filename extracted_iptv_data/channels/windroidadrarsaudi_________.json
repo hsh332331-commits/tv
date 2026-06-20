@@ -1,0 +1,209 @@
+[
+  {
+    "namear": "Kaif TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Kaif TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://82.212.74.2:8000/live/7311.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12139251_ico.png",
+    "nameen": "Kaif TV",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarsaudi_السعودية"
+  },
+  {
+    "namear": "Alerth TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Alerth TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://82.212.74.2:8000/live/7307.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12136134_ico.png",
+    "nameen": "Alerth TV",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarsaudi_السعودية"
+  },
+  {
+    "namear": "Al Arabiya",
+    "servers": "[{\"headers\":\"RSuser-Agent|RSuser-Agent|RSuser-Agent|RS\",\"otherHeaders\":\"\",\"name\":\"Al Arabiya\",\"Referer\":\"\",\"userAgent\":\"RSuser-Agent|RS\",\"position\":\"0\",\"url\":\"https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12138741_ico.png",
+    "nameen": "Al Arabiya",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarsaudi_السعودية"
+  },
+  {
+    "namear": "Al Arabiya+",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Arabiya+\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live.alarabiya.net/alarabiapublish/alarabiya.smil/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14165279_ico.png",
+    "nameen": "Al Arabiya+",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarsaudi_السعودية"
+  },
+  {
+    "namear": "Al Arabiya Al Hadath",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Arabiya Al Hadath\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index_3.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12138747_ico.png",
+    "nameen": "Al Arabiya Al Hadath",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarsaudi_السعودية"
+  },
+  {
+    "namear": "Asharq News",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Asharq News\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index_3.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7059084_ico.png",
+    "nameen": "Asharq News",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarsaudi_السعودية"
+  },
+  {
+    "namear": "Al Quran Al Kareem",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Al Quran Al Kareem\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12138813_ico.png",
+    "nameen": "Al Quran Al Kareem",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarsaudi_السعودية"
+  },
+  {
+    "namear": "Al Sunnah",
+    "servers": "[{\"headers\":\"Ttuser-Agent|Ttuser-Agent|Ttuser-Agent|Tt\",\"otherHeaders\":\"\",\"name\":\"Al Sunnah\",\"Referer\":\"\",\"userAgent\":\"Ttuser-Agent|Tt\",\"position\":\"0\",\"url\":\"https://shls-euronews-en-prod-dub.shahid.net/out/v1/b09bbb8d9b684763be4211b088168de7/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9553262_ico.png",
+    "nameen": "Al Sunnah",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarsaudi_السعودية"
+  },
+  {
+    "namear": "Al Saudiya",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"Al Saudiya\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"https://shls-masr2-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12138761_ico.png",
+    "nameen": "Al Saudiya",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarsaudi_السعودية"
+  },
+  {
+    "namear": "Saudi TV+",
+    "servers": "[{\"headers\":\"Jjhuser-Agent|Jjhuser-Agent|Jjhuser-Agent|Jjh\",\"otherHeaders\":\"\",\"name\":\"Saudi TV+\",\"Referer\":\"\",\"userAgent\":\"Jjhuser-Agent|Jjh\",\"position\":\"0\",\"url\":\"https://edge.taghtia.com/sa/2.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14207251_ico.png",
+    "nameen": "Saudi TV+",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadrarsaudi_السعودية"
+  },
+  {
+    "namear": "Al Ekhbaria",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"Al Ekhbaria\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14207294_ico.png",
+    "nameen": "Al Ekhbaria",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidadrarsaudi_السعودية"
+  },
+  {
+    "namear": "Al Ekhbaria+",
+    "servers": "[{\"headers\":\"Jjhvuser-Agent|Jjhvuser-Agent|Jjhvuser-Agent|Jjhv\",\"otherHeaders\":\"\",\"name\":\"Al Ekhbaria+\",\"Referer\":\"\",\"userAgent\":\"Jjhvuser-Agent|Jjhv\",\"position\":\"0\",\"url\":\"https://edge.taghtia.com/sa/4.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/19382796_ico.png",
+    "nameen": "Al Ekhbaria+",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidadrarsaudi_السعودية"
+  },
+  {
+    "namear": "SBC",
+    "servers": "[{\"headers\":\"GVuser-Agent|GVuser-Agent|GVuser-Agent|GV\",\"otherHeaders\":\"\",\"name\":\"SBC\",\"Referer\":\"\",\"userAgent\":\"GVuser-Agent|GV\",\"position\":\"0\",\"url\":\"https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/19382764_ico.png",
+    "nameen": "SBC",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidadrarsaudi_السعودية"
+  },
+  {
+    "namear": "SBC+",
+    "servers": "[{\"headers\":\"GVuser-Agent|GVuser-Agent|GVuser-Agent|GV\",\"otherHeaders\":\"\",\"name\":\"SBC+\",\"Referer\":\"\",\"userAgent\":\"GVuser-Agent|GV\",\"position\":\"0\",\"url\":\"https://edge.taghtia.com/sa/1.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26537519_ico.png",
+    "nameen": "SBC+",
+    "position": "13",
+    "type": "channel",
+    "key": "windroidadrarsaudi_السعودية"
+  },
+  {
+    "namear": "Thikrayat",
+    "servers": "[{\"headers\":\"Hhuser-Agent|Hhuser-Agent|Hhuser-Agent|Hh\",\"otherHeaders\":\"\",\"name\":\"Thikrayat\",\"Referer\":\"\",\"userAgent\":\"Hhuser-Agent|Hh\",\"position\":\"0\",\"url\":\"https://al-ekhbaria-prod-dub.shahid.net/out/v1/ef87956651694f4ba2ccc16e852dbb95/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/19382780_ico.png",
+    "nameen": "Thikrayat",
+    "position": "14",
+    "type": "channel",
+    "key": "windroidadrarsaudi_السعودية"
+  },
+  {
+    "namear": "Thikrayat+",
+    "servers": "[{\"headers\":\"Hhuser-Agent|Hhuser-Agent|Hhuser-Agent|Hh\",\"otherHeaders\":\"\",\"name\":\"Thikrayat+\",\"Referer\":\"\",\"userAgent\":\"Hhuser-Agent|Hh\",\"position\":\"0\",\"url\":\"https://edge.taghtia.com/sa/3.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/26537520_ico.png",
+    "nameen": "Thikrayat+",
+    "position": "15",
+    "type": "channel",
+    "key": "windroidadrarsaudi_السعودية"
+  },
+  {
+    "namear": "Makkah TV",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"Makkah TV\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"https://media2.streambrothers.com:1936/8122/8122/chunklist.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/9553263_ico.png",
+    "nameen": "Makkah TV",
+    "position": "16",
+    "type": "channel",
+    "key": "windroidadrarsaudi_السعودية"
+  },
+  {
+    "namear": "Al Resalah",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Al Resalah\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://w.bs-share.com:8000/247179867825237/23141543216575/450234\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12139227_ico.png",
+    "nameen": "Al Resalah",
+    "position": "17",
+    "type": "channel",
+    "key": "windroidadrarsaudi_السعودية"
+  },
+  {
+    "namear": "Al Khalij",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Khalij\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12138776_ico.png",
+    "nameen": "Al Khalij",
+    "position": "18",
+    "type": "channel",
+    "key": "windroidadrarsaudi_السعودية"
+  },
+  {
+    "namear": "Daawah TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Daawah TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://51.15.246.58:8081/daawahtv/daawahtv2/chunks.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14837762_ico.png",
+    "nameen": "Daawah TV",
+    "position": "19",
+    "type": "channel",
+    "key": "windroidadrarsaudi_السعودية"
+  },
+  {
+    "namear": "Iqraa",
+    "servers": "[{\"headers\":\"Hhuser-Agent|Hhuser-Agent|Hhuser-Agent|Hh\",\"otherHeaders\":\"\",\"name\":\"Iqraa\",\"Referer\":\"\",\"userAgent\":\"Hhuser-Agent|Hh\",\"position\":\"0\",\"url\":\"https://jmc-live.ercdn.net/iqraa/iqraa_360p.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12139161_ico.png",
+    "nameen": "Iqraa",
+    "position": "20",
+    "type": "channel",
+    "key": "windroidadrarsaudi_السعودية"
+  },
+  {
+    "namear": "Iqraa Europe",
+    "servers": "[{\"headers\":\"Gguser-Agent|Gguser-Agent|Gguser-Agent|Gg\",\"otherHeaders\":\"\",\"name\":\"Iqraa Europe\",\"Referer\":\"\",\"userAgent\":\"Gguser-Agent|Gg\",\"position\":\"0\",\"url\":\"https://jmc-live.ercdn.net/iqraaeurope/iqraaeurope_360p.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12139169_ico.png",
+    "nameen": "Iqraa Europe",
+    "position": "21",
+    "type": "channel",
+    "key": "windroidadrarsaudi_السعودية"
+  },
+  {
+    "namear": "Atfal WMawaheb",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Atfal WMawaheb\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14156069_ico.png",
+    "nameen": "Atfal WMawaheb",
+    "position": "22",
+    "type": "channel",
+    "key": "windroidadrarsaudi_السعودية"
+  }
+]

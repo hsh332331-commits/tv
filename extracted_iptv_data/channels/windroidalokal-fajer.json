@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "FAJER 1 ",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"FAJER 1 \",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://alokaxsitearena.xyz:443/live/arenanew22/arenanew22/44.m3u8\"}]",
+    "logo": "https://photos.live-tv-channels.org/tv-logo/ps-alfajer-tv-1195.jpg",
+    "nameen": "FAJER 1 ",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidalokal-fajer"
+  },
+  {
+    "namear": "FAJER 2",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"FAJER 2\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://alokaxsitearena.xyz:443/live/arenanew22/arenanew22/45.m3u8\"}]",
+    "logo": "https://photos.live-tv-channels.org/tv-logo/ps-alfajer-tv-1195.jpg",
+    "nameen": "FAJER 2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidalokal-fajer"
+  },
+  {
+    "namear": "FAJER 3",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"FAJER 3\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://alokaxsitearena.xyz:443/live/arenanew22/arenanew22/46.m3u8\"}]",
+    "logo": "https://photos.live-tv-channels.org/tv-logo/ps-alfajer-tv-1195.jpg",
+    "nameen": "FAJER 3",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidalokal-fajer"
+  },
+  {
+    "namear": "FAJER 4",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"FAJER 4\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://alokaxsitearena.xyz:443/live/arenanew22/arenanew22/47.m3u8\"}]",
+    "logo": "https://photos.live-tv-channels.org/tv-logo/ps-alfajer-tv-1195.jpg",
+    "nameen": "FAJER 4",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidalokal-fajer"
+  },
+  {
+    "namear": "FAJER 5",
+    "servers": "[{\"headers\":\"user-agent|ㅤ|\",\"otherHeaders\":\"\",\"name\":\"FAJER 5\",\"Referer\":\"\",\"userAgent\":\"ㅤ\",\"position\":\"0\",\"url\":\"https://alokaxsitearena.xyz:443/live/arenanew22/arenanew22/48.m3u8\"}]",
+    "logo": "https://photos.live-tv-channels.org/tv-logo/ps-alfajer-tv-1195.jpg",
+    "nameen": "FAJER 5",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidalokal-fajer"
+  }
+]

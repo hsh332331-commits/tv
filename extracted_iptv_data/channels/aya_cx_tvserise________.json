@@ -1,0 +1,110 @@
+[
+  {
+    "namear": "سكة سفر",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"سكة سفر\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/40031eca7be34c4ea9744bf067f4fefa/index.m3u8?aws.manifestfilter\\u003dvideo_height:144-1080;video_codec:H264\\u0026video_height\\u003d144-1080\\u0026video_codec\\u003dH264\"}]",
+    "logo": "https://play-lh.googleusercontent.com/9q9uNUq1Xxr9D7jLPXMWWgnPUzYPzRLHaTXqjgRnB48eZax_zrucdCAJNlPEKhvqd6U",
+    "nameen": "سكة سفر",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_cx_tvserise_مسلسلات"
+  },
+  {
+    "namear": "مسرح مصر",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"مسرح مصر\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/8fae48b64942450cb5d60b3fb6910de0/index.m3u8?aws.manifestfilter\\u003dvideo_height:144-1080;video_codec:H264\\u0026video_height\\u003d144-1080\\u0026video_codec\\u003dH264\"}]",
+    "logo": "https://play-lh.googleusercontent.com/9q9uNUq1Xxr9D7jLPXMWWgnPUzYPzRLHaTXqjgRnB48eZax_zrucdCAJNlPEKhvqd6U",
+    "nameen": "مسرح مصر",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvserise_مسلسلات"
+  },
+  {
+    "namear": "اللعبة",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"اللعبة\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/d6e1fdee781f4506a6ac147fee5ba715/index.m3u8?aws.manifestfilter\\u003dvideo_height:144-1080;video_codec:H264\\u0026video_height\\u003d144-1080\\u0026video_codec\\u003dH264\"}]",
+    "logo": "https://play-lh.googleusercontent.com/9q9uNUq1Xxr9D7jLPXMWWgnPUzYPzRLHaTXqjgRnB48eZax_zrucdCAJNlPEKhvqd6U",
+    "nameen": "اللعبة",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvserise_مسلسلات"
+  },
+  {
+    "namear": "ناصر القصبي",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"ناصر القصبي\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/20e003242d244710bfe9ca0fd2b94d00/index.m3u8?aws.manifestfilter\\u003dvideo_height:144-1080;video_codec:H264\\u0026video_height\\u003d144-1080\\u0026video_codec\\u003dH264\"}]",
+    "logo": "https://play-lh.googleusercontent.com/9q9uNUq1Xxr9D7jLPXMWWgnPUzYPzRLHaTXqjgRnB48eZax_zrucdCAJNlPEKhvqd6U",
+    "nameen": "ناصر القصبي",
+    "position": "8",
+    "type": "channel",
+    "key": "aya_cx_tvserise_مسلسلات"
+  },
+  {
+    "namear": "Z Alwan",
+    "servers": "[{\"license\":\"\",\"headers\":\"user-agent|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36|find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"isWeb\":\"false\",\"name\":\"Z Alwan\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36\",\"position\":\"\",\"url\":\"https://ok.ru/live/11157140872824\"}]",
+    "logo": "na",
+    "nameen": "Z Alwan",
+    "position": "11",
+    "type": "channel",
+    "key": "aya_cx_tvserise_مسلسلات"
+  },
+  {
+    "namear": "مرايا",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"مرايا\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8?aws.manifestfilter\\u003dvideo_height:144-1080;video_codec:H264\\u0026video_height\\u003d144-1080\\u0026video_codec\\u003dH264\"}]",
+    "logo": "https://play-lh.googleusercontent.com/9q9uNUq1Xxr9D7jLPXMWWgnPUzYPzRLHaTXqjgRnB48eZax_zrucdCAJNlPEKhvqd6U",
+    "nameen": "مرايا",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvserise_مسلسلات"
+  },
+  {
+    "namear": "باب الحارة",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"باب الحارة\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8?aws.manifestfilter\\u003dvideo_height:144-1080;video_codec:H264\\u0026video_height\\u003d144-1080\\u0026video_codec\\u003dH264\"}]",
+    "logo": "https://play-lh.googleusercontent.com/9q9uNUq1Xxr9D7jLPXMWWgnPUzYPzRLHaTXqjgRnB48eZax_zrucdCAJNlPEKhvqd6U",
+    "nameen": "باب الحارة",
+    "position": "7",
+    "type": "channel",
+    "key": "aya_cx_tvserise_مسلسلات"
+  },
+  {
+    "namear": "طاش",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"طاش\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/e34e3ac9d2534543a13b44c2b458b0c2/index.m3u8?aws.manifestfilter\\u003dvideo_height:144-1080;video_codec:H264\\u0026video_height\\u003d144-1080\\u0026video_codec\\u003dH264\"}]",
+    "logo": "https://play-lh.googleusercontent.com/9q9uNUq1Xxr9D7jLPXMWWgnPUzYPzRLHaTXqjgRnB48eZax_zrucdCAJNlPEKhvqd6U",
+    "nameen": "طاش",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvserise_مسلسلات"
+  },
+  {
+    "namear": "العاصوف",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"العاصوف\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/0afd546fcb5342f69d6bfff2dd1596e9/index.m3u8?aws.manifestfilter\\u003dvideo_height:144-1080;video_codec:H264\\u0026video_height\\u003d144-1080\\u0026video_codec\\u003dH264\"}]",
+    "logo": "https://play-lh.googleusercontent.com/9q9uNUq1Xxr9D7jLPXMWWgnPUzYPzRLHaTXqjgRnB48eZax_zrucdCAJNlPEKhvqd6U",
+    "nameen": "العاصوف",
+    "position": "9",
+    "type": "channel",
+    "key": "aya_cx_tvserise_مسلسلات"
+  },
+  {
+    "namear": "الكبير أوي",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"الكبير أوي\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/5f5de4f9efe24f758f1364dde5e2a45c/index.m3u8?aws.manifestfilter\\u003dvideo_height:144-1080;video_codec:H264\\u0026video_height\\u003d144-1080\\u0026video_codec\\u003dH264\"}]",
+    "logo": "https://play-lh.googleusercontent.com/9q9uNUq1Xxr9D7jLPXMWWgnPUzYPzRLHaTXqjgRnB48eZax_zrucdCAJNlPEKhvqd6U",
+    "nameen": "الكبير أوي",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvserise_مسلسلات"
+  },
+  {
+    "namear": "حكايات دفعة",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"حكايات دفعة\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/cf05f1dbbeae4878bbc4a5919cef3391/index.m3u8?aws.manifestfilter\\u003dvideo_height:144-1080;video_codec:H264\\u0026video_height\\u003d144-1080\\u0026video_codec\\u003dH264\"}]",
+    "logo": "https://play-lh.googleusercontent.com/9q9uNUq1Xxr9D7jLPXMWWgnPUzYPzRLHaTXqjgRnB48eZax_zrucdCAJNlPEKhvqd6U",
+    "nameen": "حكايات دفعة",
+    "position": "10",
+    "type": "channel",
+    "key": "aya_cx_tvserise_مسلسلات"
+  },
+  {
+    "namear": "سيلفي",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"Referer\":\"\",\"name\":\"سيلفي\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://shls-live-enc.edgenextcdn.net/out/v1/2a0f4768f7fa42ed813674628b487e95/index.m3u8?aws.manifestfilter\\u003dvideo_height:144-1080;video_codec:H264\\u0026video_height\\u003d144-1080\\u0026video_codec\\u003dH264\"}]",
+    "logo": "https://play-lh.googleusercontent.com/9q9uNUq1Xxr9D7jLPXMWWgnPUzYPzRLHaTXqjgRnB48eZax_zrucdCAJNlPEKhvqd6U",
+    "nameen": "سيلفي",
+    "position": "6",
+    "type": "channel",
+    "key": "aya_cx_tvserise_مسلسلات"
+  }
+]

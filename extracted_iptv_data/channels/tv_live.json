@@ -1,0 +1,1865 @@
+[
+  {
+    "namear": "Nasa",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Nasa\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8\"}]",
+    "logo": "https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png",
+    "nameen": "Nasa",
+    "position": "1",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Red Bule TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Red Bule TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8\"}]",
+    "logo": "https://img.redbull.com/images/w_220/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv",
+    "nameen": "Red Bule TV",
+    "position": "2",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Wild Earth",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Wild Earth\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://wildearth-roku.amagi.tv/masterR432p.m3u8\"}]",
+    "logo": "http://myserveriptv.com:2082/images/ebc4094a88e19dbfe24a0f747165dda8.png",
+    "nameen": "Wild Earth",
+    "position": "3",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Italian Fishing TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Italian Fishing TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://itftv-italianfishingtv-1-it.samsung.wurl.tv/mono.m3u8\"}]",
+    "logo": "https://www.i-pic.info/i/ClpA329098.jpg",
+    "nameen": "Italian Fishing TV",
+    "position": "4",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "sumrudlok Lao",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"sumrudlok Lao\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://edge2.laotv.la/live/Samrujlok/sc-gaFECQ/v1/mono.m3u8 \"}]",
+    "logo": "https://sv1.picz.in.th/images/2020/10/02/O8pHY8.jpg",
+    "nameen": "sumrudlok Lao",
+    "position": "5",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "krongdee",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"krongdee\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://edge2.laotv.la/live/Samrujlok/sc-gaFECQ/v1/mono.m3u8 \"}]",
+    "logo": "https://menhouse.net/img/ib/dlmXcvu3CJ.png",
+    "nameen": "krongdee",
+    "position": "6",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Cable 37",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Cable 37\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://www5.cabletv.co.th/StreamToCTV/cablechannel/mono.m3u8\"}]",
+    "logo": "https://sv1.picz.in.th/images/2020/10/17/b7cOc9.png",
+    "nameen": "Cable 37",
+    "position": "7",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Animal Planet Lao",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Animal Planet Lao\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://edge1.laotv.la/live/AnimalPlanet/sc-gaFECQ/v0/mono.m3u8 \"}]",
+    "logo": "https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230803/video/bc10cd38-630f-48f4-a88f-6cba4d845ab4.png",
+    "nameen": "Animal Planet Lao",
+    "position": "8",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Discovery Lao",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Discovery Lao\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://edge1.laotv.la/live/Discovery/sc-gaFECQ/v1/mono.m3u8 \"}]",
+    "logo": "https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230803/video/71f30f1e-a8e4-4e1f-9f38-a737e5f45e78.png",
+    "nameen": "Discovery Lao",
+    "position": "9",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "CN Lao",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CN Lao\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://edge2.laotv.la/live/CartoonNetwork/sc-gaFECQ/v1/mono.m3u8 \"}]",
+    "logo": "https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230803/video/916dc125-e7ce-4da3-8440-b4ec33bfd1ac.png",
+    "nameen": "CN Lao",
+    "position": "10",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Smithsonian Channel",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Smithsonian Channel\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8\"}]",
+    "logo": "https://sv1.picz.in.th/images/2023/03/04/etP8qN.jpg",
+    "nameen": "Smithsonian Channel",
+    "position": "11",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "TRUE EXPLORE WILD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TRUE EXPLORE WILD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://bit.ly/danaitest\"}]",
+    "logo": "http://glivehomecdn.s3.byteark.com/TV/CH-077.png",
+    "nameen": "TRUE EXPLORE WILD",
+    "position": "12",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Wired 2 Fish",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Wired 2 Fish\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://linear-80.frequency.stream/dist/plex/80/hls/master/mono.m3u8\"}]",
+    "logo": "https://media.wired2fish.com/uploads/2021/09/logo-wired2fish-inversed.png",
+    "nameen": "Wired 2 Fish",
+    "position": "13",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "XPLORE",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"XPLORE\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://xplore-roku.amagi.tv/mono.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJw2TdCKimXLlQ_532l-qa4xf6cJxUeS-Urg&usqp=CAU",
+    "nameen": "XPLORE",
+    "position": "14",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Travel XP (UK)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Travel XP (UK)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Txphd_logo_2015.png/220px-Txphd_logo_2015.png",
+    "nameen": "Travel XP (UK)",
+    "position": "15",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Samsung Wildlife",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Samsung Wildlife\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://d1vp12yk4i8ou5.cloudfront.net/mono.m3u8\"}]",
+    "logo": "https://i0.wp.com/i.blogs.es/20f998/samsung_tv_plus_primary_stacked_logo_coloured_black_rgb/450_1000.webp?ssl=1",
+    "nameen": "Samsung Wildlife",
+    "position": "16",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "My Sci GoodTV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"My Sci GoodTV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0152/HLS/V0152.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "My Sci GoodTV",
+    "position": "17",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "My Sci GoodTV 1080P",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"My Sci GoodTV 1080P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0152/HLS/V0152-avc1_5000000\\u003d19-mp4a_96000_tha\\u003d8.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "My Sci GoodTV 1080P",
+    "position": "18",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "aminal show GoodTV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"aminal show GoodTV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0153/HLS/V0153.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "aminal show GoodTV",
+    "position": "19",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "kongdee Thai GoodTV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"kongdee Thai GoodTV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0154/HLS/V0154.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "kongdee Thai GoodTV",
+    "position": "20",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Thainess GoodTV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Thainess GoodTV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0155/HLS/V0155.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Thainess GoodTV",
+    "position": "21",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Animal Planet UHD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Animal Planet UHD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://trenduhd.xyz:80/0454713149/6189330030/211924\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Animal Planet UHD",
+    "position": "22",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Discovery 4K",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Discovery 4K\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://trenduhd.xyz:80/0454713149/6189330030/211928\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Discovery 4K",
+    "position": "23",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Discovery Turbo 4K",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Discovery Turbo 4K\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://trenduhd.xyz:80/0454713149/6189330030/286630\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Discovery Turbo 4K",
+    "position": "24",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Nat Geo Wild 1080P",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Nat Geo Wild 1080P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://newmoov.cloud:8080/play/pY9QGb0rBaQuhamv7xOOU6KiM5ggTE3oEJgJlOr6mKs\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Nat Geo Wild 1080P",
+    "position": "25",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "History 1080P",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"History 1080P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://newmoov.cloud:8080/play/pY9QGb0rBaQuhamv7xOOU-i1I7SyX0wPDeXvWxiFQus\"}]",
+    "logo": "http://myserveriptv.com:2082/images/65b50b04a6af50bb2f174db30a8c6dad.png",
+    "nameen": "History 1080P",
+    "position": "26",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Dog TV FHD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Dog TV FHD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://proiptvdigic.com:8080/live/fer43092/yGFE5wmQDwxn/220139.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Dog TV FHD",
+    "position": "27",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Wild Earth HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Wild Earth HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://proiptvdigic.com:8080/live/fer43092/yGFE5wmQDwxn/220252.m3u8\"}]",
+    "logo": "http://myserveriptv.com:2082/images/ebc4094a88e19dbfe24a0f747165dda8.png",
+    "nameen": "Wild Earth HD",
+    "position": "28",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Love Nature HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Love Nature HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://proiptvdigic.com:8080/live/fer43092/yGFE5wmQDwxn/220257.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Love Nature HD",
+    "position": "29",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Metro Globe Network (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Metro Globe Network (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://edge.medcom.id/live-edge/smil:mgnch.smil/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Metro Globe Network (1080p)",
+    "position": "30",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "KBS World",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"KBS World\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "KBS World",
+    "position": "31",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "like Gecko) Chrome/56.0.2924.87 Safari/537.36 #EXTVLCOPT:http-referrer=http://splaytv.club:80",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"like Gecko) Chrome/56.0.2924.87 Safari/537.36 #EXTVLCOPT:http-referrer\\u003dhttp://splaytv.club:80\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://splaytv.club:80/live/QDpPshVexC/NO03avcdOMa/147434.m3u8\"}]",
+    "logo": "https://static.uflixtv.com/images/tv/channels_icons/sd-animalplanet.png",
+    "nameen": "like Gecko) Chrome/56.0.2924.87 Safari/537.36 #EXTVLCOPT:http-referrer=http://splaytv.club:80",
+    "position": "32",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Animal Planet #EXTVLCOPT:http-referrer=https://6oclock.xyz:8443/",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Animal Planet #EXTVLCOPT:http-referrer\\u003dhttps://6oclock.xyz:8443/\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://6oclock.xyz:8443/live/Tyrone43147/My3boys/12790.m3u8 MOVIES\"}]",
+    "logo": "https://i.imgur.com/MFN9PGB.png",
+    "nameen": "Animal Planet #EXTVLCOPT:http-referrer=https://6oclock.xyz:8443/",
+    "position": "33",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "CTB",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CTB\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://vip.login.in.th:1935/CTB/CTB/mono.m3u8\"}]",
+    "logo": "http://m3u.at/data_file/tvlogo2/ctb.png",
+    "nameen": "CTB",
+    "position": "34",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Channel 8",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Channel 8\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdn-th-vip.livestreaming.in.th/ch8/ch8/chunklist_w1724487691.m3u8\"}]",
+    "logo": "http://m3u.at/data_file/tvlogo2/ch8.png",
+    "nameen": "Channel 8",
+    "position": "35",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "MONO29",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MONO29\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_720P/mono29hls_720TH.stream/mono.m3u8\"}]",
+    "logo": "https://sv1.picz.in.th/images/2020/09/21/OO2QnW.png",
+    "nameen": "MONO29",
+    "position": "36",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Dreamwork",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Dreamwork\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://newmoov.cloud:8080/play/pY9QGb0rBaQuhamv7xOOU6lROkXNgGo8nH5hZrXIkgg\"}]",
+    "logo": "https://www.lyngsat-logo.com/logo/tv/dd/dreamworks-tv-us.svg",
+    "nameen": "Dreamwork",
+    "position": "37",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "True Film HD1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"True Film HD1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://45.139.122.199/play/live.php?mac\\u003d10:27:BE:15:b9:6e\\u0026stream\\u003d115414\\u0026extension\\u003dts\\u0026play_token\\u003dATrBHcDqqm\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "True Film HD1",
+    "position": "38",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "True Film HD2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"True Film HD2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://45.139.122.199/play/live.php?mac\\u003d10:27:BE:15:b9:6e\\u0026stream\\u003d115415\\u0026extension\\u003dts\\u0026play_token\\u003dhScU8EKoAc\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "True Film HD2",
+    "position": "39",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "like Gecko) Chrome/81.0.4044.138 Safari/537.36",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"like Gecko) Chrome/81.0.4044.138 Safari/537.36\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://freetvdd.com/\"}]",
+    "logo": "https://www.i-pic.info/i/HcyW361033.jpg",
+    "nameen": "like Gecko) Chrome/81.0.4044.138 Safari/537.36",
+    "position": "40",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "TTD6",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TTD6\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://psiiptv-b.sky-cdn.com/ttd06-playlist/mono.m3u8 |Referer\\u003dwww.mvtv.co.th\"}]",
+    "logo": "https://media-mvtv-app.imgix.net/uploads/channel/101_x_fc3xlaigrzTqYC5ktJsGBo7REuK948UO.png",
+    "nameen": "TTD6",
+    "position": "41",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "MOVIES WORLD 1 🟡",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MOVIES WORLD 1 🟡\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdn6.goprimetime.info/feed/202306140918/LC1/mono.m3u8 \"}]",
+    "logo": "https://drive.google.com/uc?id=1P1hi2xNP0F2RuCVmH2tARBswVOz52p43",
+    "nameen": "MOVIES WORLD 1 🟡",
+    "position": "42",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "MOVIES WORLD 2🟡",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MOVIES WORLD 2🟡\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdn6.goprimetime.info/feed/202306140918/LC53/mono.m3u8 \"}]",
+    "logo": "https://drive.google.com/uc?id=1P86htYTWvXSABVFDl8qTpJFV_fI02Fc4",
+    "nameen": "MOVIES WORLD 2🟡",
+    "position": "43",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "MOVIES WORLD 3 🟡",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MOVIES WORLD 3 🟡\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdn6.goprimetime.info/feed/202306140918/LC2/mono.m3u8 \"}]",
+    "logo": "https://drive.google.com/uc?id=1P8OivIgm__x_thA7GJ-T6TdV_8iXw66C",
+    "nameen": "MOVIES WORLD 3 🟡",
+    "position": "44",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "MOVIES WORLD 1 SUB THAI🟡",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MOVIES WORLD 1 SUB THAI🟡\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdn6.goprimetime.info/feed/202306140918/LC11/mono.m3u8 \"}]",
+    "logo": "https://drive.google.com/uc?id=1P1hi2xNP0F2RuCVmH2tARBswVOz52p43",
+    "nameen": "MOVIES WORLD 1 SUB THAI🟡",
+    "position": "45",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "7 FILX🟣",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"7 FILX🟣\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdn6.goprimetime.info/feed/202306140918/LC5/mono.m3u8 \"}]",
+    "logo": "https://drive.google.com/uc?id=1y9inFTNNEiETui_pn8cItzd7rwVWwCjs",
+    "nameen": "7 FILX🟣",
+    "position": "46",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "THAI NEWS🔴",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"THAI NEWS🔴\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live.thaitvstream.com/play/thaikaona/mono.m3u8 \"}]",
+    "logo": "https://drive.google.com/uc?id=1PwstkvsIv6MMeo8t-Y4Hdcb40lRz7zgd",
+    "nameen": "THAI NEWS🔴",
+    "position": "47",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "HBO Lao",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"HBO Lao\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://edge2.laotv.la/live/HBO/sc-gaFECQ/v1/mono.m3u8 \"}]",
+    "logo": "https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230721/video/8cb2c452-63a5-4805-b7a5-4aa4377aeafd.png",
+    "nameen": "HBO Lao",
+    "position": "48",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "HBO",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"HBO\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://2nud.short.gy/hbo.m3u8\"}]",
+    "logo": "https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230721/video/8cb2c452-63a5-4805-b7a5-4aa4377aeafd.png",
+    "nameen": "HBO",
+    "position": "49",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Cinemax Lao",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Cinemax Lao\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://edge1.laotv.la/live/Cinemax/sc-gaFECQ/v1/mono.m3u8 \"}]",
+    "logo": "https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230814/video/c65be7b1-289b-40a9-b83f-f9398298062d.png",
+    "nameen": "Cinemax Lao",
+    "position": "50",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Cinemax",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Cinemax\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://2nud.short.gy/cinemaxth.m3u8\"}]",
+    "logo": "https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230814/video/c65be7b1-289b-40a9-b83f-f9398298062d.png",
+    "nameen": "Cinemax",
+    "position": "51",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Star Movies Lao",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Star Movies Lao\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://edge1.laotv.la/live/StarMovie/sc-gaFECQ/v1/mono.m3u8 \"}]",
+    "logo": "https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230803/video/1aab931b-207d-4546-b2e1-42be2209eb3e.png",
+    "nameen": "Star Movies Lao",
+    "position": "52",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "True Film1 Lao",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"True Film1 Lao\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://edge1.laotv.la/live/TureFilm/sc-gaFECQ/v1/mono.m3u8 \"}]",
+    "logo": "https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230803/video/45da565c-cf6b-4502-be73-48412eb02267.png",
+    "nameen": "True Film1 Lao",
+    "position": "53",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Netflix Action2🟡",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Netflix Action2🟡\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.gogo-iptv.com:80/live/G1kWL3vyCh895Xj/INf69BTtiwv20G8/77325.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Netflix Action2🟡",
+    "position": "54",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "FR box-office canal+UHD 🟡",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"FR box-office canal+UHD 🟡\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.gogo-iptv.com:80/live/G1kWL3vyCh895Xj/INf69BTtiwv20G8/147531.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "FR box-office canal+UHD 🟡",
+    "position": "55",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Netflix Horror1 🟡",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Netflix Horror1 🟡\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.gogo-iptv.com:80/live/G1kWL3vyCh895Xj/INf69BTtiwv20G8/74191.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Netflix Horror1 🟡",
+    "position": "56",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Star Channel 4K",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Star Channel 4K\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://trenduhd.xyz:80/0454713149/6189330030/211939\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Star Channel 4K",
+    "position": "57",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Telecine Premium 4K",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Telecine Premium 4K\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://trenduhd.xyz:80/0454713149/6189330030/211943\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Telecine Premium 4K",
+    "position": "58",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Hollywood HD 1080P",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Hollywood HD 1080P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://newmoov.cloud:8080/play/pY9QGb0rBaQuhamv7xOOUzEbMXu3gtietupx4IzFTag\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Hollywood HD 1080P",
+    "position": "59",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Cinemax Action HD🟣",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Cinemax Action HD🟣\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://proiptvdigic.com:8080/live/fer43092/yGFE5wmQDwxn/220467.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Cinemax Action HD🟣",
+    "position": "60",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "5 Star Max FHD🟣",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"5 Star Max FHD🟣\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://proiptvdigic.com:8080/live/fer43092/yGFE5wmQDwxn/220481.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "5 Star Max FHD🟣",
+    "position": "61",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Paramount Network HD🟣",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Paramount Network HD🟣\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://proiptvdigic.com:8080/live/fer43092/yGFE5wmQDwxn/220493.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Paramount Network HD🟣",
+    "position": "62",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Hallmark Movies & More HD🟣",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Hallmark Movies \\u0026 More HD🟣\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://proiptvdigic.com:8080/live/fer43092/yGFE5wmQDwxn/220551.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Hallmark Movies & More HD🟣",
+    "position": "63",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Family Movies HD🟣",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Family Movies HD🟣\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://proiptvdigic.com:8080/live/fer43092/yGFE5wmQDwxn/220552.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Family Movies HD🟣",
+    "position": "64",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Sony Pix HD🟣",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sony Pix HD🟣\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://103.141.2.37:25461/web/web/561\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Sony Pix HD🟣",
+    "position": "65",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Star Plus🟣",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Star Plus🟣\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://103.141.2.37:25461/web/web/546\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Star Plus🟣",
+    "position": "66",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "like Gecko) Chrome/56.0.2924.87 Safari/537.36 #EXTVLCOPT:http-referrer=http://splaytv.club:80",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"like Gecko) Chrome/56.0.2924.87 Safari/537.36 #EXTVLCOPT:http-referrer\\u003dhttp://splaytv.club:80\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://splaytv.club:80/live/QDpPshVexC/NO03avcdOMa/147596.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "like Gecko) Chrome/56.0.2924.87 Safari/537.36 #EXTVLCOPT:http-referrer=http://splaytv.club:80",
+    "position": "67",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "like Gecko) Chrome/56.0.2924.87 Safari/537.36 #EXTVLCOPT:http-referrer=http://splaytv.club:80",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"like Gecko) Chrome/56.0.2924.87 Safari/537.36 #EXTVLCOPT:http-referrer\\u003dhttp://splaytv.club:80\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://splaytv.club:80/live/QDpPshVexC/NO03avcdOMa/147680.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "like Gecko) Chrome/56.0.2924.87 Safari/537.36 #EXTVLCOPT:http-referrer=http://splaytv.club:80",
+    "position": "68",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "like Gecko) Chrome/56.0.2924.87 Safari/537.36 #EXTVLCOPT:http-referrer=https://playtv.realmetx.repl.co/",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"like Gecko) Chrome/56.0.2924.87 Safari/537.36 #EXTVLCOPT:http-referrer\\u003dhttps://playtv.realmetx.repl.co/\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://playtv.realmetx.repl.co/channel/hboth.html Free TV\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "like Gecko) Chrome/56.0.2924.87 Safari/537.36 #EXTVLCOPT:http-referrer=https://playtv.realmetx.repl.co/",
+    "position": "69",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "MONO29",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MONO29\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_720P/mono29hls_720TH.stream/mono.m3u8\"}]",
+    "logo": "https://sv1.picz.in.th/images/2020/09/21/OO2QnW.png",
+    "nameen": "MONO29",
+    "position": "70",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "5 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"5 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdn6.goprimetime.info/feed/202306140918/ch5hd/mono.m3u8 \"}]",
+    "logo": "https://sv1.picz.in.th/images/2020/09/21/OOsEfI.png",
+    "nameen": "5 HD",
+    "position": "71",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Nation TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Nation TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdn6.goprimetime.info/feed/202306140918/chnation3/mono.m3u8 \"}]",
+    "logo": "https://i.imgur.com/RULAfjb.png",
+    "nameen": "Nation TV",
+    "position": "72",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "GMM 25",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"GMM 25\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdn6.goprimetime.info/feed/202306140918/chgmm3/mono.m3u8 \"}]",
+    "logo": "https://sv1.picz.in.th/images/2020/10/17/b7ZAxE.jpg",
+    "nameen": "GMM 25",
+    "position": "73",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "8 no 27",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"8 no 27\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/mono.m3u8 \"}]",
+    "logo": "https://sv1.picz.in.th/images/2020/10/02/O8obZR.jpg",
+    "nameen": "8 no 27",
+    "position": "74",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "MCOT 30 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MCOT 30 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0008/HLS/B0008-avc1_8000000\\u003d4-mp4a_96000_tha\\u003d6.m3u8\"}]",
+    "logo": "https://sv1.picz.in.th/images/2020/09/21/OOsHYg.png",
+    "nameen": "MCOT 30 HD",
+    "position": "75",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "ONE 31",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ONE 31\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0012/HLS/B0012-avc1_8000000\\u003d5-mp4a_96000_tha\\u003d2.m3u8\"}]",
+    "logo": "https://sv1.picz.in.th/images/2020/09/21/OO2SA0.png",
+    "nameen": "ONE 31",
+    "position": "76",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "ThairathTV 32 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ThairathTV 32 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0013/HLS/B0013-avc1_8000000\\u003d4-mp4a_96000_tha\\u003d6.m3u8\"}]",
+    "logo": "https://sv1.picz.in.th/images/2020/09/21/OO271R.png",
+    "nameen": "ThairathTV 32 HD",
+    "position": "77",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "ThairathTV 32 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ThairathTV 32 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://streaming-web.thairath.co.th/hls/playlist_hi.m3u8\"}]",
+    "logo": "https://sv1.picz.in.th/images/2020/09/21/OO271R.png",
+    "nameen": "ThairathTV 32 HD",
+    "position": "78",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "CH3 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CH3 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0003/HLS/B0003-avc1_8000000\\u003d4-mp4a_96000_tha\\u003d6.m3u8\"}]",
+    "logo": "https://i.imgur.com/lHbIKfF.png",
+    "nameen": "CH3 HD",
+    "position": "79",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "CH3 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CH3 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://61.19.242.134/feed/202306140918/ch3hd/mono.m3u8 \"}]",
+    "logo": "https://i.imgur.com/lHbIKfF.png",
+    "nameen": "CH3 HD",
+    "position": "80",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Amarin TV 34 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Amarin TV 34 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdn6.goprimetime.info/feed/202306140918/chamarin3/mono.m3u8 \"}]",
+    "logo": "https://sv1.picz.in.th/images/2020/09/21/OO2kRe.png",
+    "nameen": "Amarin TV 34 HD",
+    "position": "81",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "7 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"7 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-cdn-hwc.ch7.com/livech7hd/HD.m3u8\"}]",
+    "logo": "https://sv1.picz.in.th/images/2020/09/21/OOs6hQ.png",
+    "nameen": "7 HD",
+    "position": "82",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "PPTV 36 HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"PPTV 36 HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0022/HLS/B0022-avc1_8000000\\u003d5-mp4a_96000_tha\\u003d6.m3u8\"}]",
+    "logo": "https://sv1.picz.in.th/images/2020/09/21/OO2TWk.png",
+    "nameen": "PPTV 36 HD",
+    "position": "83",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "T Sports 7",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"T Sports 7\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdn6.goprimetime.info/feed/202306140918/chtsport3/mono.m3u8 \"}]",
+    "logo": "https://i.imgur.com/hnfiUbK.png",
+    "nameen": "T Sports 7",
+    "position": "84",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "NBT",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NBT\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0001/HLS/B0001-avc1_8000000\\u003d5-mp4a_96000_tha\\u003d2.m3u8\"}]",
+    "logo": "https://sv1.picz.in.th/images/2020/09/21/OOsVRW.png",
+    "nameen": "NBT",
+    "position": "85",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Thai PBS",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Thai PBS\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://thaipbs-live.cdn.byteark.com/live/playlist_720p/mono.m3u8 \"}]",
+    "logo": "https://sv1.picz.in.th/images/2020/09/21/OOsvwy.png",
+    "nameen": "Thai PBS",
+    "position": "86",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Workpoint TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Workpoint TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdn6.goprimetime.info/feed/202306140918/chworkpoint3/mono.m3u8 \"}]",
+    "logo": "https://sv1.picz.in.th/images/2020/09/21/OO2qW2.png",
+    "nameen": "Workpoint TV",
+    "position": "87",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "True 4 You",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"True 4 You\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdn6.goprimetime.info/feed/202306140918/chtrue4u3/mono.m3u8 \"}]",
+    "logo": "https://sv1.picz.in.th/images/2020/09/21/OO26PR.png",
+    "nameen": "True 4 You",
+    "position": "88",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "TNN 16",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TNN 16\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdn6.goprimetime.info/feed/202306140918/chtnn3/mono.m3u8 \"}]",
+    "logo": "https://sv1.picz.in.th/images/2020/09/21/OO283u.png",
+    "nameen": "TNN 16",
+    "position": "89",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "JKN 18",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"JKN 18\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdn6.goprimetime.info/feed/202306140918/newtv3/mono.m3u8 \"}]",
+    "logo": "https://sv1.picz.in.th/images/2023/02/03/LcwqOJ.png",
+    "nameen": "JKN 18",
+    "position": "90",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "NEW 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NEW 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://news1.live14.com/stream/news1_hi.m3u8\"}]",
+    "logo": "https://sv1.picz.in.th/images/2020/10/17/b7ZjOl.png",
+    "nameen": "NEW 1",
+    "position": "91",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "TOP NEWS",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TOP NEWS\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live.topnews.co.th/hls/topnews_a_720.m3u8\"}]",
+    "logo": "https://sv1.picz.in.th/images/2023/02/01/LwTPN2.png",
+    "nameen": "TOP NEWS",
+    "position": "92",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Voice TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Voice TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://player.twitch.tv/?channel\\u003dvoicetv\\u0026parent\\u003dwww.voicetv.co.th\\u0026parent\\u003dvoicetv.co.th\"}]",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj82cAUxzIK03pl8k6hjvl8XOCR42Mk29G3z1GxjzUBrjcWxor1qVdqWJPydhCJ4EKe4D0r1BC8qse9KbJKrx5-79nmej9xn2HJrk3c0KbIuWpjtMseaXkIH27qBJZTPEMzoG0CpqcOrK87-ReEsEN_vIlnWePKCRzj14yXR-PEqxIIF0oPAp09prxSQA/s1600/ช่องvoice.png",
+    "nameen": "Voice TV",
+    "position": "93",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "ALTV4",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ALTV4\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_720p/mono.m3u8 \"}]",
+    "logo": "https://sv1.picz.in.th/images/2023/02/03/LZoMxz.jpg",
+    "nameen": "ALTV4",
+    "position": "94",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "TPTV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TPTV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdn-live.tpchannel.org/v1/0180e10a4a7809df73070d7d8760/0180e10adac40b8ed59433d5f3ce/TV_1080p.m3u8 Sports\"}]",
+    "logo": "https://sv1.picz.in.th/images/2023/02/03/LZDsrz.jpg",
+    "nameen": "TPTV",
+    "position": "95",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "True Premier Football 1 Lao",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"True Premier Football 1 Lao\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://edge1.laotv.la/live/TSport1/sc-gaFECQ/v1/mono.m3u8 \"}]",
+    "logo": "https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg",
+    "nameen": "True Premier Football 1 Lao",
+    "position": "96",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "True Premier Football HD 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"True Premier Football HD 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://www.andaman888th.com/\"}]",
+    "logo": "https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg",
+    "nameen": "True Premier Football HD 1",
+    "position": "97",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "True Premier Football HD 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"True Premier Football HD 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://www.andaman888th.com/\"}]",
+    "logo": "https://www.andaman888th.com/wp-content/uploads/2019/08/tpf2.jpg",
+    "nameen": "True Premier Football HD 2",
+    "position": "98",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "True Premier Football HD 2 Lao",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"True Premier Football HD 2 Lao\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://edge1.laotv.la/live/TSport2/sc-gaFECQ/v1/mono.m3u8 \"}]",
+    "logo": "https://www.andaman888th.com/wp-content/uploads/2019/08/tpf2.jpg",
+    "nameen": "True Premier Football HD 2 Lao",
+    "position": "99",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Premier Football HD 5",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Premier Football HD 5\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://www.madoohd.com/\"}]",
+    "logo": "https://static.uflixtv.com/images/tv/channels_icons/epl-5.png",
+    "nameen": "Premier Football HD 5",
+    "position": "100",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "BEIN1 Lao",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BEIN1 Lao\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://edge1.laotv.la/live/Bsport1/sc-gaFECQ/v0/mono.m3u8 \"}]",
+    "logo": "https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230728/video/ee8f38cf-e221-4806-a10b-bbe726c587d6.jpeg",
+    "nameen": "BEIN1 Lao",
+    "position": "101",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Bein2 Lao",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Bein2 Lao\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://edge2.laotv.la/live/Bsport2/sc-gaFECQ/v0/mono.m3u8 \"}]",
+    "logo": "https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230721/video/846822c9-37b4-45e4-a43e-915854d408bd.jpeg",
+    "nameen": "Bein2 Lao",
+    "position": "102",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "True Sports1 Lao",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"True Sports1 Lao\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://edge2.laotv.la/\"}]",
+    "logo": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/truesport1.jpg",
+    "nameen": "True Sports1 Lao",
+    "position": "103",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "True Sports3 Lao",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"True Sports3 Lao\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://edge1.laotv.la/live/TrueSport3/sc-gaFECQ/v1/mono.m3u8 \"}]",
+    "logo": "https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230802/video/2bbe4d5f-5adc-449f-bd14-e2cee693e737.png",
+    "nameen": "True Sports3 Lao",
+    "position": "104",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "True Sports7 Lao",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"True Sports7 Lao\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://edge2.laotv.la/live/THD7/sc-gaFECQ/v1/mono.m3u8 \"}]",
+    "logo": "https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230805/video/669caf97-e511-4a24-b633-b8671d4a574d.png",
+    "nameen": "True Sports7 Lao",
+    "position": "105",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "CN CCTV5 LaoTV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CN CCTV5 LaoTV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://edge1.laotv.la/live/CCTV5+/sc-gaFECQ/v1_index.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "CN CCTV5 LaoTV",
+    "position": "106",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "CN CCTV Golf LaoTV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CN CCTV Golf LaoTV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://edge1.laotv.la/live/CCTVGolf/sc-gaFECQ/v1_index.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "CN CCTV Golf LaoTV",
+    "position": "107",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "CN CCTV billyard",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CN CCTV billyard\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://edge1.laotv.la/live/BosiGolf/sc-gaFECQ/v1_index.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "CN CCTV billyard",
+    "position": "108",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Abu Dhabi Sports 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Abu Dhabi Sports 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA\\u003d.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Abu Dhabi Sports 1",
+    "position": "109",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Abu Dhabi Sports 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Abu Dhabi Sports 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA\\u003d.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Abu Dhabi Sports 2",
+    "position": "110",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Dubai Sports 1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Dubai Sports 1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b9000000.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Dubai Sports 1",
+    "position": "111",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Dubai Sports 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Dubai Sports 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8\"}]",
+    "logo": "https://www.i-pic.info/i/3JRj359605.jpg",
+    "nameen": "Dubai Sports 2",
+    "position": "112",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "ONE GOLF",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"ONE GOLF\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://162.250.201.58:6211/pk/ONEGOLF/mono.m3u8 \"}]",
+    "logo": "https://www.1golf.com.au/images/onegolf.gif",
+    "nameen": "ONE GOLF",
+    "position": "113",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Sony Sports1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sony Sports1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8\"}]",
+    "logo": "https://sv1.picz.in.th/images/2023/02/19/LveInb.png",
+    "nameen": "Sony Sports1",
+    "position": "114",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Sony Sports2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sony Sports2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8\"}]",
+    "logo": "https://sv1.picz.in.th/images/2023/02/19/LvmY38.png",
+    "nameen": "Sony Sports2",
+    "position": "115",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Sony Sports3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sony Sports3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8\"}]",
+    "logo": "https://sv1.picz.in.th/images/2023/02/19/Lve4RS.png",
+    "nameen": "Sony Sports3",
+    "position": "116",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Sony Sports4",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sony Sports4\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8\"}]",
+    "logo": "https://sv1.picz.in.th/images/2023/02/19/Lvec6f.png",
+    "nameen": "Sony Sports4",
+    "position": "117",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Sony Sports5",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sony Sports5\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8\"}]",
+    "logo": "https://sv1.picz.in.th/images/2023/02/19/Lvel6P.png",
+    "nameen": "Sony Sports5",
+    "position": "118",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "BEIN1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BEIN1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://www.andaman888th.com/\"}]",
+    "logo": "https://www.andaman888th.com/wp-content/uploads/2019/04/chbtsport3.jpg",
+    "nameen": "BEIN1",
+    "position": "119",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "BEIN2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BEIN2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://www.andaman888th.com/\"}]",
+    "logo": "https://www.andaman888th.com/wp-content/uploads/2019/04/chbtsport3.jpg",
+    "nameen": "BEIN2",
+    "position": "120",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "BEIN HD 3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BEIN HD 3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://www.doomovie-hd.com/\"}]",
+    "logo": "http://glivehomecdn.s3.byteark.com/TV/CH-099.png",
+    "nameen": "BEIN HD 3",
+    "position": "121",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "BEIN3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BEIN3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://www.andaman888th.com/\"}]",
+    "logo": "https://www.andaman888th.com/wp-content/uploads/2019/04/chbtsport3.jpg",
+    "nameen": "BEIN3",
+    "position": "122",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "BEIN Sports3HD 1080i",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BEIN Sports3HD 1080i\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.gogo-iptv.com:80/live/G1kWL3vyCh895Xj/INf69BTtiwv20G8/74118.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "BEIN Sports3HD 1080i",
+    "position": "123",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "BEIN Sports4HD 1080i",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BEIN Sports4HD 1080i\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.gogo-iptv.com:80/live/G1kWL3vyCh895Xj/INf69BTtiwv20G8/74139.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "BEIN Sports4HD 1080i",
+    "position": "124",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "BEIN Sports5HD 1080i",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BEIN Sports5HD 1080i\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.gogo-iptv.com:80/live/G1kWL3vyCh895Xj/INf69BTtiwv20G8/74145.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "BEIN Sports5HD 1080i",
+    "position": "125",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Spotv1",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Spotv1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://www.andaman888th.com/\"}]",
+    "logo": "https://static.uflixtv.com/images/tv/channels_icons/hd-spotv.png",
+    "nameen": "Spotv1",
+    "position": "126",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "SPOTV 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SPOTV 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://www.doomovie-hd.com/\"}]",
+    "logo": "https://www.img09.xyz/assets/img/ch_logo/hd-spotv2.png",
+    "nameen": "SPOTV 2",
+    "position": "127",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Spotv2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Spotv2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://www.andaman888th.com/\"}]",
+    "logo": "https://static.uflixtv.com/images/tv/png/hd-spotv2.png",
+    "nameen": "Spotv2",
+    "position": "128",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "True Sport HD1 Lao",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"True Sport HD1 Lao\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://edge1.laotv.la/live/TrueSport6/sc-gaFECQ/v0/mono.m3u8 \"}]",
+    "logo": "https://www.andaman888th.com/wp-content/uploads/2019/01/truehd.jpg",
+    "nameen": "True Sport HD1 Lao",
+    "position": "129",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "True Sport HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"True Sport HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://www.andaman888th.com/\"}]",
+    "logo": "https://www.andaman888th.com/wp-content/uploads/2019/01/truehd.jpg",
+    "nameen": "True Sport HD",
+    "position": "130",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "True Sport HD2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"True Sport HD2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://www.andaman888th.com/\"}]",
+    "logo": "https://www.andaman888th.com/wp-content/uploads/2019/01/truehd2.jpg",
+    "nameen": "True Sport HD2",
+    "position": "131",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "True Sport HD3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"True Sport HD3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://www.andaman888th.com/\"}]",
+    "logo": "https://www.andaman888th.com/wp-content/uploads/2019/01/truehd3.jpg",
+    "nameen": "True Sport HD3",
+    "position": "132",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "True Sport HD3",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"True Sport HD3\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://www.madoohd.com/\"}]",
+    "logo": "https://rentapi.blackboxsys.net/images/png/hd-tsport3.png",
+    "nameen": "True Sport HD3",
+    "position": "133",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "WWE Lao",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"WWE Lao\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://edge2.laotv.la/live/WWE/sc-gaFECQ/v1/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "WWE Lao",
+    "position": "134",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "On Sports News Vetnam",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"On Sports News Vetnam\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://b4tv.live/b4tv/b4tv/3.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "On Sports News Vetnam",
+    "position": "135",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "K+Sport1 Vietnam",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"K+Sport1 Vietnam\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://b4tv.live/b4tv/b4tv/1.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "K+Sport1 Vietnam",
+    "position": "136",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "On Football HD Vietnam",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"On Football HD Vietnam\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://e7.endpoint.cdn.sctvonline.vn/.../chunklist.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "On Football HD Vietnam",
+    "position": "137",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "SCTV17 Vietnam",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SCTV17 Vietnam\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://e7.endpoint.cdn.sctvonline.vn/.../chunklist.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "SCTV17 Vietnam",
+    "position": "138",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "BTV5 HD Vietnam",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BTV5 HD Vietnam\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://liveh34.vtvcab.vn/hls/ACTION/01.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "BTV5 HD Vietnam",
+    "position": "139",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Bein Sports Extra",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Bein Sports Extra\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist_1024x576.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Bein Sports Extra",
+    "position": "140",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "UK Tennis Channel",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"UK Tennis Channel\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "UK Tennis Channel",
+    "position": "141",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Jio1 Moto GP",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Jio1 Moto GP\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/JV_SportsHD1_DIG_MOB-audio_98835_eng\\u003d98800-video\\u003d3110800.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Jio1 Moto GP",
+    "position": "142",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Sky sports premier league",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sky sports premier league\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.gogo-iptv.com:80/live/G1kWL3vyCh895Xj/INf69BTtiwv20G8/127152.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Sky sports premier league",
+    "position": "143",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Sky sports premier league #EXTVLCOPT:http-referrer=http://live.gogo-iptv.com:80",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sky sports premier league #EXTVLCOPT:http-referrer\\u003dhttp://live.gogo-iptv.com:80\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.gogo-iptv.com:80/live/G1kWL3vyCh895Xj/INf69BTtiwv20G8/127172.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Sky sports premier league #EXTVLCOPT:http-referrer=http://live.gogo-iptv.com:80",
+    "position": "144",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "FR Canal+Football UHD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"FR Canal+Football UHD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.gogo-iptv.com:80/live/G1kWL3vyCh895Xj/INf69BTtiwv20G8/147527.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "FR Canal+Football UHD",
+    "position": "145",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Sky Sports Arena 1080P",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sky Sports Arena 1080P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.gogo-iptv.com:80/live/G1kWL3vyCh895Xj/INf69BTtiwv20G8/127176.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Sky Sports Arena 1080P",
+    "position": "146",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "S Action",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"S Action\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.gogo-iptv.com:80/live/G1kWL3vyCh895Xj/INf69BTtiwv20G8/128167.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "S Action",
+    "position": "147",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "SportV 4K",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SportV 4K\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://trenduhd.xyz:80/0454713149/6189330030/211941\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "SportV 4K",
+    "position": "148",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Vamos HD 1080P",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Vamos HD 1080P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://newmoov.cloud:8080/play/pY9QGb0rBaQuhamv7xOOU0Ug4lzsbwPN5HDRIfCPYxY\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Vamos HD 1080P",
+    "position": "149",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Eurosport 1 HD 1080P",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Eurosport 1 HD 1080P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://newmoov.cloud:8080/play/pY9QGb0rBaQuhamv7xOOU8GWEpl_pfGadgxljwJtOXs\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Eurosport 1 HD 1080P",
+    "position": "150",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Eurosport 2 HD 1080P",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Eurosport 2 HD 1080P\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://newmoov.cloud:8080/play/pY9QGb0rBaQuhamv7xOOU9oNmRY767DBrjlU31YRgjo Music\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Eurosport 2 HD 1080P",
+    "position": "151",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Melody",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Melody\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.182.83.91:80/live/protoniom1201/wMLkbzV8dXCC/14108.ts Cartoon\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Melody",
+    "position": "152",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Dreamwork",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Dreamwork\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://newmoov.cloud:8080/play/pY9QGb0rBaQuhamv7xOOU6lROkXNgGo8nH5hZrXIkgg\"}]",
+    "logo": "https://www.lyngsat-logo.com/logo/tv/dd/dreamworks-tv-us.svg",
+    "nameen": "Dreamwork",
+    "position": "153",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "TRT COCUK",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"TRT COCUK\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://tv-trtcocuk.live.trt.com.tr/master.m3u8\"}]",
+    "logo": "http://intelsat.api.easybroadcast.fr/static/contents/62_poster_image_1607675452662.png",
+    "nameen": "TRT COCUK",
+    "position": "154",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "SPACE TOON",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SPACE TOON\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/mono.m3u8 \"}]",
+    "logo": "https://i.imgur.com/RzPOwqI.png",
+    "nameen": "SPACE TOON",
+    "position": "155",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Boomerang HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Boomerang HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.gogo-iptv.com:80/live/G1kWL3vyCh895Xj/INf69BTtiwv20G8/127718.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Boomerang HD",
+    "position": "156",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Boomerang Lao",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Boomerang Lao\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://edge2.laotv.la/live/Boomerang/sc-gaFECQ/v0/mono.m3u8 \"}]",
+    "logo": "https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/77b67018-1075-4313-a5fa-14b4217320e7.png",
+    "nameen": "Boomerang Lao",
+    "position": "157",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Cartoon Club Lao",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Cartoon Club Lao\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://edge1.laotv.la/live/CartoonClub/sc-gaFECQ/v0/mono.m3u8 \"}]",
+    "logo": "https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230614/video/22653594-dd71-44c6-8869-db2089772387.jpg",
+    "nameen": "Cartoon Club Lao",
+    "position": "158",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Toonee",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Toonee\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://edge1.laotv.la/live/Toon/sc-gaFECQ/v0/mono.m3u8 \"}]",
+    "logo": "https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230618/video/c6787972-7a29-410d-a5ef-8735b1299ac9.png",
+    "nameen": "Toonee",
+    "position": "159",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Netflix Cartoon",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Netflix Cartoon\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.gogo-iptv.com:80/live/G1kWL3vyCh895Xj/INf69BTtiwv20G8/77326.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Netflix Cartoon",
+    "position": "160",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "lobocarpolytv",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"lobocarpolytv\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://livestream.zazerconer.workers.dev/channel/UCvKicVPiOrIuZdEYmxuRQug.m3u8\"}]",
+    "logo": "https://yt3.googleusercontent.com/TOkxCT1QhafoQ_RATpWfxdiAF6zgyya8tHAE3uy1eLvxlOTdbyIiPMS0EL_VJ6GnrFIkbwuylg=s900-c-k-c0x00ffffff-no-rj",
+    "nameen": "lobocarpolytv",
+    "position": "161",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "BabyBus",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BabyBus\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://livestream.zazerconer.workers.dev/channel/UCKpFt-Nh3A2Sg--mLmCebZQ.m3u8\"}]",
+    "logo": "https://i.ytimg.com/vi/Zn1yvsGD-TU/maxresdefault.jpg",
+    "nameen": "BabyBus",
+    "position": "162",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "My Little Pony",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"My Little Pony\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://livestream.zazerconer.workers.dev/channel/UCOT9qiUmk4mk-B_hN__toTw.m3u8\"}]",
+    "logo": "https://yt3.ggpht.com/P9Njluo4AsKyXYaxltiYxF4LrURIIOBZwdn9JlSEd4yiSrscBe3SpRittk5Gif8JbFst4zNWZA=s88-c-k-c0x00ffffff-no-rj",
+    "nameen": "My Little Pony",
+    "position": "163",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "BabyBus - Kids Songs and Cartoons",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BabyBus - Kids Songs and Cartoons\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://livestream.zazerconer.workers.dev/channel/UCpYye8D5fFMUPf9nSfgd4bA.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNbxe5sIiySX5-PgYL5nGo334cNGlHE8D4EQ&usqp=CAU",
+    "nameen": "BabyBus - Kids Songs and Cartoons",
+    "position": "164",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Nicktoons",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Nicktoons\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.gogo-iptv.com:80/live/G1kWL3vyCh895Xj/INf69BTtiwv20G8/127738.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Nicktoons",
+    "position": "165",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "CN 4K",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CN 4K\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://trenduhd.xyz:80/0454713149/6189330030/211926\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "CN 4K",
+    "position": "166",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "NickJr FHD🟡",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NickJr FHD🟡\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://proiptvdigic.com:8080/live/fer43092/yGFE5wmQDwxn/220555.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "NickJr FHD🟡",
+    "position": "167",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "BabyTV HD🟡",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BabyTV HD🟡\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://proiptvdigic.com:8080/live/fer43092/yGFE5wmQDwxn/220562.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "BabyTV HD🟡",
+    "position": "168",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Boomerang HD🟡",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Boomerang HD🟡\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://proiptvdigic.com:8080/live/fer43092/yGFE5wmQDwxn/220563.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Boomerang HD🟡",
+    "position": "169",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Cartoon Network HD🟡",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Cartoon Network HD🟡\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://proiptvdigic.com:8080/live/fer43092/yGFE5wmQDwxn/220564.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Cartoon Network HD🟡",
+    "position": "170",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Disney Channel HD🟡",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Disney Channel HD🟡\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://proiptvdigic.com:8080/live/fer43092/yGFE5wmQDwxn/220565.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Disney Channel HD🟡",
+    "position": "171",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "PBS Kids🟡",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"PBS Kids🟡\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "PBS Kids🟡",
+    "position": "172",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "like Gecko) Chrome/56.0.2924.87 Safari/537.36 #EXTVLCOPT:http-referrer=http://splaytv.club:80",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"like Gecko) Chrome/56.0.2924.87 Safari/537.36 #EXTVLCOPT:http-referrer\\u003dhttp://splaytv.club:80\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://splaytv.club:80/live/QDpPshVexC/NO03avcdOMa/147458.m3u8 News\"}]",
+    "logo": "https://i.imgur.com/UhPlBfK.png",
+    "nameen": "like Gecko) Chrome/56.0.2924.87 Safari/537.36 #EXTVLCOPT:http-referrer=http://splaytv.club:80",
+    "position": "173",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Al Jazeera Mubasher HD",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Jazeera Mubasher HD\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://live.gogo-iptv.com:80/live/G1kWL3vyCh895Xj/INf69BTtiwv20G8/142590.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Jazeera Mubasher HD",
+    "position": "174",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Al Jazeera English (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Jazeera English (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-hls-v3-aje.getaj.net/AJE-V3/mono.m3u8 \"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Jazeera English (1080p)",
+    "position": "175",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "CNN",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"CNN\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://119.59.125.18:8081/live/cnn/mono.m3u8\"}]",
+    "logo": "http://i.picasion.com/resize90/71c8e173bd1af2df31eaae8a0b7e73c2.png",
+    "nameen": "CNN",
+    "position": "176",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "BBC world",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BBC world\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://119.59.125.18:8081/live/bbc/mono.m3u8\"}]",
+    "logo": "https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg",
+    "nameen": "BBC world",
+    "position": "177",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "FOX News",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"FOX News\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://fox-foxnewsnow-samsungus.amagi.tv/mono.m3u8\"}]",
+    "logo": "https://www.i-pic.info/i/30z7329119.png",
+    "nameen": "FOX News",
+    "position": "178",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "NHK World Japan",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NHK World Japan\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?checkedby:iptvcat.com\"}]",
+    "logo": "http://m3u.at/data_file/tvlogo2/nhk.png",
+    "nameen": "NHK World Japan",
+    "position": "179",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "BLOOMBERG",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"BLOOMBERG\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://www.bloomberg.com/media-manifest/streams/asia.m3u8 Radio (Inter)\"}]",
+    "logo": "https://www.lyngsat-logo.com/logo/tv/bb/blommberg-tv-us.png",
+    "nameen": "BLOOMBERG",
+    "position": "180",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Brava FM",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Brava FM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://onlineradiobox.com/json/id/brava/play\"}]",
+    "logo": "http://choos.wap.sh/images/radio/7054.jpg",
+    "nameen": "Brava FM",
+    "position": "181",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Cosmopolitan FM",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Cosmopolitan FM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://n02.radiojar.com/u7d8heq3bnzuv\"}]",
+    "logo": "http://choos.wap.sh/images/radio/7056.jpg",
+    "nameen": "Cosmopolitan FM",
+    "position": "182",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Delta FM",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Delta FM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://onlineradiobox.com/json/id/deltafm/play\"}]",
+    "logo": "http://choos.wap.sh/images/radio/7092.jpg",
+    "nameen": "Delta FM",
+    "position": "183",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Elgangga FM",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Elgangga FM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://onlineradiobox.com/json/id/sushi/play\"}]",
+    "logo": "http://choos.wap.sh/images/radio/7169.jpg",
+    "nameen": "Elgangga FM",
+    "position": "184",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Elshinta FM",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Elshinta FM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://onlineradiobox.com/json/id/elshinta/play\"}]",
+    "logo": "http://choos.wap.sh/images/radio/7166.jpg",
+    "nameen": "Elshinta FM",
+    "position": "185",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Hard Rock FM",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Hard Rock FM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://onlineradiobox.com/json/id/hardrockjakarta/play\"}]",
+    "logo": "http://choos.wap.sh/images/radio/7053.jpg",
+    "nameen": "Hard Rock FM",
+    "position": "187",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "KIS ROCK",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"KIS ROCK\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://onlineradiobox.com/json/id/kisrock/play\"}]",
+    "logo": "https://cdn.onlineradiobox.com/img/l/0/106040.v5.png",
+    "nameen": "KIS ROCK",
+    "position": "188",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Prambors",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Prambors\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://onlineradiobox.com/json/id/prambors/play\"}]",
+    "logo": "http://choos.wap.sh/images/radio/7004.jpg",
+    "nameen": "Prambors",
+    "position": "189",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "SLOW FM",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"SLOW FM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://onlineradiobox.com/json/id/slow/play\"}]",
+    "logo": "https://cdn.onlineradiobox.com/img/l/6/91316.v14.png",
+    "nameen": "SLOW FM",
+    "position": "190",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Sushi Radio",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sushi Radio\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://onlineradiobox.com/json/id/sushi/play\"}]",
+    "logo": "http://choos.wap.sh/images/radio/7218.jpg",
+    "nameen": "Sushi Radio",
+    "position": "191",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Trax FM",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Trax FM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://onlineradiobox.com/json/id/trax/play\"}]",
+    "logo": "http://choos.wap.sh/images/radio/7055.jpg",
+    "nameen": "Trax FM",
+    "position": "192",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Rock",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rock\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://icecast.radiofrance.fr/fiprock-hifi.aac?id\\u003dradiofrance\"}]",
+    "logo": "https://m.media-amazon.com/images/I/41itfQjqQNL.png",
+    "nameen": "Rock",
+    "position": "193",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Jazz",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Jazz\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://icecast.radiofrance.fr/fipjazz-hifi.aac?id\\u003dradiofrance\"}]",
+    "logo": "https://m.media-amazon.com/images/I/41itfQjqQNL.png",
+    "nameen": "Jazz",
+    "position": "194",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Groove",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Groove\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://icecast.radiofrance.fr/fipgroove-hifi.aac?id\\u003dradiofrance\"}]",
+    "logo": "https://m.media-amazon.com/images/I/41itfQjqQNL.png",
+    "nameen": "Groove",
+    "position": "195",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Pop",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Pop\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://icecast.radiofrance.fr/fippop-hifi.aac?id\\u003dradiofrance\"}]",
+    "logo": "https://m.media-amazon.com/images/I/41itfQjqQNL.png",
+    "nameen": "Pop",
+    "position": "196",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Electro",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Electro\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://icecast.radiofrance.fr/fipelectro-hifi.aac?id\\u003dradiofrance\"}]",
+    "logo": "https://m.media-amazon.com/images/I/41itfQjqQNL.png",
+    "nameen": "Electro",
+    "position": "197",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "World",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"World\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://icecast.radiofrance.fr/fipworld-hifi.aac?id\\u003dradiofrance\"}]",
+    "logo": "https://m.media-amazon.com/images/I/41itfQjqQNL.png",
+    "nameen": "World",
+    "position": "198",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Reggae",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Reggae\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://icecast.radiofrance.fr/fipreggae-hifi.aac?id\\u003dradiofrance\"}]",
+    "logo": "https://m.media-amazon.com/images/I/41itfQjqQNL.png",
+    "nameen": "Reggae",
+    "position": "199",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "OpÃƒÂ©ra",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"OpÃƒÂ©ra\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://icecast.radiofrance.fr/francemusiqueopera-hifi.aac?id\\u003dradiofrance\"}]",
+    "logo": "https://m.media-amazon.com/images/I/41itfQjqQNL.png",
+    "nameen": "OpÃƒÂ©ra",
+    "position": "200",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Baroque",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Baroque\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://icecast.radiofrance.fr/francemusiquebaroque-hifi.aac?id\\u003dradiofrance\"}]",
+    "logo": "https://m.media-amazon.com/images/I/41itfQjqQNL.png",
+    "nameen": "Baroque",
+    "position": "201",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Classique Plus",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Classique Plus\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://icecast.radiofrance.fr/francemusiqueclassiqueplus-hifi.aac?id\\u003dradiofrance\"}]",
+    "logo": "https://m.media-amazon.com/images/I/41itfQjqQNL.png",
+    "nameen": "Classique Plus",
+    "position": "202",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Concerts Radio",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Concerts Radio\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://icecast.radiofrance.fr/francemusiqueconcertsradiofrance-hifi.aac?id\\u003dradiofrance\"}]",
+    "logo": "https://m.media-amazon.com/images/I/41itfQjqQNL.png",
+    "nameen": "Concerts Radio",
+    "position": "203",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Musique La Jazz",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Musique La Jazz\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://icecast.radiofrance.fr/francemusiquelajazz-hifi.aac?id\\u003dradiofrance\"}]",
+    "logo": "https://m.media-amazon.com/images/I/41itfQjqQNL.png",
+    "nameen": "Musique La Jazz",
+    "position": "204",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "La Contemporaine",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"La Contemporaine\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://icecast.radiofrance.fr/francemusiquelacontemporaine-hifi.aac?id\\u003dradiofrance\"}]",
+    "logo": "https://m.media-amazon.com/images/I/41itfQjqQNL.png",
+    "nameen": "La Contemporaine",
+    "position": "205",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Ocora Monde",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Ocora Monde\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://icecast.radiofrance.fr/francemusiqueocoramonde-hifi.aac?id\\u003dradiofrance\"}]",
+    "logo": "https://m.media-amazon.com/images/I/41itfQjqQNL.png",
+    "nameen": "Ocora Monde",
+    "position": "206",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "Musique Labo",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Musique Labo\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://icecast.radiofrance.fr/francemusiquelabo-hifi.aac?id\\u003dradiofrance\"}]",
+    "logo": "https://m.media-amazon.com/images/I/41itfQjqQNL.png",
+    "nameen": "Musique Labo",
+    "position": "207",
+    "type": "channel",
+    "key": "tv_live"
+  },
+  {
+    "namear": "France Musique",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"France Musique\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://icecast.radiofrance.fr/francemusique-hifi.aac?id\\u003dradiofrance Radio (Thai) MarkupCopy Paste Hosted With By FREENOTE Paste Hosted With By FREENOTE\"}]",
+    "logo": "https://m.media-amazon.com/images/I/41itfQjqQNL.png",
+    "nameen": "France Musique",
+    "position": "208",
+    "type": "channel",
+    "key": "tv_live"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "namear": "Cast x Sports 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://mejar-Server.site/|user-agent|Mejarx|origin|https://mejar-Server.site/\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://mejar-Server.site/\",\"isWeb\":\"false\",\"name\":\"Cast X Sports 1 | 1080p50\",\"Referer\":\"https://mejar-Server.site/\",\"userAgent\":\"Mejarx\",\"position\":\"1\",\"url\":\"https://cast-x.site/token-hls.php?stream\\u003dcastx-tv-1-hd\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi Cast X Sports 1 | 1080p50\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/eAIXejYLfTP_bGLq5-HKmV89uPbC0GfV4u1Cww3d56zcgOWs91LSXtTO6wkLowR9Yi7Giwla4JpCFxLIPBGFuA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type\\u003dlive\"}]",
+    "logo": "https://i.ibb.co/twXp5Xmq/Chat-GPT-Image-Nov-16-2025-06-47-40-PM.png",
+    "nameen": "Cast x Sports 1",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvcast_x_tv_sports"
+  },
+  {
+    "namear": "Cast x Sports 3",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://mejar-Server.site/|user-agent|Mejarx|origin|https://mejar-Server.site/\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://mejar-Server.site/\",\"isWeb\":\"false\",\"name\":\"Cast X Sports 3 | 1080p50\",\"Referer\":\"https://mejar-Server.site/\",\"userAgent\":\"Mejarx\",\"position\":\"0\",\"url\":\"https://cast-x.site/token-hls.php?stream\\u003dcastx-tv-3-hd\"}]",
+    "logo": "https://i.ibb.co/xKqfq8fq/Chat-GPT-Image-Nov-16-2025-06-49-35-PM.png",
+    "nameen": "Cast x Sports 3",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvcast_x_tv_sports"
+  },
+  {
+    "namear": "Cast x Sports 4",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://mejar-Server.site/|user-agent|Mejarx|origin|https://mejar-Server.site/\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://mejar-Server.site/\",\"isWeb\":\"false\",\"name\":\"Cast X Sports 4 | 1080p50\",\"Referer\":\"https://mejar-Server.site/\",\"userAgent\":\"Mejarx\",\"position\":\"0\",\"url\":\"https://cast-x.site/token-hls.php?stream\\u003dcastx-tv-4-hd\"}]",
+    "logo": "https://i.ibb.co/0y3zMncJ/Chat-GPT-Image-Nov-16-2025-06-50-16-PM.png",
+    "nameen": "Cast x Sports 4",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvcast_x_tv_sports"
+  },
+  {
+    "namear": "Cast x Sports 2",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://mejar-Server.site/|user-agent|Mejarx|origin|https://mejar-Server.site/\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://mejar-Server.site/\",\"isWeb\":\"false\",\"name\":\"Cast X Sports 2 | 1080p50\",\"Referer\":\"https://mejar-Server.site/\",\"userAgent\":\"Mejarx\",\"position\":\"0\",\"url\":\"https://cast-x.site/token-hls.php?stream\\u003dcastx-tv-2-hd\"}]",
+    "logo": "https://i.ibb.co/q3qBnLTB/Chat-GPT-Image-Nov-16-2025-06-47-44-PM.png",
+    "nameen": "Cast x Sports 2",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvcast_x_tv_sports"
+  },
+  {
+    "namear": "Cast x Sports 5",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://mejar-Server.site/|user-agent|Mejarx|origin|https://mejar-Server.site/\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://mejar-Server.site/\",\"isWeb\":\"false\",\"name\":\"Cast X Sports 5 | 1080p50\",\"Referer\":\"https://mejar-Server.site/\",\"userAgent\":\"Mejarx\",\"position\":\"0\",\"url\":\"https://cast-x.site/token-hls.php?stream\\u003dcastx-tv-5-hd\"}]",
+    "logo": "https://i.ibb.co/k6JjRB6p/Chat-GPT-Image-Nov-16-2025-06-50-57-PM.png",
+    "nameen": "Cast x Sports 5",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvcast_x_tv_sports"
+  }
+]

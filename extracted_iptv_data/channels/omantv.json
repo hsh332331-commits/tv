@@ -1,0 +1,65 @@
+[
+  {
+    "namear": "Al Istiqama TV (576p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Istiqama TV (576p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Al Istiqama TV (576p)",
+    "position": "1",
+    "type": "channel",
+    "key": "omantv"
+  },
+  {
+    "namear": "[OMAN] OMAN TV Culture SD",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"[OMAN] OMAN TV Culture SD\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2379\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "[OMAN] OMAN TV Culture SD",
+    "position": "1",
+    "type": "channel",
+    "key": "omantv"
+  },
+  {
+    "namear": "Oman Sports TV (1080p) [Not 24/7]",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Oman Sports TV (1080p) [Not 24/7]\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Oman Sports TV (1080p) [Not 24/7]",
+    "position": "2",
+    "type": "channel",
+    "key": "omantv"
+  },
+  {
+    "namear": "|Oman| Oman TV live",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|Oman| Oman TV live\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2378\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|Oman| Oman TV live",
+    "position": "2",
+    "type": "channel",
+    "key": "omantv"
+  },
+  {
+    "namear": "Oman TV (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Oman TV (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Oman TV (1080p)",
+    "position": "3",
+    "type": "channel",
+    "key": "omantv"
+  },
+  {
+    "namear": "|Oman| Oman tv",
+    "servers": "[{\"headers\":\"user-agent;REDLINECLIENT;\",\"otherHeaders\":\"\",\"name\":\"|Oman| Oman tv\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://dreamsat.h2t.cx:8080/Snappy_SD/p2h8yFB1/2377\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "|Oman| Oman tv",
+    "position": "3",
+    "type": "channel",
+    "key": "omantv"
+  },
+  {
+    "namear": "Oman Althakafia (1080p)",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Oman Althakafia (1080p)\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/mono.m3u8\"}]",
+    "logo": "https://www.footballfeeling.com/wp-content/uploads/2022/12/Pronostic-1X2-Football-Feeling-2.png",
+    "nameen": "Oman Althakafia (1080p)",
+    "position": "4",
+    "type": "channel",
+    "key": "omantv"
+  }
+]

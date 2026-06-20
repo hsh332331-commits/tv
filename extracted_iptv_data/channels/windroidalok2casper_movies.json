@@ -1,0 +1,74 @@
+[
+  {
+    "namear": "Casper Action 1",
+    "servers": "[{\"headers\":\"user-agent|qaaa|referer|esss|\",\"otherHeaders\":\"\",\"name\":\"Casper Action 1\",\"Referer\":\"esss\",\"userAgent\":\"qaaa\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/486.ts\"}]",
+    "logo": "https://logos.flamingtext.com/Name-Logos/Casper-design-amped-name.png",
+    "nameen": "Casper Action 1",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidalok2casper_movies"
+  },
+  {
+    "namear": "Casper Action 2",
+    "servers": "[{\"headers\":\"user-agent|qaaa|referer|esss|\",\"otherHeaders\":\"\",\"name\":\"Casper Action 2\",\"Referer\":\"esss\",\"userAgent\":\"qaaa\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/487.ts\"}]",
+    "logo": "https://logos.flamingtext.com/Name-Logos/Casper-design-amped-name.png",
+    "nameen": "Casper Action 2",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidalok2casper_movies"
+  },
+  {
+    "namear": "Casper Anime",
+    "servers": "[{\"headers\":\"user-agent|qaaa|referer|esss|\",\"otherHeaders\":\"\",\"name\":\"Casper Anime\",\"Referer\":\"esss\",\"userAgent\":\"qaaa\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/488.ts\"}]",
+    "logo": "https://logos.flamingtext.com/Name-Logos/Casper-design-amped-name.png",
+    "nameen": "Casper Anime",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidalok2casper_movies"
+  },
+  {
+    "namear": "Casper Arabic",
+    "servers": "[{\"headers\":\"user-agent|qaaa|referer|esss|\",\"otherHeaders\":\"\",\"name\":\"Casper Arabic\",\"Referer\":\"esss\",\"userAgent\":\"qaaa\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/489.ts\"}]",
+    "logo": "https://logos.flamingtext.com/Name-Logos/Casper-design-amped-name.png",
+    "nameen": "Casper Arabic",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidalok2casper_movies"
+  },
+  {
+    "namear": "Casper Documentary",
+    "servers": "[{\"headers\":\"user-agent|qaaa|referer|esss|\",\"otherHeaders\":\"\",\"name\":\"Casper Documentary\",\"Referer\":\"esss\",\"userAgent\":\"qaaa\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/490.ts\"}]",
+    "logo": "https://logos.flamingtext.com/Name-Logos/Casper-design-amped-name.png",
+    "nameen": "Casper Documentary",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidalok2casper_movies"
+  },
+  {
+    "namear": "Casper Drama",
+    "servers": "[{\"headers\":\"user-agent|qaaa|referer|esss|\",\"otherHeaders\":\"\",\"name\":\"Casper Drama\",\"Referer\":\"esss\",\"userAgent\":\"qaaa\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/491.ts\"}]",
+    "logo": "https://logos.flamingtext.com/Name-Logos/Casper-design-amped-name.png",
+    "nameen": "Casper Drama",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidalok2casper_movies"
+  },
+  {
+    "namear": "Casper Turkey",
+    "servers": "[{\"headers\":\"user-agent|qaaa|referer|esss|\",\"otherHeaders\":\"\",\"name\":\"Casper Turkey\",\"Referer\":\"esss\",\"userAgent\":\"qaaa\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/492.ts\"}]",
+    "logo": "https://logos.flamingtext.com/Name-Logos/Casper-design-amped-name.png",
+    "nameen": "Casper Turkey",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidalok2casper_movies"
+  },
+  {
+    "namear": "Casper Horror",
+    "servers": "[{\"headers\":\"user-agent|qaaa|referer|esss|\",\"otherHeaders\":\"\",\"name\":\"Casper Horror\",\"Referer\":\"esss\",\"userAgent\":\"qaaa\",\"position\":\"0\",\"url\":\"https://tv.011011.one:443/live/alokabeintv/alokabeintv/493.ts\"}]",
+    "logo": "https://logos.flamingtext.com/Name-Logos/Casper-design-amped-name.png",
+    "nameen": "Casper Horror",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidalok2casper_movies"
+  }
+]

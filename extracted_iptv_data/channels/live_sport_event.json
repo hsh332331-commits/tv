@@ -1,0 +1,272 @@
+[
+  {
+    "namear": "Tv 1",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium1/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevhuifr3iPbqyuHHC3CrzSvoMft_7R4Ta9A&usqp=CAU",
+    "nameen": "Tv 1",
+    "position": "0",
+    "type": "channel",
+    "key": "live_sport_event"
+  },
+  {
+    "namear": "Tv 2",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium2/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevhuifr3iPbqyuHHC3CrzSvoMft_7R4Ta9A&usqp=CAU",
+    "nameen": "Tv 2",
+    "position": "1",
+    "type": "channel",
+    "key": "live_sport_event"
+  },
+  {
+    "namear": "Tv 3",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium3/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevhuifr3iPbqyuHHC3CrzSvoMft_7R4Ta9A&usqp=CAU",
+    "nameen": "Tv 3",
+    "position": "2",
+    "type": "channel",
+    "key": "live_sport_event"
+  },
+  {
+    "namear": "Tv 4",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium4/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevhuifr3iPbqyuHHC3CrzSvoMft_7R4Ta9A&usqp=CAU",
+    "nameen": "Tv 4",
+    "position": "3",
+    "type": "channel",
+    "key": "live_sport_event"
+  },
+  {
+    "namear": "Tv 5",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium5/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevhuifr3iPbqyuHHC3CrzSvoMft_7R4Ta9A&usqp=CAU",
+    "nameen": "Tv 5",
+    "position": "4",
+    "type": "channel",
+    "key": "live_sport_event"
+  },
+  {
+    "namear": "Tv 6",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://ddy6new.newkso.ru/ddy6/premium/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevhuifr3iPbqyuHHC3CrzSvoMft_7R4Ta9A&usqp=CAU",
+    "nameen": "Tv 6",
+    "position": "5",
+    "type": "channel",
+    "key": "live_sport_event"
+  },
+  {
+    "namear": "Tv 7",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium7/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevhuifr3iPbqyuHHC3CrzSvoMft_7R4Ta9A&usqp=CAU",
+    "nameen": "Tv 7",
+    "position": "6",
+    "type": "channel",
+    "key": "live_sport_event"
+  },
+  {
+    "namear": "Tv 8",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium8/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevhuifr3iPbqyuHHC3CrzSvoMft_7R4Ta9A&usqp=CAU",
+    "nameen": "Tv 8",
+    "position": "7",
+    "type": "channel",
+    "key": "live_sport_event"
+  },
+  {
+    "namear": "Tv 9",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium9/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevhuifr3iPbqyuHHC3CrzSvoMft_7R4Ta9A&usqp=CAU",
+    "nameen": "Tv 9",
+    "position": "8",
+    "type": "channel",
+    "key": "live_sport_event"
+  },
+  {
+    "namear": "Tv 10",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium10/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevhuifr3iPbqyuHHC3CrzSvoMft_7R4Ta9A&usqp=CAU",
+    "nameen": "Tv 10",
+    "position": "9",
+    "type": "channel",
+    "key": "live_sport_event"
+  },
+  {
+    "namear": "Tv 11",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium11/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevhuifr3iPbqyuHHC3CrzSvoMft_7R4Ta9A&usqp=CAU",
+    "nameen": "Tv 11",
+    "position": "10",
+    "type": "channel",
+    "key": "live_sport_event"
+  },
+  {
+    "namear": "Tv 12",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium12/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevhuifr3iPbqyuHHC3CrzSvoMft_7R4Ta9A&usqp=CAU",
+    "nameen": "Tv 12",
+    "position": "11",
+    "type": "channel",
+    "key": "live_sport_event"
+  },
+  {
+    "namear": "Tv 13",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium13/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevhuifr3iPbqyuHHC3CrzSvoMft_7R4Ta9A&usqp=CAU",
+    "nameen": "Tv 13",
+    "position": "12",
+    "type": "channel",
+    "key": "live_sport_event"
+  },
+  {
+    "namear": "Tv 14",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium14/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevhuifr3iPbqyuHHC3CrzSvoMft_7R4Ta9A&usqp=CAU",
+    "nameen": "Tv 14",
+    "position": "13",
+    "type": "channel",
+    "key": "live_sport_event"
+  },
+  {
+    "namear": "Tv 15",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium15/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevhuifr3iPbqyuHHC3CrzSvoMft_7R4Ta9A&usqp=CAU",
+    "nameen": "Tv 15",
+    "position": "14",
+    "type": "channel",
+    "key": "live_sport_event"
+  },
+  {
+    "namear": "Tv 16",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium16/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevhuifr3iPbqyuHHC3CrzSvoMft_7R4Ta9A&usqp=CAU",
+    "nameen": "Tv 16",
+    "position": "15",
+    "type": "channel",
+    "key": "live_sport_event"
+  },
+  {
+    "namear": "Tv 17",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium17/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevhuifr3iPbqyuHHC3CrzSvoMft_7R4Ta9A&usqp=CAU",
+    "nameen": "Tv 17",
+    "position": "16",
+    "type": "channel",
+    "key": "live_sport_event"
+  },
+  {
+    "namear": "Tv 18",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium18/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevhuifr3iPbqyuHHC3CrzSvoMft_7R4Ta9A&usqp=CAU",
+    "nameen": "Tv 18",
+    "position": "17",
+    "type": "channel",
+    "key": "live_sport_event"
+  },
+  {
+    "namear": "Tv 19",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium19/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevhuifr3iPbqyuHHC3CrzSvoMft_7R4Ta9A&usqp=CAU",
+    "nameen": "Tv 19",
+    "position": "18",
+    "type": "channel",
+    "key": "live_sport_event"
+  },
+  {
+    "namear": "Tv 20",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium20/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevhuifr3iPbqyuHHC3CrzSvoMft_7R4Ta9A&usqp=CAU",
+    "nameen": "Tv 20",
+    "position": "19",
+    "type": "channel",
+    "key": "live_sport_event"
+  },
+  {
+    "namear": "Tv 21",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium21/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevhuifr3iPbqyuHHC3CrzSvoMft_7R4Ta9A&usqp=CAU",
+    "nameen": "Tv 21",
+    "position": "20",
+    "type": "channel",
+    "key": "live_sport_event"
+  },
+  {
+    "namear": "Tv 22",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium22/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevhuifr3iPbqyuHHC3CrzSvoMft_7R4Ta9A&usqp=CAU",
+    "nameen": "Tv 22",
+    "position": "21",
+    "type": "channel",
+    "key": "live_sport_event"
+  },
+  {
+    "namear": "Tv 23",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium23/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevhuifr3iPbqyuHHC3CrzSvoMft_7R4Ta9A&usqp=CAU",
+    "nameen": "Tv 23",
+    "position": "22",
+    "type": "channel",
+    "key": "live_sport_event"
+  },
+  {
+    "namear": "Tv 24",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium24/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevhuifr3iPbqyuHHC3CrzSvoMft_7R4Ta9A&usqp=CAU",
+    "nameen": "Tv 24",
+    "position": "23",
+    "type": "channel",
+    "key": "live_sport_event"
+  },
+  {
+    "namear": "Tv 25",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium25/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevhuifr3iPbqyuHHC3CrzSvoMft_7R4Ta9A&usqp=CAU",
+    "nameen": "Tv 25",
+    "position": "24",
+    "type": "channel",
+    "key": "live_sport_event"
+  },
+  {
+    "namear": "Tv 26",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium26/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevhuifr3iPbqyuHHC3CrzSvoMft_7R4Ta9A&usqp=CAU",
+    "nameen": "Tv 26",
+    "position": "25",
+    "type": "channel",
+    "key": "live_sport_event"
+  },
+  {
+    "namear": "Tv 27",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium27/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevhuifr3iPbqyuHHC3CrzSvoMft_7R4Ta9A&usqp=CAU",
+    "nameen": "Tv 27",
+    "position": "26",
+    "type": "channel",
+    "key": "live_sport_event"
+  },
+  {
+    "namear": "Tv 28",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium28/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevhuifr3iPbqyuHHC3CrzSvoMft_7R4Ta9A&usqp=CAU",
+    "nameen": "Tv 28",
+    "position": "27",
+    "type": "channel",
+    "key": "live_sport_event"
+  },
+  {
+    "namear": "Tv 29",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium29/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevhuifr3iPbqyuHHC3CrzSvoMft_7R4Ta9A&usqp=CAU",
+    "nameen": "Tv 29",
+    "position": "28",
+    "type": "channel",
+    "key": "live_sport_event"
+  },
+  {
+    "namear": "Tv 30",
+    "servers": "[{\"headers\":\"Referer|https://forcedtoplay.xyz/server_lookup.php?channel_id=premium|\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://forcedtoplay.xyz/server_lookup.php?channel_id=premium\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dokko1new.newkso.ru/dokko1/premium30/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevhuifr3iPbqyuHHC3CrzSvoMft_7R4Ta9A&usqp=CAU",
+    "nameen": "Tv 30",
+    "position": "29",
+    "type": "channel",
+    "key": "live_sport_event"
+  }
+]

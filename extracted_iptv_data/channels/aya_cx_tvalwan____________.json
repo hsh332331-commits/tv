@@ -1,0 +1,56 @@
+[
+  {
+    "namear": "ALWAN TV 1",
+    "servers": "[{\"headers\":\"user-agent|Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"ALW\",\"Referer\":\"\",\"userAgent\":\"Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)\",\"position\":\"0\",\"url\":\"http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237014.m3u8\"},{\"headers\":\"user-agent|Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"ALW2\",\"Referer\":\"\",\"userAgent\":\"Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)\",\"position\":\"0\",\"url\":\"http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237015.m3u8\"},{\"headers\":\"Referer|https://increasecattle.net/embed/szkiaelgpj01|user-agent|yusfiptv|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"Alw1\",\"Referer\":\"https://increasecattle.net/embed/szkiaelgpj01\",\"userAgent\":\"yusfiptv\",\"position\":\"01\",\"url\":\"http://104.168.93.100/iptv/play.php?id\\u003dshawkat.alwan1\"},{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"Alw2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"3\",\"url\":\"http://virtualdbxv.com:8080/alwan1hd/index.m3u8\"}]",
+    "logo": "https://up6.cc/2025/05/174640309104961.png",
+    "nameen": "ALWAN TV 1",
+    "position": "0",
+    "type": "channel",
+    "key": "aya_cx_tvalwan_قنوات_ألوان"
+  },
+  {
+    "namear": "ALWAN TV 2",
+    "servers": "[{\"headers\":\"user-agent|Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"ALW1\",\"Referer\":\"\",\"userAgent\":\"Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)\",\"position\":\"0\",\"url\":\"http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237017.m3u8\"},{\"headers\":\"user-agent|Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"ALW3\",\"Referer\":\"\",\"userAgent\":\"Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)\",\"position\":\"0\",\"url\":\"http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237018.m3u8\"}]",
+    "logo": "https://up6.cc/2025/05/174640311747621.png",
+    "nameen": "ALWAN TV 2",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvalwan_قنوات_ألوان"
+  },
+  {
+    "namear": "ALWAN TV 3",
+    "servers": "[{\"headers\":\"user-agent|Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"ALW3\",\"Referer\":\"\",\"userAgent\":\"Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)\",\"position\":\"0\",\"url\":\"http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237021.m3u8\"},{\"headers\":\"user-agent|Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"ALW2\",\"Referer\":\"\",\"userAgent\":\"Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)\",\"position\":\"0\",\"url\":\"http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237022.m3u8\"},{\"headers\":\"user-agent|Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"ALW2\",\"Referer\":\"\",\"userAgent\":\"Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)\",\"position\":\"0\",\"url\":\"http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237020.m3u8\"}]",
+    "logo": "https://up6.cc/2025/05/174640314461031.png",
+    "nameen": "ALWAN TV 3",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvalwan_قنوات_ألوان"
+  },
+  {
+    "namear": "ALWAN TV 4",
+    "servers": "[{\"headers\":\"user-agent|Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"Alw1\",\"Referer\":\"\",\"userAgent\":\"Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)\",\"position\":\"0\",\"url\":\"http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237024.m3u8\"},{\"headers\":\"user-agent|Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"ALW\",\"Referer\":\"\",\"userAgent\":\"Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)\",\"position\":\"0\",\"url\":\"http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237023.m3u8\"}]",
+    "logo": "https://up6.cc/2025/05/174640316876931.png",
+    "nameen": "ALWAN TV 4",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvalwan_قنوات_ألوان"
+  },
+  {
+    "namear": "ALWAN TV 5",
+    "servers": "[{\"headers\":\"user-agent|Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"Alw\",\"Referer\":\"\",\"userAgent\":\"Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)\",\"position\":\"0\",\"url\":\"http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237027.m3u8\"},{\"headers\":\"user-agent|Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"ALW2\",\"Referer\":\"\",\"userAgent\":\"Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)\",\"position\":\"0\",\"url\":\"http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237026.m3u8\"}]",
+    "logo": "https://up6.cc/2025/05/174640309104961.png",
+    "nameen": "ALWAN TV 5",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvalwan_قنوات_ألوان"
+  },
+  {
+    "namear": "ALWAN TV 6",
+    "servers": "[{\"headers\":\"user-agent|Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"Alw6\",\"Referer\":\"\",\"userAgent\":\"Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)\",\"position\":\"0\",\"url\":\"http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237029.m3u8\"},{\"headers\":\"user-agent|Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"ALW3\",\"Referer\":\"\",\"userAgent\":\"Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)\",\"position\":\"3\",\"url\":\"http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237029.m3u8\"}]",
+    "logo": "https://up6.cc/2025/05/174640309104961.png",
+    "nameen": "ALWAN TV 6",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_cx_tvalwan_قنوات_ألوان"
+  }
+]

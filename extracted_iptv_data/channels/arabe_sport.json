@@ -1,0 +1,83 @@
+[
+  {
+    "namear": "Mbc5",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL7ux80NeEZ4Fd6HvZ4-x2LMmpTYnMYh8y5VrLM6xOtg&s",
+    "nameen": "Mbc5",
+    "position": "0",
+    "type": "channel",
+    "key": "arabe_sport"
+  },
+  {
+    "namear": "Masr2",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8\"}]",
+    "logo": "https://i.ibb.co/VnRSg3K/icon-23.jpg",
+    "nameen": "Masr2",
+    "position": "1",
+    "type": "channel",
+    "key": "arabe_sport"
+  },
+  {
+    "namear": "Action",
+    "servers": "[{\"headers\":\"Referer|https://fram.sport4all.online/albaplayer/ontime/?serv\\u003d1|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://fram.sport4all.online/albaplayer/ontime/?serv\\u003d1\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdn1.yallaboom.online/live/b11/playlist.m3u8\"}]",
+    "logo": "https://www.kobrandwineandspirits.com/wp-content/uploads/2025/05/club-world-cup-2025-logo-png_seeklogo-577684.png",
+    "nameen": "Action",
+    "position": "2",
+    "type": "channel",
+    "key": "arabe_sport"
+  },
+  {
+    "namear": "Masr",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8\"}]",
+    "logo": "https://i.ibb.co/JFWQqr4h/icon-25.png",
+    "nameen": "Masr",
+    "position": "3",
+    "type": "channel",
+    "key": "arabe_sport"
+  },
+  {
+    "namear": "Shahed",
+    "servers": "[{\"headers\":\"user-agent|Mozilla|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"Mozilla\",\"position\":\"0\",\"url\":\"https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNkfjWd0pV5fV_YVBrjPuG5f2EtlnVJ4my3fhp70Kr4g&s",
+    "nameen": "Shahed",
+    "position": "4",
+    "type": "channel",
+    "key": "arabe_sport"
+  },
+  {
+    "namear": "Dazn1",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://abcc.yallashooot.store:8181/dnazfr/tracks-v1a1/mono.ts.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMs99C6ZPquU6-Fdpik7E4uWLv5f62smypDtf41IG6kg&s",
+    "nameen": "Dazn1",
+    "position": "5",
+    "type": "channel",
+    "key": "arabe_sport"
+  },
+  {
+    "namear": "Dazn Ar",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"DaznAr1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://abcc.yallashooot.store:8181/dnazaas/index.m3u8\"},{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"DaznAr2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://abcc.yallashooot.store:8181/dnazaas/tracks-v1a1/mono.ts.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMs99C6ZPquU6-Fdpik7E4uWLv5f62smypDtf41IG6kg&s",
+    "nameen": "Dazn Ar",
+    "position": "6",
+    "type": "channel",
+    "key": "arabe_sport"
+  },
+  {
+    "namear": "Kora",
+    "servers": "[{\"headers\":\"Referer|https://fram.sport4all.online/albaplayer/ontime/?serv\\u003d1|\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"https://fram.sport4all.online/albaplayer/ontime/?serv\\u003d1\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://cdn4.yallaboom.online/live/daz/playlist.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQu_uHaWYk-fx-nFsEaDx4cYrPxVUS9jdU6kYcaZ2qFA&s",
+    "nameen": "Kora",
+    "position": "10",
+    "type": "channel",
+    "key": "arabe_sport"
+  },
+  {
+    "namear": "MBC1",
+    "servers": "[{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"Mbc1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8\"},{\"headers\":\"\",\"license\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"name\":\"Mbc2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8\"}]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",
+    "nameen": "MBC1",
+    "position": "11",
+    "type": "channel",
+    "key": "arabe_sport"
+  }
+]

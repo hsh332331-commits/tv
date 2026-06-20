@@ -1,0 +1,56 @@
+[
+  {
+    "namear": "Qaz",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://bkm.beetv.kz/btv/live/hls/000003038.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNZojUZsg6Epyv7180s0e352SirtavBbfiSw&usqp=CAU",
+    "nameen": "Qaz",
+    "position": "0",
+    "type": "channel",
+    "key": "copa_sport_event"
+  },
+  {
+    "namear": "Tv8.5",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://hw1.jemtv.com/app/tv85/mono.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNZojUZsg6Epyv7180s0e352SirtavBbfiSw&usqp=CAU",
+    "nameen": "Tv8.5",
+    "position": "1",
+    "type": "channel",
+    "key": "copa_sport_event"
+  },
+  {
+    "namear": "Sport 1",
+    "servers": "[{\"headers\":\"Referer|https://play.ezyproxy.xyz/|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|https://play.ezyproxy.xyz\",\"otherHeaders\":\"https://play.ezyproxy.xyz\",\"name\":\"Fox\",\"Referer\":\"https://play.ezyproxy.xyz/\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"01\",\"url\":\"https://live.notebulk.xyz/k4wY1JTCdGq4qIOXrk7S1g/1719114946/uk_premiersports1/mono.m3u8 \"},{\"headers\":\"Referer|https://play.ezyproxy.xyz/|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|https://play.ezyproxy.xyz\",\"otherHeaders\":\"https://play.ezyproxy.xyz\",\"name\":\"Sky\",\"Referer\":\"https://play.ezyproxy.xyz/\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"1\",\"url\":\"https://live.notebulk.xyz/9Invx8ztE5xGL7mYwzxGMw/1719114946/us_fs1/mono.m3u8 \"},{\"headers\":\"Referer|https://play.ezyproxy.xyz/|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36|https://play.ezyproxy.xyz\",\"otherHeaders\":\"https://play.ezyproxy.xyz\",\"name\":\"PT2\",\"Referer\":\"https://play.ezyproxy.xyz/\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36\",\"position\":\"2\",\"url\":\"https://live.notebulk.xyz/vBXQW_2PGhFuU4bbnXjoZQ/1719114946/pt_sporttv2/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNZojUZsg6Epyv7180s0e352SirtavBbfiSw&usqp=CAU",
+    "nameen": "Sport 1",
+    "position": "2",
+    "type": "channel",
+    "key": "copa_sport_event"
+  },
+  {
+    "namear": "VTC",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"01\",\"url\":\"https://liveh12.vtvcab.vn/hls/ONVTC1_CL/mono.m3u8 \"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNZojUZsg6Epyv7180s0e352SirtavBbfiSw&usqp=CAU",
+    "nameen": "VTC",
+    "position": "3",
+    "type": "channel",
+    "key": "copa_sport_event"
+  },
+  {
+    "namear": "3M",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live.teleradiocom.tj/5/3m.m3u8?rriptv\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNZojUZsg6Epyv7180s0e352SirtavBbfiSw&usqp=CAU",
+    "nameen": "3M",
+    "position": "4",
+    "type": "channel",
+    "key": "copa_sport_event"
+  },
+  {
+    "namear": "Alltv",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"VTC\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"01\",\"url\":\"https://is.gd/hasankappa_arg_vs_ecu_vtc1hd.m3u8\"},{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Sportita\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"4\",\"url\":\"https://is.gd/hasankappa_arg_vs_ecu_sportita.m3u8\"},{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Aztec\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"5\",\"url\":\"https://is.gd/hasankappa_arg_vs_ecu_aztecahd.m3u8\"},{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Ecua\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"6\",\"url\":\"https://is.gd/hasanakappa_arg_vs_ecu_ecuavis.m3u8\"},{\"headers\":\"Referer|https://https://play2.gomoon.live/|\",\"otherHeaders\":\"\",\"name\":\"Pr1\",\"Referer\":\"https://https://play2.gomoon.live/\",\"userAgent\":\"\",\"position\":\"7\",\"url\":\"https://liveus1.score806.cc/uk_pre1_event/mono.m3u8 \"},{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Tv8.5\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"08\",\"url\":\"http://hw1.jemtv.com/app/tv85/mono.m3u8\"},{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"3M\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"011\",\"url\":\"https://live.teleradiocom.tj/5/3m.m3u8?rriptv\"},{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Qaz\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"022\",\"url\":\"https://bkm.beetv.kz/btv/live/hls/000003038.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNZojUZsg6Epyv7180s0e352SirtavBbfiSw&usqp=CAU",
+    "nameen": "Alltv",
+    "position": "5",
+    "type": "channel",
+    "key": "copa_sport_event"
+  }
+]

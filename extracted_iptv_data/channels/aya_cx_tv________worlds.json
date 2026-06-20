@@ -1,0 +1,173 @@
+[
+  {
+    "namear": "Tennis tv",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://tennischannel-int-samsunguk.amagi.tv:443/playlist720_p.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPjNW8nWJM_ged0Qqmb2BeWi10_F-c6dVbrf1OI1QrEQ&s=10",
+    "nameen": "Tennis tv",
+    "position": "12",
+    "type": "channel",
+    "key": "aya_cx_tvالرياضة_worlds"
+  },
+  {
+    "namear": "TV 8",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app\\u003dtv8bucuk_web\\u0026ce\\u003d3\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPaDWn-Xr5XgBHrJA_7JRlGg5_hJIhcxH4epy_NcyHKw&s=10",
+    "nameen": "TV 8",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_cx_tvالرياضة_worlds"
+  },
+  {
+    "namear": "RTA Sport",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr7b0RSjZj1b2yU9kZsn3zvE2EzkZ2r9RbG514fU39KA&s",
+    "nameen": "RTA Sport",
+    "position": "8",
+    "type": "channel",
+    "key": "aya_cx_tvالرياضة_worlds"
+  },
+  {
+    "namear": "TSN 3",
+    "servers": "[{\"license\":\"d9097a1b7d04b7786b29f2b0e155316d:279695ebe0fb1bc5787422b6b59ce8a8\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://abm5x5xaaaaaaaamfnzlkys25m7a5.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mrskysvotx/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsH8zoEI8anMW3e7iTcm5ZYpI7nZ6Rwu831Y7TMJz3gQ&s=10",
+    "nameen": "TSN 3",
+    "position": "20",
+    "type": "channel",
+    "key": "aya_cx_tvالرياضة_worlds"
+  },
+  {
+    "namear": "NUBAR Sport",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://stream.nubar.tv:1935/private/NUBARSport/playlist.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMrSheUWWQ2jeSjSBFeTTqe3EU9zE0T0YLGzFXnNJqmQ&s=10",
+    "nameen": "NUBAR Sport",
+    "position": "3",
+    "type": "channel",
+    "key": "aya_cx_tvالرياضة_worlds"
+  },
+  {
+    "namear": "Varzish TV",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://www.aparatchi.com/|user-agent|Mozilla/5.0 (Linux; Android 15; Infinix X6886 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"https://www.aparatchi.com/\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 15; Infinix X6886 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36\",\"position\":\"\",\"url\":\"https://ss.90minlive.online/live/abr_var/playlist.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT-27Mr6ooOUP0ifzHq8WXCtUhDE0_aOfJOi2eSp6ahw&s=10",
+    "nameen": "Varzish TV",
+    "position": "6",
+    "type": "channel",
+    "key": "aya_cx_tvالرياضة_worlds"
+  },
+  {
+    "namear": "TRT Sport All",
+    "servers": "[{\"license\":\"\",\"headers\":\"find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://www.giniko.com/xml/secure/plist.php?ch\\u003d194\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGrFP92FJCnwSGwoQp0O6A3zClAfxLF_9mQ4kZSYBrgg&s=10",
+    "nameen": "TRT Sport All",
+    "position": "10",
+    "type": "channel",
+    "key": "aya_cx_tvالرياضة_worlds"
+  },
+  {
+    "namear": "IRIB 3",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://www.persianleague.com/|user-agent|Mozilla/5.0 (Linux; Android 15; Infinix X6886 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"IRIB 3\",\"Referer\":\"https://www.persianleague.com/\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 15; Infinix X6886 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36\",\"position\":\"\",\"url\":\"https://ss.90minlive.online/tv3/tv3/playlist.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNA0U5DLmRsuvO3f_qRtFbMRs7Qf3frz4O25pxZaCplA&s=10",
+    "nameen": "IRIB 3",
+    "position": "5",
+    "type": "channel",
+    "key": "aya_cx_tvالرياضة_worlds"
+  },
+  {
+    "namear": "TSN 2",
+    "servers": "[{\"license\":\"362202eefc5d9e42eec6450998cce9e8:978dfdd53186ec587d940e0bd1e2ec42\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://abm5x5xaaaaaaaampie4zrlukq55o.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v5v9yfn62i/out/v1/0991e33d09da46b2857fcc845db95c40/cenc.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsH8zoEI8anMW3e7iTcm5ZYpI7nZ6Rwu831Y7TMJz3gQ&s=10",
+    "nameen": "TSN 2",
+    "position": "19",
+    "type": "channel",
+    "key": "aya_cx_tvالرياضة_worlds"
+  },
+  {
+    "namear": "A sport",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://www.aspor.com.tr/|find|m3u8\",\"scheme\":\"\",\"otherHeaders\":\"find|m3u8\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"https://www.aspor.com.tr/\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://www.giniko.com/xml/secure/plist.php?ch\\u003d390\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbh-h2RAxqUR--OXqLsmElk-ewZIzL_1ue6o8DHbkLVQ&s=10",
+    "nameen": "A sport",
+    "position": "4",
+    "type": "channel",
+    "key": "aya_cx_tvالرياضة_worlds"
+  },
+  {
+    "namear": "TSN 4",
+    "servers": "[{\"license\":\"e1aa4c4daf6222a04f7ae80130495ea1:31bb1ee9a8d088f62b0103550c301449\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://abm5x5xaaaaaaaampk3nj4fzz34qg.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/out/v1/165128c314e944faa3d79e107974b323/cenc.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsH8zoEI8anMW3e7iTcm5ZYpI7nZ6Rwu831Y7TMJz3gQ&s=10",
+    "nameen": "TSN 4",
+    "position": "21",
+    "type": "channel",
+    "key": "aya_cx_tvالرياضة_worlds"
+  },
+  {
+    "namear": "MMN SPORT",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8\"}]",
+    "logo": "gg",
+    "nameen": "MMN SPORT",
+    "position": "33",
+    "type": "channel",
+    "key": "aya_cx_tvالرياضة_worlds"
+  },
+  {
+    "namear": "TSN 1",
+    "servers": "[{\"license\":\"7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://abkf7g7aaaaaaaamcmmhhhyli5fwh.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsH8zoEI8anMW3e7iTcm5ZYpI7nZ6Rwu831Y7TMJz3gQ&s=10",
+    "nameen": "TSN 1",
+    "position": "18",
+    "type": "channel",
+    "key": "aya_cx_tvالرياضة_worlds"
+  },
+  {
+    "namear": "Duhok Sports",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://karwan.tv/|user-agent|Mozilla/5.0 (Linux; Android 15; Infinix X6886 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36|find|mpd\",\"scheme\":\"\",\"otherHeaders\":\"find|mpd\",\"isWeb\":\"false\",\"name\":\"Duhok Sports\",\"Referer\":\"https://karwan.tv/\",\"userAgent\":\"Mozilla/5.0 (Linux; Android 15; Infinix X6886 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36\",\"position\":\"\",\"url\":\"https://karwan.tv/live/duhok-tv-sport-1.php\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlJZILcIe4-MRfc_hc9_pL69Dh24WphR8a_0n0gsjaQg&s=10",
+    "nameen": "Duhok Sports",
+    "position": "1",
+    "type": "channel",
+    "key": "aya_cx_tvالرياضة_worlds"
+  },
+  {
+    "namear": "NRT SPORTS",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://karwan.tv/|find|mpd\",\"scheme\":\"\",\"otherHeaders\":\"find|mpd\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"https://karwan.tv/\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://karwan.tv/live/nrt-sport-1.php\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl55wnIFFlprsSOA5Ibi5uJoW_R_lZsQ5KCoL6o9733A&s=10",
+    "nameen": "NRT SPORTS",
+    "position": "2",
+    "type": "channel",
+    "key": "aya_cx_tvالرياضة_worlds"
+  },
+  {
+    "namear": "FOX Sport 1",
+    "servers": "[{\"license\":\"\",\"headers\":\"Referer|https://newzar.xyz/server_lookup.php?channel_id\\u003dpremium39|user-agent|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36|origin|https://newzar.xyz\",\"scheme\":\"\",\"otherHeaders\":\"origin|https://newzar.xyz\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"https://newzar.xyz/server_lookup.php?channel_id\\u003dpremium39\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\",\"position\":\"\",\"url\":\"https://zekonew.newkso.ru/zeko/premium39/mono.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR95Sqv0fmV-gyHsSvkX_icG4cQUH1CwrnqThitt0-X0A&s=10",
+    "nameen": "FOX Sport 1",
+    "position": "30",
+    "type": "channel",
+    "key": "aya_cx_tvالرياضة_worlds"
+  },
+  {
+    "namear": "Real Madrid",
+    "servers": "[{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi EN\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8\"},{\"license\":\"\",\"headers\":\"\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Multi Sp\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8\"}]",
+    "logo": "https://k.top4top.io/p_3381z7jut1.jpg",
+    "nameen": "Real Madrid",
+    "position": "956594",
+    "type": "channel",
+    "key": "aya_cx_tvالرياضة_worlds"
+  },
+  {
+    "namear": "TSN 5",
+    "servers": "[{\"license\":\"8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e\",\"headers\":\"\",\"scheme\":\"clearkey\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"https://abm5x5xaaaaaaaamjwfbpek7fak66.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsH8zoEI8anMW3e7iTcm5ZYpI7nZ6Rwu831Y7TMJz3gQ&s=10",
+    "nameen": "TSN 5",
+    "position": "22",
+    "type": "channel",
+    "key": "aya_cx_tvالرياضة_worlds"
+  },
+  {
+    "namear": "SportDigital",
+    "servers": "[{\"license\":\"\",\"headers\":\"user-agent|Roku/DVP-12.0|\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"1\",\"Referer\":\"\",\"userAgent\":\"Roku/DVP-12.0\",\"position\":\"\",\"url\":\"https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/413e9d90-a69f-4c02-963d-6aca91619f32/0.m3u8\"}]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMnznWuIcC6OZZ0o8JRWcabHGnkBr8eTGFpX-LcMmKOw&s=10",
+    "nameen": "SportDigital",
+    "position": "7",
+    "type": "channel",
+    "key": "aya_cx_tvالرياضة_worlds"
+  }
+]

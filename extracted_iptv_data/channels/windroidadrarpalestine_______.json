@@ -1,0 +1,272 @@
+[
+  {
+    "namear": "Palestine TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Palestine TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://htvpalsat.mada.ps:8888/PBC/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12130630_ico.png",
+    "nameen": "Palestine TV",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarpalestine_فلسطين"
+  },
+  {
+    "namear": "Palestine Tv",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Palestine Tv\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://htvpalsat.mada.ps:8888/PBCTv/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12130635_ico.png",
+    "nameen": "Palestine Tv",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarpalestine_فلسطين"
+  },
+  {
+    "namear": "Palestine Sports",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Palestine Sports\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://line.team-tv.link//mutant007/UzskkVQyjP/227979\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14844634_ico.png",
+    "nameen": "Palestine Sports",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarpalestine_فلسطين"
+  },
+  {
+    "namear": "Palestine Today",
+    "servers": "[{\"headers\":\"ERuser-Agent|ERuser-Agent|ERuser-Agent|ER\",\"otherHeaders\":\"\",\"name\":\"Palestine Today\",\"Referer\":\"\",\"userAgent\":\"ERuser-Agent|ER\",\"position\":\"0\",\"url\":\"https://live.paltodaytv.com/paltv/live/chunklist.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12130586_ico.png",
+    "nameen": "Palestine Today",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarpalestine_فلسطين"
+  },
+  {
+    "namear": "Alquds Today",
+    "servers": "[{\"headers\":\"YYuser-Agent|YYuser-Agent|YYuser-Agent|YY\",\"otherHeaders\":\"\",\"name\":\"Alquds Today\",\"Referer\":\"\",\"userAgent\":\"YYuser-Agent|YY\",\"position\":\"0\",\"url\":\"http://62.171.146.44:8080/hls/alqudstv/alqudstv.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7059402_ico.png",
+    "nameen": "Alquds Today",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarpalestine_فلسطين"
+  },
+  {
+    "namear": "Adwa2 TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Adwa2 TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://htvmada.mada.ps:8888/adwa2tv/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7059416_ico.png",
+    "nameen": "Adwa2 TV",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarpalestine_فلسطين"
+  },
+  {
+    "namear": "Alittihad TV",
+    "servers": "[{\"headers\":\"YYuser-Agent|YYuser-Agent|YYuser-Agent|YY\",\"otherHeaders\":\"\",\"name\":\"Alittihad TV\",\"Referer\":\"\",\"userAgent\":\"YYuser-Agent|YY\",\"position\":\"0\",\"url\":\"https://live.alittihad.tv:444/ittihad/chunklist.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7059447_ico.png",
+    "nameen": "Alittihad TV",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarpalestine_فلسطين"
+  },
+  {
+    "namear": "Ajyal TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Ajyal TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://htvajyal.mada.ps:8888/ajyal/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12130560_ico.png",
+    "nameen": "Ajyal TV",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarpalestine_فلسطين"
+  },
+  {
+    "namear": "Hala Ramallah",
+    "servers": "[{\"headers\":\"UUuser-Agent|UUuser-Agent|UUuser-Agent|UU\",\"otherHeaders\":\"\",\"name\":\"Hala Ramallah\",\"Referer\":\"\",\"userAgent\":\"UUuser-Agent|UU\",\"position\":\"0\",\"url\":\"https://halaramallahtv.com:8444/HRamallah-Tv/HalaRamallah/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14844710_ico.png",
+    "nameen": "Hala Ramallah",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarpalestine_فلسطين"
+  },
+  {
+    "namear": "AlMadina TV",
+    "servers": "[{\"headers\":\"UUuser-Agent|UUuser-Agent|UUuser-Agent|UU\",\"otherHeaders\":\"\",\"name\":\"AlMadina TV\",\"Referer\":\"\",\"userAgent\":\"UUuser-Agent|UU\",\"position\":\"0\",\"url\":\"https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/8290714_ico.png",
+    "nameen": "AlMadina TV",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadrarpalestine_فلسطين"
+  },
+  {
+    "namear": "Baladna",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Baladna\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://htvmada.mada.ps:8888/baladna/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/6255435_ico.png",
+    "nameen": "Baladna",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidadrarpalestine_فلسطين"
+  },
+  {
+    "namear": "Maan TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Maan TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://htvmada.mada.ps:8888/maannews/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12130962_ico.png",
+    "nameen": "Maan TV",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidadrarpalestine_فلسطين"
+  },
+  {
+    "namear": "Al Fajer 2",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Fajer 2\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12130566_ico.png",
+    "nameen": "Al Fajer 2",
+    "position": "12",
+    "type": "channel",
+    "key": "windroidadrarpalestine_فلسطين"
+  },
+  {
+    "namear": "NBC Alnajah",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"NBC Alnajah\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://streaming.najah.edu:8443/hls/AlNajah_mid/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12130624_ico.png",
+    "nameen": "NBC Alnajah",
+    "position": "13",
+    "type": "channel",
+    "key": "windroidadrarpalestine_فلسطين"
+  },
+  {
+    "namear": "Watar TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Watar TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://htvint.mada.ps:8889//orient/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12130639_ico.png",
+    "nameen": "Watar TV",
+    "position": "14",
+    "type": "channel",
+    "key": "windroidadrarpalestine_فلسطين"
+  },
+  {
+    "namear": "Wattan",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Wattan\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://htvmada.mada.ps:8888/wattan/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12130822_ico.png",
+    "nameen": "Wattan",
+    "position": "15",
+    "type": "channel",
+    "key": "windroidadrarpalestine_فلسطين"
+  },
+  {
+    "namear": "Al Aqsa",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Al Aqsa\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://live-1.linuxway.info/aqsatv/live/tv/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12130774_ico.png",
+    "nameen": "Al Aqsa",
+    "position": "16",
+    "type": "channel",
+    "key": "windroidadrarpalestine_فلسطين"
+  },
+  {
+    "namear": "Rajeen TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Rajeen TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://mn-nl.mncdn.com/palabroad/live/chunklist.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14751012_ico.png",
+    "nameen": "Rajeen TV",
+    "position": "17",
+    "type": "channel",
+    "key": "windroidadrarpalestine_فلسطين"
+  },
+  {
+    "namear": "Awdeh",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Awdeh\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://htvpalsat.mada.ps:8888/audeh/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12130597_ico.png",
+    "nameen": "Awdeh",
+    "position": "18",
+    "type": "channel",
+    "key": "windroidadrarpalestine_فلسطين"
+  },
+  {
+    "namear": "Musawa",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Musawa\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://htvpalsat.mada.ps:8888/musawa/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12130813_ico.png",
+    "nameen": "Musawa",
+    "position": "19",
+    "type": "channel",
+    "key": "windroidadrarpalestine_فلسطين"
+  },
+  {
+    "namear": "Hettin TV",
+    "servers": "[{\"headers\":\"HHHuser-Agent|HHHuser-Agent|HHHuser-Agent|HHH\",\"otherHeaders\":\"\",\"name\":\"Hettin TV\",\"Referer\":\"\",\"userAgent\":\"HHHuser-Agent|HHH\",\"position\":\"0\",\"url\":\"https://live.hettin.tv/stream/hls/hettin.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14844886_ico.png",
+    "nameen": "Hettin TV",
+    "position": "20",
+    "type": "channel",
+    "key": "windroidadrarpalestine_فلسطين"
+  },
+  {
+    "namear": "Hekaya TV",
+    "servers": "[{\"headers\":\"dEBWV11mZRJSQkMguser-Agent|dEBWV11mZRJSQkMguser-Agent|dEBWV11mZRJSQkMguser-Agent|dEBWV11mZRJSQkMg\",\"otherHeaders\":\"\",\"name\":\"Hekaya TV\",\"Referer\":\"\",\"userAgent\":\"dEBWV11mZRJSQkMguser-Agent|dEBWV11mZRJSQkMg\",\"position\":\"0\",\"url\":\"http://flu.systemnet.tv/hekaya/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4858610_ico.png",
+    "nameen": "Hekaya TV",
+    "position": "21",
+    "type": "channel",
+    "key": "windroidadrarpalestine_فلسطين"
+  },
+  {
+    "namear": "Falastini TV",
+    "servers": "[{\"headers\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"otherHeaders\":\"\",\"name\":\"Falastini TV\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02user-Agent|REDLINECLIENT_DREAMSAT_650HD_PRO_RICHTV_V02\",\"position\":\"0\",\"url\":\"https://cdg8.edge.technocdn.com/palestiniantv_source/live/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/4960030_ico.png",
+    "nameen": "Falastini TV",
+    "position": "22",
+    "type": "channel",
+    "key": "windroidadrarpalestine_فلسطين"
+  },
+  {
+    "namear": "Nablus Tv",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Nablus Tv\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://htvmada.mada.ps:8888/nabluslive/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/436549_ico.png",
+    "nameen": "Nablus Tv",
+    "position": "23",
+    "type": "channel",
+    "key": "windroidadrarpalestine_فلسطين"
+  },
+  {
+    "namear": "Nablus Tv 2",
+    "servers": "[{\"headers\":\"TTuser-Agent|TTuser-Agent|TTuser-Agent|TT\",\"otherHeaders\":\"\",\"name\":\"Nablus Tv 2\",\"Referer\":\"\",\"userAgent\":\"TTuser-Agent|TT\",\"position\":\"0\",\"url\":\"http://streaming.zaytonatube.com:8080/nb/nb/video.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/6315214_ico.png",
+    "nameen": "Nablus Tv 2",
+    "position": "24",
+    "type": "channel",
+    "key": "windroidadrarpalestine_فلسطين"
+  },
+  {
+    "namear": "Quran Nablus",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Quran Nablus\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/14750994_ico.png",
+    "nameen": "Quran Nablus",
+    "position": "25",
+    "type": "channel",
+    "key": "windroidadrarpalestine_فلسطين"
+  },
+  {
+    "namear": "Hala TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Hala TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://gstream4.panet.co.il/edge/halaTV/chunks.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12130969_ico.png",
+    "nameen": "Hala TV",
+    "position": "26",
+    "type": "channel",
+    "key": "windroidadrarpalestine_فلسطين"
+  },
+  {
+    "namear": "Marah FM",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Marah FM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://vstream3.hadara.ps:8081/marahFM_web/web/chunks.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12130654_ico.png",
+    "nameen": "Marah FM",
+    "position": "27",
+    "type": "channel",
+    "key": "windroidadrarpalestine_فلسطين"
+  },
+  {
+    "namear": "Shabab FM",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Shabab FM\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://streaming.zaytonatube.com:8081/ShababFM/shabab/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/6315073_ico.png",
+    "nameen": "Shabab FM",
+    "position": "28",
+    "type": "channel",
+    "key": "windroidadrarpalestine_فلسطين"
+  },
+  {
+    "namear": "Makan 33 מכאן",
+    "servers": "[{\"headers\":\"Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0user-Agent|Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0user-Agent|Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0user-Agent|Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0\",\"otherHeaders\":\"\",\"name\":\"Makan 33 מכאן\",\"Referer\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0user-Agent|Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0\",\"position\":\"0\",\"url\":\"https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/462512_ico.png",
+    "nameen": "Makan 33 מכאן",
+    "position": "29",
+    "type": "channel",
+    "key": "windroidadrarpalestine_فلسطين"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "namear": "Baden TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Baden TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12177102_ico.png",
+    "nameen": "Baden TV",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrargermany_ألمانيا"
+  },
+  {
+    "namear": "MDF 1 Magdeburg",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"MDF 1 Magdeburg\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://62.113.210.250/medienasa-live/mdf1_high/mono.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12177814_ico.png",
+    "nameen": "MDF 1 Magdeburg",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrargermany_ألمانيا"
+  },
+  {
+    "namear": "Deutsche Welle",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Deutsche Welle\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12178545_ico.png",
+    "nameen": "Deutsche Welle",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrargermany_ألمانيا"
+  },
+  {
+    "namear": "DW Español",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"DW Español\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12234630_ico.png",
+    "nameen": "DW Español",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrargermany_ألمانيا"
+  },
+  {
+    "namear": "DW Arabic",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"DW Arabic\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/7059162_ico.png",
+    "nameen": "DW Arabic",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrargermany_ألمانيا"
+  },
+  {
+    "namear": "DW+",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"DW+\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/16596644_ico.png",
+    "nameen": "DW+",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrargermany_ألمانيا"
+  },
+  {
+    "namear": "DW English",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"DW English\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/16596651_ico.png",
+    "nameen": "DW English",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrargermany_ألمانيا"
+  },
+  {
+    "namear": "Das Erste VPN",
+    "servers": "[{\"headers\":\"TTuser-Agent|TTuser-Agent|TTuser-Agent|TT\",\"otherHeaders\":\"\",\"name\":\"Das Erste VPN\",\"Referer\":\"\",\"userAgent\":\"TTuser-Agent|TT\",\"position\":\"0\",\"url\":\"https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/22961966_ico.png",
+    "nameen": "Das Erste VPN",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrargermany_ألمانيا"
+  }
+]

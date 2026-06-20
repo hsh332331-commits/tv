@@ -1,0 +1,38 @@
+[
+  {
+    "namear": "BEIN MAX 1 HD",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"BEIN MAX 1 HD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"http://011011.one:80/live/arena13567/max13567/15.m3u8\"}]",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",
+    "nameen": "BEIN MAX 1 HD",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidalokbein_max_(كأس_العالم)"
+  },
+  {
+    "namear": "BEIN MAX 2 HD ",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"BEIN MAX 2 HD \",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"http://011011.one:80/live/arena13567/max13567/17.m3u8\"}]",
+    "logo": "https://img.kooora.com/?i=o%2Fh%2F1%2F653%2Fbein-sports-max-1.png",
+    "nameen": "BEIN MAX 2 HD ",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidalokbein_max_(كأس_العالم)"
+  },
+  {
+    "namear": "BEIN MAX 3 HD",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"BEIN MAX 3 HD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"http://011011.one:80/live/arena13567/max13567/19.m3u8\"}]",
+    "logo": "https://img.kooora.com/?i=o%2Fh%2F1%2F652%2Fbein-sports-max-1.png",
+    "nameen": "BEIN MAX 3 HD",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidalokbein_max_(كأس_العالم)"
+  },
+  {
+    "namear": "BEIN MAX 1 SD",
+    "servers": "[{\"headers\":\"user-agent|ㅤㅤㅤㅤㅤㅤㅤ|\",\"otherHeaders\":\"\",\"name\":\"BEIN MAX 1 SD\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤㅤㅤㅤㅤㅤ\",\"position\":\"0\",\"url\":\"http://011011.one:80/live/arena13567/max13567/16.m3u8\"}]",
+    "logo": "q",
+    "nameen": "BEIN MAX 1 SD",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidalokbein_max_(كأس_العالم)"
+  }
+]

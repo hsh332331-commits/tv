@@ -1,0 +1,110 @@
+[
+  {
+    "namear": "ALmamlka",
+    "servers": "[{\"headers\":\"vvuser-Agent|vvuser-Agent|vvuser-Agent|vv\",\"otherHeaders\":\"\",\"name\":\"ALmamlka\",\"Referer\":\"\",\"userAgent\":\"vvuser-Agent|vv\",\"position\":\"0\",\"url\":\"https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12125555_ico.png",
+    "nameen": "ALmamlka",
+    "position": "0",
+    "type": "channel",
+    "key": "windroidadrarjordan_الأردن"
+  },
+  {
+    "namear": "Amman TV",
+    "servers": "[{\"headers\":\"Fduser-Agent|Fduser-Agent|Fduser-Agent|Fd\",\"otherHeaders\":\"\",\"name\":\"Amman TV\",\"Referer\":\"\",\"userAgent\":\"Fduser-Agent|Fd\",\"position\":\"0\",\"url\":\"https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12125546_ico.png",
+    "nameen": "Amman TV",
+    "position": "1",
+    "type": "channel",
+    "key": "windroidadrarjordan_الأردن"
+  },
+  {
+    "namear": "Jordan TV",
+    "servers": "[{\"headers\":\"Adrartvuser-Agent|Adrartvuser-Agent|Adrartvuser-Agent|Adrartv\",\"otherHeaders\":\"\",\"name\":\"Jordan TV\",\"Referer\":\"\",\"userAgent\":\"Adrartvuser-Agent|Adrartv\",\"position\":\"0\",\"url\":\"https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12125542_ico.png",
+    "nameen": "Jordan TV",
+    "position": "2",
+    "type": "channel",
+    "key": "windroidadrarjordan_الأردن"
+  },
+  {
+    "namear": "Jordan Sports",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Jordan Sports\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/331.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12125516_ico.png",
+    "nameen": "Jordan Sports",
+    "position": "3",
+    "type": "channel",
+    "key": "windroidadrarjordan_الأردن"
+  },
+  {
+    "namear": "Alhqeqa Jor",
+    "servers": "[{\"headers\":\"ssuser-Agent|ssuser-Agent|ssuser-Agent|ss\",\"otherHeaders\":\"\",\"name\":\"Alhqeqa Jor\",\"Referer\":\"\",\"userAgent\":\"ssuser-Agent|ss\",\"position\":\"0\",\"url\":\"https://ghaasiflu.online/alhqeqa/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/13827796_ico.png",
+    "nameen": "Alhqeqa Jor",
+    "position": "4",
+    "type": "channel",
+    "key": "windroidadrarjordan_الأردن"
+  },
+  {
+    "namear": "Roya TV",
+    "servers": "[{\"headers\":\"Gguser-Agent|Gguser-Agent|Gguser-Agent|Gg\",\"otherHeaders\":\"\",\"name\":\"Roya TV\",\"Referer\":\"\",\"userAgent\":\"Gguser-Agent|Gg\",\"position\":\"0\",\"url\":\"https://weyyak-live.akamaized.net/weyyak_roya/mono.m3u8 \"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12125497_ico.png",
+    "nameen": "Roya TV",
+    "position": "5",
+    "type": "channel",
+    "key": "windroidadrarjordan_الأردن"
+  },
+  {
+    "namear": "Kaif TV",
+    "servers": "[{\"headers\":\"\",\"otherHeaders\":\"\",\"name\":\"Kaif TV\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"0\",\"url\":\"http://82.212.74.2:8000/live/7311.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12139251_ico.png",
+    "nameen": "Kaif TV",
+    "position": "6",
+    "type": "channel",
+    "key": "windroidadrarjordan_الأردن"
+  },
+  {
+    "namear": "A ONE",
+    "servers": "[{\"headers\":\"CHANNEL4_34user-Agent|CHANNEL4_34user-Agent|CHANNEL4_34user-Agent|CHANNEL4_34\",\"otherHeaders\":\"\",\"name\":\"A ONE\",\"Referer\":\"\",\"userAgent\":\"CHANNEL4_34user-Agent|CHANNEL4_34\",\"position\":\"0\",\"url\":\"http://master.starmena-cloud.com/hls/a1jo.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12125644_ico.png",
+    "nameen": "A ONE",
+    "position": "7",
+    "type": "channel",
+    "key": "windroidadrarjordan_الأردن"
+  },
+  {
+    "namear": "Ismaoona TV",
+    "servers": "[{\"headers\":\"Yyuser-Agent|Yyuser-Agent|Yyuser-Agent|Yy\",\"otherHeaders\":\"\",\"name\":\"Ismaoona TV\",\"Referer\":\"\",\"userAgent\":\"Yyuser-Agent|Yy\",\"position\":\"0\",\"url\":\"http://82.212.74.4:8000/live/2105.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12125660_ico.png",
+    "nameen": "Ismaoona TV",
+    "position": "8",
+    "type": "channel",
+    "key": "windroidadrarjordan_الأردن"
+  },
+  {
+    "namear": "Karameesh",
+    "servers": "[{\"headers\":\"REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENTuser-Agent|REDLINECLIENT\",\"otherHeaders\":\"\",\"name\":\"Karameesh\",\"Referer\":\"\",\"userAgent\":\"REDLINECLIENTuser-Agent|REDLINECLIENT\",\"position\":\"0\",\"url\":\"http://212.224.84.254:2200/TN/karameesh-ar/mono.m3u8 ?token\\u003degBlCndpe3ZiDXBgN3JjewVhf3FmenNhfnAXeHItenVmc3Nje3Ngfg\\u003d\\u003d\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/15269571_ico.png",
+    "nameen": "Karameesh",
+    "position": "9",
+    "type": "channel",
+    "key": "windroidadrarjordan_الأردن"
+  },
+  {
+    "namear": "Toyour Baby",
+    "servers": "[{\"headers\":\"ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤuser-Agent|ㅤㅤ\",\"otherHeaders\":\"\",\"name\":\"Toyour Baby\",\"Referer\":\"\",\"userAgent\":\"ㅤㅤuser-Agent|ㅤㅤ\",\"position\":\"0\",\"url\":\"https://011011.one:443/live/areena4343/areena4343/467.m3u8\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/12125670_ico.png",
+    "nameen": "Toyour Baby",
+    "position": "10",
+    "type": "channel",
+    "key": "windroidadrarjordan_الأردن"
+  },
+  {
+    "namear": "Toyour Baby*",
+    "servers": "[{\"headers\":\"aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxprouser-Agent|aiirmaxpro\",\"otherHeaders\":\"\",\"name\":\"Toyour Baby*\",\"Referer\":\"\",\"userAgent\":\"aiirmaxprouser-Agent|aiirmaxpro\",\"position\":\"0\",\"url\":\"http://airmaxtv.online:25461/airMAXTV99/DwemgmD6bX6U/235\"}]",
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/22425477_ico.png",
+    "nameen": "Toyour Baby*",
+    "position": "11",
+    "type": "channel",
+    "key": "windroidadrarjordan_الأردن"
+  }
+]
