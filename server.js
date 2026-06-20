@@ -2,10 +2,13 @@ const http = require('http');
 const https = require('https');
 const fs = require('fs');
 const path = require('path');
-const url = require('url');
 
 const PORT = process.env.PORT || 8080;
 const HOST = '0.0.0.0';
+
+function safeEnd(res, code, msg) {
+  try { res.writeHead(code, { 'Content-Type': 'text/plain' }); res.end(msg); } catch (e) {}
+}
 
 const MIME_TYPES = {
   '.html': 'text/html; charset=utf-8',
@@ -17,76 +20,66 @@ const MIME_TYPES = {
 };
 
 const server = http.createServer((req, res) => {
-  const parsed = url.parse(req.url, true);
-  const pathname = parsed.pathname;
+  const reqUrl = new URL(req.url, 'http://localhost');
+  const pathname = reqUrl.pathname;
 
   if (pathname === '/proxy') {
-    const target = parsed.query.url;
+    const target = reqUrl.searchParams.get('url');
     if (!target) {
-      res.writeHead(400, { 'Content-Type': 'text/plain' });
-      res.end('Missing url parameter');
+      safeEnd(res, 400, 'Missing url parameter');
       return;
     }
 
     const targetUrl = decodeURIComponent(target);
     const extraHeaders = {};
-    if (parsed.query.Referer) extraHeaders['Referer'] = parsed.query.Referer;
-    if (parsed.query['User-Agent']) extraHeaders['User-Agent'] = parsed.query['User-Agent'];
+    if (reqUrl.searchParams.get('Referer')) extraHeaders['Referer'] = reqUrl.searchParams.get('Referer');
+    if (reqUrl.searchParams.get('User-Agent')) extraHeaders['User-Agent'] = reqUrl.searchParams.get('User-Agent');
 
-    try {
-      var opts = new url.URL(targetUrl);
-    } catch (e) {
-      res.writeHead(400, { 'Content-Type': 'text/plain' });
-      res.end('Invalid URL');
+    var opts;
+    try { opts = new URL(targetUrl); } catch (e) {
+      safeEnd(res, 400, 'Invalid URL');
       return;
     }
 
     const isHttps = opts.protocol === 'https:';
     const transport = isHttps ? https : http;
+    let done = false;
 
     const options = {
       hostname: opts.hostname,
       port: opts.port || (isHttps ? 443 : 80),
       path: opts.pathname + opts.search,
       method: req.method,
-      headers: {
-        'Accept': '*/*',
-        'Accept-Language': 'en-US,en;q=0.9',
-        ...extraHeaders,
-      },
+      headers: { 'Accept': '*/*', ...extraHeaders },
       timeout: 30000,
     };
 
-    if (req.headers['range']) {
-      options.headers['Range'] = req.headers['range'];
-    }
+    if (req.headers['range']) options.headers['Range'] = req.headers['range'];
 
     const proxyReq = transport.request(options, (proxyRes) => {
-      const responseHeaders = {
+      if (done) return; done = true;
+      var h = {
         'Access-Control-Allow-Origin': '*',
         'Access-Control-Allow-Headers': '*',
         'Access-Control-Expose-Headers': 'Content-Range, Accept-Ranges',
         'Content-Type': proxyRes.headers['content-type'] || 'video/mp2t',
       };
-
-      // Forward important headers if present
-      if (proxyRes.headers['content-length']) responseHeaders['Content-Length'] = proxyRes.headers['content-length'];
-      if (proxyRes.headers['accept-ranges']) responseHeaders['Accept-Ranges'] = proxyRes.headers['accept-ranges'];
-      if (proxyRes.headers['content-range']) responseHeaders['Content-Range'] = proxyRes.headers['content-range'];
-
-      res.writeHead(proxyRes.statusCode, responseHeaders);
+      if (proxyRes.headers['content-length']) h['Content-Length'] = proxyRes.headers['content-length'];
+      if (proxyRes.headers['accept-ranges']) h['Accept-Ranges'] = proxyRes.headers['accept-ranges'];
+      if (proxyRes.headers['content-range']) h['Content-Range'] = proxyRes.headers['content-range'];
+      res.writeHead(proxyRes.statusCode, h);
       proxyRes.pipe(res, { end: true });
     });
 
     proxyReq.on('error', (err) => {
-      res.writeHead(502, { 'Content-Type': 'text/plain' });
-      res.end('Proxy error: ' + err.message);
+      if (done) return; done = true;
+      safeEnd(res, 502, 'Proxy error: ' + err.message);
     });
 
     proxyReq.on('timeout', () => {
       proxyReq.destroy();
-      res.writeHead(504, { 'Content-Type': 'text/plain' });
-      res.end('Proxy timeout');
+      if (done) return; done = true;
+      safeEnd(res, 504, 'Proxy timeout');
     });
 
     proxyReq.end();
