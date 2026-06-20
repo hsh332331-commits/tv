@@ -217,6 +217,11 @@ function proxyRequest(req, res, targetUrl, extraHeaders, depth = 0) {
     if (proxyRes.headers['content-length']) responseHeaders['Content-Length'] = proxyRes.headers['content-length'];
     res.writeHead(statusCode, responseHeaders);
     proxyRes.pipe(res);
+
+    proxyRes.on('close', () => upstreamReq.destroy());
+    proxyRes.on('end', () => {
+      try { if (!res.writableEnded) res.end(); } catch (_) {}
+    });
   });
 
   upstreamReq.on('socket', (socket) => {
@@ -242,12 +247,6 @@ function proxyRequest(req, res, targetUrl, extraHeaders, depth = 0) {
   upstreamReq.on('timeout', () => {
     upstreamReq.destroy(new Error('Proxy timeout'));
   });
-
-  proxyRes.on('close', () => upstreamReq.destroy());
-  proxyRes.on('end', () => {
-    try { if (!res.writableEnded) res.end(); } catch (_) {}
-  });
-
 
   upstreamReq.end();
 }

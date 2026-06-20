@@ -29,8 +29,8 @@
   <section class="hero" aria-label="ملخص القنوات">
     <div class="hero-content">
       <div>
-        <h1>مشغل قنوات مباشر بتصميم أسرع</h1>
-        <p>واجهة محسّنة للكمبيوتر والجوال، بحث سريع، تحميل صور ذكي، وتشغيل أكثر استقراراً مع تنظيف المشغل عند تبديل القنوات.</p>
+        <h1>ابو اصيل للاستشارات الطبية</h1>
+        <p>الاستضافة مجانية في حال عدم وجود مشاهدات يدخل السيرفر في وضع الخمول ويحتاج الى دقبقه من اجل تفعيله.</p>
       </div>
       <div class="stats">
         <div class="stat"><span class="stat-value" id="statTotal">0</span><span class="stat-label">قناة</span></div>
@@ -1412,32 +1412,18 @@ function playTs(idx, token, url, headers) {
   currentPlayer = mpegts.createPlayer({ type: 'mse', url: proxyUrl(url, headers), isLive: true }, {
     enableWorker: true,
     enableStashBuffer: true,
-    stashInitialSize: 1024,
-    liveBufferLatencyChasing: false,
+    stashInitialSize: 512,
+    liveBufferLatencyChasing: true,
+    liveBufferLatencyMaxLatency: 10,
     lazyLoad: true,
-    lazyMaxLatency: 45,
-    lazyReconnect: 3,
+    lazyMaxLatency: 30,
+    lazyReconnect: 5,
     fixAudioTimestampGap: false
   });
   currentPlayer.attachMediaElement(els.video);
   currentPlayer.on(mpegts.Events.ERROR, function(errType, errDetail) {
     if (token !== playToken) return;
-    if (errType === mpegts.ErrorTypes.NETWORK_ERROR && token === playToken && !isRetrying) {
-      isRetrying = true;
-      showStatus('انقطع الاتصال، إعادة محاولة...', true);
-      setTimeout(function() {
-        if (token !== playToken) return;
-        if (currentPlayer) {
-          try { currentPlayer.unload(); currentPlayer.load(); } catch(e) {}
-        }
-        isRetrying = false;
-      }, 2000);
-      return;
-    }
-    showStreamFailure(idx, 'خطأ في البث (' + errType + ')');
-  });
-  currentPlayer.on(mpegts.Events.RECOVERED_EARLY_EOF, function() {
-    if (token === playToken) hideStatus();
+    showStreamFailure(idx, 'خطأ في بث TS: ' + errType + (errDetail ? ' - ' + errDetail : ''));
   });
   currentPlayer.load();
   var p = currentPlayer.play();
