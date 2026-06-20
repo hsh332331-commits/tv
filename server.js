@@ -10,8 +10,8 @@ const PORT = Number(process.env.PORT || 8080);
 const HOST = process.env.HOST || '0.0.0.0';
 const ROOT = __dirname;
 const MAX_REDIRECTS = 5;
-const REQUEST_TIMEOUT_MS = 60000;
-const SOCKET_TIMEOUT_MS = 180000;
+const REQUEST_TIMEOUT_MS = 30000;
+const SOCKET_TIMEOUT_MS = 90000;
 const FALLBACK_TO_HTTP_ON_TLS_ERROR = true;
 
 const KEEPALIVE_AGENT_HTTP = new http.Agent({ keepAlive: true, keepAliveMsecs: 30000, maxSockets: 64 });
@@ -134,7 +134,7 @@ function rewriteM3U8(playlist, baseUrl, extraHeaders) {
 }
 
 const { PassThrough } = require('stream');
-const STREAM_BUFFER_SIZE = 2 * 1024 * 1024;
+const STREAM_BUFFER_SIZE = 512 * 1024;
 
 function proxyRequest(req, res, targetUrl, extraHeaders, depth = 0, retryCount = 0) {
   if (depth > MAX_REDIRECTS) {
@@ -225,8 +225,8 @@ function proxyRequest(req, res, targetUrl, extraHeaders, depth = 0, retryCount =
       const preBuffer = [];
       let preSize = 0;
       let preTimer = null;
-      const MIN_PREBUFFER = 64 * 1024;
-      const MAX_PREWAIT = 2500;
+      const MIN_PREBUFFER = 32 * 1024;
+      const MAX_PREWAIT = 1000;
 
       function flushPrebuffer() {
         if (preTimer) clearTimeout(preTimer);

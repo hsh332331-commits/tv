@@ -1380,18 +1380,18 @@ function playHls(idx, token, url, headers) {
   }
   currentPlayer = new Hls({
     enableWorker: true,
-    lowLatencyMode: false,
+    lowLatencyMode: true,
     capLevelToPlayerSize: true,
     startLevel: -1,
-    maxBufferLength: 60,
-    maxMaxBufferLength: 120,
-    backBufferLength: 30,
-    liveSyncDurationCount: 5,
-    liveMaxLatencyDurationCount: 12,
-    fragLoadingTimeOut: 30000,
-    manifestLoadingTimeOut: 30000,
-    fragLoadingMaxRetry: 5,
-    manifestLoadingMaxRetry: 5
+    maxBufferLength: 30,
+    maxMaxBufferLength: 60,
+    backBufferLength: 10,
+    liveSyncDurationCount: 2,
+    liveMaxLatencyDurationCount: 4,
+    fragLoadingTimeOut: 15000,
+    manifestLoadingTimeOut: 15000,
+    fragLoadingMaxRetry: 3,
+    manifestLoadingMaxRetry: 3
   });
   currentPlayer.loadSource(proxied);
   currentPlayer.attachMedia(els.video);
@@ -1419,11 +1419,11 @@ function playTs(idx, token, url, headers) {
   currentPlayer = mpegts.createPlayer({ type: 'mse', url: proxyUrl(url, headers), isLive: true }, {
     enableWorker: true,
     enableStashBuffer: true,
-    stashInitialSize: 4096,
-    liveBufferLatencyChasing: false,
+    stashInitialSize: 1024,
+    liveBufferLatencyChasing: true,
     lazyLoad: true,
-    lazyMaxLatency: 60,
-    lazyReconnect: 3,
+    lazyMaxLatency: 15,
+    lazyReconnect: 5,
     fixAudioTimestampGap: true
   });
   currentPlayer.attachMediaElement(els.video);
