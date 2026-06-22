@@ -29,13 +29,13 @@
   <section class="hero" aria-label="ملخص القنوات">
     <div class="hero-content">
       <div>
-        <h1>تم تحديث القنوات لتشمل 165 قناة عالمية رياضية</h1>
-        <p>الاستضافة مجانية في حال عدم وجود مشاهدات يدخل السيرفر في وضع الخمول ويحتاج الى دقيقة من اجل تفعيله.</p>
+        <h1>24 قناة رياضية مباشرة — تم اختبارها وتعمل</h1>
+        <p>جميع القنوات اجتازت اختبار الاتصال. إذا ظهر خطأ، فالمشكلة من خادم البث نفسه.</p>
       </div>
       <div class="stats">
         <div class="stat"><span class="stat-value" id="statTotal">0</span><span class="stat-label">قناة</span></div>
         <div class="stat"><span class="stat-value" id="statHls">0</span><span class="stat-label">HLS</span></div>
-        <div class="stat"><span class="stat-value" id="statTs">0</span><span class="stat-label">TS</span></div>
+
         <div class="stat"><span class="stat-value" id="statFav">0</span><span class="stat-label">مفضلة</span></div>
       </div>
     </div>
@@ -43,8 +43,7 @@
   <div class="toolbar">
     <div class="filter-group" id="filters" aria-label="فلاتر سريعة">
       <button class="filter-btn active" data-filter="all" type="button">الكل</button>
-      <button class="filter-btn" data-filter="hls" type="button">HLS</button>
-      <button class="filter-btn" data-filter="ts" type="button">TS</button>
+
       <button class="filter-btn" data-filter="quality" data-quality="4K" type="button">4K</button>
       <button class="filter-btn" data-filter="quality" data-quality="HD" type="button">HD</button>
     </div>
@@ -70,240 +69,13 @@
 </div>
 <div class="toast" id="toast"></div>
 <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-<script src="https://cdn.jsdelivr.net/npm/mpegts.js@latest"></script>
 <script>
 var CHANNELS = [
   {
-    "n": "beIN MAX 1 4K",
-    "l": "https://up6.cc/2026/05/177929485997331.png",
-    "c": "Movie API",
-    "u": "http://195.182.16.46:8080/live/omar777/01103978590/460861.ts?token=yafHbHd.ydyfz.X.adUXc.ydzdHbfHUb.X.y.EG.ts.ff5745f1bc4df49108ab5650a30e83c8c7fc1ec7a3c8d965feabdb0fe7373d6e.37069.T3JhbmdlIEVneXB0.b25lZ2F6YWwyLnh5eg==",
-    "h": {
-      "Referer": "http://23370wa.xyz/",
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; samsung SM-P610 Build/QP1A.190711.020) IPTV/9.1.15"
-    }
-  },
-  {
-    "n": "beIN MAX 2 4K",
-    "l": "https://up6.cc/2026/05/177929492239961.png",
-    "c": "Movie API",
-    "u": "http://172.110.216.171:2095/live/omar777/01103978590/460864.ts?token=yafHbHd.azXzf.X.aUbXz.ydzdHzXHca.X.y.EG.ts.1ff2867e8238680fd862ac09d0ffb8a6f4e4f0d3295613c1281d4e0494f4f18f.8452.VGVsZWNvbSBFZ3lwdA==.b25lZ2F6YWwyLnh5eg==",
-    "h": {
-      "User-Agent": "http://be-ice.com:8080/live/omar777/01103978590/462212.ts"
-    }
-  },
-  {
-    "n": "beIN MAX 3 4K",
-    "l": "https://up6.cc/2026/05/177929498885651.png",
-    "c": "Movie API",
-    "u": "http://195.182.16.44:8080/live/omar777/01103978590/460867.ts?token=yafHbHd.cyXbU.X.ayUbX.ydzdHbfzdX.X.y.EG.ts.e7b55c03065ced69687837344fcf752dccd12a2c7afd3b8af00a215c227bb253.37069.T3JhbmdlIEVneXB0.b25lZ2F6YWwyLnh5eg==",
-    "h": {}
-  },
-  {
-    "n": "beIN MAX 1 HD",
-    "l": "https://up6.cc/2026/05/177929485997331.png",
-    "c": "Movie API",
-    "u": "http://195.182.16.45:8080/live/omar777/01103978590/460862.ts?token=yafHbHd.fcyfa.X.cbbXX.ydzdHdzdfH.X.y.EG.ts.9179f44c7ba637ff8fd887c31a3b8395e992d7c7a2f25a994b1c5ad644fc24a7.8452.VGVsZWNvbSBFZ3lwdA==.b25lZ2F6YWwyLnh5eg==",
-    "h": {}
-  },
-  {
-    "n": "beIN MAX 2 HD",
-    "l": "https://up6.cc/2026/05/177929492239961.png",
-    "c": "Movie API",
-    "u": "http://195.182.16.45:8080/live/omar777/01103978590/460865.ts?token=yafHbHd.fcXdy.X.cbdXd.ydzdHzXHzX.X.y.EG.ts.e2dab7af0afdcae1678ed4df481dc2792e6822ae0ba840b990e7d0e4e3161d46.8452.VGVsZWNvbSBFZ3lwdA==.b25lZ2F6YWwyLnh5eg==",
-    "h": {}
-  },
-  {
-    "n": "beIN MAX 2 SD",
-    "l": "https://up6.cc/2026/05/177929492239961.png",
-    "c": "Movie API",
-    "u": "http://195.182.16.45:8080/live/omar777/01103978590/460866.ts?token=yafHbHd.fcbab.X.UzXXd.ydzdHzXzaf.X.y.EG.ts.aea161935df9590c6f7ce5b28f179da1eda87ee5d05b1e8a2b0a2254731a7ff2.8452.VGVsZWNvbSBFZ3lwdA==.b25lZ2F6YWwyLnh5eg==",
-    "h": {}
-  },
-  {
-    "n": "beIN MAX 4 4K",
-    "l": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_4.png",
-    "c": "Movie API",
-    "u": "http://195.182.16.45:8080/live/omar777/01103978590/460870.ts?token=yafHbHd.yafaH.X.UbUcf.ydzdHzXbzy.X.y.EG.ts.9897b8cd97a8009d95dfd6b1db592fdc37886ca1a2a5ffa2604f903befe63061.8452.VGVsZWNvbSBFZ3lwdA==.b25lZ2F6YWwyLnh5eg==",
-    "h": {
-      "Referer": "...",
-      "User-Agent": "...."
-    }
-  },
-  {
-    "n": "beIN MAX 4 SD",
-    "l": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_4.png",
-    "c": "Movie API",
-    "u": "http://195.182.16.44:8080/live/omar777/01103978590/460872.ts?token=yafHbHd.fzdHa.X.ayUUd.ydzdHzXdHU.X.y.EG.ts.e4c64d4b2091d256b7f52829221cede0240cc55865836a0670936e70538f4ba4.8452.VGVsZWNvbSBFZ3lwdA==.b25lZ2F6YWwyLnh5eg==",
-    "h": {}
-  },
-  {
-    "n": "beIN MAX 1 4K SS",
-    "l": "https://up6.cc/2026/05/177929485997331.png",
-    "c": "Movie API",
-    "u": "http://kalaasmr.blog:8080/live/1793416520/3146985400/1295251.ts",
-    "h": {}
-  },
-  {
-    "n": "beIN MAX 2 4K SS",
-    "l": "https://up6.cc/2026/05/177929492239961.png",
-    "c": "Movie API",
-    "u": "http://kalaasmr.blog:8080/live/1793416520/3146985400/1295252.ts",
-    "h": {}
-  },
-  {
-    "n": "beIN MAX 1 HD SS",
-    "l": "https://up6.cc/2026/05/177929485997331.png",
-    "c": "Movie API",
-    "u": "http://kalaasmr.blog:8080/live/1793416520/3146985400/1246128.ts",
-    "h": {}
-  },
-  {
-    "n": "beIN MAX 2 HD SS",
-    "l": "https://up6.cc/2026/05/177929492239961.png",
-    "c": "Movie API",
-    "u": "http://kalaasmr.blog:8080/live/1793416520/3146985400/1246129.ts",
-    "h": {}
-  },
-  {
-    "n": "beIN MAX 1 SD F",
-    "l": "https://up6.cc/2026/05/177929485997331.png",
-    "c": "Movie API",
-    "u": "http://kalaasmr.blog:8080/live/1793416520/3146985400/1295215.m3u8",
-    "h": {}
-  },
-  {
-    "n": "beIN MAX 2 SD F",
-    "l": "https://up6.cc/2026/05/177929492239961.png",
-    "c": "Movie API",
-    "u": "http://kalaasmr.blog:8080/live/1793416520/3146985400/1295216.m3u8",
-    "h": {}
-  },
-  {
-    "n": "الوان 1",
-    "l": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s",
-    "c": "Movie API",
-    "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181661.ts",
-    "h": {
-      "User-Agent": "Mozilla/5.0"
-    }
-  },
-  {
-    "n": "الوان 2",
-    "l": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s",
-    "c": "Movie API",
-    "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181663.ts",
-    "h": {
-      "User-Agent": "Mozilla/5.0"
-    }
-  },
-  {
-    "n": "الوان 3",
-    "l": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s",
-    "c": "Movie API",
-    "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181666.ts",
-    "h": {
-      "User-Agent": "Mozilla/5.0"
-    }
-  },
-  {
-    "n": "الوان 4",
-    "l": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s",
-    "c": "Movie API",
-    "u": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181669.ts",
-    "h": {
-      "User-Agent": "Mozilla/5.0"
-    }
-  },
-  {
-    "n": "POST 2",
-    "l": "https://up6.cc/2026/06/178159107274521.png",
-    "c": "Movie API",
-    "u": "http://palestine.vibertv.cyou/post2/index.m3u8",
-    "h": {
-      "User-Agent": "Mozilla/5.0"
-    }
-  },
-  {
-    "n": "اسكتلندا vs المغرب",
-    "l": "https://yallashare.cc/wp-content/uploads/2026/05/d8a7d8b3d983d8aad984d986d8afd8a7.webp",
-    "c": "Movie API",
-    "u": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
-    "h": {
-      "Referer": "https://bbara.kooooorabokamin.shop/",
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-    }
-  },
-  {
-    "n": "Alkass One",
-    "l": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
+    "n": "Masr2",
+    "l": "https://i.ibb.co/VnRSg3K/icon-23.jpg",
     "c": "رياضة",
-    "u": "https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8",
-    "h": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
-    }
-  },
-  {
-    "n": "Alkass Six",
-    "l": "https://boatshowqatar.com/wp-content/uploads/2025/09/Sponsors-Al-Kass.png",
-    "c": "رياضة",
-    "u": "https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Shoof Tv",
-    "l": "https://up6.cc/2025/04/174510358909161.png",
-    "c": "رياضة",
-    "u": "https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Shoof TV 2",
-    "l": "https://up6.cc/2025/04/174510358909161.png",
-    "c": "رياضة",
-    "u": "https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8",
-    "h": {}
-  },
-  {
-    "n": "AL1",
-    "l": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUPMAW68z2n_pschRQ0I_w_PxrX1vE7nPsWJ-Fw7NwsA&s",
-    "c": "رياضة",
-    "u": "https://stream.goalxtv.workers.dev/alw1/hd.m3u8",
-    "h": {}
-  },
-  {
-    "n": "AL2",
-    "l": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUPMAW68z2n_pschRQ0I_w_PxrX1vE7nPsWJ-Fw7NwsA&s",
-    "c": "رياضة",
-    "u": "https://stream.goalxtv.workers.dev/alw2/hd.m3u8",
-    "h": {}
-  },
-  {
-    "n": "AL3",
-    "l": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUPMAW68z2n_pschRQ0I_w_PxrX1vE7nPsWJ-Fw7NwsA&s",
-    "c": "رياضة",
-    "u": "https://stream.goalxtv.workers.dev/alw3/hd.m3u8",
-    "h": {}
-  },
-  {
-    "n": "AL4",
-    "l": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUPMAW68z2n_pschRQ0I_w_PxrX1vE7nPsWJ-Fw7NwsA&s",
-    "c": "رياضة",
-    "u": "https://stream.goalxtv.workers.dev/alw4/hd.m3u8",
-    "h": {}
-  },
-  {
-    "n": "AL5",
-    "l": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUPMAW68z2n_pschRQ0I_w_PxrX1vE7nPsWJ-Fw7NwsA&s",
-    "c": "رياضة",
-    "u": "https://stream.goalxtv.workers.dev/alw5/hd.m3u8",
-    "h": {}
-  },
-  {
-    "n": "AL6",
-    "l": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUPMAW68z2n_pschRQ0I_w_PxrX1vE7nPsWJ-Fw7NwsA&s",
-    "c": "رياضة",
-    "u": "https://stream.goalxtv.workers.dev/alw6/hd.m3u8",
+    "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8",
     "h": {}
   },
   {
@@ -314,216 +86,10 @@ var CHANNELS = [
     "h": {}
   },
   {
-    "n": "Masr2",
-    "l": "https://i.ibb.co/VnRSg3K/icon-23.jpg",
-    "c": "رياضة",
-    "u": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Almghribia",
-    "l": "",
-    "c": "رياضة",
-    "u": "https://stream-lb.livemediama.com/almaghribia/hls/master.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Ch03 Earthlink",
-    "l": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
-    "c": "رياضة",
-    "u": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/adaptive.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Ch05 Earthlink",
-    "l": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",
-    "c": "رياضة",
-    "u": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch5/adaptive.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Ch04 Earthlink",
-    "l": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",
-    "c": "رياضة",
-    "u": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch4/adaptive.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Ch01 Earthlink",
-    "l": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
-    "c": "رياضة",
-    "u": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Ch06 Earthlink",
-    "l": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png",
-    "c": "رياضة",
-    "u": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch6/adaptive.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Ch02 Earthlink",
-    "l": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png",
-    "c": "رياضة",
-    "u": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/adaptive.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Mejar 2 ᴴᵉᵛᶜ",
-    "l": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png",
-    "c": "رياضة",
-    "u": "https://akamaized.live/hdr/index.m3u8",
-    "h": {}
-  },
-  {
-    "n": "QazSport (480p) [Geo-blocked]",
-    "l": "https://i.imgur.com/UDJ0P5Q.png",
-    "c": "رياضة",
-    "u": "https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8",
-    "h": {}
-  },
-  {
-    "n": "ITV Deportes",
-    "l": "https://iili.io/J1kV1Bn.png",
-    "c": "رياضة",
-    "u": "https://thm-it-roku.otteravision.com/thm/it/it.m3u8",
-    "h": {}
-  },
-  {
     "n": "Inter Tv",
     "l": "https://i.imgur.com/FUTqh2L.png",
     "c": "رياضة",
     "u": "https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8",
-    "h": {}
-  },
-  {
-    "n": "BEIN SPORTS EXTRA Ñ",
-    "l": "https://i.postimg.cc/MHsyq36G/descarga-6.jpg",
-    "c": "رياضة",
-    "u": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
-    "h": {}
-  },
-  {
-    "n": "UFC",
-    "l": "https://i.ibb.co/k31DCf4/Do0-qz-Jj-Xw-GBUbh-K7n-CQi-Vro2-YT51-DHh-Bw7-On-Tv-Jr35-PEACSqaqhxf-Hdmed-SZr-Ei-LTiuq-ERb-s900-c-k.webp",
-    "c": "رياضة",
-    "u": "https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134",
-    "h": {}
-  },
-  {
-    "n": "PERSIANA SPORTS",
-    "l": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
-    "c": "رياضة",
-    "u": "https://stream.live12.ir/hls2/persiana.m3u8",
-    "h": {
-      "Referer": "https://forcedtoplay.xyz/server_lookup.php?channel_id=premium",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
-    }
-  },
-  {
-    "n": "Bintang Olahraga 1 Hindi",
-    "l": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
-    "c": "رياضة",
-    "u": "http://41.205.93.154/STARSPORTS1/tracks-v1/mono.m3u8",
-    "h": {
-      "Referer": "https://forcedtoplay.xyz/server_lookup.php?channel_id=premium",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
-    }
-  },
-  {
-    "n": "Olahraga Bintang Olahraga Langsung 1 HD",
-    "l": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
-    "c": "رياضة",
-    "u": "http://41.205.93.154/STARSPORTS1/mono.m3u8",
-    "h": {
-      "Referer": "https://forcedtoplay.xyz/server_lookup.php?channel_id=premium",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
-    }
-  },
-  {
-    "n": "BEIN SPORTS (MMNHD)",
-    "l": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
-    "c": "رياضة",
-    "u": "http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8",
-    "h": {
-      "Referer": "https://forcedtoplay.xyz/server_lookup.php?channel_id=premium",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
-    }
-  },
-  {
-    "n": "Red Bull Tv",
-    "l": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
-    "c": "رياضة",
-    "u": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
-    "h": {
-      "Referer": "https://forcedtoplay.xyz/server_lookup.php?channel_id=premium",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
-    }
-  },
-  {
-    "n": "KOTAK PERANG HD",
-    "l": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
-    "c": "رياضة",
-    "u": "http://iptv.prosto.tv:7000/ch118/video.m3u8",
-    "h": {
-      "Referer": "https://forcedtoplay.xyz/server_lookup.php?channel_id=premium",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
-    }
-  },
-  {
-    "n": "X OLAHRAGA",
-    "l": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
-    "c": "رياضة",
-    "u": "http://iptv.prosto.tv:7000/ch110/video.m3u8",
-    "h": {
-      "Referer": "https://forcedtoplay.xyz/server_lookup.php?channel_id=premium",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
-    }
-  },
-  {
-    "n": "X SPORT PLUS",
-    "l": "https://i.ibb.co/48P1BLy/Tv-Event-1025-x-766.jpg",
-    "c": "رياضة",
-    "u": "http://iptv.prosto.tv:7000/ch117/video.m3u8",
-    "h": {
-      "Referer": "https://forcedtoplay.xyz/server_lookup.php?channel_id=premium",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
-    }
-  },
-  {
-    "n": "bein1",
-    "l": "https://imgs1.e-droid.net/srv/imgs/seccs/21350667_ico.png",
-    "c": "رياضة",
-    "u": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_720.m3u8",
-    "h": {}
-  },
-  {
-    "n": "bein 2",
-    "l": "https://imgs1.e-droid.net/srv/imgs/seccs/21350668_ico.png",
-    "c": "رياضة",
-    "u": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/ch2_1080.m3u8",
-    "h": {}
-  },
-  {
-    "n": "BeiN 1",
-    "l": "https://imgs1.e-droid.net/srv/imgs/seccs/21350667_ico.png",
-    "c": "رياضة",
-    "u": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PQRQCB2NKUWPMCFCEQXDT4Z3/6123/index.m3u8",
-    "h": {}
-  },
-  {
-    "n": "MAX2",
-    "l": "https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png",
-    "c": "رياضة",
-    "u": "https://github.com/ON2026/1smas/raw/refs/heads/main/mx2app2.m3u8",
-    "h": {}
-  },
-  {
-    "n": "MAX1",
-    "l": "https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png",
-    "c": "رياضة",
-    "u": "https://github.com/ON2026/1smas/raw/refs/heads/main/mx1app2.m3u8",
     "h": {}
   },
   {
@@ -534,551 +100,10 @@ var CHANNELS = [
     "h": {}
   },
   {
-    "n": "BEIN 3",
-    "l": "https://iili.io/JhkQCrl.png",
-    "c": "رياضة",
-    "u": "http://145.239.5.177:80/559/index.m3u8",
-    "h": {}
-  },
-  {
-    "n": "CANAL + Sport",
-    "l": "https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png",
-    "c": "رياضة",
-    "u": "http://151.80.18.177:86/Canal+_sport_HD/index.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Alkass 1",
-    "l": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYooKFw-PxEWQ5kj_n80oRihnkPA2it5OaWA&usqp=CAU",
-    "c": "رياضة",
-    "u": "https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1qawiv/master.m3u8",
-    "h": {
-      "User-Agent": "damx"
-    }
-  },
-  {
-    "n": "3M",
-    "l": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNZojUZsg6Epyv7180s0e352SirtavBbfiSw&usqp=CAU",
-    "c": "رياضة",
-    "u": "https://live.teleradiocom.tj/5/3m.m3u8?rriptv",
-    "h": {}
-  },
-  {
-    "n": "DigitalFree",
-    "l": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxz480zFjZKYgN1y6ZFvAj4Ra1q-rmf8RnE1vE7meRgA&s=10",
-    "c": "رياضة",
-    "u": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/413e9d90-a69f-4c02-963d-6aca91619f32/0.m3u8",
-    "h": {
-      "User-Agent": "Roku/DVP-12.0"
-    }
-  },
-  {
-    "n": "Ajyal TV",
-    "l": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ0Dm5wQR8Ow4Sl-UBCvSTw3IIKxlJ_1efxu6NXXL2UQ&s=10",
-    "c": "رياضة",
-    "u": "http://htvmada.mada.ps:8888/ajyal/index.m3u8",
-    "h": {}
-  },
-  {
-    "n": "FIFA+",
-    "l": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSZzSjxml-NQv-8CbbDgmFdPyjOhGVjFTZm1RGf78RSg&s=10",
-    "c": "رياضة",
-    "u": "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8",
-    "h": {
-      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24"
-    }
-  },
-  {
-    "n": "FIFA+ French (720p)",
-    "l": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSZzSjxml-NQv-8CbbDgmFdPyjOhGVjFTZm1RGf78RSg&s=10",
-    "c": "رياضة",
-    "u": "https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8",
-    "h": {
-      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24"
-    }
-  },
-  {
-    "n": "FIFA+ German (720p)",
-    "l": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSZzSjxml-NQv-8CbbDgmFdPyjOhGVjFTZm1RGf78RSg&s=10",
-    "c": "رياضة",
-    "u": "https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8",
-    "h": {
-      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24"
-    }
-  },
-  {
-    "n": "FIFA+ Italy (720p)",
-    "l": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSZzSjxml-NQv-8CbbDgmFdPyjOhGVjFTZm1RGf78RSg&s=10",
-    "c": "رياضة",
-    "u": "https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8",
-    "h": {
-      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24"
-    }
-  },
-  {
-    "n": "FIFA+ Spain (720p)",
-    "l": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSZzSjxml-NQv-8CbbDgmFdPyjOhGVjFTZm1RGf78RSg&s=10",
-    "c": "رياضة",
-    "u": "https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8",
-    "h": {
-      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24"
-    }
-  },
-  {
-    "n": "FIFA+ United States (720p)",
-    "l": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSZzSjxml-NQv-8CbbDgmFdPyjOhGVjFTZm1RGf78RSg&s=10",
-    "c": "رياضة",
-    "u": "https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8",
-    "h": {
-      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24"
-    }
-  },
-  {
-    "n": "KURD",
-    "l": "https://fls.cjs.jyh/",
-    "c": "رياضة",
-    "u": "http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8",
-    "h": {
-      "Referer": "https://www.krdtv.online/"
-    }
-  },
-  {
-    "n": "Far",
-    "l": "",
-    "c": "رياضة",
-    "u": "https://live-aburayhan1107.telewebion.ir/ek/faratar/live/2160p/index.m3u8",
-    "h": {}
-  },
-  {
-    "n": "HDR",
-    "l": "https://fls.cjs.jyh/",
-    "c": "رياضة",
-    "u": "https://live-aburayhan1101.telewebion.ir/ek/faratar/live/1440p/index.m3u8",
-    "h": {}
-  },
-  {
-    "n": "NRT TV",
-    "l": "https://fls.cjs.jyh/",
-    "c": "رياضة",
-    "u": "http://imkhd.ddns.net:1935/live/imkhd/playlist.m3u8",
-    "h": {
-      "Referer": "https://www.krdtv.online/"
-    }
-  },
-  {
-    "n": "Aya",
-    "l": "https://fls.cjs.jyh/",
-    "c": "رياضة",
-    "u": "http://217.76.62.187/hls/kids.m3u8",
-    "h": {
-      "Referer": "https://www.krdtv.online/"
-    }
-  },
-  {
-    "n": "ASTERA SPORT",
-    "l": "https://pbs.twimg.com/profile_images/1284844655767625728/CmXIxHPo_400x400.jpg",
-    "c": "رياضة",
-    "u": "http://130.193.165.162/lbengine/Astera-Sport-LB+ph/bVkFh6U__hi__Gn9kqZeNRbIKWni9iiwJ2tx7x2wc__ih__siapM3Z9__ih__RBj1MAQYx3tkAQUl8mt6glwnjYLEkos__ih__iMwEi9G9__hi__n3ppKoz5DxyjaFwoflWXIT6RPRmhK__ih__uSk59QwXK__ih__JMONf6BiW0R4TW5M5lCnfmJvbW7eo8UN94Wlp7RccgVGIgmRf59JGeOOP9G__hi__rbbxQ38Z8h979cG1xgRi8AAnbHU4llUWDAdyUo7__ih__KvKZo0DXVZNucxexqO0wwAcxmuMHdEWYsVABz8BJh8xVhG5__hi__O2jpDBlEPjDY43xu1j76DaIgGTl9dlxTsq2vtqMkSxmEF0---/cache/Astera-Sport-LB/master.m3u8",
-    "h": {}
-  },
-  {
-    "n": "La liga Inside",
-    "l": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20241022T050545SQUARE.png",
-    "c": "رياضة",
-    "u": "https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8",
-    "h": {}
-  },
-  {
-    "n": "DAZN 1",
-    "l": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/250px-DAZN_Logo_Master.svg.png",
-    "c": "رياضة",
-    "u": "http://znty.dyndns.org:5010/hls/eleven1.m3u8",
-    "h": {}
-  },
-  {
-    "n": "DAZN 2",
-    "l": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/250px-DAZN_Logo_Master.svg.png",
-    "c": "رياضة",
-    "u": "http://znty.dyndns.org:5010/hls/eleven2.m3u8",
-    "h": {}
-  },
-  {
-    "n": "DAZN 3",
-    "l": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/250px-DAZN_Logo_Master.svg.png",
-    "c": "رياضة",
-    "u": "http://znty.dyndns.org:5010/hls/eleven3.m3u8",
-    "h": {}
-  },
-  {
-    "n": "DAZN 4",
-    "l": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/250px-DAZN_Logo_Master.svg.png",
-    "c": "رياضة",
-    "u": "http://znty.dyndns.org:5010/hls/eleven4.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Eurosport 1+",
-    "l": "http://epg.cdntv.online/img/37.png",
-    "c": "رياضة",
-    "u": "https://cdntv.online/high/9mlxywika2/37.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Eurosport 1 HD",
-    "l": "http://epg.cdntv.online/img/38.png",
-    "c": "رياضة",
-    "u": "https://cdntv.online/high/9mlxywika2/38.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Eurosport 2",
-    "l": "http://epg.cdntv.online/img/39.png",
-    "c": "رياضة",
-    "u": "https://cdntv.online/high/9mlxywika2/39.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Extreme sports",
-    "l": "http://epg.cdntv.online/img/41.png",
-    "c": "رياضة",
-    "u": "https://cdntv.online/high/9mlxywika2/41.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Viju Sport HD",
-    "l": "http://epg.cdntv.online/img/43.png",
-    "c": "رياضة",
-    "u": "https://cdntv.online/high/9mlxywika2/43.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Бокс ТВ",
-    "l": "http://epg.cdntv.online/img/44.png",
-    "c": "رياضة",
-    "u": "https://cdntv.online/high/9mlxywika2/44.m3u8",
-    "h": {}
-  },
-  {
-    "n": "КХЛ",
-    "l": "http://epg.cdntv.online/img/45.png",
-    "c": "رياضة",
-    "u": "https://cdntv.online/high/9mlxywika2/45.m3u8",
-    "h": {}
-  },
-  {
-    "n": "КХЛ Prime",
-    "l": "http://epg.cdntv.online/img/46.png",
-    "c": "رياضة",
-    "u": "https://cdntv.online/high/9mlxywika2/46.m3u8",
-    "h": {}
-  },
-  {
-    "n": "МАТЧ! Арена HD",
-    "l": "http://epg.cdntv.online/img/47.png",
-    "c": "رياضة",
-    "u": "https://cdntv.online/high/9mlxywika2/47.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Матч! HD",
-    "l": "http://epg.cdntv.online/img/48.png",
-    "c": "رياضة",
-    "u": "https://cdntv.online/high/9mlxywika2/48.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Матч! Арена",
-    "l": "http://epg.cdntv.online/img/49.png",
-    "c": "رياضة",
-    "u": "https://cdntv.online/high/9mlxywika2/49.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Матч! Боец",
-    "l": "http://epg.cdntv.online/img/50.png",
-    "c": "رياضة",
-    "u": "https://cdntv.online/high/9mlxywika2/50.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Матч! Премьер",
-    "l": "http://epg.cdntv.online/img/52.png",
-    "c": "رياضة",
-    "u": "https://cdntv.online/high/9mlxywika2/52.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Матч! Премьер HD",
-    "l": "http://epg.cdntv.online/img/53.png",
-    "c": "رياضة",
-    "u": "https://cdntv.online/high/9mlxywika2/53.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Матч! Страна",
-    "l": "http://epg.cdntv.online/img/54.png",
-    "c": "رياضة",
-    "u": "https://cdntv.online/high/9mlxywika2/54.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Матч! Футбол 1 HD",
-    "l": "http://epg.cdntv.online/img/55.png",
-    "c": "رياضة",
-    "u": "https://cdntv.online/high/9mlxywika2/55.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Матч! Футбол 2 HD",
-    "l": "http://epg.cdntv.online/img/56.png",
-    "c": "رياضة",
-    "u": "https://cdntv.online/high/9mlxywika2/56.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Матч! Футбол 3 HD",
-    "l": "http://epg.cdntv.online/img/57.png",
-    "c": "رياضة",
-    "u": "https://cdntv.online/high/9mlxywika2/57.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Старт",
-    "l": "http://epg.cdntv.online/img/58.png",
-    "c": "رياضة",
-    "u": "https://cdntv.online/high/9mlxywika2/58.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Футбол",
-    "l": "http://epg.cdntv.online/img/59.png",
-    "c": "رياضة",
-    "u": "https://cdntv.online/high/9mlxywika2/59.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Русский Экстрим",
-    "l": "http://epg.cdntv.online/img/175.png",
-    "c": "رياضة",
-    "u": "https://cdntv.online/high/9mlxywika2/175.m3u8",
-    "h": {}
-  },
-  {
-    "n": "UDAR HD",
-    "l": "http://epg.cdntv.online/img/381.png",
-    "c": "رياضة",
-    "u": "https://cdntv.online/high/9mlxywika2/381.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Матч! Игра HD",
-    "l": "http://epg.cdntv.online/img/383.png",
-    "c": "رياضة",
-    "u": "https://cdntv.online/high/9mlxywika2/383.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Мир Баскетбола",
-    "l": "http://epg.cdntv.online/img/462.png",
-    "c": "رياضة",
-    "u": "https://cdntv.online/high/9mlxywika2/462.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Старт HD",
-    "l": "http://epg.cdntv.online/img/464.png",
-    "c": "رياضة",
-    "u": "https://cdntv.online/high/9mlxywika2/464.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Точка отрыва",
-    "l": "http://epg.cdntv.online/img/465.png",
-    "c": "رياضة",
-    "u": "https://cdntv.online/high/9mlxywika2/465.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Матч! Футбол 2",
-    "l": "http://epg.cdntv.online/img/982.png",
-    "c": "رياضة",
-    "u": "https://cdntv.online/high/9mlxywika2/982.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Матч! Футбол 3",
-    "l": "http://epg.cdntv.online/img/983.png",
-    "c": "رياضة",
-    "u": "https://cdntv.online/high/9mlxywika2/983.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Сетанта Спорт HD",
-    "l": "http://epg.cdntv.online/img/1021.png",
-    "c": "رياضة",
-    "u": "https://cdntv.online/high/9mlxywika2/1021.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Сетанта Спорт+ HD",
-    "l": "http://epg.cdntv.online/img/1022.png",
-    "c": "رياضة",
-    "u": "https://cdntv.online/high/9mlxywika2/1022.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Футбольный HD",
-    "l": "http://epg.cdntv.online/img/1496.png",
-    "c": "رياضة",
-    "u": "https://cdntv.online/high/9mlxywika2/1496.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Хоккейный HD",
-    "l": "http://epg.cdntv.online/img/1497.png",
-    "c": "رياضة",
-    "u": "https://cdntv.online/high/9mlxywika2/1497.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Russian Extreme HD",
-    "l": "http://epg.cdntv.online/img/1034.png",
-    "c": "رياضة",
-    "u": "https://cdntv.online/high/9mlxywika2/1034.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Bahrain Sports 1 (720p) [Not 24/7]",
-    "l": "https://i.imgur.com/pQ0QGGl.jpg",
-    "c": "رياضة",
-    "u": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/mono.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Bahrain Sports 2 (720p) [Not 24/7]",
-    "l": "https://www.lyngsat.com/logo/tv/bb/bahrain-sports-1-bh.png",
-    "c": "رياضة",
-    "u": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/mono.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Itv Sport",
-    "l": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiKeEeKG5zBcQU1zU-xLvPhsp5v-dpadgh3bGSQgPT4g&s=10",
-    "c": "رياضة",
-    "u": "https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Bein SportXtra 🇺🇸[Pluto]",
-    "l": "https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",
-    "c": "رياضة",
-    "u": "https://bit.ly/BeinSportXtra?/master.m3u8",
-    "h": {
-      "Referer": "https://olalivehdplay.ru/z.m3u8"
-    }
-  },
-  {
-    "n": "🇺🇸 🎱🚴🎾⛷️➾ Eurosport",
-    "l": "https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/eurosport.png",
-    "c": "رياضة",
-    "u": "https://varun-iptv.netlify.app/m3u/Eurosport.m3u8",
-    "h": {
-      "Referer": "https://olalivehdplay.ru/z.m3u8"
-    }
-  },
-  {
-    "n": "World Billiards tv 🇺🇸[Otteratv]",
-    "l": "https://wst.tv/apple-touch-icon.png",
-    "c": "رياضة",
-    "u": "https://bit.ly/3JYZmO5?/playlist720_p.m3u8",
-    "h": {
-      "Referer": "https://olalivehdplay.ru/z.m3u8"
-    }
-  },
-  {
-    "n": "Trace Sports 🇺🇸[Pluto]",
-    "l": "https://br.trace.company/wp-content/uploads//2017/04/logo_sport1.png",
-    "c": "رياضة",
-    "u": "https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8",
-    "h": {
-      "Referer": "https://olalivehdplay.ru/z.m3u8"
-    }
-  },
-  {
-    "n": "Pac 12 Insider 🇺🇸[samsungtv]",
-    "l": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/43/USBA300034DB_20210525T051534.png",
-    "c": "رياضة",
-    "u": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-pac12-samsungtv-us/mono.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0",
-    "h": {
-      "Referer": "https://olalivehdplay.ru/z.m3u8"
-    }
-  },
-  {
-    "n": "Real Madrid Tv",
-    "l": "https://www.realmadrid.com/apple-icon-120x120.png",
-    "c": "رياضة",
-    "u": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8",
-    "h": {
-      "Referer": "https://olalivehdplay.ru/z.m3u8"
-    }
-  },
-  {
-    "n": "🇺🇸⭐ 🏎️➾ Discovery Turbo",
-    "l": "https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/DiscoveryTurbo.png",
-    "c": "رياضة",
-    "u": "https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8",
-    "h": {
-      "Referer": "https://olalivehdplay.ru/z.m3u8"
-    }
-  },
-  {
-    "n": "🇺🇸 🏎️🏍➾ Canal tv Motor",
-    "l": "https://github.com/inspirationlinks/inspiration-1/raw/master/canaltvmotor.webp",
-    "c": "رياضة",
-    "u": "https://digicom.hls.iptvdc.com/motorstv/mono.m3u8",
-    "h": {
-      "Referer": "https://olalivehdplay.ru/z.m3u8"
-    }
-  },
-  {
-    "n": "🇦🇷 🏍🏎️➾ Garage TV",
-    "l": "http://elgarage.com/wp-content/uploads/2021/04/favicon-150x150.png",
-    "c": "رياضة",
-    "u": "https://stream1.sersat.com/hls/garagetv.m3u8",
-    "h": {
-      "Referer": "https://olalivehdplay.ru/z.m3u8"
-    }
-  },
-  {
-    "n": "🇺🇸 🏄➾ Red Bull TVᴴᴰ",
-    "l": "https://github.com/inspirationlinks/inspiration-1/raw/master/redbullt.png",
-    "c": "رياضة",
-    "u": "http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
-    "h": {
-      "Referer": "https://olalivehdplay.ru/z.m3u8"
-    }
-  },
-  {
-    "n": "Surf Now tvᴴᴰ 🇺🇸[Pluto]",
-    "l": "https://github.com/inspirationlinks/inspiration-1/raw/master/surfnow.png",
-    "c": "رياضة",
-    "u": "https://bit.ly/3J39Afq?/playlist_1920x1080.m3u8",
-    "h": {
-      "Referer": "https://olalivehdplay.ru/z.m3u8"
-    }
-  },
-  {
     "n": "Tabii1",
     "l": "https://image.milimaj.com/i/milliyet/75/0x0/66ebe050677058f33337d709.jpg",
     "c": "رياضة",
     "u": "https://andro.okan11gote12sokan.cfd/checklist/androstreamlivetb.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Tabii2",
-    "l": "https://image.milimaj.com/i/milliyet/75/0x0/66ebe050677058f33337d709.jpg",
-    "c": "رياضة",
-    "u": "https://andro.okan11gote12sokan.cfd/checklist/androstreamlivetb2.m3u8",
     "h": {}
   },
   {
@@ -1089,10 +114,31 @@ var CHANNELS = [
     "h": {}
   },
   {
+    "n": "Tabii7",
+    "l": "https://image.milimaj.com/i/milliyet/75/0x0/66ebe050677058f33337d709.jpg",
+    "c": "رياضة",
+    "u": "https://andro.okan11gote12sokan.cfd/checklist/androstreamlivetb7.m3u8",
+    "h": {}
+  },
+  {
     "n": "Tabii4",
     "l": "https://image.milimaj.com/i/milliyet/75/0x0/66ebe050677058f33337d709.jpg",
     "c": "رياضة",
     "u": "https://andro.okan11gote12sokan.cfd/checklist/androstreamlivetb4.m3u8",
+    "h": {}
+  },
+  {
+    "n": "Tabii2",
+    "l": "https://image.milimaj.com/i/milliyet/75/0x0/66ebe050677058f33337d709.jpg",
+    "c": "رياضة",
+    "u": "https://andro.okan11gote12sokan.cfd/checklist/androstreamlivetb2.m3u8",
+    "h": {}
+  },
+  {
+    "n": "Tvibu1",
+    "l": "https://r2.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png",
+    "c": "رياضة",
+    "u": "https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets.m3u8",
     "h": {}
   },
   {
@@ -1103,47 +149,10 @@ var CHANNELS = [
     "h": {}
   },
   {
-    "n": "Tabii6",
-    "l": "https://image.milimaj.com/i/milliyet/75/0x0/66ebe050677058f33337d709.jpg",
-    "c": "رياضة",
-    "u": "https://andro.okan11gote12sokan.cfd/checklist/androstreamlivetb6.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Tabii7",
-    "l": "https://image.milimaj.com/i/milliyet/75/0x0/66ebe050677058f33337d709.jpg",
-    "c": "رياضة",
-    "u": "https://andro.okan11gote12sokan.cfd/checklist/androstreamlivetb7.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Tabii8",
-    "l": "https://image.milimaj.com/i/milliyet/75/0x0/66ebe050677058f33337d709.jpg",
-    "c": "رياضة",
-    "u": "https://andro.okan11gote12sokan.cfd/checklist/androstreamlivetb8.m3u8",
-    "h": {}
-  },
-  {
-    "n": "ITALIA",
-    "l": "http://picon.tivi-ott.net:25461/picon/ARGENTINA/%E2%94%83AFCON%E2%94%83%20AFRICA%20CUP%202025/SPORT%20ITALIA.png",
-    "c": "رياضة",
-    "u": "https://edge-003.streamup.eu/sportitalia/sihd_abr2/playlist.m3u8",
-    "h": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"
-    }
-  },
-  {
-    "n": "Tvibu1",
+    "n": "Tvibu4",
     "l": "https://r2.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png",
     "c": "رياضة",
-    "u": "https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Tvibu2",
-    "l": "https://r2.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png",
-    "c": "رياضة",
-    "u": "https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets2.m3u8",
+    "u": "https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets4.m3u8",
     "h": {}
   },
   {
@@ -1154,35 +163,45 @@ var CHANNELS = [
     "h": {}
   },
   {
-    "n": "Tvibu4",
-    "l": "https://r2.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png",
+    "n": "Tabii6",
+    "l": "https://image.milimaj.com/i/milliyet/75/0x0/66ebe050677058f33337d709.jpg",
     "c": "رياضة",
-    "u": "https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets4.m3u8",
+    "u": "https://andro.okan11gote12sokan.cfd/checklist/androstreamlivetb6.m3u8",
     "h": {}
   },
   {
-    "n": "AlKass Sport 2",
-    "l": "https://imgs1.e-droid.net/srv/imgs/seccs/14164659_ico.png",
+    "n": "Tvibu2",
+    "l": "https://r2.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png",
     "c": "رياضة",
-    "u": "https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2uyichg/master.m3u8",
-    "h": {
-      "User-Agent": "damxuser-Agent|damx"
-    }
+    "u": "https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets2.m3u8",
+    "h": {}
   },
   {
-    "n": "AlKass Sport 3",
-    "l": "https://imgs1.e-droid.net/srv/imgs/seccs/14164692_ico.png",
+    "n": "Tabii8",
+    "l": "https://image.milimaj.com/i/milliyet/75/0x0/66ebe050677058f33337d709.jpg",
     "c": "رياضة",
-    "u": "https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3idfs/master.m3u8",
-    "h": {
-      "User-Agent": "damxuser-Agent|damx"
-    }
+    "u": "https://andro.okan11gote12sokan.cfd/checklist/androstreamlivetb8.m3u8",
+    "h": {}
   },
   {
-    "n": "Real Madrid TV",
-    "l": "https://imgs1.e-droid.net/srv/imgs/seccs/627137_ico.png",
+    "n": "BEIN SPORTS EXTRA Ñ",
+    "l": "https://i.postimg.cc/MHsyq36G/descarga-6.jpg",
     "c": "رياضة",
-    "u": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_1.m3u8",
+    "u": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
+    "h": {}
+  },
+  {
+    "n": "Itv Sport",
+    "l": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiKeEeKG5zBcQU1zU-xLvPhsp5v-dpadgh3bGSQgPT4g&s=10",
+    "c": "رياضة",
+    "u": "https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8",
+    "h": {}
+  },
+  {
+    "n": "3M",
+    "l": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNZojUZsg6Epyv7180s0e352SirtavBbfiSw&usqp=CAU",
+    "c": "رياضة",
+    "u": "https://live.teleradiocom.tj/5/3m.m3u8?rriptv",
     "h": {}
   },
   {
@@ -1193,6 +212,13 @@ var CHANNELS = [
     "h": {}
   },
   {
+    "n": "Real Madrid TV",
+    "l": "https://imgs1.e-droid.net/srv/imgs/seccs/627137_ico.png",
+    "c": "رياضة",
+    "u": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_1.m3u8",
+    "h": {}
+  },
+  {
     "n": "KUWAIT 2",
     "l": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtUqpS25EINhiGsyU-LkWFoAhOI1YH1TIMPfW19-GgDA&s",
     "c": "رياضة",
@@ -1200,56 +226,17 @@ var CHANNELS = [
     "h": {}
   },
   {
-    "n": "OMAN SPORTS",
-    "l": "http://bl3rbe.net/up/53BXj1kFafd9.png",
+    "n": "Bahrain Sports 2 (720p) [Not 24/7]",
+    "l": "https://www.lyngsat.com/logo/tv/bb/bahrain-sports-1-bh.png",
     "c": "رياضة",
-    "u": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
+    "u": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/mono.m3u8",
     "h": {}
   },
   {
-    "n": "Bahreïn Sport 1",
-    "l": "https://i.imgur.com/93dIsom.png",
+    "n": "Bahrain Sports 1 (720p) [Not 24/7]",
+    "l": "https://i.imgur.com/pQ0QGGl.jpg",
     "c": "رياضة",
-    "u": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
-    "h": {
-      "User-Agent": "Mozilla"
-    }
-  },
-  {
-    "n": "Bahreïn Sport 2",
-    "l": "https://i.imgur.com/gOQyEPS.png",
-    "c": "رياضة",
-    "u": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8",
-    "h": {
-      "User-Agent": "Mozilla"
-    }
-  },
-  {
-    "n": "Roya",
-    "l": "http://mobi.jawaltv.com/iphone/images/ar_jpg/royaspo.jpg",
-    "c": "رياضة",
-    "u": "https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/youth-jordan/playlist.m3u8",
-    "h": {}
-  },
-  {
-    "n": "bN FR",
-    "l": "https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg",
-    "c": "رياضة",
-    "u": "http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8",
-    "h": {}
-  },
-  {
-    "n": "Caze",
-    "l": "https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Caz%C3%A9TV.png",
-    "c": "رياضة",
-    "u": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8",
-    "h": {}
-  },
-  {
-    "n": "AMZ",
-    "l": "",
-    "c": "رياضة",
-    "u": "https://go.telemetr.io/go?from=channel&url=https%3A%2F%2Fstream1.cinerama.uz%2F1004%2Findex.m3u8",
+    "u": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/mono.m3u8",
     "h": {}
   }
 ];
@@ -1294,7 +281,6 @@ function cacheElements() {
   els.total = document.getElementById('totalCount');
   els.statTotal = document.getElementById('statTotal');
   els.statHls = document.getElementById('statHls');
-  els.statTs = document.getElementById('statTs');
   els.statFav = document.getElementById('statFav');
   els.favOnlyBtn = document.getElementById('favOnlyBtn');
   els.clearBtn = document.getElementById('clearBtn');
@@ -1314,7 +300,7 @@ function prepareChannelCache() {
     ch._name = String(ch.n || 'قناة بدون اسم');
     ch._category = String(ch.c || 'غير مصنف');
     ch._search = normalizeText(ch._name + ' ' + ch._category);
-    ch._type = getStreamType(ch.u || '');
+    ch._type = 'HLS';
     ch._quality = getQuality(ch._name);
     ch._logo = normalizeLogoUrl(ch.l);
     ch._key = channelKey(ch);
@@ -1408,13 +394,8 @@ function setActiveByValue(parent, attr, value) {
 }
 
 function renderStats() {
-  var hls = 0, ts = 0;
-  for (var i = 0; i < CHANNELS.length; i++) {
-    if (getStreamType(CHANNELS[i].u || '') === 'HLS') hls++; else ts++;
-  }
   els.statTotal.textContent = CHANNELS.length;
-  els.statHls.textContent = hls;
-  els.statTs.textContent = ts;
+  els.statHls.textContent = CHANNELS.length;
   els.total.textContent = CHANNELS.length;
   updateFavStat();
 }
@@ -1453,8 +434,6 @@ function applyFilters() {
     if (state.category !== 'الكل' && ch._category !== state.category) continue;
     if (state.query && ch._search.indexOf(state.query) < 0) continue;
     if (state.favoritesOnly && !favorites[ch._key]) continue;
-    if (state.filter === 'hls' && ch._type !== 'HLS') continue;
-    if (state.filter === 'ts' && ch._type !== 'TS') continue;
     if (state.filter === 'quality' && ch._quality !== state.quality) continue;
     list.push(ch);
   }
@@ -1588,18 +567,15 @@ function playChannel(idx) {
   showStatus('جاري تحميل البث...', true);
   startLoadTimeout(token, idx);
   var url = ch.u;
-  var headers = ch.h || {};
-  var proxied = proxyUrl(url, headers);
   try {
-    if (ch._type === 'HLS') playHls(idx, token, proxied, headers);
-    else playTs(idx, token, proxied, headers);
+    playHls(idx, token, url);
   } catch (err) {
     clearLoadTimeout();
     showStreamFailure(idx, 'حدث خطأ أثناء التشغيل: ' + (err && err.message ? err.message : err));
   }
 }
 
-function playHls(idx, token, url, headers) {
+function playHls(idx, token, url) {
   var nativeHls = els.video.canPlayType('application/vnd.apple.mpegurl');
   if (typeof Hls === 'undefined' || !Hls.isSupported()) {
     if (!nativeHls) { showStreamFailure(idx, 'المتصفح لا يدعم HLS.'); return; }
@@ -1607,30 +583,20 @@ function playHls(idx, token, url, headers) {
     safeVideoPlay(token);
     return;
   }
-  var hlsConfig = {
+  currentPlayer = new Hls({
     enableWorker: true,
     lowLatencyMode: true,
     capLevelToPlayerSize: true,
     startLevel: -1,
     maxBufferLength: 30,
     maxMaxBufferLength: 60,
-    backBufferLength: 10,
     liveSyncDurationCount: 2,
     liveMaxLatencyDurationCount: 4,
     fragLoadingTimeOut: 15000,
     manifestLoadingTimeOut: 15000,
     fragLoadingMaxRetry: 3,
     manifestLoadingMaxRetry: 3
-  };
-  if (headers && typeof headers === 'object') {
-    hlsConfig.xhrSetup = function(xhr, url) {
-      for (var key in headers) {
-        if (key === 'User-Agent') continue;
-        try { xhr.setRequestHeader(key, headers[key]); } catch(e) {}
-      }
-    };
-  }
-  currentPlayer = new Hls(hlsConfig);
+  });
   currentPlayer.loadSource(url);
   currentPlayer.attachMedia(els.video);
   currentPlayer.on(Hls.Events.MANIFEST_PARSED, function() { if (token === playToken) safeVideoPlay(token); });
@@ -1646,174 +612,6 @@ function playHls(idx, token, url, headers) {
     }
     showStreamFailure(idx, data.type === Hls.ErrorTypes.MEDIA_ERROR ? 'خطأ ترميز أو توافق في الفيديو.' : 'خطأ في البث. الرابط قد يكون منتهياً أو محجوباً.');
   });
-}
-
-function playTs(idx, token, url, headers) {
-  var triedMse = false;
-  var started = false;
-  var buffTimer = null;
-  var failTimer = null;
-  var reconnectTimer = null;
-
-  function reconnectStream() {
-    if (token !== playToken) return;
-    showStatus('إعادة الاتصال بالبث...', true);
-    if (currentPlayer) { try { currentPlayer.destroy(); } catch(e) {} currentPlayer = null; }
-    els.video.removeAttribute('src');
-    try { els.video.load(); } catch(e) {}
-    if (typeof mpegts === 'undefined' || !mpegts.isSupported()) return;
-    currentPlayer = mpegts.createPlayer({ type: 'mse', url: url, isLive: true }, {
-      enableWorker: false,
-      enableStashBuffer: true,
-      stashInitialSize: 512,
-      liveBufferLatencyChasing: false,
-      lazyLoad: true,
-      lazyMaxLatency: 30,
-      lazyReconnect: 5,
-      fixAudioTimestampGap: true
-    });
-    currentPlayer.attachMediaElement(els.video);
-    currentPlayer.on(mpegts.Events.LOADING_COMPLETE, function() {
-      if (token !== playToken) return;
-      if (reconnectTimer) clearTimeout(reconnectTimer);
-      reconnectTimer = setTimeout(reconnectStream, 2000);
-    });
-    currentPlayer.on(mpegts.Events.RECOVERED_EARLY_EOF, function() { if (token === playToken) hideStatus(); });
-    currentPlayer.on(mpegts.Events.ERROR, function(errType, errDetail) {
-      if (token !== playToken) return;
-      if (errType === mpegts.ErrorTypes.NETWORK_ERROR && token === playToken && !isRetrying) {
-        isRetrying = true;
-        showStatus('انقطع الاتصال، إعادة محاولة...', true);
-        setTimeout(function() {
-          if (token !== playToken) return;
-          if (currentPlayer) { try { currentPlayer.unload(); currentPlayer.load(); } catch(e) {} }
-          isRetrying = false;
-        }, 1000);
-        return;
-      }
-    });
-    currentPlayer.load();
-    var p = els.video.play();
-    if (p && p.catch) p.catch(function() {});
-    hideStatus();
-  }
-
-  function startMseFallback() {
-    if (triedMse || token !== playToken) return;
-    triedMse = true;
-    if (currentPlayer) { try { currentPlayer.destroy(); } catch(e) {} currentPlayer = null; }
-    els.video.removeAttribute('src');
-    try { els.video.load(); } catch(e) {}
-    if (typeof mpegts === 'undefined' || !mpegts.isSupported()) {
-      showStreamFailure(idx, 'المتصفح لا يدعم تشغيل TS عبر MSE ولا عبر التشغيل المباشر.');
-      return;
-    }
-    showStatus('جرب التشغيل عبر MSE...', true);
-    currentPlayer = mpegts.createPlayer({ type: 'mse', url: url, isLive: true }, {
-      enableWorker: false,
-      enableStashBuffer: true,
-      stashInitialSize: 512,
-      liveBufferLatencyChasing: false,
-      lazyLoad: true,
-      lazyMaxLatency: 30,
-      lazyReconnect: 5,
-      fixAudioTimestampGap: true
-    });
-    currentPlayer.attachMediaElement(els.video);
-    currentPlayer.on(mpegts.Events.LOADING_COMPLETE, function() {
-      if (token !== playToken) return;
-      hideStatus();
-      if (reconnectTimer) clearTimeout(reconnectTimer);
-      reconnectTimer = setTimeout(reconnectStream, 2000);
-    });
-    currentPlayer.on(mpegts.Events.RECOVERED_EARLY_EOF, function() { if (token === playToken) hideStatus(); });
-    currentPlayer.on(mpegts.Events.ERROR, function(errType, errDetail) {
-      if (token !== playToken) return;
-      if (failTimer) { clearTimeout(failTimer); failTimer = null; }
-      if (errType === mpegts.ErrorTypes.NETWORK_ERROR && token === playToken && !isRetrying) {
-        isRetrying = true;
-        showStatus('انقطع الاتصال، إعادة محاولة...', true);
-        setTimeout(function() {
-          if (token !== playToken) return;
-          if (currentPlayer) { try { currentPlayer.unload(); currentPlayer.load(); } catch(e) {} }
-          isRetrying = false;
-        }, 1000);
-        return;
-      }
-      showStreamFailure(idx, 'خطأ في البث (' + errType + ')');
-    });
-    currentPlayer.load();
-    var p = els.video.play();
-    if (p && p.catch) p.catch(function() {});
-    if (buffTimer) { clearInterval(buffTimer); buffTimer = null; }
-    buffTimer = setInterval(function() {
-      if (token !== playToken) { clearInterval(buffTimer); buffTimer = null; return; }
-      try {
-        var b = els.video.buffered;
-        if (b && b.length > 0 && b.end(b.length - 1) > 0.5) {
-          clearInterval(buffTimer); buffTimer = null;
-          if (failTimer) { clearTimeout(failTimer); failTimer = null; }
-          hideStatus();
-        }
-      } catch(e) {}
-    }, 200);
-    failTimer = setTimeout(function() {
-      if (token !== playToken) return;
-      if (buffTimer) { clearInterval(buffTimer); buffTimer = null; }
-      hideStatus();
-    }, 10000);
-  }
-
-  function handleNativeError() {
-    if (token !== playToken) return;
-    els.video.removeEventListener('error', handleNativeError);
-    els.video.removeEventListener('loadedmetadata', handleMeta);
-    startMseFallback();
-  }
-
-  function handleMeta() {
-    if (token !== playToken) return;
-    els.video.removeEventListener('error', handleNativeError);
-    els.video.removeEventListener('loadedmetadata', handleMeta);
-  }
-
-  els.video.addEventListener('error', handleNativeError);
-  els.video.addEventListener('loadedmetadata', handleMeta);
-  els.video.src = url;
-  var p = els.video.play();
-  if (p && p.catch) p.catch(function(err) {
-    if (token !== playToken) return;
-    if (err && err.name === 'NotAllowedError') {
-      showStatus('اضغط على الفيديو للتشغيل', false);
-      els.video.addEventListener('click', function onClick() {
-        if (token !== playToken) { els.video.removeEventListener('click', onClick); return; }
-        els.video.removeEventListener('click', onClick);
-        var p2 = els.video.play();
-        if (p2 && p2.catch) p2.catch(function() { startMseFallback(); });
-      }, { once: true });
-      return;
-    }
-    startMseFallback();
-  });
-
-  buffTimer = setInterval(function() {
-    if (token !== playToken) { clearInterval(buffTimer); buffTimer = null; return; }
-    try {
-      var b = els.video.buffered;
-      if (b && b.length > 0) {
-        started = true;
-        clearInterval(buffTimer); buffTimer = null;
-        if (failTimer) { clearTimeout(failTimer); failTimer = null; }
-        hideStatus();
-      }
-    } catch(e) {}
-  }, 200);
-
-  failTimer = setTimeout(function() {
-    if (token !== playToken) return;
-    if (buffTimer) { clearInterval(buffTimer); buffTimer = null; }
-    if (!started) startMseFallback();
-  }, 6000);
 }
 
 function safeVideoPlay(token) {
@@ -1875,16 +673,6 @@ function startLoadTimeout(token, idx) {
     if (token === playToken && els.status.classList.contains('show')) showStreamFailure(idx, 'استغرق التحميل وقتاً طويلاً. قد يكون الرابط بطيئاً أو محجوباً.');
   }, 30000);
 }
-function proxyUrl(url, headers) {
-  if (!url) return '';
-  var params = 'url=' + encodeURIComponent(url);
-  if (headers && typeof headers === 'object') {
-    if (headers.Referer) params += '&Referer=' + encodeURIComponent(headers.Referer);
-    if (headers['User-Agent']) params += '&User-Agent=' + encodeURIComponent(headers['User-Agent']);
-  }
-  return '/proxy?' + params;
-}
-
 function clearLoadTimeout() { if (loadTimer) { clearTimeout(loadTimer); loadTimer = null; } }
 
 function normalizeLogoUrl(value) {
@@ -1905,7 +693,6 @@ function getQuality(name) {
   if (n.indexOf('sd') >= 0) return 'SD';
   return '';
 }
-function getStreamType(url) { return String(url || '').toLowerCase().indexOf('.m3u8') >= 0 ? 'HLS' : 'TS'; }
 function normalizeText(value) { return String(value || '').toLowerCase().replace(/[أإآ]/g,'ا').replace(/ى/g,'ي').replace(/ة/g,'ه').replace(/\s+/g,' ').trim(); }
 function baseChannelName(name) { return normalizeText(name).replace(/\b(4k|uhd|fhd|hd|sd|1080p|720p|576p|480p|360p)\b/g, '').replace(/\s+/g, ' ').trim(); }
 function channelKey(ch) { return encodeURIComponent((ch._name || ch.n || '') + '|' + (ch.u || '')); }
