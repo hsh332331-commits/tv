@@ -1599,15 +1599,14 @@ function playChannel(idx) {
 }
 
 function playHls(idx, token, url, headers) {
-  var proxied = proxyUrl(url, headers);
   var nativeHls = els.video.canPlayType('application/vnd.apple.mpegurl');
   if (typeof Hls === 'undefined' || !Hls.isSupported()) {
-    if (!nativeHls) { showStreamFailure(idx, 'المتصفح لا يدعم HLS أو مكتبة HLS لم يتم تحميلها.'); return; }
-    els.video.src = proxied;
+    if (!nativeHls) { showStreamFailure(idx, 'المتصفح لا يدعم HLS.'); return; }
+    els.video.src = url;
     safeVideoPlay(token);
     return;
   }
-  currentPlayer = new Hls({
+  var hlsConfig = {
     enableWorker: true,
     lowLatencyMode: true,
     capLevelToPlayerSize: true,
@@ -1621,14 +1620,23 @@ function playHls(idx, token, url, headers) {
     manifestLoadingTimeOut: 15000,
     fragLoadingMaxRetry: 3,
     manifestLoadingMaxRetry: 3
-  });
-  currentPlayer.loadSource(proxied);
+  };
+  if (headers && typeof headers === 'object') {
+    hlsConfig.xhrSetup = function(xhr, url) {
+      for (var key in headers) {
+        if (key === 'User-Agent') continue;
+        try { xhr.setRequestHeader(key, headers[key]); } catch(e) {}
+      }
+    };
+  }
+  currentPlayer = new Hls(hlsConfig);
+  currentPlayer.loadSource(url);
   currentPlayer.attachMedia(els.video);
   currentPlayer.on(Hls.Events.MANIFEST_PARSED, function() { if (token === playToken) safeVideoPlay(token); });
   currentPlayer.on(Hls.Events.ERROR, function(e, data) {
     if (token !== playToken || !data || !data.fatal) return;
     var code = data.response && data.response.code ? data.response.code : '';
-    if (data.type === Hls.ErrorTypes.NETWORK_ERROR && code) { showStreamFailure(idx, 'فشل تحميل البث عبر البروكسي. كود الخطأ: ' + code); return; }
+    if (data.type === Hls.ErrorTypes.NETWORK_ERROR && code) { showStreamFailure(idx, 'فشل تحميل البث. كود الخطأ: ' + code); return; }
     if (!isRetrying && data.type === Hls.ErrorTypes.NETWORK_ERROR && currentPlayer) {
       isRetrying = true;
       showStatus('خطأ مؤقت، إعادة محاولة التحميل...', true);
@@ -1640,7 +1648,6 @@ function playHls(idx, token, url, headers) {
 }
 
 function playTs(idx, token, url, headers) {
-  var proxied = proxyUrl(url, headers);
   var triedMse = false;
   var started = false;
   var buffTimer = null;
@@ -1654,7 +1661,7 @@ function playTs(idx, token, url, headers) {
     els.video.removeAttribute('src');
     try { els.video.load(); } catch(e) {}
     if (typeof mpegts === 'undefined' || !mpegts.isSupported()) return;
-    currentPlayer = mpegts.createPlayer({ type: 'mse', url: proxied, isLive: true }, {
+    currentPlayer = mpegts.createPlayer({ type: 'mse', url: url, isLive: true }, {
       enableWorker: false,
       enableStashBuffer: true,
       stashInitialSize: 512,
@@ -1701,7 +1708,7 @@ function playTs(idx, token, url, headers) {
       return;
     }
     showStatus('جرب التشغيل عبر MSE...', true);
-    currentPlayer = mpegts.createPlayer({ type: 'mse', url: proxied, isLive: true }, {
+    currentPlayer = mpegts.createPlayer({ type: 'mse', url: url, isLive: true }, {
       enableWorker: false,
       enableStashBuffer: true,
       stashInitialSize: 512,
@@ -1771,7 +1778,7 @@ function playTs(idx, token, url, headers) {
 
   els.video.addEventListener('error', handleNativeError);
   els.video.addEventListener('loadedmetadata', handleMeta);
-  els.video.src = proxied;
+  els.video.src = url;
   var p = els.video.play();
   if (p && p.catch) p.catch(function(err) {
     if (token !== playToken) return;
@@ -1869,24 +1876,13 @@ function startLoadTimeout(token, idx) {
 }
 function clearLoadTimeout() { if (loadTimer) { clearTimeout(loadTimer); loadTimer = null; } }
 
-function proxyUrl(url, headers) {
-  if (!url) return '';
-  var params = 'url=' + encodeURIComponent(url);
-  if (headers && typeof headers === 'object') {
-    if (headers.Referer) params += '&Referer=' + encodeURIComponent(headers.Referer);
-    if (headers['User-Agent']) params += '&User-Agent=' + encodeURIComponent(headers['User-Agent']);
-  }
-  var origin = window.location.origin;
-  return origin + '/proxy?' + params;
-}
-
 function normalizeLogoUrl(value) {
   var raw = String(value || '').trim();
   if (!raw) return PLACEHOLDER_LOGO;
   try {
     var u = new URL(raw, location.href);
     if (u.hostname === '51.158.158.30') return PLACEHOLDER_LOGO;
-    if (u.protocol === 'http:') return proxyUrl(u.href, { 'User-Agent': 'Mozilla/5.0' });
+    if (u.protocol === 'http:') return PLACEHOLDER_LOGO;
     return u.href;
   } catch (e) { return PLACEHOLDER_LOGO; }
 }
