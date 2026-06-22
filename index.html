@@ -1876,7 +1876,7 @@ function startLoadTimeout(token, idx) {
   }, 30000);
 }
 function proxyUrl(url, headers) {
-  if (!url || url.indexOf('https://') === 0 && (!headers || Object.keys(headers).length === 0)) return url;
+  if (!url) return '';
   var params = 'url=' + encodeURIComponent(url);
   if (headers && typeof headers === 'object') {
     if (headers.Referer) params += '&Referer=' + encodeURIComponent(headers.Referer);
