@@ -35,7 +35,7 @@
       <div class="stats">
         <div class="stat"><span class="stat-value" id="statTotal">0</span><span class="stat-label">قناة</span></div>
         <div class="stat"><span class="stat-value" id="statHls">0</span><span class="stat-label">HLS</span></div>
-
+        <div class="stat"><span class="stat-value" id="statTs">0</span><span class="stat-label">TS</span></div>
         <div class="stat"><span class="stat-value" id="statFav">0</span><span class="stat-label">مفضلة</span></div>
       </div>
     </div>
@@ -43,7 +43,8 @@
   <div class="toolbar">
     <div class="filter-group" id="filters" aria-label="فلاتر سريعة">
       <button class="filter-btn active" data-filter="all" type="button">الكل</button>
-
+      <button class="filter-btn" data-filter="hls" type="button">HLS</button>
+      <button class="filter-btn" data-filter="ts" type="button">TS</button>
       <button class="filter-btn" data-filter="quality" data-quality="4K" type="button">4K</button>
       <button class="filter-btn" data-filter="quality" data-quality="HD" type="button">HD</button>
     </div>
@@ -69,6 +70,7 @@
 </div>
 <div class="toast" id="toast"></div>
 <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+<script src="https://cdn.jsdelivr.net/npm/mpegts.js@latest"></script>
 <script>
 var CHANNELS = [
   {
@@ -634,6 +636,7 @@ function cacheElements() {
   els.total = document.getElementById('totalCount');
   els.statTotal = document.getElementById('statTotal');
   els.statHls = document.getElementById('statHls');
+  els.statTs = document.getElementById('statTs');
   els.statFav = document.getElementById('statFav');
   els.favOnlyBtn = document.getElementById('favOnlyBtn');
   els.clearBtn = document.getElementById('clearBtn');
@@ -646,6 +649,11 @@ function cacheElements() {
   els.toast = document.getElementById('toast');
 }
 
+function isTsUrl(url) {
+  var u = String(url || '').toLowerCase();
+  return u.indexOf('.ts') >= 0 || u.indexOf('extension=ts') >= 0 || u.indexOf('.m3u8') < 0;
+}
+
 function prepareChannelCache() {
   for (var i = 0; i < CHANNELS.length; i++) {
     var ch = CHANNELS[i] || {};
@@ -653,7 +661,7 @@ function prepareChannelCache() {
     ch._name = String(ch.n || 'قناة بدون اسم');
     ch._category = String(ch.c || 'غير مصنف');
     ch._search = normalizeText(ch._name + ' ' + ch._category);
-    ch._type = 'HLS';
+    ch._type = isTsUrl(ch.u) ? 'TS' : 'HLS';
     ch._quality = getQuality(ch._name);
     ch._logo = normalizeLogoUrl(ch.l);
     ch._key = channelKey(ch);
@@ -747,8 +755,11 @@ function setActiveByValue(parent, attr, value) {
 }
 
 function renderStats() {
+  var h = 0, t = 0;
+  for (var i = 0; i < CHANNELS.length; i++) { if (CHANNELS[i]._type === 'HLS') h++; else t++; }
   els.statTotal.textContent = CHANNELS.length;
-  els.statHls.textContent = CHANNELS.length;
+  els.statHls.textContent = h;
+  els.statTs.textContent = t;
   els.total.textContent = CHANNELS.length;
   updateFavStat();
 }
@@ -787,6 +798,8 @@ function applyFilters() {
     if (state.category !== 'الكل' && ch._category !== state.category) continue;
     if (state.query && ch._search.indexOf(state.query) < 0) continue;
     if (state.favoritesOnly && !favorites[ch._key]) continue;
+    if (state.filter === 'hls' && ch._type !== 'HLS') continue;
+    if (state.filter === 'ts' && ch._type !== 'TS') continue;
     if (state.filter === 'quality' && ch._quality !== state.quality) continue;
     list.push(ch);
   }
@@ -921,7 +934,8 @@ function playChannel(idx) {
   startLoadTimeout(token, idx);
   var url = proxyUrl(ch.u, ch.h);
   try {
-    playHls(idx, token, url);
+    if (ch._type === 'TS') playTs(idx, token, url);
+    else playHls(idx, token, url);
   } catch (err) {
     clearLoadTimeout();
     showStreamFailure(idx, 'حدث خطأ أثناء التشغيل: ' + (err && err.message ? err.message : err));
@@ -965,6 +979,43 @@ function playHls(idx, token, url) {
     }
     showStreamFailure(idx, data.type === Hls.ErrorTypes.MEDIA_ERROR ? 'خطأ ترميز أو توافق في الفيديو.' : 'خطأ في البث. الرابط قد يكون منتهياً أو محجوباً.');
   });
+}
+
+function playTs(idx, token, url) {
+  if (typeof mpegts === 'undefined' || !mpegts.isSupported()) {
+    showStreamFailure(idx, 'المتصفح لا يدعم تشغيل TS.');
+    return;
+  }
+  if (currentPlayer) { try { currentPlayer.destroy(); } catch(e) {} currentPlayer = null; }
+  currentPlayer = mpegts.createPlayer({ type: 'mse', url: url, isLive: true }, {
+    enableWorker: false,
+    enableStashBuffer: true,
+    stashInitialSize: 512,
+    liveBufferLatencyChasing: false,
+    lazyLoad: true,
+    lazyMaxLatency: 30,
+    lazyReconnect: 5,
+    fixAudioTimestampGap: true
+  });
+  currentPlayer.attachMediaElement(els.video);
+  currentPlayer.on(mpegts.Events.ERROR, function(errType, errDetail) {
+    if (token !== playToken) return;
+    if (!isRetrying && (errType === mpegts.ErrorTypes.NETWORK_ERROR)) {
+      isRetrying = true;
+      showStatus('انقطع الاتصال، إعادة محاولة...', true);
+      setTimeout(function() {
+        if (token !== playToken) return;
+        if (currentPlayer) { try { currentPlayer.unload(); currentPlayer.load(); } catch(e) {} }
+        isRetrying = false;
+      }, 1000);
+      return;
+    }
+    showStreamFailure(idx, 'خطأ في البث.');
+  });
+  currentPlayer.load();
+  var p = els.video.play();
+  if (p && p.catch) p.catch(function() {});
+  hideStatus();
 }
 
 function safeVideoPlay(token) {
