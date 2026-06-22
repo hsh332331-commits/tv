@@ -1589,9 +1589,10 @@ function playChannel(idx) {
   startLoadTimeout(token, idx);
   var url = ch.u;
   var headers = ch.h || {};
+  var proxied = proxyUrl(url, headers);
   try {
-    if (ch._type === 'HLS') playHls(idx, token, url, headers);
-    else playTs(idx, token, url, headers);
+    if (ch._type === 'HLS') playHls(idx, token, proxied, headers);
+    else playTs(idx, token, proxied, headers);
   } catch (err) {
     clearLoadTimeout();
     showStreamFailure(idx, 'حدث خطأ أثناء التشغيل: ' + (err && err.message ? err.message : err));
@@ -1874,6 +1875,16 @@ function startLoadTimeout(token, idx) {
     if (token === playToken && els.status.classList.contains('show')) showStreamFailure(idx, 'استغرق التحميل وقتاً طويلاً. قد يكون الرابط بطيئاً أو محجوباً.');
   }, 30000);
 }
+function proxyUrl(url, headers) {
+  if (!url || url.indexOf('https://') === 0 && (!headers || Object.keys(headers).length === 0)) return url;
+  var params = 'url=' + encodeURIComponent(url);
+  if (headers && typeof headers === 'object') {
+    if (headers.Referer) params += '&Referer=' + encodeURIComponent(headers.Referer);
+    if (headers['User-Agent']) params += '&User-Agent=' + encodeURIComponent(headers['User-Agent']);
+  }
+  return '/proxy?' + params;
+}
+
 function clearLoadTimeout() { if (loadTimer) { clearTimeout(loadTimer); loadTimer = null; } }
 
 function normalizeLogoUrl(value) {
