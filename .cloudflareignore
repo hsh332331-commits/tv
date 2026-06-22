@@ -1,0 +1,11 @@
+node_modules
+.git
+extracted_iptv_data
+broken_channels.json
+channel_test_report.json
+original_broken.json
+original_test_report.json
+original_working.json
+test_debug.log
+*.log
+*.zip
